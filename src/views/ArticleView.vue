@@ -6,7 +6,7 @@ import { useNewsFeed } from '../composables/useNewsFeed'
 
 const route = useRoute()
 const { articles, loadArticles } = useNewsFeed()
-const article = computed(() => articles.find((item) => item.slug === route.params.slug))
+const article = computed(() => articles.value.find((item) => item.slug === route.params.slug))
 
 onMounted(loadArticles)
 </script>

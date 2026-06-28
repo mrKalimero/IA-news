@@ -16,7 +16,7 @@ onMounted(loadArticles)
 const filteredArticles = computed(() => {
   const normalizedQuery = query.value.trim().toLowerCase()
 
-  return articles.filter((article) => {
+  return articles.value.filter((article) => {
     const matchesCategory = activeCategory.value === 'Tous' || article.category === activeCategory.value
     const searchable = [article.title, article.summary, article.source, article.category, ...article.tags]
       .join(' ')
