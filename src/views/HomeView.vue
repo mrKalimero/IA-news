@@ -1,18 +1,22 @@
 <script setup>
-import { computed, ref } from 'vue'
+import { computed, onMounted, ref } from 'vue'
 import { Activity, Sparkles, TrendingUp } from '@lucide/vue'
 import ArticleCard from '../components/ArticleCard.vue'
 import CategoryFilter from '../components/CategoryFilter.vue'
 import SearchBar from '../components/SearchBar.vue'
-import { articles, categories, watchlist } from '../data/news'
+import { categories, watchlist } from '../data/news'
+import { useNewsFeed } from '../composables/useNewsFeed'
 
 const activeCategory = ref('Tous')
 const query = ref('')
+const { articles, errors, hasErrors, isFallback, isLoading, loadArticles } = useNewsFeed()
+
+onMounted(loadArticles)
 
 const filteredArticles = computed(() => {
   const normalizedQuery = query.value.trim().toLowerCase()
 
-  return articles.filter((article) => {
+  return articles.value.filter((article) => {
     const matchesCategory = activeCategory.value === 'Tous' || article.category === activeCategory.value
     const searchable = [article.title, article.summary, article.source, article.category, ...article.tags]
       .join(' ')
@@ -53,9 +57,15 @@ const filteredArticles = computed(() => {
   <section class="section-heading">
     <div>
       <p class="eyebrow"><Activity :size="16" /> Flux editorial</p>
-      <h2>Dernieres analyses</h2>
+      <h2>{{ isFallback ? 'Analyses de reference' : 'Sources reference en direct' }}</h2>
     </div>
-    <span>{{ filteredArticles.length }} article{{ filteredArticles.length > 1 ? 's' : '' }}</span>
+    <span v-if="isLoading">Chargement...</span>
+    <span v-else>{{ filteredArticles.length }} article{{ filteredArticles.length > 1 ? 's' : '' }}</span>
+  </section>
+
+  <section v-if="hasErrors" class="source-alert" aria-label="Etat des sources API">
+    <strong>Sources partiellement disponibles</strong>
+    <span>{{ errors.join(' | ') }}</span>
   </section>
 
   <section v-if="filteredArticles.length" class="article-grid">

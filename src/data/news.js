@@ -8,7 +8,7 @@ export const categories = [
   'Open source',
 ]
 
-export const articles = [
+export const fallbackArticles = [
   {
     slug: 'agents-autonomes-production',
     title: 'Les agents autonomes passent du prototype aux operations',

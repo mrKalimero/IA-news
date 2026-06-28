@@ -169,7 +169,8 @@ input {
 .article-card,
 .toolbar,
 .empty-state,
-.detail-shell {
+.detail-shell,
+.source-alert {
   border: 1px solid var(--border);
   border-radius: 8px;
   background: color-mix(in srgb, var(--surface) 92%, transparent);
@@ -380,6 +381,31 @@ input {
 
 .impact-box span {
   color: var(--muted);
+}
+
+.source-alert {
+  display: grid;
+  gap: 6px;
+  margin: -4px 0 18px;
+  padding: 14px 16px;
+}
+
+.source-alert strong {
+  color: var(--accent-strong);
+}
+
+.source-alert span {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.source-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 24px;
+  color: var(--accent);
+  font-weight: 800;
 }
 
 .empty-state {
