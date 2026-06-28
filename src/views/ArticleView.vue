@@ -1,11 +1,14 @@
 <script setup>
-import { computed } from 'vue'
+import { computed, onMounted } from 'vue'
 import { useRoute, RouterLink } from 'vue-router'
-import { ArrowLeft, CalendarDays, Clock, Radio } from '@lucide/vue'
-import { articles } from '../data/news'
+import { ArrowLeft, CalendarDays, Clock, ExternalLink, Radio } from '@lucide/vue'
+import { useNewsFeed } from '../composables/useNewsFeed'
 
 const route = useRoute()
+const { articles, loadArticles } = useNewsFeed()
 const article = computed(() => articles.find((item) => item.slug === route.params.slug))
+
+onMounted(loadArticles)
 </script>
 
 <template>
@@ -32,6 +35,11 @@ const article = computed(() => articles.find((item) => item.slug === route.param
         <strong>Impact</strong>
         <span>{{ article.impact }}</span>
       </div>
+
+      <a v-if="article.url" class="source-link" :href="article.url" target="_blank" rel="noreferrer">
+        Ouvrir la source
+        <ExternalLink :size="16" />
+      </a>
 
       <div class="tag-row">
         <span v-for="tag in article.tags" :key="tag">#{{ tag }}</span>
