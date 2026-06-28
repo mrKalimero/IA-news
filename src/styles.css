@@ -170,7 +170,8 @@ input {
 .toolbar,
 .empty-state,
 .detail-shell,
-.source-alert {
+.source-alert,
+.source-strip {
   border: 1px solid var(--border);
   border-radius: 8px;
   background: color-mix(in srgb, var(--surface) 92%, transparent);
@@ -271,6 +272,12 @@ input {
 .section-heading h2 {
   margin: 0;
   font-size: 1.7rem;
+}
+
+.section-heading small {
+  display: block;
+  margin-top: 4px;
+  color: var(--muted);
 }
 
 .section-heading > span {
@@ -397,6 +404,26 @@ input {
 .source-alert span {
   color: var(--muted);
   font-size: 0.92rem;
+}
+
+.source-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: -4px 0 18px;
+  padding: 12px;
+}
+
+.source-strip span {
+  padding: 7px 10px;
+  border-radius: 999px;
+  background: var(--surface-strong);
+  color: var(--muted);
+  font-size: 0.82rem;
+}
+
+.source-strip .down {
+  color: var(--danger);
 }
 
 .source-link {
