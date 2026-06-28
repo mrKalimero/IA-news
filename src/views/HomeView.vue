@@ -9,7 +9,7 @@ import { useNewsFeed } from '../composables/useNewsFeed'
 
 const activeCategory = ref('Tous')
 const query = ref('')
-const { articles, errors, hasErrors, isFallback, isLoading, loadArticles } = useNewsFeed()
+const { articles, errors, generatedAt, hasErrors, isFallback, isLoading, loadArticles, sources } = useNewsFeed()
 
 onMounted(loadArticles)
 
@@ -57,7 +57,8 @@ const filteredArticles = computed(() => {
   <section class="section-heading">
     <div>
       <p class="eyebrow"><Activity :size="16" /> Flux editorial</p>
-      <h2>{{ isFallback ? 'Analyses de reference' : 'Sources reference en direct' }}</h2>
+      <h2>{{ isFallback ? 'Analyses de reference' : 'Veille agregee' }}</h2>
+      <small v-if="generatedAt">Mis a jour le {{ generatedAt.slice(0, 10) }}</small>
     </div>
     <span v-if="isLoading">Chargement...</span>
     <span v-else>{{ filteredArticles.length }} article{{ filteredArticles.length > 1 ? 's' : '' }}</span>
@@ -66,6 +67,12 @@ const filteredArticles = computed(() => {
   <section v-if="hasErrors" class="source-alert" aria-label="Etat des sources API">
     <strong>Sources partiellement disponibles</strong>
     <span>{{ errors.join(' | ') }}</span>
+  </section>
+
+  <section v-if="sources.length" class="source-strip" aria-label="Sources agregees">
+    <span v-for="source in sources" :key="source.id" :class="{ down: !source.ok }">
+      {{ source.name }} · {{ source.ok ? source.count : '!' }}
+    </span>
   </section>
 
   <section v-if="filteredArticles.length" class="article-grid">

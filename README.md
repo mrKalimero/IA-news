@@ -9,6 +9,7 @@ IA-news est une application Vue 3 pour suivre l'actualite de l'intelligence arti
 - Filtres par categorie
 - Page detaillee pour chaque article
 - Appels API vers Hacker News Algolia, GitHub Search et arXiv
+- Ingestion planifiee via GitHub Actions vers `public/data/news.json`
 - Section tendances a surveiller
 - Mode sombre persistant
 - Deploiement GitHub Pages via GitHub Actions
@@ -19,9 +20,18 @@ L'application interroge des sources publiques sans cle API:
 
 - Hacker News Algolia API pour les discussions tech recentes autour de l'IA
 - GitHub Search API pour les projets open source lies a l'intelligence artificielle
+- Hugging Face Hub API pour les modeles recents
+- Semantic Scholar Graph API pour la recherche academique enrichie
 - arXiv API pour les publications recentes en IA et machine learning
+- GDELT DOC API pour les signaux media et regulation
 
-Si une source est indisponible ou bloquee par le navigateur, l'application garde un fallback local pour rester consultable.
+Le workflow `Update news data` regenere `public/data/news.json` toutes les 6 heures. L'application lit ce fichier statique depuis GitHub Pages et garde un fallback local pour rester consultable.
+
+## Mettre a jour les donnees localement
+
+```bash
+npm run update:news
+```
 
 ## Lancer le projet
 
