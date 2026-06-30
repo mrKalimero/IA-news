@@ -1,7 +1,151 @@
 {
-  "generatedAt": "2026-06-29T20:16:06.415Z",
+  "generatedAt": "2026-06-30T04:34:33.963Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "body": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3002-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-574523116",
+      "title": "f/prompts.chat",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/f/prompts.chat",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "tags": [
+        "github",
+        "open-source",
+        "164534-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "260-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-59450149",
+      "title": "DrVrej/VJ-Base",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/DrVrej/VJ-Base",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
+      "body": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
+      "tags": [
+        "github",
+        "open-source",
+        "118-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1002593055",
+      "title": "PaulDuvall/ai-development-patterns",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/PaulDuvall/ai-development-patterns",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "tags": [
+        "github",
+        "open-source",
+        "586-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-234784442",
+      "title": "rodrigo-arenas/Sklearn-genetic-opt",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV.",
+      "body": "Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV.",
+      "tags": [
+        "github",
+        "open-source",
+        "362-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
+      "tags": [
+        "github",
+        "open-source",
+        "78741-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "tags": [
+        "github",
+        "open-source",
+        "25244-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "hacker-news-48724253",
       "title": "A.I. 'Employees' Might Disrupt Work in Unexpected Ways",
@@ -111,6 +255,150 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30645v1",
+      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30645v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and...",
+      "body": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, language commands, and...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30642v1",
+      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30642v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off:...",
+      "body": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a structural trade-off:...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30639v1",
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30639v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstre...",
+      "body": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even degrade downstre...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30634v1",
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30634v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Par...",
+      "body": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchronous Pipeline Par...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30632v1",
+      "title": "GROW$^2$: Grounding Which and Where for Robot Tool Use",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30632v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{ope...",
+      "body": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challenge of $\\textit{ope...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30627v1",
+      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30627v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfectio...",
+      "body": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to exploit imperfectio...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30626v1",
+      "title": "DOPD: Dual On-policy Distillation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30626v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performanc...",
+      "body": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby elevate the performanc...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2606-30625v1",
+      "title": "Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2606.30625v1",
+      "date": "2026-06-29",
+      "readTime": "3 min",
+      "summary": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies r...",
+      "body": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, empirical studies r...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
       "slug": "hacker-news-48705468",
       "title": "Google rejects claims of AI in Search hurting web traffic",
       "category": "Outils",
@@ -145,150 +433,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28323v1",
-      "title": "DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28323v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often impose...",
-      "body": "Dexterous manipulation policies can solve individual skills, but composing them to perform multiple tasks with a single hand remains challenging. Adding a new task on top of an existing manipulation skill often impose...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28309v1",
-      "title": "Surprises in Proper Positive-Only Learning",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28309v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under the original dis...",
-      "body": "Binary classification from positive-only samples is a variant of PAC learning in which the learner receives i.i.d. samples from the positive region of an unknown target concept, but is evaluated under the original dis...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28308v1",
-      "title": "Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28308v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge...",
-      "body": "Many two-player zero-sum games admit not a unique Nash equilibrium but a convex set of them: a polytope of profiles that all share the minimax value V* yet prescribe different behaviour. Standard solvers each converge...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28307v1",
-      "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28307v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison relative to a Bre...",
-      "body": "We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison relative to a Bre...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28301v1",
-      "title": "VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28301v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Model (MDM) and int...",
-      "body": "Inference-time scaling is a promising paradigm to improve generative models, especially when outputs must satisfy structural constraints or optimize downstream rewards. We consider Masked Diffusion Model (MDM) and int...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28294v1",
-      "title": "Democratic ICAI: Debating Our Way to Steering Principles from Preferences",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28294v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than...",
-      "body": "Preference-based alignment often struggles to capture the reasoning that underlies human judgments. Many evaluations rely on multiple interacting criteria, yet pairwise labels reveal only the final choice rather than...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28287v1",
-      "title": "Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28287v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "Ab initio modeling has established Wigner's SU(4) and Elliott's SU(3) as dominant symmetries of the nuclear force in light and intermediate-mass nuclei. We ask whether they also govern nuclear binding across the entir...",
-      "body": "Ab initio modeling has established Wigner's SU(4) and Elliott's SU(3) as dominant symmetries of the nuclear force in light and intermediate-mass nuclei. We ask whether they also govern nuclear binding across the entir...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2606-28281v1",
-      "title": "PAC-Bayesian Certificates for Quadratic Closed-Loop Control",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2606.28281v1",
-      "date": "2026-06-26",
-      "readTime": "3 min",
-      "summary": "PAC-Bayesian bounds provide finite-sample guarantees for data-dependent randomized predictors, but applying them to learning-based control is difficult because the natural objective is a quadratic trajectory cost. Suc...",
-      "body": "PAC-Bayesian bounds provide finite-sample guarantees for data-dependent randomized predictors, but applying them to learning-based control is difficult because the natural objective is a quadratic trajectory cost. Suc...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -443,16 +587,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 331
+      "latencyMs": 303
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": false,
-      "count": 0,
-      "error": "GitHub returned HTTP 403"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 422
     },
     {
       "id": "hugging-face",
@@ -461,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 66
+      "latencyMs": 76
     },
     {
       "id": "semantic-scholar",
@@ -479,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 189
+      "latencyMs": 100
     },
     {
       "id": "gdelt",
@@ -488,12 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
