@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-06-30T04:34:33.963Z",
+  "generatedAt": "2026-06-30T10:01:38.318Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48729601",
+      "title": "Hand and Brain and Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theinternationalism.org/2026/02/hand-brain-artificial-intelligence.html",
+      "date": "2026-06-30",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Hand and Brain and Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Hand and Brain and Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "github-394089041",
       "title": "spiceai/spiceai",
@@ -16,133 +34,133 @@
       "tags": [
         "github",
         "open-source",
-        "3002-stars"
+        "3004-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-574523116",
-      "title": "f/prompts.chat",
+      "slug": "github-99561213",
+      "title": "sonos/tract",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/f/prompts.chat",
+      "url": "https://github.com/sonos/tract",
       "date": "2026-06-30",
       "readTime": "3 min",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
       "tags": [
         "github",
         "open-source",
-        "164534-stars"
+        "2970-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-53976910",
-      "title": "apache/texera",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/apache/texera",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-06-30",
       "readTime": "3 min",
-      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "260-stars"
+        "185224-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-59450149",
-      "title": "DrVrej/VJ-Base",
+      "slug": "github-704324955",
+      "title": "jupyter-naas/abi",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/DrVrej/VJ-Base",
+      "url": "https://github.com/jupyter-naas/abi",
       "date": "2026-06-30",
       "readTime": "3 min",
-      "summary": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
-      "body": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
+      "summary": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+      "body": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
       "tags": [
         "github",
         "open-source",
-        "118-stars"
+        "131-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1002593055",
-      "title": "PaulDuvall/ai-development-patterns",
+      "slug": "github-603569762",
+      "title": "canyongbs/advisingapp",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/PaulDuvall/ai-development-patterns",
+      "url": "https://github.com/canyongbs/advisingapp",
       "date": "2026-06-30",
       "readTime": "3 min",
-      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
-      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "summary": "Advising App by Canyon GBS is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive...",
+      "body": "Advising App by Canyon GBS is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive...",
       "tags": [
         "github",
         "open-source",
-        "586-stars"
+        "330-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-234784442",
-      "title": "rodrigo-arenas/Sklearn-genetic-opt",
+      "slug": "github-381930507",
+      "title": "superpung/TJU-CourseSharing",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",
+      "url": "https://github.com/superpung/TJU-CourseSharing",
       "date": "2026-06-30",
       "readTime": "3 min",
-      "summary": "Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV.",
-      "body": "Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV.",
+      "summary": "天津大学课程共享计划",
+      "body": "天津大学课程共享计划",
       "tags": [
         "github",
         "open-source",
-        "362-stars"
+        "940-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-925674818",
+      "title": "wanaku-ai/wanaku",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/wanaku-ai/wanaku",
       "date": "2026-06-30",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Wanaku MCP Router",
+      "body": "Wanaku MCP Router",
       "tags": [
         "github",
         "open-source",
-        "78741-stars"
+        "124-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-159916548",
+      "title": "awesome-mlss/awesome-mlss",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/awesome-mlss/awesome-mlss",
       "date": "2026-06-30",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "🤖 Machine Learning Summer School Guide",
+      "body": "🤖 Machine Learning Summer School Guide",
       "tags": [
         "github",
         "open-source",
-        "25244-stars"
+        "3009-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -417,24 +435,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-48699724",
-      "title": "Frame (Artificial Intelligence)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://rtnf.substack.com/p/frame-artificial-intelligence",
-      "date": "2026-06-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Frame (Artificial Intelligence), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Frame (Artificial Intelligence), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 303
+      "latencyMs": 585
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 422
+      "latencyMs": 517
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 76
+      "latencyMs": 212
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 100
+      "latencyMs": 288
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
