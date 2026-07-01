@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-07-01T10:14:34.331Z",
+  "generatedAt": "2026-07-01T15:12:36.369Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48747685",
+      "title": "Applying Artificial Intelligence to Trading (2021)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.hudsonrivertrading.com/hrtbeat/ai-trading/",
+      "date": "2026-07-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Applying Artificial Intelligence to Trading (2021), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Applying Artificial Intelligence to Trading (2021), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48741902",
       "title": "Fable 5 is greenlit to return",
@@ -21,146 +39,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-620363420",
-      "title": "TimefoldAI/timefold-solver",
+      "slug": "github-520273044",
+      "title": "Oxen-AI/Oxen",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "url": "https://github.com/Oxen-AI/Oxen",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "summary": "Lightning fast data version control system for structured and unstructured machine learning datasets. We aim to make versioning datasets as easy as versioning code.",
+      "body": "Lightning fast data version control system for structured and unstructured machine learning datasets. We aim to make versioning datasets as easy as versioning code.",
       "tags": [
         "github",
         "open-source",
-        "1698-stars"
+        "1163-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-828119367",
+      "title": "yamadashy/repomix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/yamadashy/repomix",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
-      "body": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "summary": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...",
+      "body": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...",
       "tags": [
         "github",
         "open-source",
-        "3004-stars"
+        "26751-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-841370602",
-      "title": "potpie-ai/potpie",
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/potpie-ai/potpie",
+      "url": "https://github.com/marimo-team/marimo",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "Spec-driven development for large codebases",
-      "body": "Spec-driven development for large codebases",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
       "tags": [
         "github",
         "open-source",
-        "5479-stars"
+        "21656-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "78967-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1136941035",
-      "title": "SyntheticAutonomicMind/CLIO",
+      "slug": "github-730770074",
+      "title": "elevenlabs/elevenlabs-js",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
+      "url": "https://github.com/elevenlabs/elevenlabs-js",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "summary": "The official JavaScript (Node) library for the ElevenLabs API.",
+      "body": "The official JavaScript (Node) library for the ElevenLabs API.",
       "tags": [
         "github",
         "open-source",
-        "192-stars"
+        "435-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
+      "slug": "github-619143361",
+      "title": "elevenlabs/elevenlabs-python",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "url": "https://github.com/elevenlabs/elevenlabs-python",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "The official Python SDK for the ElevenLabs API.",
+      "body": "The official Python SDK for the ElevenLabs API.",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "3015-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283362391",
-      "title": "okesipoke/manuscript-phoneme-decipher",
+      "slug": "github-234784442",
+      "title": "rodrigo-arenas/Sklearn-genetic-opt",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
+      "url": "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
-      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "summary": "Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV.",
+      "body": "Hyperparameter optimization and feature selection for scikit-learn using evolutionary algorithms. A modern alternative to GridSearchCV and RandomizedSearchCV.",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "362-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-159916548",
-      "title": "awesome-mlss/awesome-mlss",
+      "slug": "github-71516397",
+      "title": "Cloud-CV/EvalAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/awesome-mlss/awesome-mlss",
+      "url": "https://github.com/Cloud-CV/EvalAI",
       "date": "2026-07-01",
       "readTime": "3 min",
-      "summary": "🤖 Machine Learning Summer School Guide",
-      "body": "🤖 Machine Learning Summer School Guide",
+      "summary": ":cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI",
+      "body": ":cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI",
       "tags": [
         "github",
         "open-source",
-        "3009-stars"
+        "2026-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -417,24 +435,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-48718981",
-      "title": "Ford hired AI and sacked humans. It backfired badly",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.the-independent.com/tech/ford-ai-automation-humans-hiring-artificial-intelligence-b3004733.html",
-      "date": "2026-06-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Ford hired AI and sacked humans. It backfired badly, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Ford hired AI and sacked humans. It backfired badly, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 261
+      "latencyMs": 491
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 347
+      "latencyMs": 489
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 116
+      "latencyMs": 229
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 311
+      "latencyMs": 289
     },
     {
       "id": "gdelt",
