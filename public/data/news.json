@@ -1,58 +1,112 @@
 {
-  "generatedAt": "2026-07-04T13:58:25.950Z",
+  "generatedAt": "2026-07-04T19:37:17.564Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-828119367",
-      "title": "yamadashy/repomix",
+      "slug": "hacker-news-48787916",
+      "title": "Anthropic wants to develop its own drugs",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic wants to develop its own drugs, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic wants to develop its own drugs, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48787334",
+      "title": "AI researchers ran a secret experiment on Reddit users (2025)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-researchers-ran-a-secret-experiment-on-reddit-users-to-see-if-they-could-change-their-minds-and-the-results-are-creepy",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI researchers ran a secret experiment on Reddit users (2025), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI researchers ran a secret experiment on Reddit users (2025), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48786451",
+      "title": "Alexa+, the Next Generation of Alexa",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Alexa+, the Next Generation of Alexa, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Alexa+, the Next Generation of Alexa, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48786171",
+      "title": "How Natural Is Artifical Intelligent?",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://jotaalvim.github.io/blogs/ai.html",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de How Natural Is Artifical Intelligent?, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de How Natural Is Artifical Intelligent?, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1056950791",
+      "title": "JSONbored/awesome-claude",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yamadashy/repomix",
+      "url": "https://github.com/JSONbored/awesome-claude",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...",
-      "body": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...",
+      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
       "tags": [
         "github",
         "open-source",
-        "26828-stars"
+        "277-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-128689753",
+      "title": "fegennari/3DWorld",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/fegennari/3DWorld",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "3D Procedural Game Engine Using OpenGL",
+      "body": "3D Procedural Game Engine Using OpenGL",
       "tags": [
         "github",
         "open-source",
-        "24417-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-759418356",
-      "title": "willyfh/visualtorch",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/willyfh/visualtorch",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "VisualTorch aims to help visualize Torch-based neural network architectures.",
-      "body": "VisualTorch aims to help visualize Torch-based neural network architectures.",
-      "tags": [
-        "github",
-        "open-source",
-        "184-stars"
+        "1397-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -75,24 +129,6 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
-      "tags": [
-        "github",
-        "open-source",
-        "5672-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
       "slug": "github-1283305297",
       "title": "Fabiojvv/ai-cortex-hub",
       "category": "Open source",
@@ -111,40 +147,220 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1056950791",
-      "title": "JSONbored/awesome-claude",
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JSONbored/awesome-claude",
+      "url": "https://github.com/0xPlaygrounds/rig",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "tags": [
         "github",
         "open-source",
-        "277-stars"
+        "7824-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-704892113",
-      "title": "felladrin/MiniSearch",
+      "slug": "github-41550991",
+      "title": "mars-sim/mars-sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/felladrin/MiniSearch",
+      "url": "https://github.com/mars-sim/mars-sim",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "summary": "Mars Simulation Project Official Codebase",
+      "body": "Mars Simulation Project Official Codebase",
       "tags": [
         "github",
         "open-source",
-        "575-stars"
+        "166-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "tags": [
+        "github",
+        "open-source",
+        "151-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "body": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3011-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "gdelt-https-russian-rt-com-russia-news-1619438-iskusstvennyi-intellekt-rossiya",
+      "title": "Шойтов : искусственный интеллект в России нужно подвергать цензуре",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://russian.rt.com/russia/news/1619438-iskusstvennyi-intellekt-rossiya",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "russian.rt.com",
+      "body": "russian.rt.com",
+      "tags": [
+        "gdelt",
+        "media",
+        "russian.rt.com"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-bfm-ru-news-607381",
+      "title": "Набиуллина назвала основной риск для развития ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.bfm.ru/news/607381",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "bfm.ru",
+      "body": "bfm.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "bfm.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
+      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260523/ii-2094198682.html",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "ria.ru",
+      "body": "ria.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "ria.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
+      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "sud.ua",
+      "body": "sud.ua",
+      "tags": [
+        "gdelt",
+        "media",
+        "sud.ua"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-news-2142746",
+      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/news/2142746/",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "title": "Трамп відтермінував підписання указу про ШІ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "ua.korrespondent.net",
+      "body": "ua.korrespondent.net",
+      "tags": [
+        "gdelt",
+        "media",
+        "ua.korrespondent.net"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-publimetro-com-mx-noticias-2026-05-06-universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso",
+      "title": "Universidades en México carecen de regulación para uso de inteligencia artificial – Publimetro México",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.publimetro.com.mx/noticias/2026/05/06/universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso/",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "publimetro.com.mx",
+      "body": "publimetro.com.mx",
+      "tags": [
+        "gdelt",
+        "media",
+        "publimetro.com.mx"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
+      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
+      "date": "2026-07-04",
+      "readTime": "3 min",
+      "summary": "hani.co.kr",
+      "body": "hani.co.kr",
+      "tags": [
+        "gdelt",
+        "media",
+        "hani.co.kr"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-48773149",
@@ -211,24 +427,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Artificial Intelligence and Engels' Pause, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Artificial Intelligence and Engels' Pause, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48761565",
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "date": "2026-07-02",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de OpenAI floats giving Trump administration 5 percent cut of AI boom, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de OpenAI floats giving Trump administration 5 percent cut of AI boom, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -379,60 +577,6 @@
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-48747685",
-      "title": "Applying Artificial Intelligence to Trading (2021)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.hudsonrivertrading.com/hrtbeat/ai-trading/",
-      "date": "2026-07-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Applying Artificial Intelligence to Trading (2021), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Applying Artificial Intelligence to Trading (2021), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48741902",
-      "title": "Fable 5 is greenlit to return",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "date": "2026-07-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Fable 5 is greenlit to return, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Fable 5 is greenlit to return, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48738197",
-      "title": "AI Could Be the Railroad of the 21st Century. Brace Yourself",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.derekthompson.org/p/artificial-intelligence-could-be",
-      "date": "2026-06-30",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de AI Could Be the Railroad of the 21st Century. Brace Yourself, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de AI Could Be the Railroad of the 21st Century. Brace Yourself, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +731,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 362
+      "latencyMs": 584
     },
     {
       "id": "github",
@@ -596,7 +740,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 395
+      "latencyMs": 339
     },
     {
       "id": "hugging-face",
@@ -605,7 +749,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 157
+      "latencyMs": 92
     },
     {
       "id": "semantic-scholar",
@@ -623,20 +767,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 173
+      "latencyMs": 6035
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 10586
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
