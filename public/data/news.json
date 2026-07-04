@@ -1,294 +1,150 @@
 {
-  "generatedAt": "2026-07-04T04:02:15.432Z",
+  "generatedAt": "2026-07-04T08:51:10.562Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-982541506",
-      "title": "amitshekhariitbhu/build-your-own-x-machine-learning",
+      "slug": "github-794413452",
+      "title": "deven96/ahnlich",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/amitshekhariitbhu/build-your-own-x-machine-learning",
+      "url": "https://github.com/deven96/ahnlich",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Build your own X - Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep learning to large language models (LLMs).",
-      "body": "Build your own X - Master machine learning by building everything from scratch. It aims to cover everything from linear regression to deep learning to large language models (LLMs).",
+      "summary": "Suite of tools containing an in-memory vector datastore and AI proxy",
+      "body": "Suite of tools containing an in-memory vector datastore and AI proxy",
       "tags": [
         "github",
         "open-source",
-        "501-stars"
+        "193-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-759418356",
+      "title": "willyfh/visualtorch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/willyfh/visualtorch",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "VisualTorch aims to help visualize Torch-based neural network architectures.",
+      "body": "VisualTorch aims to help visualize Torch-based neural network architectures.",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "172-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283362391",
-      "title": "okesipoke/manuscript-phoneme-decipher",
+      "slug": "github-646899825",
+      "title": "docwire/docwire",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
+      "url": "https://github.com/docwire/docwire",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
-      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "summary": "DocWire SDK: Award-winning modern data processing in C++20. SourceForge Community Choice & Microsoft support. AI-driven processing. Supports nearly 100 data formats, including email boxes and OCR. Boost efficiency in...",
+      "body": "DocWire SDK: Award-winning modern data processing in C++20. SourceForge Community Choice & Microsoft support. AI-driven processing. Supports nearly 100 data formats, including email boxes and OCR. Boost efficiency in...",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "112-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
+      "slug": "github-53976910",
+      "title": "apache/texera",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "url": "https://github.com/apache/texera",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "260-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "body": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "summary": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "body": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "28940-stars"
+        "3011-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-434098140",
-      "title": "AmusementClub/vs-mlrt",
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AmusementClub/vs-mlrt",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)",
-      "body": "Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "tags": [
         "github",
         "open-source",
-        "460-stars"
+        "24409-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-65310972",
-      "title": "VIAME/VIAME",
+      "slug": "github-99561213",
+      "title": "sonos/tract",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/VIAME/VIAME",
+      "url": "https://github.com/sonos/tract",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "Video and Image Analytics for Multiple Environments",
-      "body": "Video and Image Analytics for Multiple Environments",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
       "tags": [
         "github",
         "open-source",
-        "337-stars"
+        "2976-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283352305",
-      "title": "Sujal-142/ai-image-clean-eraser",
+      "slug": "github-963553917",
+      "title": "chigwell/llm7.io",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
+      "url": "https://github.com/chigwell/llm7.io",
       "date": "2026-07-04",
       "readTime": "3 min",
-      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
-      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "summary": "LLM7.io offers a single API gateway that connects you to a wide array of leading AI models from various providers.",
+      "body": "LLM7.io offers a single API gateway that connects you to a wide array of leading AI models from various providers.",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "176-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "gdelt-https-russian-rt-com-russia-news-1619438-iskusstvennyi-intellekt-rossiya",
-      "title": "Шойтов : искусственный интеллект в России нужно подвергать цензуре",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://russian.rt.com/russia/news/1619438-iskusstvennyi-intellekt-rossiya",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "russian.rt.com",
-      "body": "russian.rt.com",
-      "tags": [
-        "gdelt",
-        "media",
-        "russian.rt.com"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-bfm-ru-news-607381",
-      "title": "Набиуллина назвала основной риск для развития ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.bfm.ru/news/607381",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "bfm.ru",
-      "body": "bfm.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "bfm.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
-      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260523/ii-2094198682.html",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "sud.ua",
-      "body": "sud.ua",
-      "tags": [
-        "gdelt",
-        "media",
-        "sud.ua"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-garant-ru-news-2142746",
-      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.garant.ru/news/2142746/",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "garant.ru",
-      "body": "garant.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "garant.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "title": "Трамп відтермінував підписання указу про ШІ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "ua.korrespondent.net",
-      "body": "ua.korrespondent.net",
-      "tags": [
-        "gdelt",
-        "media",
-        "ua.korrespondent.net"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-publimetro-com-mx-noticias-2026-05-06-universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso",
-      "title": "Universidades en México carecen de regulación para uso de inteligencia artificial – Publimetro México",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.publimetro.com.mx/noticias/2026/05/06/universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso/",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "publimetro.com.mx",
-      "body": "publimetro.com.mx",
-      "tags": [
-        "gdelt",
-        "media",
-        "publimetro.com.mx"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
-      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
-      "date": "2026-07-04",
-      "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
-      "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-48773149",
@@ -610,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "15-downloads"
+        "14-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -718,7 +574,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "12-downloads"
+        "11-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -731,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 491
+      "latencyMs": 450
     },
     {
       "id": "github",
@@ -740,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 447
+      "latencyMs": 484
     },
     {
       "id": "hugging-face",
@@ -749,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 85
+      "latencyMs": 158
     },
     {
       "id": "semantic-scholar",
@@ -767,19 +623,20 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 132
+      "latencyMs": 137
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 15778
+      "ok": false,
+      "count": 0,
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
