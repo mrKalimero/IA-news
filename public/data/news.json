@@ -1,40 +1,58 @@
 {
-  "generatedAt": "2026-07-06T11:03:38.778Z",
+  "generatedAt": "2026-07-06T15:55:09.756Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-659402878",
-      "title": "spring-projects/spring-ai",
+      "slug": "hacker-news-48803287",
+      "title": "Taxing Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://arxiv.org/abs/2607.02144",
+      "date": "2026-07-06",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Taxing Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Taxing Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spring-projects/spring-ai",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "An Application Framework for AI Engineering",
-      "body": "An Application Framework for AI Engineering",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
       "tags": [
         "github",
         "open-source",
-        "9069-stars"
+        "152-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-723728776",
-      "title": "dustland/agentok",
+      "slug": "github-344190478",
+      "title": "microsoft/AI-For-Beginners",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dustland/agentok",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop.",
-      "body": "AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop.",
+      "summary": "12 Weeks, 24 Lessons, AI for All!",
+      "body": "12 Weeks, 24 Lessons, AI for All!",
       "tags": [
         "github",
         "open-source",
-        "414-stars"
+        "51781-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -52,153 +70,243 @@
       "tags": [
         "github",
         "open-source",
-        "37648-stars"
+        "37813-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "7020-stars"
+        "5697-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
+      "slug": "github-1017208970",
+      "title": "WordPress/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "url": "https://github.com/WordPress/ai",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "274-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
+      "slug": "github-224908244",
+      "title": "WasmEdge/WasmEdge",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "url": "https://github.com/WasmEdge/WasmEdge",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
       "tags": [
         "github",
         "open-source",
-        "784-stars"
+        "10691-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-734174248",
-      "title": "lakehq/sail",
+      "slug": "github-137747179",
+      "title": "10up/classifai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lakehq/sail",
+      "url": "https://github.com/10up/classifai",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
-      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "summary": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
+      "body": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
       "tags": [
         "github",
         "open-source",
-        "3112-stars"
+        "706-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
+      "slug": "github-48711855",
+      "title": "DoubangoTelecom/compv",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
+      "url": "https://github.com/DoubangoTelecom/compv",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "summary": "Insanely fast Open Source Computer Vision library for ARM and x86 devices (Up to #50 times faster than OpenCV)",
+      "body": "Insanely fast Open Source Computer Vision library for ARM and x86 devices (Up to #50 times faster than OpenCV)",
       "tags": [
         "github",
         "open-source",
-        "238-stars"
+        "207-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "semantic-scholar-a9a654ea503386cbfd8bb119fc650cc3d08dc206",
-      "title": "Revised Surgical CAse REport (SCARE) guideline: An update for the age of Artificial Intelligence",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/a9a654ea503386cbfd8bb119fc650cc3d08dc206",
+      "slug": "gdelt-https-russian-rt-com-russia-news-1619438-iskusstvennyi-intellekt-rossiya",
+      "title": "Шойтов : искусственный интеллект в России нужно подвергать цензуре",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://russian.rt.com/russia/news/1619438-iskusstvennyi-intellekt-rossiya",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
-      "body": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
+      "summary": "russian.rt.com",
+      "body": "russian.rt.com",
       "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
+        "gdelt",
+        "media",
+        "russian.rt.com"
       ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
-      "slug": "semantic-scholar-312e66bcee5bad5376a97f4d771ecdcca2c78078",
-      "title": "Transparency In The reporting of Artificial INtelligence – the TITAN guideline",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/312e66bcee5bad5376a97f4d771ecdcca2c78078",
+      "slug": "gdelt-https-www-bfm-ru-news-607381",
+      "title": "Набиуллина назвала основной риск для развития ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.bfm.ru/news/607381",
       "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "The use of AI in research and the literature is increasing. The need for transparency is clear. Here we present a guideline to transparently reporting the use of AI in any manuscript in general. The guideline items co...",
-      "body": "The use of AI in research and the literature is increasing. The need for transparency is clear. Here we present a guideline to transparently reporting the use of AI in any manuscript in general. The guideline items co...",
+      "summary": "bfm.ru",
+      "body": "bfm.ru",
       "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
+        "gdelt",
+        "media",
+        "bfm.ru"
       ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
-      "slug": "hacker-news-48796509",
-      "title": "Taxing Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://arxiv.org/abs/2607.02144",
-      "date": "2026-07-05",
+      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
+      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260523/ii-2094198682.html",
+      "date": "2026-07-06",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Taxing Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Taxing Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "summary": "ria.ru",
+      "body": "ria.ru",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "gdelt",
+        "media",
+        "ria.ru"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
+      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
+      "date": "2026-07-06",
+      "readTime": "3 min",
+      "summary": "sud.ua",
+      "body": "sud.ua",
+      "tags": [
+        "gdelt",
+        "media",
+        "sud.ua"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-news-2142746",
+      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/news/2142746/",
+      "date": "2026-07-06",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "title": "Трамп відтермінував підписання указу про ШІ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "date": "2026-07-06",
+      "readTime": "3 min",
+      "summary": "ua.korrespondent.net",
+      "body": "ua.korrespondent.net",
+      "tags": [
+        "gdelt",
+        "media",
+        "ua.korrespondent.net"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-publimetro-com-mx-noticias-2026-05-06-universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso",
+      "title": "Universidades en México carecen de regulación para uso de inteligencia artificial – Publimetro México",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.publimetro.com.mx/noticias/2026/05/06/universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso/",
+      "date": "2026-07-06",
+      "readTime": "3 min",
+      "summary": "publimetro.com.mx",
+      "body": "publimetro.com.mx",
+      "tags": [
+        "gdelt",
+        "media",
+        "publimetro.com.mx"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
+      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
+      "date": "2026-07-06",
+      "readTime": "3 min",
+      "summary": "hani.co.kr",
+      "body": "hani.co.kr",
+      "tags": [
+        "gdelt",
+        "media",
+        "hani.co.kr"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-48794667",
@@ -283,24 +391,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de How Natural Is Artifical Intelligent?, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de How Natural Is Artifical Intelligent?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48773149",
-      "title": "Claude Fable relaunch disappoints users with nerfed performance",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-      "date": "2026-07-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Claude Fable relaunch disappoints users with nerfed performance, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Claude Fable relaunch disappoints users with nerfed performance, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -595,114 +685,6 @@
         "11-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "semantic-scholar-8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "date": "2023-03-22",
-      "readTime": "3 min",
-      "summary": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "body": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "date": "2019-10-28",
-      "readTime": "3 min",
-      "summary": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "body": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "date": "2019-10-22",
-      "readTime": "3 min",
-      "summary": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "body": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "title": "High-performance medicine: the convergence of human and artificial intelligence",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "date": "2019-01-01",
-      "readTime": "3 min",
-      "summary": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "body": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-21dff47a4142445f83016da0819ffe6dd2947f66",
-      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/21dff47a4142445f83016da0819ffe6dd2947f66",
-      "date": "2018-09-17",
-      "readTime": "3 min",
-      "summary": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "body": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "date": "2017-06-22",
-      "readTime": "3 min",
-      "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "body": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     }
   ],
   "sources": [
@@ -713,7 +695,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 332
+      "latencyMs": 264
     },
     {
       "id": "github",
@@ -722,7 +704,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 338
+      "latencyMs": 413
     },
     {
       "id": "hugging-face",
@@ -731,16 +713,16 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 80
+      "latencyMs": 62
     },
     {
       "id": "semantic-scholar",
       "name": "Semantic Scholar",
       "category": "Recherche",
       "docsUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 2422
+      "ok": false,
+      "count": 0,
+      "error": "Semantic Scholar returned HTTP 429"
     },
     {
       "id": "arxiv",
@@ -749,19 +731,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 172
+      "latencyMs": 53
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 10762
     }
   ],
   "errors": [
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
