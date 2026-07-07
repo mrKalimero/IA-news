@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-07-07T15:15:44.445Z",
+  "generatedAt": "2026-07-07T20:14:51.139Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48822482",
+      "title": "Policy Statement Concerning the Suppression of Accuracy in AI Systems",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48821162",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic is launching Claude Cowork on mobile and web, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic is launching Claude Cowork on mobile and web, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48816070",
       "title": "Brick by Brick: How My Home AI Is Growing a Body",
@@ -21,20 +57,56 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-912559512",
+      "title": "simstudioai/sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/simstudioai/sim",
       "date": "2026-07-07",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "body": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "28967-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-65310972",
+      "title": "VIAME/VIAME",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/VIAME/VIAME",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "Video and Image Analytics for Multiple Environments",
+      "body": "Video and Image Analytics for Multiple Environments",
+      "tags": [
+        "github",
+        "open-source",
+        "337-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/dyad-sh/dyad",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "tags": [
+        "github",
+        "open-source",
+        "20853-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -57,96 +129,6 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-704324955",
-      "title": "jupyter-naas/abi",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jupyter-naas/abi",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
-      "body": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
-      "tags": [
-        "github",
-        "open-source",
-        "134-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-799690272",
-      "title": "albumentations-team/albucore",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/albumentations-team/albucore",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
-      "body": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
-      "tags": [
-        "github",
-        "open-source",
-        "122-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-252767810",
-      "title": "fabsig/GPBoost",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fabsig/GPBoost",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
-      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
-      "tags": [
-        "github",
-        "open-source",
-        "692-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
-      "tags": [
-        "github",
-        "open-source",
-        "5708-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
-        "github",
-        "open-source",
-        "185419-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
       "slug": "github-1283305297",
       "title": "Fabiojvv/ai-cortex-hub",
       "category": "Open source",
@@ -161,6 +143,60 @@
         "github",
         "open-source",
         "152-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "7856-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "152-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-996988898",
+      "title": "codecentric/c4-genai-suite",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/codecentric/c4-genai-suite",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "c4 GenAI Suite",
+      "body": "c4 GenAI Suite",
+      "tags": [
+        "github",
+        "open-source",
+        "171-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -381,24 +417,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-48794667",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "date": "2026-07-05",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Infuriating Google commercial imagines the founding fathers embracing AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Infuriating Google commercial imagines the founding fathers embracing AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -550,8 +568,8 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 7,
-      "latencyMs": 531
+      "count": 8,
+      "latencyMs": 257
     },
     {
       "id": "github",
@@ -560,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 562
+      "latencyMs": 456
     },
     {
       "id": "hugging-face",
@@ -569,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 146
+      "latencyMs": 70
     },
     {
       "id": "semantic-scholar",
@@ -587,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 174
+      "latencyMs": 186
     },
     {
       "id": "gdelt",
@@ -596,11 +614,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
