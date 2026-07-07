@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-07-07T10:01:06.008Z",
+  "generatedAt": "2026-07-07T15:15:44.445Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48816070",
+      "title": "Brick by Brick: How My Home AI Is Growing a Body",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/towards-artificial-intelligence/brick-by-brick-how-my-home-ai-is-growing-a-body-fc698269a525",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Brick by Brick: How My Home AI Is Growing a Body, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Brick by Brick: How My Home AI Is Growing a Body, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-07-07",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "152-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "github-1056950791",
       "title": "JSONbored/awesome-claude",
@@ -21,74 +57,74 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "github-704324955",
+      "title": "jupyter-naas/abi",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/jupyter-naas/abi",
       "date": "2026-07-07",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+      "body": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
       "tags": [
         "github",
         "open-source",
-        "7022-stars"
+        "134-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-723728776",
-      "title": "dustland/agentok",
+      "slug": "github-799690272",
+      "title": "albumentations-team/albucore",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dustland/agentok",
+      "url": "https://github.com/albumentations-team/albucore",
       "date": "2026-07-07",
       "readTime": "3 min",
-      "summary": "AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop.",
-      "body": "AG2 Visualized - Build Multi-Agentic Apps with Drag-and-Drop.",
+      "summary": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
+      "body": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
       "tags": [
         "github",
         "open-source",
-        "415-stars"
+        "122-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-252767810",
+      "title": "fabsig/GPBoost",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/fabsig/GPBoost",
       "date": "2026-07-07",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
+      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
       "tags": [
         "github",
         "open-source",
-        "79712-stars"
+        "692-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-07-07",
       "readTime": "3 min",
-      "summary": "Semantica • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.",
-      "body": "Semantica • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "1389-stars"
+        "5708-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -106,43 +142,25 @@
       "tags": [
         "github",
         "open-source",
-        "185412-stars"
+        "185419-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
+      "slug": "github-1283305297",
+      "title": "Fabiojvv/ai-cortex-hub",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
+      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
       "date": "2026-07-07",
       "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
+      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
       "tags": [
         "github",
         "open-source",
-        "606-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-142336474",
-      "title": "crespum/edge-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/crespum/edge-ai",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "A curated list of resources for embedded AI",
-      "body": "A curated list of resources for embedded AI",
-      "tags": [
-        "github",
-        "open-source",
-        "538-stars"
+        "152-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -533,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 507
+      "latencyMs": 531
     },
     {
       "id": "github",
@@ -542,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 428
+      "latencyMs": 562
     },
     {
       "id": "hugging-face",
@@ -551,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 109
+      "latencyMs": 146
     },
     {
       "id": "semantic-scholar",
@@ -569,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 92
+      "latencyMs": 174
     },
     {
       "id": "gdelt",
