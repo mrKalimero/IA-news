@@ -1,7 +1,241 @@
 {
-  "generatedAt": "2026-07-08T19:55:36.376Z",
+  "generatedAt": "2026-07-09T04:14:01.995Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48839186",
+      "title": "Rust and Artificial Intelligence: The Rust Foundation's Position",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://rustfoundation.org/resource/rust-and-ai-position-statement/",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Rust and Artificial Intelligence: The Rust Foundation's Position, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Rust and Artificial Intelligence: The Rust Foundation's Position, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-939657163",
+      "title": "NPC-Worldwide/incognide",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/NPC-Worldwide/incognide",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "Explore the unknown, build the future, own your data.",
+      "body": "Explore the unknown, build the future, own your data.",
+      "tags": [
+        "github",
+        "open-source",
+        "454-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-741100585",
+      "title": "langchain-ai/langgraphjs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/langchain-ai/langgraphjs",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "Framework to build resilient language agents as graphs.",
+      "body": "Framework to build resilient language agents as graphs.",
+      "tags": [
+        "github",
+        "open-source",
+        "3098-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "152-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1139817260",
+      "title": "NJUIS-Students/NJUIS-Students.github.io",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/NJUIS-Students/NJUIS-Students.github.io",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "南京大学智能科学与技术学院开源知识库与课程攻略平台 | Open knowledge base and course survival guides for NJU School of intelligence science and technology students.",
+      "body": "南京大学智能科学与技术学院开源知识库与课程攻略平台 | Open knowledge base and course survival guides for NJU School of intelligence science and technology students.",
+      "tags": [
+        "github",
+        "open-source",
+        "124-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/dyad-sh/dyad",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "tags": [
+        "github",
+        "open-source",
+        "20875-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/marimo-team/marimo",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "tags": [
+        "github",
+        "open-source",
+        "21746-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283305297",
+      "title": "Fabiojvv/ai-cortex-hub",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "tags": [
+        "github",
+        "open-source",
+        "152-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "7865-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-48838270",
+      "title": "Policy Statement Concerning the Suppression of Accuracy in AI Systems",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+      "date": "2026-07-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48838210",
+      "title": "A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook? (2022)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/",
+      "date": "2026-07-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook? (2022), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook? (2022), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48837394",
+      "title": "Gov. Pritzker Signs Nation-Leading Artificial Intelligence Safety Law",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://gov-pritzker-newsroom.prezly.com/gov-pritzker-signs-nation-leading-artificial-intelligence-safety-law",
+      "date": "2026-07-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Gov. Pritzker Signs Nation-Leading Artificial Intelligence Safety Law, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Gov. Pritzker Signs Nation-Leading Artificial Intelligence Safety Law, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48836765",
+      "title": "Maybe Anthropic and OpenAI Are Not the Future of Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nytimes.com/2026/07/08/opinion/openai-anthropic-palantir-alex-karp.html",
+      "date": "2026-07-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Maybe Anthropic and OpenAI Are Not the Future of Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Maybe Anthropic and OpenAI Are Not the Future of Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48836227",
       "title": "Datacentres are a ticking time bomb",
@@ -57,214 +291,16 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-996988898",
-      "title": "codecentric/c4-genai-suite",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/codecentric/c4-genai-suite",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "c4 GenAI Suite",
-      "body": "c4 GenAI Suite",
-      "tags": [
-        "github",
-        "open-source",
-        "171-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "body": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "tags": [
-        "github",
-        "open-source",
-        "28968-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1056950791",
-      "title": "JSONbored/awesome-claude",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JSONbored/awesome-claude",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "tags": [
-        "github",
-        "open-source",
-        "278-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
-      "tags": [
-        "github",
-        "open-source",
-        "80010-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
-      "tags": [
-        "github",
-        "open-source",
-        "152-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "tags": [
-        "github",
-        "open-source",
-        "152-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-603569762",
-      "title": "canyongbs/advisingapp",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/canyongbs/advisingapp",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "Advising App by Canyon GBS is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive...",
-      "body": "Advising App by Canyon GBS is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive...",
-      "tags": [
-        "github",
-        "open-source",
-        "331-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-344190478",
-      "title": "microsoft/AI-For-Beginners",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "12 Weeks, 24 Lessons, AI for All!",
-      "body": "12 Weeks, 24 Lessons, AI for All!",
-      "tags": [
-        "github",
-        "open-source",
-        "51916-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "hacker-news-48822482",
-      "title": "Policy Statement Concerning the Suppression of Accuracy in AI Systems",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48821162",
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Anthropic is launching Claude Cowork on mobile and web, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Anthropic is launching Claude Cowork on mobile and web, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48816070",
-      "title": "Brick by Brick: How My Home AI Is Growing a Body",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/towards-artificial-intelligence/brick-by-brick-how-my-home-ai-is-growing-a-body-fc698269a525",
-      "date": "2026-07-07",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Brick by Brick: How My Home AI Is Growing a Body, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Brick by Brick: How My Home AI Is Growing a Body, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06565v1",
-      "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07708v1",
+      "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06565v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07708v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D to...",
-      "body": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatenate text and 3D to...",
+      "summary": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically...",
+      "body": "Structure-property relationships are foundational to biology, chemistry and materials science, where function, reactivity and physical response emerge from spatial, chemical and periodic organization. Mechanistically...",
       "tags": [
         "arxiv",
         "paper",
@@ -273,16 +309,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06546v1",
-      "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07707v1",
+      "title": "Co-LMLM: Continuous-Query Limited Memory Language Models",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06546v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07707v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. Howe...",
-      "body": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoising graphs. Howe...",
+      "summary": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from th...",
+      "body": "Limited memory language models (LMLMs) externalize factual knowledge during pretraining to a knowledge base (KB), rather than memorizing it in their weights. During generation, the model then fetches knowledge from th...",
       "tags": [
         "arxiv",
         "paper",
@@ -291,16 +327,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06544v1",
-      "title": "Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07706v1",
+      "title": "The Key to Going Linear: Analysis-Driven Transformer Linearization",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06544v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07706v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this civilization. AI...",
-      "body": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this civilization. AI...",
+      "summary": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model q...",
+      "body": "The quadratic cost of causal self-attention severely bottlenecks long-context transformer inference. While numerous post hoc linearization pipelines exist, it is difficult to identify which components preserve model q...",
       "tags": [
         "arxiv",
         "paper",
@@ -309,16 +345,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06532v1",
-      "title": "GraphBU: MILP Instance Generation with Graph-Native Block Units",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07696v1",
+      "title": "Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06532v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07696v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure that solvers and le...",
-      "body": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure that solvers and le...",
+      "summary": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query exec...",
+      "body": "Analytical workloads operating on data stored in external database systems face a fundamental bottleneck: data access is guarded entirely by the database driver, like JDBC or ODBC, forcing all reads through query exec...",
       "tags": [
         "arxiv",
         "paper",
@@ -327,16 +363,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06531v1",
-      "title": "The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07695v1",
+      "title": "Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06531v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07695v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this in...",
-      "body": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. To address this in...",
+      "summary": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting chan...",
+      "body": "We introduce institutional red-teaming, an evaluation methodology for testing deployment rules in multi-agent AI: hold the agents, objectives, and task state fixed, vary only one rule, and attribute the resulting chan...",
       "tags": [
         "arxiv",
         "paper",
@@ -345,16 +381,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06527v1",
-      "title": "RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07693v1",
+      "title": "Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06527v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07693v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the semantic gap where...",
-      "body": "Multi-hop Question Answering over Knowledge Graphs faces a critical challenge: traditional retrieve-then-read pipelines break differentiability, preventing the retriever from learning to bridge the semantic gap where...",
+      "summary": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly feedback inefficien...",
+      "body": "Reinforcement learning from human feedback (RLHF) has emerged as a powerful paradigm for aligning generative models with human preferences. However, applying RLHF to diffusion models remains highly feedback inefficien...",
       "tags": [
         "arxiv",
         "paper",
@@ -363,16 +399,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06523v1",
-      "title": "DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07690v1",
+      "title": "Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06523v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07690v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or toke...",
-      "body": "Long-context language model inference is increasingly limited by the memory bandwidth and capacity required to store key-value caches, yet existing compression methods often apply uniform budgets across layers or toke...",
+      "summary": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think bet...",
+      "body": "Reinforcement learning from verifiable rewards (e.g. GRPO) is the engine behind today's reasoning models, yet it grades only the final answer. On hard problems this trains models to write more rather than to think bet...",
       "tags": [
         "arxiv",
         "paper",
@@ -381,58 +417,22 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-06522v1",
-      "title": "Bridging Physical Reasoning and Task Generalization via Visual Action Outcome Reasoning Alignment",
+      "slug": "arxiv-http-arxiv-org-abs-2607-07683v1",
+      "title": "ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.06522v1",
-      "date": "2026-07-07",
+      "url": "http://arxiv.org/abs/2607.07683v1",
+      "date": "2026-07-08",
       "readTime": "3 min",
-      "summary": "Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reason...",
-      "body": "Vision-language models (VLMs) struggle to generalize in interactive physical reasoning, particularly under unseen tasks and environments. Two key failure modes are prominent: hallucinated chain-of-thought (CoT) reason...",
+      "summary": "Electrocardiography (ECG) is one of the most widely used tests for diagnosing cardiovascular disease. Yet several remote clinics still utilize paper ECG printouts for their analysis due to limited connectivity and com...",
+      "body": "Electrocardiography (ECG) is one of the most widely used tests for diagnosing cardiovascular disease. Yet several remote clinics still utilize paper ECG printouts for their analysis due to limited connectivity and com...",
       "tags": [
         "arxiv",
         "paper",
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-48809659",
-      "title": "NHS accelerates AI rollout to cut waiting times and improve care for millions",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.england.nhs.uk/2026/07/nhs-accelerates-artificial-intelligence-rollout-to-cut-waiting-times-and-improve-care-for-millions/",
-      "date": "2026-07-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de NHS accelerates AI rollout to cut waiting times and improve care for millions, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de NHS accelerates AI rollout to cut waiting times and improve care for millions, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48807683",
-      "title": "Anthropic wants to develop its own drugs",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "date": "2026-07-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Anthropic wants to develop its own drugs, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Anthropic wants to develop its own drugs, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 280
+      "latencyMs": 495
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 652
+      "latencyMs": 596
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 114
+      "latencyMs": 175
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 2364
+      "latencyMs": 169
     },
     {
       "id": "gdelt",
