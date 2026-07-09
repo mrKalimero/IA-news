@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T04:14:01.995Z",
+  "generatedAt": "2026-07-09T10:02:36.311Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
@@ -21,56 +21,128 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-939657163",
-      "title": "NPC-Worldwide/incognide",
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/NPC-Worldwide/incognide",
+      "url": "https://github.com/felladrin/MiniSearch",
       "date": "2026-07-09",
       "readTime": "3 min",
-      "summary": "Explore the unknown, build the future, own your data.",
-      "body": "Explore the unknown, build the future, own your data.",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
       "tags": [
         "github",
         "open-source",
-        "454-stars"
+        "575-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-741100585",
-      "title": "langchain-ai/langgraphjs",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/langchain-ai/langgraphjs",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-07-09",
       "readTime": "3 min",
-      "summary": "Framework to build resilient language agents as graphs.",
-      "body": "Framework to build resilient language agents as graphs.",
+      "summary": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
+      "body": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "3098-stars"
+        "3015-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-1008304614",
+      "title": "semantica-agi/semantica",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/semantica-agi/semantica",
       "date": "2026-07-09",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "Semantica • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.",
+      "body": "Semantica • Build AI systems that can explain, trace, and justify every decision. Knowledge graphs, context graphs, reasoning engines, provenance, and governance for production AI.",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "1398-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1056950791",
+      "title": "JSONbored/awesome-claude",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/JSONbored/awesome-claude",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "tags": [
+        "github",
+        "open-source",
+        "279-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-700760709",
+      "title": "taranis-ai/taranis-ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/taranis-ai/taranis-ai",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
+      "body": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
+      "tags": [
+        "github",
+        "open-source",
+        "1173-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1023024788",
+      "title": "VersusControl/devops-ai-guidelines",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/VersusControl/devops-ai-guidelines",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines",
+      "body": "First AI Journey for DevOps - with comprehensive learning paths, practical tips, and enterprise guidelines",
+      "tags": [
+        "github",
+        "open-source",
+        "1325-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-334848347",
+      "title": "ccfddl/ccf-deadlines",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/ccfddl/ccf-deadlines",
+      "date": "2026-07-09",
+      "readTime": "3 min",
+      "summary": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "body": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "tags": [
+        "github",
+        "open-source",
+        "9142-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -89,78 +161,6 @@
         "github",
         "open-source",
         "124-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-964395174",
-      "title": "dyad-sh/dyad",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dyad-sh/dyad",
-      "date": "2026-07-09",
-      "readTime": "3 min",
-      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
-      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
-      "tags": [
-        "github",
-        "open-source",
-        "20875-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-678526156",
-      "title": "marimo-team/marimo",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/marimo-team/marimo",
-      "date": "2026-07-09",
-      "readTime": "3 min",
-      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "tags": [
-        "github",
-        "open-source",
-        "21746-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
-      "date": "2026-07-09",
-      "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "tags": [
-        "github",
-        "open-source",
-        "152-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
-      "date": "2026-07-09",
-      "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "7865-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -466,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "12-downloads"
+        "10-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -574,7 +574,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "10-downloads"
+        "8-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 495
+      "latencyMs": 285
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 596
+      "latencyMs": 360
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 175
+      "latencyMs": 82
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 169
+      "latencyMs": 123
     },
     {
       "id": "gdelt",
