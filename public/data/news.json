@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-07-10T09:53:11.849Z",
+  "generatedAt": "2026-07-10T15:01:35.460Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48860762",
+      "title": "Energy is AI's natural home – but, it's fumbling",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.weforum.org/stories/artificial-intelligence/the-energy-sector-should-be-ais-natural-home-right-now-its-fumbling/",
+      "date": "2026-07-10",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Energy is AI's natural home – but, it's fumbling, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Energy is AI's natural home – but, it's fumbling, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48859042",
+      "title": "Do Different GenAI Tools Provide Different Financial Recommendations?",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.financialplanningassociation.org/learning/publications/journal/JUN26-do-different-generative-artificial-intelligence-genai-tools-provide-different-financial-OPEN",
+      "date": "2026-07-10",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Do Different GenAI Tools Provide Different Financial Recommendations?, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Do Different GenAI Tools Provide Different Financial Recommendations?, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48856412",
       "title": "China may restrict foreign access to Chinese open-source AI models",
@@ -39,38 +75,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-584639396",
-      "title": "ai-collection/ai-collection",
+      "slug": "github-639195966",
+      "title": "kyegomez/swarms",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ai-collection/ai-collection",
+      "url": "https://github.com/kyegomez/swarms",
       "date": "2026-07-10",
       "readTime": "3 min",
-      "summary": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
-      "body": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+      "summary": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "body": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework. Website: https://swarms.ai",
       "tags": [
         "github",
         "open-source",
-        "9057-stars"
+        "6930-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
+      "url": "https://github.com/flwrlabs/flower",
       "date": "2026-07-10",
       "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
       "tags": [
         "github",
         "open-source",
-        "609-stars"
+        "7024-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -88,97 +124,97 @@
       "tags": [
         "github",
         "open-source",
-        "80308-stars"
+        "80330-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-620363420",
-      "title": "TimefoldAI/timefold-solver",
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
       "date": "2026-07-10",
       "readTime": "3 min",
-      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
       "tags": [
         "github",
         "open-source",
-        "1710-stars"
+        "152-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-996988898",
-      "title": "codecentric/c4-genai-suite",
+      "slug": "github-736351417",
+      "title": "loganthorneloe/ai-for-software-engineers",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/codecentric/c4-genai-suite",
+      "url": "https://github.com/loganthorneloe/ai-for-software-engineers",
       "date": "2026-07-10",
       "readTime": "3 min",
-      "summary": "c4 GenAI Suite",
-      "body": "c4 GenAI Suite",
+      "summary": "AI foundations for software engineers.",
+      "body": "AI foundations for software engineers.",
       "tags": [
         "github",
         "open-source",
-        "171-stars"
+        "1324-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1056950791",
-      "title": "JSONbored/awesome-claude",
+      "slug": "github-630933034",
+      "title": "TimefoldAI/timefold-quickstarts",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JSONbored/awesome-claude",
+      "url": "https://github.com/TimefoldAI/timefold-quickstarts",
       "date": "2026-07-10",
       "readTime": "3 min",
-      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "summary": "Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "body": "Get started with Timefold quickstarts here. Optimize the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
       "tags": [
         "github",
         "open-source",
-        "280-stars"
+        "562-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-252767810",
-      "title": "fabsig/GPBoost",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fabsig/GPBoost",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-07-10",
       "readTime": "3 min",
-      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
-      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "693-stars"
+        "5759-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1078093679",
-      "title": "softmata/horus",
+      "slug": "github-1225446523",
+      "title": "caojiaolong/spaces-index",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/softmata/horus",
+      "url": "https://github.com/caojiaolong/spaces-index",
       "date": "2026-07-10",
       "readTime": "3 min",
-      "summary": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
-      "body": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
+      "summary": "🌟本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。",
+      "body": "🌟本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。",
       "tags": [
         "github",
         "open-source",
-        "387-stars"
+        "279-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -399,42 +435,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-48838270",
-      "title": "Policy Statement Concerning the Suppression of Accuracy in AI Systems",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Policy Statement Concerning the Suppression of Accuracy in AI Systems, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48838210",
-      "title": "A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook? (2022)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.technologyreview.com/2022/12/19/1065306/roomba-irobot-robot-vacuums-artificial-intelligence-training-data-privacy/",
-      "date": "2026-07-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook? (2022), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de A Roomba recorded a woman on the toilet. How did screenshots end up on Facebook? (2022), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 255
+      "latencyMs": 275
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 489
+      "latencyMs": 471
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 79
+      "latencyMs": 112
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 112
+      "latencyMs": 367
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
