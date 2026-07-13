@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-07-13T15:11:47.028Z",
+  "generatedAt": "2026-07-13T19:49:25.375Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48895236",
+      "title": "Meta Putting Up Tents Across the US",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/meta-putting-up-tents-across-the-us-to-house-ai-servers-like-a-scene-out-of-the-movie-mad-max-structures-take-three-months-to-build-and-use-jet-engines-for-power",
+      "date": "2026-07-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Meta Putting Up Tents Across the US, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Meta Putting Up Tents Across the US, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48891705",
       "title": "Christopher Nolan says people disdain AI, idea it'll replace humans is nonsense",
@@ -57,146 +75,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-887435804",
-      "title": "Drix10/ai-resources",
+      "slug": "github-1078093679",
+      "title": "softmata/horus",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Drix10/ai-resources",
+      "url": "https://github.com/softmata/horus",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
-      "body": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
+      "summary": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
+      "body": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
       "tags": [
         "github",
         "open-source",
-        "112-stars"
+        "389-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1017208970",
-      "title": "WordPress/ai",
+      "slug": "github-884376411",
+      "title": "HPInc/AI-Blueprints",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WordPress/ai",
+      "url": "https://github.com/HPInc/AI-Blueprints",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
-      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "summary": "📁 This repository hosts a growing collection of AI blueprint projects that run end-to-end using Jupyter notebooks, MLflow deployments, and Streamlit web apps.🛠️ All projects are built using HP AI Studio with ❤️ If y...",
+      "body": "📁 This repository hosts a growing collection of AI blueprint projects that run end-to-end using Jupyter notebooks, MLflow deployments, and Streamlit web apps.🛠️ All projects are built using HP AI Studio with ❤️ If y...",
       "tags": [
         "github",
         "open-source",
-        "279-stars"
+        "215-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
       "tags": [
         "github",
         "open-source",
-        "1446-stars"
+        "152-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-178075572",
-      "title": "kserve/kserve",
+      "slug": "github-1283305297",
+      "title": "Fabiojvv/ai-cortex-hub",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kserve/kserve",
+      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
       "tags": [
         "github",
         "open-source",
-        "5679-stars"
+        "153-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-925674818",
-      "title": "wanaku-ai/wanaku",
+      "slug": "github-603569762",
+      "title": "canyongbs/advisingapp",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wanaku-ai/wanaku",
+      "url": "https://github.com/canyongbs/advisingapp",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Wanaku MCP Router",
-      "body": "Wanaku MCP Router",
+      "summary": "Advising App by Canyon GBS is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive...",
+      "body": "Advising App by Canyon GBS is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and drive...",
       "tags": [
         "github",
         "open-source",
-        "128-stars"
+        "331-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-224908244",
-      "title": "WasmEdge/WasmEdge",
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WasmEdge/WasmEdge",
+      "url": "https://github.com/flwrlabs/flower",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
-      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
       "tags": [
         "github",
         "open-source",
-        "10706-stars"
+        "7032-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "185510-stars"
+        "3030-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-102692863",
-      "title": "onnx/onnx",
+      "slug": "github-65310972",
+      "title": "VIAME/VIAME",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onnx/onnx",
+      "url": "https://github.com/VIAME/VIAME",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Open standard for machine learning interoperability",
-      "body": "Open standard for machine learning interoperability",
+      "summary": "Video and Image Analytics for Multiple Environments",
+      "body": "Video and Image Analytics for Multiple Environments",
       "tags": [
         "github",
         "open-source",
-        "21141-stars"
+        "337-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -265,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Do Different GenAI Tools Provide Different Financial Recommendations?, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Do Different GenAI Tools Provide Different Financial Recommendations?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48856412",
-      "title": "China may restrict foreign access to Chinese open-source AI models",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/china-weighs-silicon-curtain-around-sought-after-ai-models-2026-07-08/",
-      "date": "2026-07-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de China may restrict foreign access to Chinese open-source AI models, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de China may restrict foreign access to Chinese open-source AI models, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 448
+      "latencyMs": 566
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 382
+      "latencyMs": 479
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 126
+      "latencyMs": 175
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 340
+      "latencyMs": 439
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
