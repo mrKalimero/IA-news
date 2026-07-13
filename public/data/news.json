@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-07-13T09:47:38.670Z",
+  "generatedAt": "2026-07-13T15:11:47.028Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48891705",
+      "title": "Christopher Nolan says people disdain AI, idea it'll replace humans is nonsense",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theguardian.com/film/2026/jul/13/christopher-nolan-odyssey-director-comments-ai-artificial-intelligence",
+      "date": "2026-07-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Christopher Nolan says people disdain AI, idea it'll replace humans is nonsense, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Christopher Nolan says people disdain AI, idea it'll replace humans is nonsense, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48890208",
+      "title": "Indian companies look to Chinese LLMs as AI costs bite",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite",
+      "date": "2026-07-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Indian companies look to Chinese LLMs as AI costs bite, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Indian companies look to Chinese LLMs as AI costs bite, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48889232",
       "title": "TSMC posts record revenue in second quarter on AI demand",
@@ -21,146 +57,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-113856767",
-      "title": "halfrost/threes-ai",
+      "slug": "github-887435804",
+      "title": "Drix10/ai-resources",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/halfrost/threes-ai",
+      "url": "https://github.com/Drix10/ai-resources",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "🏆 Expectimax search and N-tuple TD learning for the Threes! game.",
-      "body": "🏆 Expectimax search and N-tuple TD learning for the Threes! game.",
+      "summary": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
+      "body": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
       "tags": [
         "github",
         "open-source",
-        "163-stars"
+        "112-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-252767810",
-      "title": "fabsig/GPBoost",
+      "slug": "github-1017208970",
+      "title": "WordPress/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fabsig/GPBoost",
+      "url": "https://github.com/WordPress/ai",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
-      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
+      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
       "tags": [
         "github",
         "open-source",
-        "693-stars"
+        "279-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-619143361",
-      "title": "elevenlabs/elevenlabs-python",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/elevenlabs/elevenlabs-python",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "The official Python SDK for the ElevenLabs API.",
-      "body": "The official Python SDK for the ElevenLabs API.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "3025-stars"
+        "1446-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "787-stars"
+        "5679-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "github-925674818",
+      "title": "wanaku-ai/wanaku",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/wanaku-ai/wanaku",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "Wanaku MCP Router",
+      "body": "Wanaku MCP Router",
       "tags": [
         "github",
         "open-source",
-        "7030-stars"
+        "128-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-730770074",
-      "title": "elevenlabs/elevenlabs-js",
+      "slug": "github-224908244",
+      "title": "WasmEdge/WasmEdge",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/elevenlabs/elevenlabs-js",
+      "url": "https://github.com/WasmEdge/WasmEdge",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "The official JavaScript (Node) library for the ElevenLabs API.",
-      "body": "The official JavaScript (Node) library for the ElevenLabs API.",
+      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
       "tags": [
         "github",
         "open-source",
-        "437-stars"
+        "10706-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-854776745",
-      "title": "hexabot-ai/Hexabot",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/hexabot-ai/Hexabot",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime.",
-      "body": "Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime.",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "1075-stars"
+        "185510-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-620363420",
-      "title": "TimefoldAI/timefold-solver",
+      "slug": "github-102692863",
+      "title": "onnx/onnx",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "url": "https://github.com/onnx/onnx",
       "date": "2026-07-13",
       "readTime": "3 min",
-      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "summary": "Open standard for machine learning interoperability",
+      "body": "Open standard for machine learning interoperability",
       "tags": [
         "github",
         "open-source",
-        "1712-stars"
+        "21141-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -247,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de China may restrict foreign access to Chinese open-source AI models, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de China may restrict foreign access to Chinese open-source AI models, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48855046",
-      "title": "The ChatGPT browser is dead",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "date": "2026-07-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The ChatGPT browser is dead, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The ChatGPT browser is dead, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -415,24 +433,6 @@
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-48848901",
-      "title": "Say hello to Claude Wrapped",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "date": "2026-07-09",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Say hello to Claude Wrapped, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Say hello to Claude Wrapped, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 312
+      "latencyMs": 448
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 570
+      "latencyMs": 382
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 135
+      "latencyMs": 126
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 241
+      "latencyMs": 340
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
