@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T03:34:06.060Z",
+  "generatedAt": "2026-07-14T08:28:03.863Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
@@ -21,110 +21,20 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-108102826",
+      "title": "carla-simulator/carla",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/carla-simulator/carla",
       "date": "2026-07-14",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Open-source simulator for autonomous driving research.",
+      "body": "Open-source simulator for autonomous driving research.",
       "tags": [
         "github",
         "open-source",
-        "185516-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-07-14",
-      "readTime": "3 min",
-      "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "body": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "tags": [
-        "github",
-        "open-source",
-        "29098-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
-      "date": "2026-07-14",
-      "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "tags": [
-        "github",
-        "open-source",
-        "153-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1200802466",
-      "title": "activeloopai/hivemind",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/activeloopai/hivemind",
-      "date": "2026-07-14",
-      "readTime": "3 min",
-      "summary": "Hivemind turns your traces into reusable skills across agents",
-      "body": "Hivemind turns your traces into reusable skills across agents",
-      "tags": [
-        "github",
-        "open-source",
-        "1476-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-576438535",
-      "title": "runpod/runpod-python",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/runpod/runpod-python",
-      "date": "2026-07-14",
-      "readTime": "3 min",
-      "summary": "🐍 | Python library for Runpod API and serverless worker SDK.",
-      "body": "🐍 | Python library for Runpod API and serverless worker SDK.",
-      "tags": [
-        "github",
-        "open-source",
-        "304-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-679282270",
-      "title": "dralgroup/mlatom",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dralgroup/mlatom",
-      "date": "2026-07-14",
-      "readTime": "3 min",
-      "summary": "AI-enhanced computational chemistry",
-      "body": "AI-enhanced computational chemistry",
-      "tags": [
-        "github",
-        "open-source",
-        "152-stars"
+        "14164-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -147,20 +57,110 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-633757598",
+      "title": "adamlui/chatgpt-infinity",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/adamlui/chatgpt-infinity",
       "date": "2026-07-14",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "∞ Generate endless answers from all-knowing ChatGPT (on any topic!)",
+      "body": "∞ Generate endless answers from all-knowing ChatGPT (on any topic!)",
       "tags": [
         "github",
         "open-source",
-        "80691-stars"
+        "354-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-620551205",
+      "title": "adamlui/chatgpt-widescreen",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/adamlui/chatgpt-widescreen",
+      "date": "2026-07-14",
+      "readTime": "3 min",
+      "summary": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!",
+      "body": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!",
+      "tags": [
+        "github",
+        "open-source",
+        "205-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-620554063",
+      "title": "adamlui/chatgpt-auto-refresh",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/adamlui/chatgpt-auto-refresh",
+      "date": "2026-07-14",
+      "readTime": "3 min",
+      "summary": "↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks",
+      "body": "↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks",
+      "tags": [
+        "github",
+        "open-source",
+        "207-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/frontman-ai/frontman",
+      "date": "2026-07-14",
+      "readTime": "3 min",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
+      "tags": [
+        "github",
+        "open-source",
+        "610-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/xorbitsai/inference",
+      "date": "2026-07-14",
+      "readTime": "3 min",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "tags": [
+        "github",
+        "open-source",
+        "9429-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "date": "2026-07-14",
+      "readTime": "3 min",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "tags": [
+        "github",
+        "open-source",
+        "152-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -466,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "16-downloads"
+        "20-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -574,7 +574,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "14-downloads"
+        "18-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 323
+      "latencyMs": 313
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 330
+      "latencyMs": 464
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 56
+      "latencyMs": 123
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 169
+      "latencyMs": 404
     },
     {
       "id": "gdelt",
