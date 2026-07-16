@@ -1,54 +1,126 @@
 {
-  "generatedAt": "2026-07-16T03:37:22.051Z",
+  "generatedAt": "2026-07-16T08:34:46.955Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-1056950791",
-      "title": "JSONbored/awesome-claude",
+      "slug": "hacker-news-48930585",
+      "title": "EU officials peeved after Anthropic sends junior staffer to testify about safety",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.politico.eu/article/anthropic-european-parliament-donny-greenberg-artificial-intelligence-ai/",
+      "date": "2026-07-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de EU officials peeved after Anthropic sends junior staffer to testify about safety, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de EU officials peeved after Anthropic sends junior staffer to testify about safety, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-48930503",
+      "title": "OpenAI Launches Hardware for Codex",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "date": "2026-07-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de OpenAI Launches Hardware for Codex, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de OpenAI Launches Hardware for Codex, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JSONbored/awesome-claude",
+      "url": "https://github.com/kornia/kornia",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
       "tags": [
         "github",
         "open-source",
-        "280-stars"
+        "11276-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-1149023093",
+      "title": "HenryNdubuaku/maths-cs-ai-compendium",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Become a cracked AI/ML Research Engineer",
+      "body": "Become a cracked AI/ML Research Engineer",
       "tags": [
         "github",
         "open-source",
-        "80922-stars"
+        "6114-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "url": "https://github.com/xorbitsai/inference",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "tags": [
+        "github",
+        "open-source",
+        "9436-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
+      "date": "2026-07-16",
+      "readTime": "3 min",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "tags": [
+        "github",
+        "open-source",
+        "153-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
+      "date": "2026-07-16",
+      "readTime": "3 min",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
       "tags": [
         "github",
         "open-source",
@@ -57,238 +129,58 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283341037",
-      "title": "jaimasih05-commits/swarm-foraging-qlearn",
+      "slug": "github-1283362391",
+      "title": "okesipoke/manuscript-phoneme-decipher",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
-      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "152-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-59450149",
-      "title": "DrVrej/VJ-Base",
+      "slug": "github-159916548",
+      "title": "awesome-mlss/awesome-mlss",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/DrVrej/VJ-Base",
+      "url": "https://github.com/awesome-mlss/awesome-mlss",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
-      "body": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
+      "summary": "🤖 Machine Learning Summer School Guide",
+      "body": "🤖 Machine Learning Summer School Guide",
       "tags": [
         "github",
         "open-source",
-        "121-stars"
+        "3023-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-197261780",
-      "title": "bee-san/Ciphey",
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/bee-san/Ciphey",
+      "url": "https://github.com/flwrlabs/flower",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
-      "body": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
       "tags": [
         "github",
         "open-source",
-        "21517-stars"
+        "7035-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
-      "tags": [
-        "github",
-        "open-source",
-        "151-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-113856767",
-      "title": "halfrost/threes-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/halfrost/threes-ai",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "🏆 Expectimax search and N-tuple TD learning for the Threes! game.",
-      "body": "🏆 Expectimax search and N-tuple TD learning for the Threes! game.",
-      "tags": [
-        "github",
-        "open-source",
-        "163-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "gdelt-https-www-bfm-ru-news-607381",
-      "title": "Набиуллина назвала основной риск для развития ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.bfm.ru/news/607381",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "bfm.ru",
-      "body": "bfm.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "bfm.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
-      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260523/ii-2094198682.html",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "sud.ua",
-      "body": "sud.ua",
-      "tags": [
-        "gdelt",
-        "media",
-        "sud.ua"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-garant-ru-news-2142746",
-      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.garant.ru/news/2142746/",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "garant.ru",
-      "body": "garant.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "garant.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "title": "Трамп відтермінував підписання указу про ШІ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "ua.korrespondent.net",
-      "body": "ua.korrespondent.net",
-      "tags": [
-        "gdelt",
-        "media",
-        "ua.korrespondent.net"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-publimetro-com-mx-noticias-2026-05-06-universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso",
-      "title": "Universidades en México carecen de regulación para uso de inteligencia artificial – Publimetro México",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.publimetro.com.mx/noticias/2026/05/06/universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso/",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "publimetro.com.mx",
-      "body": "publimetro.com.mx",
-      "tags": [
-        "gdelt",
-        "media",
-        "publimetro.com.mx"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
-      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
-      "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-interfax-ru-business-1091278",
-      "title": "Набиуллина назвала чрезмерное регулирование основным риском для развития ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.interfax.ru/business/1091278",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "interfax.ru",
-      "body": "interfax.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "interfax.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-48925468",
@@ -301,24 +193,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Leaked Suno code lists 2,013,545 YouTube Music clips, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Leaked Suno code lists 2,013,545 YouTube Music clips, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48923072",
-      "title": "OpenAI Launches Hardware for Codex",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "date": "2026-07-15",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de OpenAI Launches Hardware for Codex, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de OpenAI Launches Hardware for Codex, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -541,186 +415,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48889232",
-      "title": "TSMC posts record revenue in second quarter on AI demand",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.reuters.com/technology/artificial-intelligence/",
-      "date": "2026-07-13",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de TSMC posts record revenue in second quarter on AI demand, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de TSMC posts record revenue in second quarter on AI demand, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48883378",
-      "title": "Anthropic extends Fable 5 access through July 19",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-extends-fable-5-access-through-july-19/articleshow/132350610.cms?from=mdr",
-      "date": "2026-07-12",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Anthropic extends Fable 5 access through July 19, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Anthropic extends Fable 5 access through July 19, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
-      "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/KurdistanAI/kurdistan_Artificial_Intelligence1.0",
-      "date": "2026-06-11",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-applied-artificial-intelligence-eurecat-water-governance-bge-m3",
-      "title": "Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
-      "date": "2026-05-11",
-      "readTime": "3 min",
-      "summary": "Modele publie sur Hugging Face pour sentence-similarity.",
-      "body": "Modele publie sur Hugging Face pour sentence-similarity.",
-      "tags": [
-        "hugging-face",
-        "sentence-similarity",
-        "20-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-hasansuhail-hyper-plus-artificialintelligence-ai",
-      "title": "hasansuhail/Hyper.Plus.ArtificialIntelligence.ai",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/hasansuhail/Hyper.Plus.ArtificialIntelligence.ai",
-      "date": "2026-05-07",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-artificial-intelligence-computer-vision-bellande-step-model-executables",
-      "title": "Artificial-Intelligence-Computer-Vision/bellande_step_model_executables",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/Artificial-Intelligence-Computer-Vision/bellande_step_model_executables",
-      "date": "2026-01-25",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-tintindo-artificial-intelligence",
-      "title": "TinTinDo/Artificial-Intelligence",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/TinTinDo/Artificial-Intelligence",
-      "date": "2025-11-19",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-tintindo-chat-box-artificial-intelligence",
-      "title": "TinTinDo/Chat-Box-Artificial-Intelligence",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/TinTinDo/Chat-Box-Artificial-Intelligence",
-      "date": "2025-11-16",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-groovy-123-marfo-artificial-intelligence-pro",
-      "title": "Groovy-123/marfo-artificial-intelligence-pro",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/Groovy-123/marfo-artificial-intelligence-pro",
-      "date": "2025-08-30",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-applied-artificial-intelligence-eurecat-impetus-climate-bge-small",
-      "title": "Applied-Artificial-Intelligence-Eurecat/IMPETUS-Climate-bge-small",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/Applied-Artificial-Intelligence-Eurecat/IMPETUS-Climate-bge-small",
-      "date": "2025-03-27",
-      "readTime": "3 min",
-      "summary": "Modele publie sur Hugging Face pour sentence-similarity.",
-      "body": "Modele publie sur Hugging Face pour sentence-similarity.",
-      "tags": [
-        "hugging-face",
-        "sentence-similarity",
-        "18-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
   ],
   "sources": [
@@ -731,7 +425,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 329
+      "latencyMs": 268
     },
     {
       "id": "github",
@@ -740,16 +434,16 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 390
+      "latencyMs": 364
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "category": "Modeles",
       "docsUrl": "https://huggingface.co/docs/hub/api",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 130
+      "ok": false,
+      "count": 0,
+      "error": "Hugging Face returned HTTP 504"
     },
     {
       "id": "semantic-scholar",
@@ -767,19 +461,21 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 449
+      "latencyMs": 104
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 12994
+      "ok": false,
+      "count": 0,
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Hugging Face: Hugging Face returned HTTP 504",
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
