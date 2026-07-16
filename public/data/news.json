@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-07-16T08:34:46.955Z",
+  "generatedAt": "2026-07-16T14:23:10.251Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48934011",
+      "title": "FBI Considers Using AI Tech to Review Signatures on Seized Mail-In Ballots",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.propublica.org/article/trump-2020-election-georgia-fulton-artificial-intelligence-fbi",
+      "date": "2026-07-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de FBI Considers Using AI Tech to Review Signatures on Seized Mail-In Ballots, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de FBI Considers Using AI Tech to Review Signatures on Seized Mail-In Ballots, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48930585",
       "title": "EU officials peeved after Anthropic sends junior staffer to testify about safety",
@@ -39,88 +57,124 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-885743839",
+      "title": "leofan90/Awesome-World-Models",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/leofan90/Awesome-World-Models",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
+      "body": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
       "tags": [
         "github",
         "open-source",
-        "11276-stars"
+        "1895-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1149023093",
-      "title": "HenryNdubuaku/maths-cs-ai-compendium",
+      "slug": "github-1017208970",
+      "title": "WordPress/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/WordPress/ai",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "Become a cracked AI/ML Research Engineer",
-      "body": "Become a cracked AI/ML Research Engineer",
+      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
       "tags": [
         "github",
         "open-source",
-        "6114-stars"
+        "283-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-653496050",
-      "title": "xorbitsai/inference",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xorbitsai/inference",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "9436-stars"
+        "42047-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283352305",
-      "title": "Sujal-142/ai-image-clean-eraser",
+      "slug": "github-1056950791",
+      "title": "JSONbored/awesome-claude",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
+      "url": "https://github.com/JSONbored/awesome-claude",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
-      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
       "tags": [
         "github",
         "open-source",
-        "153-stars"
+        "280-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283346786",
-      "title": "aminekago-web/Paradigm-Survival-Arena",
+      "slug": "github-137747179",
+      "title": "10up/classifai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
+      "url": "https://github.com/10up/classifai",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
-      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "summary": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
+      "body": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
+      "tags": [
+        "github",
+        "open-source",
+        "708-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-581166973",
+      "title": "facebookresearch/fairseq2",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/facebookresearch/fairseq2",
+      "date": "2026-07-16",
+      "readTime": "3 min",
+      "summary": "FAIR Sequence Modeling Toolkit 2",
+      "body": "FAIR Sequence Modeling Toolkit 2",
+      "tags": [
+        "github",
+        "open-source",
+        "1142-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-07-16",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
       "tags": [
         "github",
         "open-source",
@@ -129,56 +183,20 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283362391",
-      "title": "okesipoke/manuscript-phoneme-decipher",
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
       "date": "2026-07-16",
       "readTime": "3 min",
-      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
-      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-159916548",
-      "title": "awesome-mlss/awesome-mlss",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/awesome-mlss/awesome-mlss",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "🤖 Machine Learning Summer School Guide",
-      "body": "🤖 Machine Learning Summer School Guide",
-      "tags": [
-        "github",
-        "open-source",
-        "3023-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
-      "date": "2026-07-16",
-      "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
-      "tags": [
-        "github",
-        "open-source",
-        "7035-stars"
+        "24726-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -399,22 +417,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-48890208",
-      "title": "Indian companies look to Chinese LLMs as AI costs bite",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/indian-companies-look-to-chinese-llms-as-ai-costs-bite",
-      "date": "2026-07-13",
+      "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
+      "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/KurdistanAI/kurdistan_Artificial_Intelligence1.0",
+      "date": "2026-06-11",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Indian companies look to Chinese LLMs as AI costs bite, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Indian companies look to Chinese LLMs as AI costs bite, reperee dans la communaute Hacker News.",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "hugging-face",
+        "model",
+        "0-downloads"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-applied-artificial-intelligence-eurecat-water-governance-bge-m3",
+      "title": "Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
+      "date": "2026-05-11",
+      "readTime": "3 min",
+      "summary": "Modele publie sur Hugging Face pour sentence-similarity.",
+      "body": "Modele publie sur Hugging Face pour sentence-similarity.",
+      "tags": [
+        "hugging-face",
+        "sentence-similarity",
+        "26-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-hasansuhail-hyper-plus-artificialintelligence-ai",
+      "title": "hasansuhail/Hyper.Plus.ArtificialIntelligence.ai",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/hasansuhail/Hyper.Plus.ArtificialIntelligence.ai",
+      "date": "2026-05-07",
+      "readTime": "3 min",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
+      "tags": [
+        "hugging-face",
+        "model",
+        "0-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-artificial-intelligence-computer-vision-bellande-step-model-executables",
+      "title": "Artificial-Intelligence-Computer-Vision/bellande_step_model_executables",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/Artificial-Intelligence-Computer-Vision/bellande_step_model_executables",
+      "date": "2026-01-25",
+      "readTime": "3 min",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
+      "tags": [
+        "hugging-face",
+        "model",
+        "0-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-tintindo-artificial-intelligence",
+      "title": "TinTinDo/Artificial-Intelligence",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/TinTinDo/Artificial-Intelligence",
+      "date": "2025-11-19",
+      "readTime": "3 min",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
+      "tags": [
+        "hugging-face",
+        "model",
+        "0-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-tintindo-chat-box-artificial-intelligence",
+      "title": "TinTinDo/Chat-Box-Artificial-Intelligence",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/TinTinDo/Chat-Box-Artificial-Intelligence",
+      "date": "2025-11-16",
+      "readTime": "3 min",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
+      "tags": [
+        "hugging-face",
+        "model",
+        "0-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-groovy-123-marfo-artificial-intelligence-pro",
+      "title": "Groovy-123/marfo-artificial-intelligence-pro",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/Groovy-123/marfo-artificial-intelligence-pro",
+      "date": "2025-08-30",
+      "readTime": "3 min",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
+      "tags": [
+        "hugging-face",
+        "model",
+        "0-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-applied-artificial-intelligence-eurecat-impetus-climate-bge-small",
+      "title": "Applied-Artificial-Intelligence-Eurecat/IMPETUS-Climate-bge-small",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/Applied-Artificial-Intelligence-Eurecat/IMPETUS-Climate-bge-small",
+      "date": "2025-03-27",
+      "readTime": "3 min",
+      "summary": "Modele publie sur Hugging Face pour sentence-similarity.",
+      "body": "Modele publie sur Hugging Face pour sentence-similarity.",
+      "tags": [
+        "hugging-face",
+        "sentence-similarity",
+        "25-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
   ],
   "sources": [
@@ -425,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 268
+      "latencyMs": 420
     },
     {
       "id": "github",
@@ -434,16 +578,16 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 364
+      "latencyMs": 269
     },
     {
       "id": "hugging-face",
       "name": "Hugging Face",
       "category": "Modeles",
       "docsUrl": "https://huggingface.co/docs/hub/api",
-      "ok": false,
-      "count": 0,
-      "error": "Hugging Face returned HTTP 504"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 60
     },
     {
       "id": "semantic-scholar",
@@ -461,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 104
+      "latencyMs": 607
     },
     {
       "id": "gdelt",
@@ -474,7 +618,6 @@
     }
   ],
   "errors": [
-    "Hugging Face: Hugging Face returned HTTP 504",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: GDELT returned HTTP 429"
   ]
