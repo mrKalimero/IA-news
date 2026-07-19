@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-07-19T13:53:45.807Z",
+  "generatedAt": "2026-07-19T19:32:32.041Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-48968486",
+      "title": "Humanity at the Threshold: A Declaration on Artificial Intelligence and Nukes",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://globalnobelassembly.org/rome-declaration",
+      "date": "2026-07-19",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Humanity at the Threshold: A Declaration on Artificial Intelligence and Nukes, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Humanity at the Threshold: A Declaration on Artificial Intelligence and Nukes, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-48965505",
       "title": "Dave Eggers told OpenAI staff that ChatGPT was 'silencing a generation'",
@@ -57,38 +75,56 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-759418356",
-      "title": "willyfh/visualtorch",
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/willyfh/visualtorch",
+      "url": "https://github.com/frontman-ai/frontman",
       "date": "2026-07-19",
       "readTime": "3 min",
-      "summary": "VisualTorch aims to help visualize Torch-based neural network architectures.",
-      "body": "VisualTorch aims to help visualize Torch-based neural network architectures.",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
       "tags": [
         "github",
         "open-source",
-        "300-stars"
+        "618-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1056950791",
-      "title": "JSONbored/awesome-claude",
+      "slug": "github-1043767874",
+      "title": "wshobson/maverick-mcp",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JSONbored/awesome-claude",
+      "url": "https://github.com/wshobson/maverick-mcp",
       "date": "2026-07-19",
       "readTime": "3 min",
-      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "summary": "MaverickMCP - Personal Stock Analysis MCP Server",
+      "body": "MaverickMCP - Personal Stock Analysis MCP Server",
       "tags": [
         "github",
         "open-source",
-        "280-stars"
+        "630-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283305297",
+      "title": "Fabiojvv/ai-cortex-hub",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "date": "2026-07-19",
+      "readTime": "3 min",
+      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "tags": [
+        "github",
+        "open-source",
+        "153-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -103,24 +139,6 @@
       "readTime": "3 min",
       "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
       "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "tags": [
-        "github",
-        "open-source",
-        "151-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283341037",
-      "title": "jaimasih05-commits/swarm-foraging-qlearn",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
-      "date": "2026-07-19",
-      "readTime": "3 min",
-      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
-      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
       "tags": [
         "github",
         "open-source",
@@ -147,56 +165,56 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-41550991",
+      "title": "mars-sim/mars-sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/mars-sim/mars-sim",
       "date": "2026-07-19",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Mars Simulation Project Official Codebase",
+      "body": "Mars Simulation Project Official Codebase",
       "tags": [
         "github",
         "open-source",
-        "5844-stars"
+        "166-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
+      "slug": "github-29906842",
+      "title": "owainlewis/awesome-artificial-intelligence",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
       "date": "2026-07-19",
       "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "summary": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "body": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
       "tags": [
         "github",
         "open-source",
-        "153-stars"
+        "15302-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
+      "slug": "github-1283341037",
+      "title": "jaimasih05-commits/swarm-foraging-qlearn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
+      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
       "date": "2026-07-19",
       "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
       "tags": [
         "github",
         "open-source",
-        "501-stars"
+        "151-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -265,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de The Myth of Artificial Intelligence (2021), reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de The Myth of Artificial Intelligence (2021), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48951854",
-      "title": "MLB restricts using dugout iPads for AI-assisted in-game strategy",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.espn.com/mlb/story/_/id/49385415/mlb-restricts-dugout-ipad-use-prevent-artificial-intelligence-game-decision-making",
-      "date": "2026-07-17",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de MLB restricts using dugout iPads for AI-assisted in-game strategy, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de MLB restricts using dugout iPads for AI-assisted in-game strategy, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 307
+      "latencyMs": 316
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 310
+      "latencyMs": 353
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 172
+      "latencyMs": 124
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 419
+      "latencyMs": 294
     },
     {
       "id": "gdelt",
