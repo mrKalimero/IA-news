@@ -1,58 +1,76 @@
 {
-  "generatedAt": "2026-07-20T09:33:56.134Z",
+  "generatedAt": "2026-07-20T14:33:33.323Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-885743839",
-      "title": "leofan90/Awesome-World-Models",
+      "slug": "hacker-news-48977278",
+      "title": "Major AI models are likely to refuse criticizing restrictive leaders or govts",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://apnews.com/article/artificial-intelligence-chatbots-censorship-bias-free-speech-fed8fdbf90751c10fe77b77832e0ffba",
+      "date": "2026-07-20",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Major AI models are likely to refuse criticizing restrictive leaders or govts, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Major AI models are likely to refuse criticizing restrictive leaders or govts, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1056950791",
+      "title": "JSONbored/awesome-claude",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/leofan90/Awesome-World-Models",
+      "url": "https://github.com/JSONbored/awesome-claude",
       "date": "2026-07-20",
       "readTime": "3 min",
-      "summary": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
-      "body": "A comprehensive list of papers for the definition of World Models and using World Models for General Video Generation, Embodied AI, and Autonomous Driving, including papers, codes, and related websites.",
+      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
       "tags": [
         "github",
         "open-source",
-        "1901-stars"
+        "280-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-07-20",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "1484-stars"
+        "81398-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-169975410",
-      "title": "leon-ai/leon",
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/leon-ai/leon",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
       "date": "2026-07-20",
       "readTime": "3 min",
-      "summary": "🧠 Leon is your open-source personal assistant.",
-      "body": "🧠 Leon is your open-source personal assistant.",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
       "tags": [
         "github",
         "open-source",
-        "17366-stars"
+        "151-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -75,220 +93,76 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-07-20",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "24832-stars"
+        "501-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-07-20",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "81372-stars"
+        "5864-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
+      "slug": "github-271090649",
+      "title": "lucidrains/vector-quantize-pytorch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "url": "https://github.com/lucidrains/vector-quantize-pytorch",
       "date": "2026-07-20",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "summary": "Vector (and Scalar) Quantization, in Pytorch",
+      "body": "Vector (and Scalar) Quantization, in Pytorch",
       "tags": [
         "github",
         "open-source",
-        "787-stars"
+        "3982-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1056950791",
-      "title": "JSONbored/awesome-claude",
+      "slug": "github-65310972",
+      "title": "VIAME/VIAME",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JSONbored/awesome-claude",
+      "url": "https://github.com/VIAME/VIAME",
       "date": "2026-07-20",
       "readTime": "3 min",
-      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "summary": "Video and Image Analytics for Multiple Environments",
+      "body": "Video and Image Analytics for Multiple Environments",
       "tags": [
         "github",
         "open-source",
-        "280-stars"
+        "336-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
-      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260717/rossija-2105387375.html",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-bfm-ru-news-607381",
-      "title": "Набиуллина назвала основной риск для развития ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.bfm.ru/news/607381",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "bfm.ru",
-      "body": "bfm.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "bfm.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
-      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260523/ii-2094198682.html",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "sud.ua",
-      "body": "sud.ua",
-      "tags": [
-        "gdelt",
-        "media",
-        "sud.ua"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-garant-ru-news-2142746",
-      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.garant.ru/news/2142746/",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "garant.ru",
-      "body": "garant.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "garant.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "title": "Трамп відтермінував підписання указу про ШІ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "ua.korrespondent.net",
-      "body": "ua.korrespondent.net",
-      "tags": [
-        "gdelt",
-        "media",
-        "ua.korrespondent.net"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-publimetro-com-mx-noticias-2026-05-06-universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso",
-      "title": "Universidades en México carecen de regulación para uso de inteligencia artificial – Publimetro México",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.publimetro.com.mx/noticias/2026/05/06/universidades-mexicanas-se-rezagan-ante-ia-83-aun-no-tiene-reglas-para-su-uso/",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "publimetro.com.mx",
-      "body": "publimetro.com.mx",
-      "tags": [
-        "gdelt",
-        "media",
-        "publimetro.com.mx"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
-      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
-      "date": "2026-07-20",
-      "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
-      "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-48968486",
@@ -409,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Brazilian scientist propose a \"shortcut\" to Mars in just 7 months, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Brazilian scientist propose a \"shortcut\" to Mars in just 7 months, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48952423",
-      "title": "The Myth of Artificial Intelligence (2021)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.hup.harvard.edu/books/9780674278660",
-      "date": "2026-07-17",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Myth of Artificial Intelligence (2021), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Myth of Artificial Intelligence (2021), reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -731,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 464
+      "latencyMs": 276
     },
     {
       "id": "github",
@@ -740,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 287
+      "latencyMs": 295
     },
     {
       "id": "hugging-face",
@@ -749,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 121
+      "latencyMs": 67
     },
     {
       "id": "semantic-scholar",
@@ -767,19 +623,20 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 203
+      "latencyMs": 112
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 16961
+      "ok": false,
+      "count": 0,
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
