@@ -1,148 +1,202 @@
 {
-  "generatedAt": "2026-07-23T08:44:41.283Z",
+  "generatedAt": "2026-07-23T14:32:17.830Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-1056950791",
-      "title": "JSONbored/awesome-claude",
+      "slug": "hacker-news-49021873",
+      "title": "Free Copilot is turning into a demo as Microsoft shifts real features to paid",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/free-copilot-is-turning-into-a-demo-as-microsoft-shifts-real-features-to-paid-tiers",
+      "date": "2026-07-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Free Copilot is turning into a demo as Microsoft shifts real features to paid, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Free Copilot is turning into a demo as Microsoft shifts real features to paid, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49020999",
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "date": "2026-07-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI Companies Are Trying to Hide a Staggering Amount of Debt, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI Companies Are Trying to Hide a Staggering Amount of Debt, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49018909",
+      "title": "Trump's Plan for Science: More Money for A.I., Less for Universities",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html",
+      "date": "2026-07-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Trump's Plan for Science: More Money for A.I., Less for Universities, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Trump's Plan for Science: More Money for A.I., Less for Universities, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49018675",
+      "title": "World Artificial Intelligence Cooperation Organization",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization",
+      "date": "2026-07-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de World Artificial Intelligence Cooperation Organization, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de World Artificial Intelligence Cooperation Organization, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JSONbored/awesome-claude",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-07-23",
       "readTime": "3 min",
-      "summary": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
-      "body": "HeyClaude is a curated registry and distribution surface for Claude and AI-workflow assets: agents, MCP servers, skills, commands, hooks, rules, guides, tools, jobs, Raycast feeds, static data exports, and an npm MCP...",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "281-stars"
+        "81831-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283362391",
-      "title": "okesipoke/manuscript-phoneme-decipher",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-07-23",
       "readTime": "3 min",
-      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
-      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "25742-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-113856767",
-      "title": "halfrost/threes-ai",
+      "slug": "github-785180896",
+      "title": "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/halfrost/threes-ai",
+      "url": "https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP",
       "date": "2026-07-23",
       "readTime": "3 min",
-      "summary": "🏆 Threes! AI: deck-aware expectimax, N-tuple TD learning, and AlphaZero",
-      "body": "🏆 Threes! AI: deck-aware expectimax, N-tuple TD learning, and AlphaZero",
+      "summary": "100+ AI Machine learning Deep learning Computer vision NLP Projects with code",
+      "body": "100+ AI Machine learning Deep learning Computer vision NLP Projects with code",
       "tags": [
         "github",
         "open-source",
-        "163-stars"
+        "347-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
+      "slug": "github-99561213",
+      "title": "sonos/tract",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
+      "url": "https://github.com/sonos/tract",
       "date": "2026-07-23",
       "readTime": "3 min",
-      "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
-      "body": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
       "tags": [
         "github",
         "open-source",
-        "29184-stars"
+        "3008-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-676157443",
-      "title": "RevEngAI/plugin-ghidra",
+      "slug": "github-695864515",
+      "title": "hacksider/Deep-Live-Cam",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/RevEngAI/plugin-ghidra",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
       "date": "2026-07-23",
       "readTime": "3 min",
-      "summary": "RevEng.AI Ghidra Plugin",
-      "body": "RevEng.AI Ghidra Plugin",
+      "summary": "real time face swap and one-click video deepfake with only a single image",
+      "body": "real time face swap and one-click video deepfake with only a single image",
       "tags": [
         "github",
         "open-source",
-        "180-stars"
+        "95153-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-07-23",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "5905-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-07-23",
       "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "153-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-620551205",
-      "title": "adamlui/chatgpt-widescreen",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/adamlui/chatgpt-widescreen",
-      "date": "2026-07-23",
-      "readTime": "3 min",
-      "summary": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!",
-      "body": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!",
-      "tags": [
-        "github",
-        "open-source",
-        "206-stars"
+        "5727-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -219,220 +273,22 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20411v1",
-      "title": "Lipschitzian SLLNs for random functions",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20411v1",
+      "slug": "github-1235821686",
+      "title": "Thiago-code-lab/aws-certified-ai-practitioner-brasil",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Thiago-code-lab/aws-certified-ai-practitioner-brasil",
       "date": "2026-07-22",
       "readTime": "3 min",
-      "summary": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompassing functions j...",
-      "body": "We prove strong laws of large numbers for locally Lipschitz functions in the Lipschitz pseudometric. Our results hold under either a topological or a model-theoretic condition, with the latter encompassing functions j...",
+      "summary": "Conteúdo em PT-BR para a AWS AI Practitioner (AIF-C01), com foco em fundamentos de IA/ML na AWS, serviços gerenciados (Bedrock, Sagemaker, etc.), boas práticas de governança e aplicações de negócio.",
+      "body": "Conteúdo em PT-BR para a AWS AI Practitioner (AIF-C01), com foco em fundamentos de IA/ML na AWS, serviços gerenciados (Bedrock, Sagemaker, etc.), boas práticas de governança e aplicações de negócio.",
       "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
+        "github",
+        "open-source",
+        "278-stars"
       ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20402v1",
-      "title": "SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20402v1",
-      "date": "2026-07-22",
-      "readTime": "3 min",
-      "summary": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplie...",
-      "body": "In many reasoning problems, the premises are not observed as discrete symbols, but must be inferred from high-dimensional inputs. Further, the predicate vocabulary, argument structure, and trusted evidence are supplie...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20399v1",
-      "title": "Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20399v1",
-      "date": "2026-07-22",
-      "readTime": "3 min",
-      "summary": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilizes Virtual Reality...",
-      "body": "Full-sized humanoid robot capabilities have grown exponentially in recent years, aiming towards general-purpose deployment in human environments. A popular control method used by manufacturers utilizes Virtual Reality...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20385v1",
-      "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20385v1",
-      "date": "2026-07-22",
-      "readTime": "3 min",
-      "summary": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries. This gap arises...",
-      "body": "Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries. This gap arises...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20382v1",
-      "title": "FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20382v1",
-      "date": "2026-07-22",
-      "readTime": "3 min",
-      "summary": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibil...",
-      "body": "Clinical biomarker workflows in translational research settings often rely on spreadsheet-driven tracking, manual quality control (QC) reconciliation, and loosely integrated systems, resulting in limited state visibil...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20379v1",
-      "title": "Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20379v1",
-      "date": "2026-07-22",
-      "readTime": "3 min",
-      "summary": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individ...",
-      "body": "Natural-language autoencoders score explanations of hidden activations by reconstruction: an explanation is deemed faithful if the activation can be regenerated from it. The test is structurally insensitive to individ...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20378v1",
-      "title": "PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20378v1",
-      "date": "2026-07-22",
-      "readTime": "3 min",
-      "summary": "Physics-informed learning of partial differential equations (PDEs) has been dominated by multilayer perceptrons (MLPs), whose spectral bias and dense parameterization limit both accuracy and interpretability. Kolmogor...",
-      "body": "Physics-informed learning of partial differential equations (PDEs) has been dominated by multilayer perceptrons (MLPs), whose spectral bias and dense parameterization limit both accuracy and interpretability. Kolmogor...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2607-20377v1",
-      "title": "Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.20377v1",
-      "date": "2026-07-22",
-      "readTime": "3 min",
-      "summary": "Quantum-kernel methods encode a dataset's geometry in a Gram matrix, so learning claims on hardware kernels assume the intended geometry survives execution. We measure that survival for one frozen four-qubit ZZ featur...",
-      "body": "Quantum-kernel methods encode a dataset's geometry in a Gram matrix, so learning claims on hardware kernels assume the intended geometry survives execution. We measure that survival for one frozen four-qubit ZZ featur...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-48997047",
-      "title": "Substack adds an AI detector to help spot blogs written by no one",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "date": "2026-07-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Substack adds an AI detector to help spot blogs written by no one, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Substack adds an AI detector to help spot blogs written by no one, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48995767",
-      "title": "A Taxonomy of Omnicidal Futures Involving Artificial Intelligence (2025)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://arxiv.org/abs/2507.09369",
-      "date": "2026-07-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de A Taxonomy of Omnicidal Futures Involving Artificial Intelligence (2025), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de A Taxonomy of Omnicidal Futures Involving Artificial Intelligence (2025), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48994385",
-      "title": "How much energy do data centers and artificial intelligence use?",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://ourworldindata.org/how-much-energy-do-data-centers-and-artificial-intelligence-use",
-      "date": "2026-07-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de How much energy do data centers and artificial intelligence use?, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de How much energy do data centers and artificial intelligence use?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-48989306",
-      "title": "DeepSWE – Best Benchmark for Evaluating AI Coding Agents?",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.i-programmer.info/news/105-artificial-intelligence/19016-deepswe-best-benchmark-for-evaluating-ai-coding-agents.html",
-      "date": "2026-07-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de DeepSWE – Best Benchmark for Evaluating AI Coding Agents?, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de DeepSWE – Best Benchmark for Evaluating AI Coding Agents?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +443,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 272
+      "latencyMs": 509
     },
     {
       "id": "github",
@@ -596,7 +452,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 398
+      "latencyMs": 416
     },
     {
       "id": "hugging-face",
@@ -605,7 +461,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 122
+      "latencyMs": 133
     },
     {
       "id": "semantic-scholar",
@@ -621,9 +477,9 @@
       "name": "arXiv",
       "category": "Recherche",
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 355
+      "ok": false,
+      "count": 0,
+      "error": "arXiv returned HTTP 429"
     },
     {
       "id": "gdelt",
@@ -632,11 +488,12 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "arXiv: arXiv returned HTTP 429",
+    "GDELT: fetch failed"
   ]
 }
