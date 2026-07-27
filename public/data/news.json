@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-07-27T15:13:49.705Z",
+  "generatedAt": "2026-07-27T19:55:03.645Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49074063",
+      "title": "Why China is giving away its best AI models",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "date": "2026-07-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Why China is giving away its best AI models, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Why China is giving away its best AI models, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49063668",
       "title": "Open-source 3D-printed portable MRI machine built for under $70k",
@@ -21,146 +39,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "25060-stars"
+        "25840-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
+      "slug": "github-614250126",
+      "title": "KudoAI/chatgpt.js",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
+      "url": "https://github.com/KudoAI/chatgpt.js",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "summary": "🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT",
+      "body": "🤖 A powerful, lightweight JavaScript library + interactive CLI for ChatGPT",
       "tags": [
         "github",
         "open-source",
-        "501-stars"
+        "2043-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-319063032",
-      "title": "SeriousOldMan/Simulator-Controller",
+      "slug": "github-633757598",
+      "title": "adamlui/chatgpt-infinity",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SeriousOldMan/Simulator-Controller",
+      "url": "https://github.com/adamlui/chatgpt-infinity",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "A virtual AI-based pit crew for Sim Racing. Use the latest GPT technology to create a real life like experience when out on the track.",
-      "body": "A virtual AI-based pit crew for Sim Racing. Use the latest GPT technology to create a real life like experience when out on the track.",
+      "summary": "∞ Generate endless answers from all-knowing ChatGPT (on any topic!)",
+      "body": "∞ Generate endless answers from all-knowing ChatGPT (on any topic!)",
       "tags": [
         "github",
         "open-source",
-        "427-stars"
+        "356-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-734174248",
-      "title": "lakehq/sail",
+      "slug": "github-620554063",
+      "title": "adamlui/chatgpt-auto-refresh",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lakehq/sail",
+      "url": "https://github.com/adamlui/chatgpt-auto-refresh",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
-      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "summary": "↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks",
+      "body": "↻ Keeps ChatGPT sessions fresh, eliminating chat time limits + network errors + Cloudflare checks",
       "tags": [
         "github",
         "open-source",
-        "3226-stars"
+        "207-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1066509034",
-      "title": "deepnote/deepnote",
+      "slug": "github-72835816",
+      "title": "pegaltier/awesome-utils-dev",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/deepnote/deepnote",
+      "url": "https://github.com/pegaltier/awesome-utils-dev",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-tim...",
-      "body": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-tim...",
+      "summary": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
+      "body": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
       "tags": [
         "github",
         "open-source",
-        "2967-stars"
+        "302-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "5946-stars"
+        "27670-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-620551205",
+      "title": "adamlui/chatgpt-widescreen",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/adamlui/chatgpt-widescreen",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!",
+      "body": "🖥️ Award-winning extension to enhance ChatGPT with wide/full/tall-screen + spamblock modes. Also works on poe.com!",
       "tags": [
         "github",
         "open-source",
-        "185712-stars"
+        "206-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-65310972",
-      "title": "VIAME/VIAME",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/VIAME/VIAME",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-07-27",
       "readTime": "3 min",
-      "summary": "Video and Image Analytics for Multiple Environments",
-      "body": "Video and Image Analytics for Multiple Environments",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "336-stars"
+        "44929-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -265,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Amazon cuts some jobs in its artificial general intelligence unit, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Amazon cuts some jobs in its artificial general intelligence unit, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49045333",
-      "title": "Instella-Moe: An Open Mixture-of-Experts Language Model",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://rocm.blogs.amd.com/artificial-intelligence/instella-moe/README.html",
-      "date": "2026-07-25",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Instella-Moe: An Open Mixture-of-Experts Language Model, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Instella-Moe: An Open Mixture-of-Experts Language Model, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 282
+      "latencyMs": 296
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 1039
+      "latencyMs": 314
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 69
+      "latencyMs": 118
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 106
+      "latencyMs": 166
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
