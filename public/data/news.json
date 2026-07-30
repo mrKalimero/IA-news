@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-07-30T14:32:18.213Z",
+  "generatedAt": "2026-07-30T19:52:36.828Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49114670",
+      "title": "Hugging Face is being used to easily undress women and children",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Hugging Face is being used to easily undress women and children, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Hugging Face is being used to easily undress women and children, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49114582",
+      "title": "LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://futurism.com/artificial-intelligence/linkedin-adds-button-report-seems-like-ai-slop",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de LinkedIn Adds \"Seems Like AI Slop\" Button on Every Post, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49113839",
+      "title": "Floundering A.I. Hedge Fund Is Rescued by Rival",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nytimes.com/2026/07/30/business/artificial-intelligence-situational-awareness-citadel.html",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Floundering A.I. Hedge Fund Is Rescued by Rival, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Floundering A.I. Hedge Fund Is Rescued by Rival, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49110939",
+      "title": "Information architecture is the foundation AI is starving for",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Information architecture is the foundation AI is starving for, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Information architecture is the foundation AI is starving for, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49105411",
       "title": "xAI sues Minnesota over its law banning 'nudification' technology",
@@ -21,38 +93,110 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-137747179",
-      "title": "10up/classifai",
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/10up/classifai",
+      "url": "https://github.com/ls1intum/Artemis",
       "date": "2026-07-30",
       "readTime": "3 min",
-      "summary": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
-      "body": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
       "tags": [
         "github",
         "open-source",
-        "711-stars"
+        "791-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-07-30",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "25907-stars"
+        "5750-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "263-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283305297",
+      "title": "Fabiojvv/ai-cortex-hub",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "tags": [
+        "github",
+        "open-source",
+        "153-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/flwrlabs/flower",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
+      "tags": [
+        "github",
+        "open-source",
+        "7061-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-996988898",
+      "title": "codecentric/c4-genai-suite",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/codecentric/c4-genai-suite",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "c4 GenAI Suite",
+      "body": "c4 GenAI Suite",
+      "tags": [
+        "github",
+        "open-source",
+        "171-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -75,94 +219,166 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-257913595",
+      "title": "voxel51/fiftyone",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/voxel51/fiftyone",
       "date": "2026-07-30",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "Refine high-quality datasets and visual AI models",
+      "body": "Refine high-quality datasets and visual AI models",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "10958-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1306090134",
-      "title": "ailinone/collective-intelligence",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ailinone/collective-intelligence",
+      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
+      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260717/rossija-2105387375.html",
       "date": "2026-07-30",
       "readTime": "3 min",
-      "summary": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
-      "body": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
+      "summary": "ria.ru",
+      "body": "ria.ru",
       "tags": [
-        "github",
-        "open-source",
-        "160-stars"
+        "gdelt",
+        "media",
+        "ria.ru"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "slug": "gdelt-https-www-bfm-ru-news-607381",
+      "title": "Набиуллина назвала основной риск для развития ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.bfm.ru/news/607381",
       "date": "2026-07-30",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "bfm.ru",
+      "body": "bfm.ru",
       "tags": [
-        "github",
-        "open-source",
-        "5970-stars"
+        "gdelt",
+        "media",
+        "bfm.ru"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
-      "slug": "github-704892113",
-      "title": "felladrin/MiniSearch",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/felladrin/MiniSearch",
+      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
+      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260523/ii-2094198682.html",
       "date": "2026-07-30",
       "readTime": "3 min",
-      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "summary": "ria.ru",
+      "body": "ria.ru",
       "tags": [
-        "github",
-        "open-source",
-        "579-stars"
+        "gdelt",
+        "media",
+        "ria.ru"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
+      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
       "date": "2026-07-30",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "sud.ua",
+      "body": "sud.ua",
       "tags": [
-        "github",
-        "open-source",
-        "151-stars"
+        "gdelt",
+        "media",
+        "sud.ua"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-news-2142746",
+      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/news/2142746/",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "title": "Трамп відтермінував підписання указу про ШІ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "ua.korrespondent.net",
+      "body": "ua.korrespondent.net",
+      "tags": [
+        "gdelt",
+        "media",
+        "ua.korrespondent.net"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
+      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "hani.co.kr",
+      "body": "hani.co.kr",
+      "tags": [
+        "gdelt",
+        "media",
+        "hani.co.kr"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-interfax-ru-business-1091278",
+      "title": "Набиуллина назвала чрезмерное регулирование основным риском для развития ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.interfax.ru/business/1091278",
+      "date": "2026-07-30",
+      "readTime": "3 min",
+      "summary": "interfax.ru",
+      "body": "interfax.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "interfax.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-49102326",
@@ -211,42 +427,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de AI companies are reportedly shredding books after using them to train AI models, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de AI companies are reportedly shredding books after using them to train AI models, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49099562",
-      "title": "Newsmax, Meta Enter AI Content Partnership",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://news.bloomberglaw.com/artificial-intelligence/newsmax-meta-enter-ai-content-partnership",
-      "date": "2026-07-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Newsmax, Meta Enter AI Content Partnership, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Newsmax, Meta Enter AI Content Partnership, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49095561",
-      "title": "Unpacking Open Source AI: Toward a Framework for Openness in Foundation Models",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://cacm.acm.org/research/unpacking-open-source-artificial-intelligence-toward-a-framework-for-openness-in-foundation-models/",
-      "date": "2026-07-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Unpacking Open Source AI: Toward a Framework for Openness in Foundation Models, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Unpacking Open Source AI: Toward a Framework for Openness in Foundation Models, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -397,42 +577,6 @@
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-49090690",
-      "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://apnews.com/article/new-york-school-artificial-intelligence-robot-teacher-c2126c704104c4eb68b79738630b07df",
-      "date": "2026-07-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de New York school pauses plan to deploy humanlike AI robot teacher after backlash, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de New York school pauses plan to deploy humanlike AI robot teacher after backlash, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49088572",
-      "title": "Artificial Intelligence Is Artificial Thinking",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://krezl.com/essays/artificial-intelligence-is-artificial-thinking",
-      "date": "2026-07-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence Is Artificial Thinking, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence Is Artificial Thinking, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +731,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 304
+      "latencyMs": 1108
     },
     {
       "id": "github",
@@ -596,7 +740,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 328
+      "latencyMs": 914
     },
     {
       "id": "hugging-face",
@@ -605,7 +749,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 90
+      "latencyMs": 586
     },
     {
       "id": "semantic-scholar",
@@ -623,20 +767,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 225
+      "latencyMs": 595
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 15498
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
