@@ -1,7 +1,313 @@
 {
-  "generatedAt": "2026-08-02T19:34:49.020Z",
+  "generatedAt": "2026-08-03T03:54:53.784Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "264-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3051-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1032321090",
+      "title": "askimo-ai/askimo",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/askimo-ai/askimo",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM, Gemini, OpenRouter))",
+      "body": "AI Client for chat, RAG, plans, MCP tools, and agents. Support multiple LLMs (Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM, Gemini, OpenRouter))",
+      "tags": [
+        "github",
+        "open-source",
+        "282-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-734174248",
+      "title": "lakehq/sail",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/lakehq/sail",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "tags": [
+        "github",
+        "open-source",
+        "3254-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-999974788",
+      "title": "zjunlp/LightMem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/zjunlp/LightMem",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation",
+      "body": "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation",
+      "tags": [
+        "github",
+        "open-source",
+        "1067-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-195266931",
+      "title": "csinva/imodels",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/csinva/imodels",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).",
+      "body": "Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).",
+      "tags": [
+        "github",
+        "open-source",
+        "1605-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-912559512",
+      "title": "simstudioai/sim",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/simstudioai/sim",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "body": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "tags": [
+        "github",
+        "open-source",
+        "29304-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/daniel3303/Equibles",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "tags": [
+        "github",
+        "open-source",
+        "188-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
+      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260717/rossija-2105387375.html",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "ria.ru",
+      "body": "ria.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "ria.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-bfm-ru-news-607381",
+      "title": "Набиуллина назвала основной риск для развития ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.bfm.ru/news/607381",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "bfm.ru",
+      "body": "bfm.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "bfm.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
+      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260523/ii-2094198682.html",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "ria.ru",
+      "body": "ria.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "ria.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-http-mignews-com-news-technology-v-es-vstupili-v-silu-novye-pravila-regulirovaniya-iskusstvennogo-intellekta-html",
+      "title": "В ЕС вступили в силу новые правила регулирования искусственного интеллекта | MigNews - Новости Израиля и Мира на русском языке",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "http://mignews.com/news/technology/v-es-vstupili-v-silu-novye-pravila-regulirovaniya-iskusstvennogo-intellekta.html",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "mignews.com",
+      "body": "mignews.com",
+      "tags": [
+        "gdelt",
+        "media",
+        "mignews.com"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
+      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "sud.ua",
+      "body": "sud.ua",
+      "tags": [
+        "gdelt",
+        "media",
+        "sud.ua"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-news-2142746",
+      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/news/2142746/",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "title": "Трамп відтермінував підписання указу про ШІ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "ua.korrespondent.net",
+      "body": "ua.korrespondent.net",
+      "tags": [
+        "gdelt",
+        "media",
+        "ua.korrespondent.net"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
+      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
+      "date": "2026-08-03",
+      "readTime": "3 min",
+      "summary": "hani.co.kr",
+      "body": "hani.co.kr",
+      "tags": [
+        "gdelt",
+        "media",
+        "hani.co.kr"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "hacker-news-49148735",
+      "title": "Show HN: Alfa. Killing AI hallucinations with resonance",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
+      "date": "2026-08-02",
+      "readTime": "3 min",
+      "summary": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understandin...",
+      "body": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understandin...",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49146676",
       "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
@@ -55,150 +361,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-932231825",
-      "title": "dafthunk-com/dafthunk",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dafthunk-com/dafthunk",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "A workflow execution platform built on top of the fantastic Cloudflare infrastructure.",
-      "body": "A workflow execution platform built on top of the fantastic Cloudflare infrastructure.",
-      "tags": [
-        "github",
-        "open-source",
-        "114-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "tags": [
-        "github",
-        "open-source",
-        "154-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283346786",
-      "title": "aminekago-web/Paradigm-Survival-Arena",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
-      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
-      "tags": [
-        "github",
-        "open-source",
-        "151-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "tags": [
-        "github",
-        "open-source",
-        "151-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1301372808",
-      "title": "CyberSunil/LLMVault",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CyberSunil/LLMVault",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-      "body": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-      "tags": [
-        "github",
-        "open-source",
-        "262-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283352305",
-      "title": "Sujal-142/ai-image-clean-eraser",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
-      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
-      "tags": [
-        "github",
-        "open-source",
-        "153-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "tags": [
-        "github",
-        "open-source",
-        "3050-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1190778303",
-      "title": "alvinreal/awesome-opensource-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/alvinreal/awesome-opensource-ai",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
-      "body": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
-      "tags": [
-        "github",
-        "open-source",
-        "4407-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-49137196",
@@ -273,16 +435,16 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28628v1",
-      "title": "Learning to Trace Seiberg Dualities",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29677v1",
+      "title": "ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28628v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29677v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two syst...",
-      "body": "Dualities play an important role in establishing both microscopic and emergent phenomena in a wide range of physical systems. In practice, though, it can often be computationally challenging to establish when two syst...",
+      "summary": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evide...",
+      "body": "Enterprise workflows increasingly rely on agents for \\emph{schema-guided extraction}: given a document and a user-defined schema, the agent faithfully follows the schema to produce the correct output with source evide...",
       "tags": [
         "arxiv",
         "paper",
@@ -291,16 +453,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28627v1",
-      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29675v1",
+      "title": "Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28627v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29675v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints....",
-      "body": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints....",
+      "summary": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private...",
+      "body": "Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. We study differentially private...",
       "tags": [
         "arxiv",
         "paper",
@@ -309,16 +471,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28623v1",
-      "title": "PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29674v1",
+      "title": "Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28623v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29674v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as segmen...",
-      "body": "We present PAC-MAN, a perception-aware CBF-RL framework that couples control-barrier safety with deployment-realistic onboard sensing for whole-body humanoid dodgeball. The deployed policy sees the ball only as segmen...",
+      "summary": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. It outperforms Si...",
+      "body": "SignMuon compresses the Muon update to one bit per parameter by taking its elementwise sign, providing the most direct way to run a matrix-aware optimizer under an extremely low communication budget. It outperforms Si...",
       "tags": [
         "arxiv",
         "paper",
@@ -327,16 +489,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28618v1",
-      "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29665v1",
+      "title": "Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28618v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29665v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and...",
-      "body": "Chemistry literature synthesis often requires assembling specific findings scattered across many publications, yet existing literature-search systems primarily return ranked document lists. As a result, scientists and...",
+      "summary": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery reveals three behavior...",
+      "body": "PDE discovery from sparse observations requires reconstructing a continuous field and selecting the correct differential terms. Our analysis of optimization paths in coupled neural PDE discovery reveals three behavior...",
       "tags": [
         "arxiv",
         "paper",
@@ -345,16 +507,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28617v1",
-      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29659v1",
+      "title": "GQ-FSL: Green Quantized Federated Split Learning",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28617v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29659v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regu...",
-      "body": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regu...",
+      "summary": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FSL) mitigates on-d...",
+      "body": "Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. While federated split learning (FSL) mitigates on-d...",
       "tags": [
         "arxiv",
         "paper",
@@ -363,16 +525,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28609v1",
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29657v1",
+      "title": "Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28609v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29657v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA e...",
-      "body": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA e...",
+      "summary": "Fault detection and diagnosis (FDD) technology is essential for improving HVAC system reliability, energy efficiency, and maintenance effectiveness. However, effective deployment of FDD solutions in buildings requires...",
+      "body": "Fault detection and diagnosis (FDD) technology is essential for improving HVAC system reliability, energy efficiency, and maintenance effectiveness. However, effective deployment of FDD solutions in buildings requires...",
       "tags": [
         "arxiv",
         "paper",
@@ -381,16 +543,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28608v1",
-      "title": "KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29626v1",
+      "title": "AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28608v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29626v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but their components are...",
-      "body": "Clinical risk models routinely achieve strong aggregate performance while producing materially different error rates across patient subgroups. Audit pipelines have been proposed to catch this, but their components are...",
+      "summary": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on static code gene...",
+      "body": "As LLMs evolve from code completion systems into autonomous scientific agents, evaluating their ability to conduct experiments has become increasingly important. Existing benchmarks typically focus on static code gene...",
       "tags": [
         "arxiv",
         "paper",
@@ -399,16 +561,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2607-28591v1",
-      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+      "slug": "arxiv-http-arxiv-org-abs-2607-29624v1",
+      "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2607.28591v1",
-      "date": "2026-07-30",
+      "url": "http://arxiv.org/abs/2607.29624v1",
+      "date": "2026-07-31",
       "readTime": "3 min",
-      "summary": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, development tools, an...",
-      "body": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, development tools, an...",
+      "summary": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe...",
+      "body": "Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe...",
       "tags": [
         "arxiv",
         "paper",
@@ -569,7 +731,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 549
+      "latencyMs": 312
     },
     {
       "id": "github",
@@ -578,7 +740,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 384
+      "latencyMs": 412
     },
     {
       "id": "hugging-face",
@@ -587,7 +749,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 192
+      "latencyMs": 118
     },
     {
       "id": "semantic-scholar",
@@ -605,20 +767,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 376
+      "latencyMs": 249
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 11619
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
