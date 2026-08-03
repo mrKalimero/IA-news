@@ -1,294 +1,150 @@
 {
-  "generatedAt": "2026-08-03T10:05:34.194Z",
+  "generatedAt": "2026-08-03T15:16:10.662Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-485548415",
+      "title": "Eventual-Inc/Daft",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/Eventual-Inc/Daft",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
+      "body": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale",
       "tags": [
         "github",
         "open-source",
-        "25229-stars"
+        "5681-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-102692863",
+      "title": "onnx/onnx",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/onnx/onnx",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "Open standard for machine learning interoperability",
+      "body": "Open standard for machine learning interoperability",
       "tags": [
         "github",
         "open-source",
-        "3051-stars"
+        "21259-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
+      "slug": "github-799690272",
+      "title": "albumentations-team/albucore",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "url": "https://github.com/albumentations-team/albucore",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "summary": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
+      "body": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
       "tags": [
         "github",
         "open-source",
-        "791-stars"
+        "123-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-704324955",
-      "title": "jupyter-naas/abi",
+      "slug": "github-1295383219",
+      "title": "lucidrains/x-jepa",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jupyter-naas/abi",
+      "url": "https://github.com/lucidrains/x-jepa",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
-      "body": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+      "summary": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
+      "body": "Explorations into some of the approaches advocated by Yann LeCun, and just a more wholistic architecture (JEPA) in general",
       "tags": [
         "github",
         "open-source",
-        "142-stars"
+        "117-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "3020-stars"
+        "27733-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-738046322",
-      "title": "LMD0311/Awesome-World-Model",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/LMD0311/Awesome-World-Model",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers.",
-      "body": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers.",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "tags": [
         "github",
         "open-source",
-        "2183-stars"
+        "5102-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-159916548",
-      "title": "awesome-mlss/awesome-mlss",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/awesome-mlss/awesome-mlss",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "🤖 Machine Learning Summer School Guide",
-      "body": "🤖 Machine Learning Summer School Guide",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "3030-stars"
+        "185784-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-08-03",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "82966-stars"
+        "5988-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
-      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260717/rossija-2105387375.html",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-bfm-ru-news-607381",
-      "title": "Набиуллина назвала основной риск для развития ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.bfm.ru/news/607381",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "bfm.ru",
-      "body": "bfm.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "bfm.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260523-ii-2094198682-html",
-      "title": "Зампрезидента РАН назвала самую неосвоенную часть отношений людей с ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260523/ii-2094198682.html",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-sud-ua-uk-news-laws-363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "title": "Штучний інтелект в Україні матиме власне правове поле розпочато роботу над першим законом",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://sud.ua/uk/news/laws/363792-iskusstvennyy-intellekt-v-ukraine-poluchit-sobstvennoe-pravovoe-pole-nachata-rabota-nad-pervym-zakonom",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "sud.ua",
-      "body": "sud.ua",
-      "tags": [
-        "gdelt",
-        "media",
-        "sud.ua"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-garant-ru-news-2142746",
-      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.garant.ru/news/2142746/",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "garant.ru",
-      "body": "garant.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "garant.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ua-korrespondent-net-world-4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "title": "Трамп відтермінував підписання указу про ШІ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ua.korrespondent.net/world/4880468-tramp-vidterminuvav-pidpysannia-ukazu-pro-shi",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "ua.korrespondent.net",
-      "body": "ua.korrespondent.net",
-      "tags": [
-        "gdelt",
-        "media",
-        "ua.korrespondent.net"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-hani-co-kr-arti-economy-finance-1260128-html",
-      "title": "AI 공격 , AI로 막는다 … 금융권 망분리 규제 푼다",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1260128.html",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
-      "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-interfax-ru-business-1091278",
-      "title": "Набиуллина назвала чрезмерное регулирование основным риском для развития ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.interfax.ru/business/1091278",
-      "date": "2026-08-03",
-      "readTime": "3 min",
-      "summary": "interfax.ru",
-      "body": "interfax.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "interfax.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-49148735",
@@ -731,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 290
+      "latencyMs": 468
     },
     {
       "id": "github",
@@ -740,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 323
+      "latencyMs": 463
     },
     {
       "id": "hugging-face",
@@ -749,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 87
+      "latencyMs": 170
     },
     {
       "id": "semantic-scholar",
@@ -767,19 +623,20 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 380
+      "latencyMs": 378
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 16341
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: fetch failed"
   ]
 }
