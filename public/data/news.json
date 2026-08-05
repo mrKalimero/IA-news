@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-08-05T03:32:37.167Z",
+  "generatedAt": "2026-08-05T09:05:27.791Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49179964",
+      "title": "Time travellers are using LinkedIn to teach us about artificial intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.ft.com/content/4a4b442c-7ae4-4553-bcab-d744d8d46c79",
+      "date": "2026-08-05",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Time travellers are using LinkedIn to teach us about artificial intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Time travellers are using LinkedIn to teach us about artificial intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49179692",
+      "title": "AI search is turning Reddit comments into ads",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "date": "2026-08-05",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI search is turning Reddit comments into ads, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI search is turning Reddit comments into ads, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49179414",
+      "title": "I'm Begging You: Never Write with AI",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nytimes.com/2026/08/04/opinion/artificial-intelligence-ai-writing.html",
+      "date": "2026-08-05",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de I'm Begging You: Never Write with AI, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de I'm Begging You: Never Write with AI, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49178246",
       "title": "America's Bet on AI – The winner takes it all. What if we lose?",
@@ -21,74 +75,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1283352305",
-      "title": "Sujal-142/ai-image-clean-eraser",
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
+      "url": "https://github.com/frontman-ai/frontman",
       "date": "2026-08-05",
       "readTime": "3 min",
-      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
-      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
       "tags": [
         "github",
         "open-source",
-        "154-stars"
+        "651-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-736351417",
-      "title": "loganthorneloe/ai-for-software-engineers",
+      "slug": "github-434098140",
+      "title": "AmusementClub/vs-mlrt",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/loganthorneloe/ai-for-software-engineers",
+      "url": "https://github.com/AmusementClub/vs-mlrt",
       "date": "2026-08-05",
       "readTime": "3 min",
-      "summary": "AI foundations for software engineers.",
-      "body": "AI foundations for software engineers.",
+      "summary": "Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)",
+      "body": "Efficient CPU/GPU ML Runtimes for VapourSynth (with built-in support for waifu2x, DPIR, RealESRGANv2/v3, Real-CUGAN, RIFE, SCUNet, ArtCNN and more!)",
       "tags": [
         "github",
         "open-source",
-        "1360-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
-      "date": "2026-08-05",
-      "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "tags": [
-        "github",
-        "open-source",
-        "3056-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
-      "date": "2026-08-05",
-      "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "tags": [
-        "github",
-        "open-source",
-        "242-stars"
+        "470-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -106,61 +124,97 @@
       "tags": [
         "github",
         "open-source",
-        "25279-stars"
+        "25285-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-621803253",
+      "title": "FlowiseAI/Flowise",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/FlowiseAI/Flowise",
       "date": "2026-08-05",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "Build AI Agents, Visually",
+      "body": "Build AI Agents, Visually",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "55172-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-132754148",
-      "title": "stefan-jansen/machine-learning-for-trading",
+      "slug": "github-912559512",
+      "title": "simstudioai/sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/simstudioai/sim",
       "date": "2026-08-05",
       "readTime": "3 min",
-      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "summary": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
+      "body": "Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.",
       "tags": [
         "github",
         "open-source",
-        "20292-stars"
+        "29338-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-841370602",
-      "title": "potpie-ai/potpie",
+      "slug": "github-834466950",
+      "title": "AleksNeStu/ai-real-estate-assistant",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/potpie-ai/potpie",
+      "url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
       "date": "2026-08-05",
       "readTime": "3 min",
-      "summary": "Context Graph for AI Native SDLC",
-      "body": "Context Graph for AI Native SDLC",
+      "summary": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo.",
+      "body": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo.",
       "tags": [
         "github",
         "open-source",
-        "5529-stars"
+        "289-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-799690272",
+      "title": "albumentations-team/albucore",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/albumentations-team/albucore",
+      "date": "2026-08-05",
+      "readTime": "3 min",
+      "summary": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
+      "body": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
+      "tags": [
+        "github",
+        "open-source",
+        "123-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
+      "date": "2026-08-05",
+      "readTime": "3 min",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "tags": [
+        "github",
+        "open-source",
+        "26025-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -201,24 +255,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49173229",
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "date": "2026-08-04",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Can Reddit fend off a new wave of AI SEO spam?, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Can Reddit fend off a new wave of AI SEO spam?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hacker-news-49171897",
       "title": "History of Artificial Intelligence",
       "category": "Outils",
@@ -229,24 +265,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de History of Artificial Intelligence, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de History of Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49164344",
-      "title": "GeoAI: Artificial Intelligence for Geospatial Data",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://opengeoai.org/",
-      "date": "2026-08-04",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de GeoAI: Artificial Intelligence for Geospatial Data, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de GeoAI: Artificial Intelligence for Geospatial Data, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -397,42 +415,6 @@
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-49148735",
-      "title": "Show HN: Alfa. Killing AI hallucinations with resonance",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://github.com/ConsciousGroupMind/SKYNET-800---Collective-Intelligence-Forecasting-System",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understandin...",
-      "body": "This code predicts the exact time and price of a future price point, and can also construct a curve of future prices. It can be used to decipher any process that has a graph—for example, a graph of mutual understandin...",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49146676",
-      "title": "Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://newrepublic.com/article/213738/artificial-intelligence-god-test-adopt-ai-die",
-      "date": "2026-08-02",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Adopt AI or Die? \"The God Test\" proposes AI is an opportunity and epochal threat, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 249
+      "latencyMs": 348
     },
     {
       "id": "github",
@@ -596,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 355
+      "latencyMs": 494
     },
     {
       "id": "hugging-face",
@@ -605,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 79
+      "latencyMs": 157
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 243
+      "latencyMs": 184
     },
     {
       "id": "gdelt",
