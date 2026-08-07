@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-08-07T07:41:14.167Z",
+  "generatedAt": "2026-08-07T13:39:33.198Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49209806",
+      "title": "Artificial Intelligence, Logic and Formalizing Common Sense (John McCarthy)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www-formal.stanford.edu/jmc/ailogic/ailogic.html",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence, Logic and Formalizing Common Sense (John McCarthy), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence, Logic and Formalizing Common Sense (John McCarthy), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49208620",
+      "title": "India's IT sector is surviving artificial intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://economist.com/finance-and-economics/2026/08/06/indias-it-sector-is-surviving-artificial-intelligence",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de India's IT sector is surviving artificial intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de India's IT sector is surviving artificial intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49206642",
       "title": "Artificial Intelligence used to design new viruses",
@@ -19,6 +55,150 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "tags": [
+        "github",
+        "open-source",
+        "27779-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1052707140",
+      "title": "light-and-ray/Minimalistic-Comfy-Wrapper-WebUI",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "MCWW: Additional non-node based UI for ComfyUI focused on inference. Stable UI states; presets; and advanced queue. Based on Gradio",
+      "body": "MCWW: Additional non-node based UI for ComfyUI focused on inference. Stable UI states; presets; and advanced queue. Based on Gradio",
+      "tags": [
+        "github",
+        "open-source",
+        "135-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "186213-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kornia/kornia",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "tags": [
+        "github",
+        "open-source",
+        "11310-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/flwrlabs/flower",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
+      "tags": [
+        "github",
+        "open-source",
+        "7063-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1190778303",
+      "title": "alvinreal/awesome-opensource-ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
+      "body": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
+      "tags": [
+        "github",
+        "open-source",
+        "4442-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "151-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "date": "2026-08-07",
+      "readTime": "3 min",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "tags": [
+        "github",
+        "open-source",
+        "6047-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-49201726",
@@ -103,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Rogue OpenAI models teamed up to break out of their testing environment, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Rogue OpenAI models teamed up to break out of their testing environment, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49191306",
-      "title": "Elon Musk's attempt at an AI Wikipedia hasn't been updated in months",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "date": "2026-08-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Elon Musk's attempt at an AI Wikipedia hasn't been updated in months, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Elon Musk's attempt at an AI Wikipedia hasn't been updated in months, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -273,24 +435,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-49188902",
-      "title": "Time travellers are using LinkedIn to teach us about artificial intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.ft.com/content/4a4b442c-7ae4-4553-bcab-d744d8d46c79",
-      "date": "2026-08-05",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Time travellers are using LinkedIn to teach us about artificial intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Time travellers are using LinkedIn to teach us about artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -322,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "89-downloads"
+        "88-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -430,7 +574,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "90-downloads"
+        "89-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -443,16 +587,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 434
+      "latencyMs": 368
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": false,
-      "count": 0,
-      "error": "GitHub returned HTTP 403"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 447
     },
     {
       "id": "hugging-face",
@@ -461,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 193
+      "latencyMs": 176
     },
     {
       "id": "semantic-scholar",
@@ -479,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 213
+      "latencyMs": 212
     },
     {
       "id": "gdelt",
@@ -492,7 +636,6 @@
     }
   ],
   "errors": [
-    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: GDELT returned HTTP 429"
   ]
