@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-08-10T13:44:14.222Z",
+  "generatedAt": "2026-08-10T19:16:54.078Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49247347",
+      "title": "D. Graham Burnett discusses the politics of attention in our algorithmic age",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://lareviewofbooks.org/article/friends-of-attention-d-graham-burnett-artificial-intelligence/",
+      "date": "2026-08-10",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de D. Graham Burnett discusses the politics of attention in our algorithmic age, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de D. Graham Burnett discusses the politics of attention in our algorithmic age, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49242721",
       "title": "Farmer kills 25 acres of crops after following AI weed and pest control advice",
@@ -57,146 +75,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "3758-stars"
+        "5780-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1032808806",
-      "title": "usestrix/strix",
+      "slug": "github-71516397",
+      "title": "Cloud-CV/EvalAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/usestrix/strix",
+      "url": "https://github.com/Cloud-CV/EvalAI",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "summary": ":cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI",
+      "body": ":cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI",
       "tags": [
         "github",
         "open-source",
-        "50596-stars"
+        "2039-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1301372808",
-      "title": "CyberSunil/LLMVault",
+      "slug": "github-741100585",
+      "title": "langchain-ai/langgraphjs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CyberSunil/LLMVault",
+      "url": "https://github.com/langchain-ai/langgraphjs",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
-      "body": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+      "summary": "Framework to build resilient language agents as graphs.",
+      "body": "Framework to build resilient language agents as graphs.",
       "tags": [
         "github",
         "open-source",
-        "277-stars"
+        "3188-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-257913595",
+      "title": "voxel51/fiftyone",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/voxel51/fiftyone",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Refine high-quality datasets and visual AI models",
+      "body": "Refine high-quality datasets and visual AI models",
       "tags": [
         "github",
         "open-source",
-        "83616-stars"
+        "10997-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-704324955",
-      "title": "jupyter-naas/abi",
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jupyter-naas/abi",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
-      "body": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
       "tags": [
         "github",
         "open-source",
-        "146-stars"
+        "151-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-700760709",
-      "title": "taranis-ai/taranis-ai",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/taranis-ai/taranis-ai",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
-      "body": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "1196-stars"
+        "26115-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-688164459",
-      "title": "harvard-edge/cs249r_book",
+      "slug": "github-132754148",
+      "title": "stefan-jansen/machine-learning-for-trading",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/harvard-edge/cs249r_book",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "Machine Learning Systems",
-      "body": "Machine Learning Systems",
+      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
       "tags": [
         "github",
         "open-source",
-        "27856-stars"
+        "20385-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1308140379",
-      "title": "AgentSwarms-fyi/agentswarms",
+      "slug": "github-1078093679",
+      "title": "softmata/horus",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AgentSwarms-fyi/agentswarms",
+      "url": "https://github.com/softmata/horus",
       "date": "2026-08-10",
       "readTime": "3 min",
-      "summary": "Unified Agentic AI and Business Intelligence Platform",
-      "body": "Unified Agentic AI and Business Intelligence Platform",
+      "summary": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
+      "body": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
       "tags": [
         "github",
         "open-source",
-        "152-stars"
+        "408-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,24 +247,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Meta Caught Paying Nazis to Post on Facebook, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Meta Caught Paying Nazis to Post on Facebook, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49223413",
-      "title": "The Artificial Intelligence Revolution (2015)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html",
-      "date": "2026-08-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Artificial Intelligence Revolution (2015), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Artificial Intelligence Revolution (2015), reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -551,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 6,
-      "latencyMs": 293
+      "latencyMs": 327
     },
     {
       "id": "github",
@@ -560,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 275
+      "latencyMs": 397
     },
     {
       "id": "hugging-face",
@@ -569,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 67
+      "latencyMs": 70
     },
     {
       "id": "semantic-scholar",
@@ -587,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 211
+      "latencyMs": 193
     },
     {
       "id": "gdelt",
