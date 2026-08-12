@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-08-12T02:44:21.973Z",
+  "generatedAt": "2026-08-12T07:51:57.829Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49268498",
+      "title": "China bans AI companions, forcing millions to break up with virtual partners",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.abc.net.au/news/2026-07-19/china-cracks-down-on-artificial-intelligence-companions/106925352",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de China bans AI companions, forcing millions to break up with virtual partners, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de China bans AI companions, forcing millions to break up with virtual partners, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49267153",
       "title": "The Artificially Intelligent Dog",
@@ -21,184 +39,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-920644180",
-      "title": "rishabhops/CipherElite",
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/rishabhops/CipherElite",
+      "url": "https://github.com/0xPlaygrounds/rig",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "CipherElite: A new era Telegram Userbot featuring advanced AI plugins. Built with Python & Telethon to automate tasks, manage groups, and generate AI responses. Supports Heroku, VPS, & Termux.",
-      "body": "CipherElite: A new era Telegram Userbot featuring advanced AI plugins. Built with Python & Telethon to automate tasks, manage groups, and generate AI responses. Supports Heroku, VPS, & Termux.",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "tags": [
         "github",
         "open-source",
-        "222-stars"
+        "8248-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-1035492975",
+      "title": "Berserk-hub150/moodle-ai-skill-navigator",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/Berserk-hub150/moodle-ai-skill-navigator",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.",
+      "body": "AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.",
       "tags": [
         "github",
         "open-source",
-        "3063-stars"
+        "159-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-1169735215",
+      "title": "l33tdawg/sage",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/l33tdawg/sage",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "243-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-1308140379",
+      "title": "AgentSwarms-fyi/agentswarms",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/AgentSwarms-fyi/agentswarms",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Unified Agentic AI and Business Intelligence Platform",
+      "body": "Unified Agentic AI and Business Intelligence Platform",
       "tags": [
         "github",
         "open-source",
-        "186533-stars"
+        "158-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
+      "slug": "github-334848347",
+      "title": "ccfddl/ccf-deadlines",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
+      "url": "https://github.com/ccfddl/ccf-deadlines",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "summary": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "body": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
       "tags": [
         "github",
         "open-source",
-        "500-stars"
+        "9235-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-95879426",
-      "title": "Tencent/ncnn",
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Tencent/ncnn",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
-      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "tags": [
         "github",
         "open-source",
-        "23687-stars"
+        "25435-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-939657163",
-      "title": "NPC-Worldwide/incognide",
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/NPC-Worldwide/incognide",
+      "url": "https://github.com/ls1intum/Artemis",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "Explore the unknown, build the future, own your data.",
-      "body": "Explore the unknown, build the future, own your data.",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
       "tags": [
         "github",
         "open-source",
-        "462-stars"
+        "793-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-133444044",
-      "title": "fairlearn/fairlearn",
+      "slug": "github-1008304614",
+      "title": "semantica-agi/semantica",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fairlearn/fairlearn",
+      "url": "https://github.com/semantica-agi/semantica",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "A Python package to assess and improve fairness of machine learning models.",
-      "body": "A Python package to assess and improve fairness of machine learning models.",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "tags": [
         "github",
         "open-source",
-        "2268-stars"
+        "5213-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "semantic-scholar-a9a654ea503386cbfd8bb119fc650cc3d08dc206",
-      "title": "Revised Surgical CAse REport (SCARE) guideline: An update for the age of Artificial Intelligence",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/a9a654ea503386cbfd8bb119fc650cc3d08dc206",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
-      "body": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-312e66bcee5bad5376a97f4d771ecdcca2c78078",
-      "title": "Transparency In The reporting of Artificial INtelligence – the TITAN guideline",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/312e66bcee5bad5376a97f4d771ecdcca2c78078",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "The use of AI in research and the literature is increasing. The need for transparency is clear. Here we present a guideline to transparently reporting the use of AI in any manuscript in general. The guideline items co...",
-      "body": "The use of AI in research and the literature is increasing. The need for transparency is clear. Here we present a guideline to transparently reporting the use of AI in any manuscript in general. The guideline items co...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     },
     {
       "slug": "hacker-news-49259404",
@@ -453,24 +435,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49242721",
-      "title": "Farmer kills 25 acres of crops after following AI weed and pest control advice",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-farmer-kills-25-acres-of-crops-after-following-ai-generated-weed-and-pest-control-advice-farmer-trusted-pesticide-recipe-after-months-of-successful-advice",
-      "date": "2026-08-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Farmer kills 25 acres of crops after following AI weed and pest control advice, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Farmer kills 25 acres of crops after following AI weed and pest control advice, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -613,114 +577,6 @@
         "95-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "semantic-scholar-8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "date": "2023-03-22",
-      "readTime": "3 min",
-      "summary": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "body": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "date": "2019-10-28",
-      "readTime": "3 min",
-      "summary": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "body": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "date": "2019-10-22",
-      "readTime": "3 min",
-      "summary": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "body": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "title": "High-performance medicine: the convergence of human and artificial intelligence",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "date": "2019-01-01",
-      "readTime": "3 min",
-      "summary": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "body": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-21dff47a4142445f83016da0819ffe6dd2947f66",
-      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/21dff47a4142445f83016da0819ffe6dd2947f66",
-      "date": "2018-09-17",
-      "readTime": "3 min",
-      "summary": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "body": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "date": "2017-06-22",
-      "readTime": "3 min",
-      "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "body": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     }
   ],
   "sources": [
@@ -731,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 593
+      "latencyMs": 473
     },
     {
       "id": "github",
@@ -740,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 479
+      "latencyMs": 429
     },
     {
       "id": "hugging-face",
@@ -749,16 +605,16 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 155
+      "latencyMs": 192
     },
     {
       "id": "semantic-scholar",
       "name": "Semantic Scholar",
       "category": "Recherche",
       "docsUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 921
+      "ok": false,
+      "count": 0,
+      "error": "Semantic Scholar returned HTTP 429"
     },
     {
       "id": "arxiv",
@@ -767,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 229
+      "latencyMs": 522
     },
     {
       "id": "gdelt",
@@ -776,10 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: fetch failed"
   ]
 }
