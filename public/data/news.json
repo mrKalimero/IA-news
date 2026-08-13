@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-08-13T13:48:15.442Z",
+  "generatedAt": "2026-08-13T19:19:55.815Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49290459",
+      "title": "Mark Zuckerberg doesn't understand how to live",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Mark Zuckerberg doesn't understand how to live, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Mark Zuckerberg doesn't understand how to live, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49282805",
       "title": "Twitch CPO squirms, admits everyone hates its new AI training 'feature'",
@@ -39,56 +57,56 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1079345325",
-      "title": "CaviraOSS/OpenMemory",
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CaviraOSS/OpenMemory",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
       "date": "2026-08-13",
       "readTime": "3 min",
-      "summary": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
-      "body": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
       "tags": [
         "github",
         "open-source",
-        "4431-stars"
+        "151-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1052707140",
-      "title": "light-and-ray/Minimalistic-Comfy-Wrapper-WebUI",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-08-13",
       "readTime": "3 min",
-      "summary": "MCWW: Additional non-node based UI for ComfyUI focused on inference. Stable UI states; presets; and advanced queue. Based on Gradio",
-      "body": "MCWW: Additional non-node based UI for ComfyUI focused on inference. Stable UI states; presets; and advanced queue. Based on Gradio",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "tags": [
         "github",
         "open-source",
-        "137-stars"
+        "5194-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-580387696",
-      "title": "aeon-toolkit/aeon",
+      "slug": "github-1283341037",
+      "title": "jaimasih05-commits/swarm-foraging-qlearn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/aeon-toolkit/aeon",
+      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
       "date": "2026-08-13",
       "readTime": "3 min",
-      "summary": "A toolkit for time series machine learning and deep learning",
-      "body": "A toolkit for time series machine learning and deep learning",
+      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
       "tags": [
         "github",
         "open-source",
-        "1432-stars"
+        "152-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -111,74 +129,74 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-08-13",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "6115-stars"
+        "3063-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-734174248",
-      "title": "lakehq/sail",
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lakehq/sail",
+      "url": "https://github.com/dyad-sh/dyad",
       "date": "2026-08-13",
       "readTime": "3 min",
-      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
-      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
       "tags": [
         "github",
         "open-source",
-        "3295-stars"
+        "21225-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-08-13",
       "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "155-stars"
+        "26170-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
       "date": "2026-08-13",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "153-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -211,24 +229,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49269307",
-      "title": "Mark Zuckerberg doesn't understand how to live",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Mark Zuckerberg doesn't understand how to live, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Mark Zuckerberg doesn't understand how to live, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -569,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 365
+      "latencyMs": 454
     },
     {
       "id": "github",
@@ -578,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 346
+      "latencyMs": 467
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 78
+      "latencyMs": 168
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 359
+      "latencyMs": 343
     },
     {
       "id": "gdelt",
