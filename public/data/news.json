@@ -1,18 +1,180 @@
 {
-  "generatedAt": "2026-08-12T19:20:27.885Z",
+  "generatedAt": "2026-08-13T02:47:24.905Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "8252-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
+      "tags": [
+        "github",
+        "open-source",
+        "83846-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "151-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "tags": [
+        "github",
+        "open-source",
+        "27865-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/frontman-ai/frontman",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
+      "tags": [
+        "github",
+        "open-source",
+        "657-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283305297",
+      "title": "Fabiojvv/ai-cortex-hub",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
+      "tags": [
+        "github",
+        "open-source",
+        "155-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "tags": [
+        "github",
+        "open-source",
+        "25458-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-734174248",
+      "title": "lakehq/sail",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/lakehq/sail",
+      "date": "2026-08-13",
+      "readTime": "3 min",
+      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "tags": [
+        "github",
+        "open-source",
+        "3293-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-49278163",
+      "title": "I Asked AI to Write a Novel. It's Not So Bad",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.motherjones.com/politics/2026/08/artificial-intelligence-ai-claude-write-novel-anthropic-copyright-manuscript/",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de I Asked AI to Write a Novel. It's Not So Bad, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de I Asked AI to Write a Novel. It's Not So Bad, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
       "slug": "hacker-news-49275385",
-      "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
       "category": "Outils",
       "source": "Hacker News",
       "sourceUrl": "https://hn.algolia.com/",
       "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
+      "summary": "Discussion technique autour de Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -75,184 +237,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-178075572",
-      "title": "kserve/kserve",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kserve/kserve",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "tags": [
-        "github",
-        "open-source",
-        "5784-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
-      "tags": [
-        "github",
-        "open-source",
-        "657-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "tags": [
-        "github",
-        "open-source",
-        "5593-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "tags": [
-        "github",
-        "open-source",
-        "29416-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "tags": [
-        "github",
-        "open-source",
-        "151-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
-      "tags": [
-        "github",
-        "open-source",
-        "151-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283341037",
-      "title": "jaimasih05-commits/swarm-foraging-qlearn",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
-      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
-      "tags": [
-        "github",
-        "open-source",
-        "152-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
-      "tags": [
-        "github",
-        "open-source",
-        "793-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "semantic-scholar-a9a654ea503386cbfd8bb119fc650cc3d08dc206",
-      "title": "Revised Surgical CAse REport (SCARE) guideline: An update for the age of Artificial Intelligence",
+      "slug": "arxiv-http-arxiv-org-abs-2608-12308v1",
+      "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
       "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/a9a654ea503386cbfd8bb119fc650cc3d08dc206",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12308v1",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
-      "body": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
+      "summary": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although...",
+      "body": "Aerial vision-language navigation (VLN) requires an embodied agent to integrate visual evidence over time, plan future actions, and determine when it has reached a navigation goal under partial observability. Although...",
       "tags": [
-        "semantic-scholar",
+        "arxiv",
         "paper",
         "recherche"
       ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "semantic-scholar-312e66bcee5bad5376a97f4d771ecdcca2c78078",
-      "title": "Transparency In The reporting of Artificial INtelligence – the TITAN guideline",
+      "slug": "arxiv-http-arxiv-org-abs-2608-12307v1",
+      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
       "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/312e66bcee5bad5376a97f4d771ecdcca2c78078",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12307v1",
       "date": "2026-08-12",
       "readTime": "3 min",
-      "summary": "The use of AI in research and the literature is increasing. The need for transparency is clear. Here we present a guideline to transparently reporting the use of AI in any manuscript in general. The guideline items co...",
-      "body": "The use of AI in research and the literature is increasing. The need for transparency is clear. Here we present a guideline to transparently reporting the use of AI in any manuscript in general. The guideline items co...",
+      "summary": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In...",
+      "body": "Recent work on distillation transfers the capabilities of large models to smaller ones often by updating the latter's parameters, through teacher forcing, on-policy distillation, and related training-time methods. In...",
       "tags": [
-        "semantic-scholar",
+        "arxiv",
         "paper",
         "recherche"
       ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-12306v1",
+      "title": "Redistribution-based Cost Inference Improves Sparse Safe Offline RL",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12306v1",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step at...",
+      "body": "Safe offline RL typically assumes access to dense per-step cost annotations, but in practice supervisors provide only trajectory-level stop-feedback: a binary signal at the first unsafe transition, with no per-step at...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-12304v1",
+      "title": "Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12304v1",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert in...",
+      "body": "Dynamic Master Logic (DML) provides a hierarchical framework for representing system behavior by linking functional objectives to underlying structural elements. However, DML construction typically relies on expert in...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-12302v1",
+      "title": "A Framework for Designing Reward Functions: From Objectives to Features to Human-Aligned Reward Functions",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12302v1",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task describe...",
+      "body": "We present a formal process to enable non-experts to instantiate and iterate on human-aligned reward functions, i.e. reward functions that adhere to a given preference ordering over trajectories. Given a task describe...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-12299v1",
+      "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12299v1",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that highl...",
+      "body": "Class activation mapping (CAM) is one of the most widely used visual explanation families in explainable artificial intelligence. Its purpose is intuitive: it converts internal model evidence into a heatmap that highl...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-12290v1",
+      "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12290v1",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows....",
+      "body": "Modern black-box Image-to-Video (I2V) models offer powerful capabilities in automated content creation, yet their lack of fine-grained control and reliability presents significant challenges in professional workflows....",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-12282v1",
+      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.12282v1",
+      "date": "2026-08-12",
+      "readTime": "3 min",
+      "summary": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}P...",
+      "body": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}P...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hacker-news-49259404",
@@ -307,168 +433,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49256671",
-      "title": "Amazon cuts some jobs in its artificial general intelligence unit",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.cnbc.com/2026/07/22/amazon-lays-off-some-employees-in-its-agi-unit.html",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Amazon cuts some jobs in its artificial general intelligence unit, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Amazon cuts some jobs in its artificial general intelligence unit, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11204v1",
-      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11204v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to colle...",
-      "body": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to colle...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11200v1",
-      "title": "ConVAWG: A Retrieval-Grounded Framework for Controlled Synthetic Dialogue Generation in Violence Against Women and Girls",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11200v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats...",
-      "body": "Synthetic dialogue generation offers a way to study conversational dynamics in sensitive domains where real data are difficult to access, release, or annotate. The underlying abuse may occur online or offline: threats...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11197v1",
-      "title": "Beyond a Bag of Features: Set-Level Instability in Sparse Autoencoders",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11197v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model represent...",
-      "body": "Shani et al. (2026) show that LLM representations broadly recover human category boundaries, while failing to reflect fine-grained typicality structure. Their analysis uses cosine similarity over dense model represent...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11195v1",
-      "title": "Long-Horizon AI Research for Grothendieck Constant: A Case Study in Human-AI Mathematical Collaboration",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11195v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck c...",
-      "body": "AI agents are increasingly used in mathematics research, but it is often unclear how to use them effectively. Towards this, we present an extensive case study of how AI was used to improve bounds on the Grothendieck c...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11191v1",
-      "title": "Test-Time Self-Evolving GUI Visual Grounding via Reflection-Guided On-Policy Self-Distillation",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11191v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attemp...",
-      "body": "GUI Visual Grounding is a fundamental capability for GUI agents. Existing models typically freeze their parameters after deployment, limiting their ability to adapt to unseen interfaces. Although recent methods attemp...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11181v1",
-      "title": "How to Verify Consistency of Probabilistic Claims",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11181v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is der...",
-      "body": "When a probabilistic predictor answers many conditional-probability queries, are its answers self-consistent, and can this be verified in polynomial time? This problem is of interest for AI safety, where safety is der...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11173v1",
-      "title": "A Quantum Roadmap for Softmax Attention: Exact Born-Rule Analogs for Softmax Attention on the Probability Simplex",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11173v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all o...",
-      "body": "The attention mechanism forms the foundation of many modern AI models such as the Transformer. In one subclass of problems where attention is used, inputs and outputs are bound to the probability simplex so that all o...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-11171v1",
-      "title": "From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.11171v1",
-      "date": "2026-08-11",
-      "readTime": "3 min",
-      "summary": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition fr...",
-      "body": "The Workshop on Trustworthy Natural Language Processing (TrustNLP), co-located with major ACL conferences since 2021, has grown from 8 proceedings papers to 41 over six editions, documenting a field-wide transition fr...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -613,114 +577,6 @@
         "95-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "semantic-scholar-8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "date": "2023-03-22",
-      "readTime": "3 min",
-      "summary": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "body": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "date": "2019-10-28",
-      "readTime": "3 min",
-      "summary": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "body": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "date": "2019-10-22",
-      "readTime": "3 min",
-      "summary": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "body": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "title": "High-performance medicine: the convergence of human and artificial intelligence",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "date": "2019-01-01",
-      "readTime": "3 min",
-      "summary": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "body": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-21dff47a4142445f83016da0819ffe6dd2947f66",
-      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/21dff47a4142445f83016da0819ffe6dd2947f66",
-      "date": "2018-09-17",
-      "readTime": "3 min",
-      "summary": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "body": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "date": "2017-06-22",
-      "readTime": "3 min",
-      "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "body": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     }
   ],
   "sources": [
@@ -731,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 308
+      "latencyMs": 342
     },
     {
       "id": "github",
@@ -740,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 354
+      "latencyMs": 442
     },
     {
       "id": "hugging-face",
@@ -749,16 +605,16 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 93
+      "latencyMs": 138
     },
     {
       "id": "semantic-scholar",
       "name": "Semantic Scholar",
       "category": "Recherche",
       "docsUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 818
+      "ok": false,
+      "count": 0,
+      "error": "Semantic Scholar returned HTTP 429"
     },
     {
       "id": "arxiv",
@@ -767,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 171
+      "latencyMs": 180
     },
     {
       "id": "gdelt",
@@ -776,10 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: fetch failed"
   ]
 }
