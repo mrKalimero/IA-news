@@ -1,130 +1,112 @@
 {
-  "generatedAt": "2026-08-14T02:46:03.137Z",
+  "generatedAt": "2026-08-14T07:50:34.089Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-08-14",
       "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "90667-stars"
+        "83987-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
+      "url": "https://github.com/xorbitsai/inference",
       "date": "2026-08-14",
       "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
       "tags": [
         "github",
         "open-source",
-        "244-stars"
+        "9494-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-704324955",
+      "title": "jupyter-naas/abi",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/jupyter-naas/abi",
       "date": "2026-08-14",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+      "body": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
       "tags": [
         "github",
         "open-source",
-        "186604-stars"
+        "146-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-734174248",
+      "title": "lakehq/sail",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/lakehq/sail",
       "date": "2026-08-14",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
       "tags": [
         "github",
         "open-source",
-        "151-stars"
+        "3297-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1072748300",
-      "title": "xlang-ai/OSWorld-V2",
+      "slug": "github-930946935",
+      "title": "MemeMeow-Studio/MemeMeow",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xlang-ai/OSWorld-V2",
+      "url": "https://github.com/MemeMeow-Studio/MemeMeow",
       "date": "2026-08-14",
       "readTime": "3 min",
-      "summary": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
-      "body": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+      "summary": "智能管理表情包",
+      "body": "智能管理表情包",
       "tags": [
         "github",
         "open-source",
-        "244-stars"
+        "1260-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-688164459",
-      "title": "harvard-edge/cs249r_book",
+      "slug": "github-102692863",
+      "title": "onnx/onnx",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/harvard-edge/cs249r_book",
+      "url": "https://github.com/onnx/onnx",
       "date": "2026-08-14",
       "readTime": "3 min",
-      "summary": "Machine Learning Systems",
-      "body": "Machine Learning Systems",
+      "summary": "Open standard for machine learning interoperability",
+      "body": "Open standard for machine learning interoperability",
       "tags": [
         "github",
         "open-source",
-        "27909-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283305297",
-      "title": "Fabiojvv/ai-cortex-hub",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Fabiojvv/ai-cortex-hub",
-      "date": "2026-08-14",
-      "readTime": "3 min",
-      "summary": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "body": "Top AI Tools Discovery Platform 2026: Automated Curation & Live Leaderboards",
-      "tags": [
-        "github",
-        "open-source",
-        "155-stars"
+        "21308-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -142,7 +124,25 @@
       "tags": [
         "github",
         "open-source",
-        "21228-stars"
+        "21233-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-08-14",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "270-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -399,24 +399,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49267153",
-      "title": "The Artificially Intelligent Dog",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://arnoldkling.substack.com/p/the-artificially-intelligent-dog",
-      "date": "2026-08-12",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Artificially Intelligent Dog, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Artificially Intelligent Dog, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -569,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 455
+      "latencyMs": 326
     },
     {
       "id": "github",
@@ -578,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 405
+      "latencyMs": 399
     },
     {
       "id": "hugging-face",
@@ -587,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 92
+      "latencyMs": 145
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 139
+      "latencyMs": 202
     },
     {
       "id": "gdelt",
