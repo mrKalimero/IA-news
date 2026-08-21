@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-21T01:57:28.613Z",
+  "generatedAt": "2026-08-21T07:07:28.875Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
       "slug": "hacker-news-49382614",
-      "title": "Berkeley Law prohibits AI use in classes (by default)",
+      "title": "Artificial Intelligence Policy",
       "category": "Outils",
       "source": "Hacker News",
       "sourceUrl": "https://hn.algolia.com/",
       "url": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
       "date": "2026-08-21",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Berkeley Law prohibits AI use in classes (by default), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Berkeley Law prohibits AI use in classes (by default), reperee dans la communaute Hacker News.",
+      "summary": "Discussion technique autour de Artificial Intelligence Policy, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence Policy, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -39,56 +39,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-1169735215",
+      "title": "l33tdawg/sage",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/l33tdawg/sage",
       "date": "2026-08-21",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
       "tags": [
         "github",
         "open-source",
-        "3069-stars"
+        "244-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1136941035",
-      "title": "SyntheticAutonomicMind/CLIO",
+      "slug": "github-224908244",
+      "title": "WasmEdge/WasmEdge",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
+      "url": "https://github.com/WasmEdge/WasmEdge",
       "date": "2026-08-21",
       "readTime": "3 min",
-      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
       "tags": [
         "github",
         "open-source",
-        "230-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1006104934",
-      "title": "CodeWithCJ/SparkyFitness",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CodeWithCJ/SparkyFitness",
-      "date": "2026-08-21",
-      "readTime": "3 min",
-      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
-      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
-      "tags": [
-        "github",
-        "open-source",
-        "5533-stars"
+        "10773-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -111,56 +93,20 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
+      "url": "https://github.com/dyad-sh/dyad",
       "date": "2026-08-21",
       "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
       "tags": [
         "github",
         "open-source",
-        "29446-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
-      "date": "2026-08-21",
-      "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "tags": [
-        "github",
-        "open-source",
-        "244-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-08-21",
-      "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
-        "github",
-        "open-source",
-        "186689-stars"
+        "21296-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -183,6 +129,60 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-08-21",
+      "readTime": "3 min",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3069-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1188521544",
+      "title": "holaboss-ai/holaOS",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "date": "2026-08-21",
+      "readTime": "3 min",
+      "summary": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex),...",
+      "body": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex),...",
+      "tags": [
+        "github",
+        "open-source",
+        "10501-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-999974788",
+      "title": "zjunlp/LightMem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/zjunlp/LightMem",
+      "date": "2026-08-21",
+      "readTime": "3 min",
+      "summary": "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation",
+      "body": "[ICLR 2026] LightMem: Lightweight and Efficient Memory-Augmented Generation",
+      "tags": [
+        "github",
+        "open-source",
+        "1091-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "hacker-news-49369678",
       "title": "Show HN: AI Resume Screening – Looking for feedback from recruiters",
       "category": "Outils",
@@ -199,6 +199,150 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20337v1",
+      "title": "Information on trajectories: martingales and random times",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20337v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concent...",
+      "body": "Accounting for information flow on the path space of trajectories of a nonnegative martingale yields exact variational identities for it, even at arbitrary random times. This recovers the widely used classical concent...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20331v1",
+      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20331v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient commun...",
+      "body": "Personalized interpretation of medical reports has emerged as an increasingly important need among patients. Addressing this need requires both evidence-grounded medical factuality and context-dependent patient commun...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20326v1",
+      "title": "$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20326v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence esti...",
+      "body": "Deep neural networks are often overconfident, assigning high confidence even to incorrect predictions. Consequently, users lack a reliable signal for deciding when a prediction can be trusted. Post-hoc confidence esti...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20322v1",
+      "title": "A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20322v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio ultra-wideband (...",
+      "body": "Despite their growing importance for contact-free radio frequency (RF) based healthcare monitoring, different radio technologies such as frequency-modulated continuous wave (FMCW) radar, impulse radio ultra-wideband (...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20320v1",
+      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20320v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating co...",
+      "body": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating co...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20319v1",
+      "title": "Inducing Task Models from Computer-Use Traces",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20319v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done. Such models m...",
+      "body": "Naturalistic computer-use traces, passively recorded screenshots and mouse or keyboard actions, are a valuable resource for deriving symbolic, auditable, and reusable models of how everyday work is done. Such models m...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20318v1",
+      "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20318v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective...",
+      "body": "Recursive self-improvement (RSI) asks whether an AI system can improve the process that produces AI systems, so that the next system inherits the improvement. That process is the training algorithm: a better objective...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2608-20316v1",
+      "title": "Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.20316v1",
+      "date": "2026-08-20",
+      "readTime": "3 min",
+      "summary": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the...",
+      "body": "Heterogeneous AI systems composed of multiple models, architectures, harnesses, or inference-time settings can improve quality and efficiency by routing queries to the specialist who can answer most effectively at the...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hacker-news-49363173",
@@ -271,150 +415,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19197v1",
-      "title": "SPADE: Self-Play in Adaptive Synthetic Executable Environments",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19197v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifie...",
-      "body": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifie...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19182v1",
-      "title": "ADEPT: Accelerating Dexterity via Pre-Training and Post-Training using Reinforcement Learning",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19182v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) robot embodiments t...",
-      "body": "We introduce Accelerating Dexterity via Pre-Training (ADEPT), a large-scale reinforcement learning (RL) framework for learning sim-to-real transferable dexterity across high degree-of-freedom (DoF) robot embodiments t...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19181v1",
-      "title": "Beyond Teacher Likelihood: Group-Calibrated On-Policy Distillation for Long-Context Reasoning",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19181v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible resp...",
-      "body": "On-policy distillation (OPD) trains a student on its own responses using dense token-level guidance from a stronger teacher. In long-context tasks, however, token-level teacher support can favor locally plausible resp...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19174v1",
-      "title": "Finetuning Strategies for Querying Sounds by Vocal Imitation",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19174v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a...",
-      "body": "This technical report describes our winning submission to the AES AIMLA 2025 Challenge on querying sound effects by vocal imitation. We investigate two complementary fine-tuning strategies: contrastive learning with a...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19171v1",
-      "title": "Lévy Attention: Single-Pass Predictive Uncertainty for Continuous-Time Attention",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19171v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "Deep models for irregularly-sampled time series answer queries at arbitrary continuous timestamps, yet report nothing about how far each answer should be trusted. We show the attention layer itself can close that gap:...",
-      "body": "Deep models for irregularly-sampled time series answer queries at arbitrary continuous timestamps, yet report nothing about how far each answer should be trusted. We show the attention layer itself can close that gap:...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19168v1",
-      "title": "Learned, Then Lost: A Measured Single-Example Counterfactual in Pre-training",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19168v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "A single training example's contribution to a finished model is normally estimated rather than measured, because measuring it takes two expensive full pre-training runs that differ in one row of one batch. We ran that...",
-      "body": "A single training example's contribution to a finished model is normally estimated rather than measured, because measuring it takes two expensive full pre-training runs that differ in one row of one batch. We ran that...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19163v1",
-      "title": "Interpretable AI predicts a 2026 summer dry anomaly in central China",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19163v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "Seasonal precipitation anomalies are largely regulated by atmospheric circulation, which dynamical models predict with greater reliability than precipitation itself. Here, we employ a deep learning model that translat...",
-      "body": "Seasonal precipitation anomalies are largely regulated by atmospheric circulation, which dynamical models predict with greater reliability than precipitation itself. Here, we employ a deep learning model that translat...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-19161v1",
-      "title": "Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.19161v1",
-      "date": "2026-08-19",
-      "readTime": "3 min",
-      "summary": "Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent Alignments (VLA),...",
-      "body": "Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent Alignments (VLA),...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -569,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 464
+      "latencyMs": 508
     },
     {
       "id": "github",
@@ -578,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 343
+      "latencyMs": 360
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 131
+      "latencyMs": 127
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 115
+      "latencyMs": 141
     },
     {
       "id": "gdelt",
