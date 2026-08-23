@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:02:01.525Z",
+  "generatedAt": "2026-08-23T18:48:32.883Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
@@ -21,20 +21,74 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-734174248",
-      "title": "lakehq/sail",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lakehq/sail",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-08-23",
       "readTime": "3 min",
-      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
-      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "3323-stars"
+        "1584-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1035492975",
+      "title": "Berserk-hub150/moodle-ai-skill-navigator",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Berserk-hub150/moodle-ai-skill-navigator",
+      "date": "2026-08-23",
+      "readTime": "3 min",
+      "summary": "AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.",
+      "body": "AI-powered Moodle plugin for tutoring, quizzes, mind maps, RAG course materials and more.",
+      "tags": [
+        "github",
+        "open-source",
+        "163-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-610217037",
+      "title": "di-sukharev/opencommit",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/di-sukharev/opencommit",
+      "date": "2026-08-23",
+      "readTime": "3 min",
+      "summary": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+      "body": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+      "tags": [
+        "github",
+        "open-source",
+        "7525-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/flwrlabs/flower",
+      "date": "2026-08-23",
+      "readTime": "3 min",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
+      "tags": [
+        "github",
+        "open-source",
+        "7084-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -57,74 +111,20 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-99561213",
+      "title": "sonos/tract",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/sonos/tract",
       "date": "2026-08-23",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
       "tags": [
         "github",
         "open-source",
-        "6194-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-738155120",
-      "title": "yihong1120/Construction-Hazard-Detection",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yihong1120/Construction-Hazard-Detection",
-      "date": "2026-08-23",
-      "readTime": "3 min",
-      "summary": "Enhances construction site safety using YOLO for object detection, identifying hazards like workers without helmets or safety vests, and proximity to machinery or vehicles. HDBSCAN clusters safety cone coordinates to...",
-      "body": "Enhances construction site safety using YOLO for object detection, identifying hazards like workers without helmets or safety vests, and proximity to machinery or vehicles. HDBSCAN clusters safety cone coordinates to...",
-      "tags": [
-        "github",
-        "open-source",
-        "346-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
-      "date": "2026-08-23",
-      "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "tags": [
-        "github",
-        "open-source",
-        "10387-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1052707140",
-      "title": "light-and-ray/Minimalistic-Comfy-Wrapper-WebUI",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/light-and-ray/Minimalistic-Comfy-Wrapper-WebUI",
-      "date": "2026-08-23",
-      "readTime": "3 min",
-      "summary": "MCWW: Additional non-node based UI for ComfyUI focused on inference. Stable UI states; presets; and advanced queue. Based on Gradio",
-      "body": "MCWW: Additional non-node based UI for ComfyUI focused on inference. Stable UI states; presets; and advanced queue. Based on Gradio",
-      "tags": [
-        "github",
-        "open-source",
-        "139-stars"
+        "3042-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -569,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 578
+      "latencyMs": 472
     },
     {
       "id": "github",
@@ -578,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 462
+      "latencyMs": 443
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 250
+      "latencyMs": 188
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 406
+      "latencyMs": 407
     },
     {
       "id": "gdelt",
