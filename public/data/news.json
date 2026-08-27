@@ -1,148 +1,184 @@
 {
-  "generatedAt": "2026-08-27T09:49:18.590Z",
+  "generatedAt": "2026-08-27T22:16:03.523Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "hacker-news-49465150",
+      "title": "Nvidia to buy Hugging Face for $12.9B, report claims",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-to-buy-hugging-face-for-usd12-9-billion-report-claims-could-strengthen-nvidias-open-model-strategy-and-shore-up-position-against-rivals",
+      "date": "2026-08-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Nvidia to buy Hugging Face for $12.9B, report claims, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Nvidia to buy Hugging Face for $12.9B, report claims, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49462329",
+      "title": "OpenAI's rogue AI model incident was worse than we thought",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "date": "2026-08-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de OpenAI's rogue AI model incident was worse than we thought, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de OpenAI's rogue AI model incident was worse than we thought, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/dyad-sh/dyad",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
       "tags": [
         "github",
         "open-source",
-        "7089-stars"
+        "21322-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "10998-stars"
+        "26445-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "27913-stars"
+        "6221-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-688164459",
-      "title": "harvard-edge/cs249r_book",
+      "slug": "github-735139666",
+      "title": "lucidrains/taylor-series-linear-attention",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/harvard-edge/cs249r_book",
+      "url": "https://github.com/lucidrains/taylor-series-linear-attention",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Machine Learning Systems",
-      "body": "Machine Learning Systems",
+      "summary": "Explorations into the recently proposed Taylor Series Linear Attention",
+      "body": "Explorations into the recently proposed Taylor Series Linear Attention",
       "tags": [
         "github",
         "open-source",
-        "28026-stars"
+        "102-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "186919-stars"
+        "58848-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-622424201",
-      "title": "ikaijua/Awesome-AITools",
+      "slug": "github-257913595",
+      "title": "voxel51/fiftyone",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ikaijua/Awesome-AITools",
+      "url": "https://github.com/voxel51/fiftyone",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
-      "body": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
+      "summary": "Refine high-quality datasets and visual AI models",
+      "body": "Refine high-quality datasets and visual AI models",
       "tags": [
         "github",
         "open-source",
-        "6153-stars"
+        "11044-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/kornia/kornia",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
       "tags": [
         "github",
         "open-source",
-        "3070-stars"
+        "11334-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
+      "slug": "github-1158138383",
+      "title": "CyberStrikeus/CyberStrike",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
+      "url": "https://github.com/CyberStrikeus/CyberStrike",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "summary": "Open-source AI-powered offensive security harness for automated penetration testing.",
+      "body": "Open-source AI-powered offensive security harness for automated penetration testing.",
       "tags": [
         "github",
         "open-source",
-        "500-stars"
+        "2052-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -399,42 +435,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-49437824",
-      "title": "Stanford's Probability for Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://pai.stanford.edu",
-      "date": "2026-08-25",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Stanford's Probability for Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Stanford's Probability for Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49432603",
-      "title": "Show HN: Efficient way to learn breadth-first, connecting the dots",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://curiora.space/i/artificial-intelligence",
-      "date": "2026-08-25",
-      "readTime": "3 min",
-      "summary": "This is an Encyclopedia of sorts, that prioritizes discovery of different concepts how they relate to other concepts. It provides ability to dig deeper on any concept with progressive levels of complexity. The idea is...",
-      "body": "This is an Encyclopedia of sorts, that prioritizes discovery of different concepts how they relate to other concepts. It provides ability to dig deeper on any concept with progressive levels of complexity. The idea is...",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 370
+      "latencyMs": 241
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 389
+      "latencyMs": 313
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 110
+      "latencyMs": 71
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 189
+      "latencyMs": 141
     },
     {
       "id": "gdelt",
