@@ -1,7 +1,169 @@
 {
-  "generatedAt": "2026-08-27T22:16:03.523Z",
+  "generatedAt": "2026-08-28T11:23:50.587Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49476631",
+      "title": "AI and Cognitive Science Redefine Knowledge Retention",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.technology.org/2026/08/28/how-artificial-intelligence-and-cognitive-science-are-redefining-knowledge-retention-an-analysis-of-the-longtermemory-platform/",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI and Cognitive Science Redefine Knowledge Retention, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI and Cognitive Science Redefine Knowledge Retention, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/frontman-ai/frontman",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
+      "tags": [
+        "github",
+        "open-source",
+        "680-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/flwrlabs/flower",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
+      "tags": [
+        "github",
+        "open-source",
+        "7091-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-704324955",
+      "title": "jupyter-naas/abi",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/jupyter-naas/abi",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+      "body": "AI Operating System - Build your own AI using ontologies as the unifying field connecting data, models, workflows, and systems.",
+      "tags": [
+        "github",
+        "open-source",
+        "150-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-902570217",
+      "title": "Bessouat40/RAGLight",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Bessouat40/RAGLight",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools...",
+      "body": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools...",
+      "tags": [
+        "github",
+        "open-source",
+        "672-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1136941035",
+      "title": "SyntheticAutonomicMind/CLIO",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "tags": [
+        "github",
+        "open-source",
+        "230-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "186963-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-925674818",
+      "title": "wanaku-ai/wanaku",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/wanaku-ai/wanaku",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "Wanaku MCP Router",
+      "body": "Wanaku MCP Router",
+      "tags": [
+        "github",
+        "open-source",
+        "133-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-99561213",
+      "title": "sonos/tract",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/sonos/tract",
+      "date": "2026-08-28",
+      "readTime": "3 min",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "tags": [
+        "github",
+        "open-source",
+        "3045-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "hacker-news-49465150",
       "title": "Nvidia to buy Hugging Face for $12.9B, report claims",
@@ -39,148 +201,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-964395174",
-      "title": "dyad-sh/dyad",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dyad-sh/dyad",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27454v1",
+      "title": "WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27454v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
-      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "summary": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progre...",
+      "body": "Agent skills package specialized knowledge and workflows into reusable resources that extend AI agent capabilities. Recent work automatically discovers such skills from agent experience, which enables agents to progre...",
       "tags": [
-        "github",
-        "open-source",
-        "21322-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27449v1",
+      "title": "SWE-Prime: Fewer Trajectories, Better Performance",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27449v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful t...",
+      "body": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful t...",
       "tags": [
-        "github",
-        "open-source",
-        "26445-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27442v1",
+      "title": "From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27442v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent wor...",
+      "body": "In real-world software development, code review typically involves iterative interactions between developers and reviewers to improve software quality, making the process costly and time-consuming. Although recent wor...",
       "tags": [
-        "github",
-        "open-source",
-        "6221-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-735139666",
-      "title": "lucidrains/taylor-series-linear-attention",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lucidrains/taylor-series-linear-attention",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27439v1",
+      "title": "RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27439v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Explorations into the recently proposed Taylor Series Linear Attention",
-      "body": "Explorations into the recently proposed Taylor Series Linear Attention",
+      "summary": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Ex...",
+      "body": "LLM-based agents are increasingly deployed in product-level execution harnesses, where jailbreaks can trigger harmful tool use and persistent state changes, creating greater risks than unsafe text generation alone. Ex...",
       "tags": [
-        "github",
-        "open-source",
-        "102-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1032808806",
-      "title": "usestrix/strix",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/usestrix/strix",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27429v1",
+      "title": "Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27429v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "summary": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits...",
+      "body": "Chemical reactions are fundamentally transformations in electron space, yet most machine learning approaches model them either through \\textit{de novo} generation of product molecules or through heuristic graph edits...",
       "tags": [
-        "github",
-        "open-source",
-        "58848-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27427v1",
+      "title": "Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27427v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
+      "summary": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain...",
+      "body": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain...",
       "tags": [
-        "github",
-        "open-source",
-        "11044-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27424v1",
+      "title": "Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27424v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable secu...",
+      "body": "Static scanners are increasingly used to identify executable or otherwise unsafe content in machine- learning artifacts, yet conventional evaluation metrics characterize only cases where a scanner yields a usable secu...",
       "tags": [
-        "github",
-        "open-source",
-        "11334-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1158138383",
-      "title": "CyberStrikeus/CyberStrike",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CyberStrikeus/CyberStrike",
+      "slug": "arxiv-http-arxiv-org-abs-2608-27421v1",
+      "title": "Learning a Continuous Sepsis Severity Score Without Hour-by-Hour Supervision: A Two-Site Retrospective Study",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2608.27421v1",
       "date": "2026-08-27",
       "readTime": "3 min",
-      "summary": "Open-source AI-powered offensive security harness for automated penetration testing.",
-      "body": "Open-source AI-powered offensive security harness for automated penetration testing.",
+      "summary": "Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care. No alte...",
+      "body": "Currently used sepsis severity indices rely on fixed variables and weights established decades ago, which are coarsely discretized and calibrated to a cohort that no longer reflects contemporary critical care. No alte...",
       "tags": [
-        "github",
-        "open-source",
-        "2052-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hacker-news-49454422",
@@ -273,168 +435,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49444199",
-      "title": "$234B in Enterprise Application Software Spend at Risk from Agentic AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-07-01-gartner-says-us-dollars-234-billion-in-enterprise-application-software-spend-is-at-risk-from-agentic-artificial-intelligence",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de $234B in Enterprise Application Software Spend at Risk from Agentic AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de $234B in Enterprise Application Software Spend at Risk from Agentic AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26105v1",
-      "title": "VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26105v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates f...",
-      "body": "Native visual reasoning treats visual generation as the medium of reasoning itself: visual states (i.e. images and videos) are not merely inputs to be understood or outputs to be rendered, but first-class substrates f...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26095v1",
-      "title": "A Visual Dependence-Aware Framework for Multimodal Unsupervised Continual Post-Training",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26095v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training meth...",
-      "body": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training meth...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26094v1",
-      "title": "MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26094v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic...",
-      "body": "Existing action quality assessment (AQA) datasets and methods rely primarily on visual inputs such as RGB and pose, overlooking physiological dynamics such as muscle mechanics and often modeling actions as monolithic...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26093v1",
-      "title": "Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26093v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer...",
-      "body": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26090v1",
-      "title": "Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26090v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction,...",
-      "body": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction,...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26088v1",
-      "title": "Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26088v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary mode...",
-      "body": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary mode...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26086v1",
-      "title": "TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26086v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback...",
-      "body": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2608-26083v1",
-      "title": "ICON Decomposition: Multivariate Concept-Level Explanations of Deep Representations for Model Auditing",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2608.26083v1",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Deep neural networks often exploit spurious associations in their training data, a failure known as shortcut learning. Concept-based explainability methods screen for shortcuts by testing whether concepts such as a pa...",
-      "body": "Deep neural networks often exploit spurious associations in their training data, a failure known as shortcut learning. Concept-based explainability methods screen for shortcuts by testing whether concepts such as a pa...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -466,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "55-downloads"
+        "40-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -574,7 +574,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "59-downloads"
+        "45-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 241
+      "latencyMs": 307
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 313
+      "latencyMs": 417
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 71
+      "latencyMs": 145
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 141
+      "latencyMs": 169
     },
     {
       "id": "gdelt",
