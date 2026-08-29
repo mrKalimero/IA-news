@@ -1,148 +1,166 @@
 {
-  "generatedAt": "2026-08-29T16:43:19.964Z",
+  "generatedAt": "2026-08-29T20:55:35.185Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-525592995",
-      "title": "invoke-ai/InvokeAI",
+      "slug": "hacker-news-49492119",
+      "title": "Sony Music and Warner Chappell Are Suing Anthropic",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "date": "2026-08-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Sony Music and Warner Chappell Are Suing Anthropic, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Sony Music and Warner Chappell Are Suing Anthropic, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-688164459",
+      "title": "harvard-edge/cs249r_book",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/invoke-ai/InvokeAI",
+      "url": "https://github.com/harvard-edge/cs249r_book",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
-      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "summary": "Machine Learning Systems",
+      "body": "Machine Learning Systems",
       "tags": [
         "github",
         "open-source",
-        "28037-stars"
+        "28053-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-920644180",
+      "title": "rishabhops/CipherElite",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/rishabhops/CipherElite",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "CipherElite: A new era Telegram Userbot featuring advanced AI plugins. Built with Python & Telethon to automate tasks, manage groups, and generate AI responses. Supports Heroku, VPS, & Termux.",
+      "body": "CipherElite: A new era Telegram Userbot featuring advanced AI plugins. Built with Python & Telethon to automate tasks, manage groups, and generate AI responses. Supports Heroku, VPS, & Termux.",
       "tags": [
         "github",
         "open-source",
-        "11334-stars"
+        "242-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-1002593055",
+      "title": "PaulDuvall/ai-development-patterns",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/PaulDuvall/ai-development-patterns",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
       "tags": [
         "github",
         "open-source",
-        "6234-stars"
+        "645-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-669879380",
+      "title": "rasbt/LLMs-from-scratch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+      "body": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
       "tags": [
         "github",
         "open-source",
-        "11225-stars"
+        "104008-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1000945946",
-      "title": "caipe-io/ai-platform-engineering",
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/caipe-io/ai-platform-engineering",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "CAIPE is an open-source AI platform for building, deploying, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
-      "body": "CAIPE is an open-source AI platform for building, deploying, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
       "tags": [
         "github",
         "open-source",
-        "402-stars"
+        "115-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-794413452",
-      "title": "deven96/ahnlich",
+      "slug": "github-850685665",
+      "title": "RichmondAlake/memorizz",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/deven96/ahnlich",
+      "url": "https://github.com/RichmondAlake/memorizz",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "Suite of tools containing an in-memory vector datastore and AI proxy",
-      "body": "Suite of tools containing an in-memory vector datastore and AI proxy",
+      "summary": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management.",
+      "body": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management.",
       "tags": [
         "github",
         "open-source",
-        "243-stars"
+        "765-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-930946935",
-      "title": "MemeMeow-Studio/MemeMeow",
+      "slug": "github-1078093679",
+      "title": "softmata/horus",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/MemeMeow-Studio/MemeMeow",
+      "url": "https://github.com/softmata/horus",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "智能管理表情包",
-      "body": "智能管理表情包",
+      "summary": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
+      "body": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
       "tags": [
         "github",
         "open-source",
-        "1260-stars"
+        "427-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-1158138383",
+      "title": "CyberStrikeus/CyberStrike",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/CyberStrikeus/CyberStrike",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Open-source AI-powered offensive security harness for automated penetration testing.",
+      "body": "Open-source AI-powered offensive security harness for automated penetration testing.",
       "tags": [
         "github",
         "open-source",
-        "186980-stars"
+        "2076-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -417,24 +435,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-49454422",
-      "title": "Identifying fake cosmetics using artificial intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "date": "2026-08-26",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Identifying fake cosmetics using artificial intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Identifying fake cosmetics using artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 393
+      "latencyMs": 392
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 421
+      "latencyMs": 274
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 139
+      "latencyMs": 65
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 241
+      "latencyMs": 172
     },
     {
       "id": "gdelt",
