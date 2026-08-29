@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-08-29T07:04:46.051Z",
+  "generatedAt": "2026-08-29T16:43:19.964Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "date": "2026-08-29",
+      "readTime": "3 min",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "tags": [
+        "github",
+        "open-source",
+        "28037-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kornia/kornia",
+      "date": "2026-08-29",
+      "readTime": "3 min",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "tags": [
+        "github",
+        "open-source",
+        "11334-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "date": "2026-08-29",
+      "readTime": "3 min",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "tags": [
+        "github",
+        "open-source",
+        "6234-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1008304614",
+      "title": "semantica-agi/semantica",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/semantica-agi/semantica",
+      "date": "2026-08-29",
+      "readTime": "3 min",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "tags": [
+        "github",
+        "open-source",
+        "11225-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1000945946",
+      "title": "caipe-io/ai-platform-engineering",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/caipe-io/ai-platform-engineering",
+      "date": "2026-08-29",
+      "readTime": "3 min",
+      "summary": "CAIPE is an open-source AI platform for building, deploying, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "body": "CAIPE is an open-source AI platform for building, deploying, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "tags": [
+        "github",
+        "open-source",
+        "402-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-794413452",
+      "title": "deven96/ahnlich",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/deven96/ahnlich",
+      "date": "2026-08-29",
+      "readTime": "3 min",
+      "summary": "Suite of tools containing an in-memory vector datastore and AI proxy",
+      "body": "Suite of tools containing an in-memory vector datastore and AI proxy",
+      "tags": [
+        "github",
+        "open-source",
+        "243-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "github-930946935",
       "title": "MemeMeow-Studio/MemeMeow",
@@ -21,128 +129,20 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-695864515",
-      "title": "hacksider/Deep-Live-Cam",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-08-29",
       "readTime": "3 min",
-      "summary": "real time face swap and one-click video deepfake with only a single image",
-      "body": "real time face swap and one-click video deepfake with only a single image",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "96186-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
-      "date": "2026-08-29",
-      "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "tags": [
-        "github",
-        "open-source",
-        "3047-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-53976910",
-      "title": "apache/texera",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/apache/texera",
-      "date": "2026-08-29",
-      "readTime": "3 min",
-      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "tags": [
-        "github",
-        "open-source",
-        "275-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1072748300",
-      "title": "xlang-ai/OSWorld-V2",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xlang-ai/OSWorld-V2",
-      "date": "2026-08-29",
-      "readTime": "3 min",
-      "summary": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
-      "body": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
-      "tags": [
-        "github",
-        "open-source",
-        "262-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
-      "date": "2026-08-29",
-      "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
-      "tags": [
-        "github",
-        "open-source",
-        "800-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-581861517",
-      "title": "slyfox1186/script-repo",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/slyfox1186/script-repo",
-      "date": "2026-08-29",
-      "readTime": "3 min",
-      "summary": "My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML",
-      "body": "My personal script repository with multiple languages supported. AHK v1+v2 | BASH | BATCH | JSON | PERL | POWERSHELL | PYTHON | WINDOWS REGISTRY | XML",
-      "tags": [
-        "github",
-        "open-source",
-        "136-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-688164459",
-      "title": "harvard-edge/cs249r_book",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/harvard-edge/cs249r_book",
-      "date": "2026-08-29",
-      "readTime": "3 min",
-      "summary": "Machine Learning Systems",
-      "body": "Machine Learning Systems",
-      "tags": [
-        "github",
-        "open-source",
-        "28051-stars"
+        "186980-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -466,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "40-downloads"
+        "53-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -574,7 +574,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "45-downloads"
+        "59-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 463
+      "latencyMs": 393
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 383
+      "latencyMs": 421
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 108
+      "latencyMs": 139
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 220
+      "latencyMs": 241
     },
     {
       "id": "gdelt",
