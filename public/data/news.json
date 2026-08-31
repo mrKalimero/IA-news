@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-08-31T05:35:26.710Z",
+  "generatedAt": "2026-08-31T13:51:13.215Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49508043",
+      "title": "DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/diy-archivists-push-budget-nikons-to-902-000-clicks-to-save-1-800-rare-books-team-trains-neural-net-on-photoshop-edits-to-process-526-000-scans",
+      "date": "2026-08-31",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de DIY archivists push budget Nikons to 902,000 clicks to save 1,800 rare books, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49505036",
       "title": "Mark Zuckerberg sends message to Meta employees",
@@ -34,133 +52,133 @@
       "tags": [
         "github",
         "open-source",
-        "28166-stars"
+        "28194-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-620363420",
-      "title": "TimefoldAI/timefold-solver",
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "url": "https://github.com/felladrin/MiniSearch",
       "date": "2026-08-31",
       "readTime": "3 min",
-      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
       "tags": [
         "github",
         "open-source",
-        "1770-stars"
+        "586-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1016255018",
-      "title": "theexperiencecompany/gaia",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/theexperiencecompany/gaia",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-08-31",
       "readTime": "3 min",
-      "summary": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "body": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "287-stars"
+        "187029-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1078093679",
-      "title": "softmata/horus",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/softmata/horus",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-08-31",
       "readTime": "3 min",
-      "summary": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
-      "body": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "428-stars"
+        "3074-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-132754148",
-      "title": "stefan-jansen/machine-learning-for-trading",
+      "slug": "github-1008304614",
+      "title": "semantica-agi/semantica",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/semantica-agi/semantica",
       "date": "2026-08-31",
       "readTime": "3 min",
-      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "tags": [
         "github",
         "open-source",
-        "20741-stars"
+        "11481-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-99561213",
+      "title": "sonos/tract",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/sonos/tract",
       "date": "2026-08-31",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
       "tags": [
         "github",
         "open-source",
-        "116-stars"
+        "3050-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-290152313",
-      "title": "e-m-b-a/emba",
+      "slug": "github-1158138383",
+      "title": "CyberStrikeus/CyberStrike",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/e-m-b-a/emba",
+      "url": "https://github.com/CyberStrikeus/CyberStrike",
       "date": "2026-08-31",
       "readTime": "3 min",
-      "summary": "EMBA - The firmware security analyzer",
-      "body": "EMBA - The firmware security analyzer",
+      "summary": "Open-source AI-powered offensive security harness for automated penetration testing.",
+      "body": "Open-source AI-powered offensive security harness for automated penetration testing.",
       "tags": [
         "github",
         "open-source",
-        "3618-stars"
+        "2162-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-769925881",
-      "title": "sanidhyy/brainwave",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sanidhyy/brainwave",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-08-31",
       "readTime": "3 min",
-      "summary": "Modern Animated SaaS Generative AI Landing Page.",
-      "body": "Modern Animated SaaS Generative AI Landing Page.",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "162-stars"
+        "59639-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -247,24 +265,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Artificial Intelligence and the Problem of Induction [pdf], reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Artificial Intelligence and the Problem of Induction [pdf], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49483894",
-      "title": "NSA wants access to 'all' AI models, top official says",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.nextgov.com/artificial-intelligence/2026/08/nsa-wants-access-all-ai-models-top-official-says/415672/",
-      "date": "2026-08-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de NSA wants access to 'all' AI models, top official says, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de NSA wants access to 'all' AI models, top official says, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -448,7 +448,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "56-downloads"
+        "54-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -556,7 +556,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "63-downloads"
+        "76-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -569,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 389
+      "latencyMs": 497
     },
     {
       "id": "github",
@@ -578,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 539
+      "latencyMs": 584
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 121
+      "latencyMs": 367
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 219
+      "latencyMs": 363
     },
     {
       "id": "gdelt",
