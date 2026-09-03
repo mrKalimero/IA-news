@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-09-03T16:25:49.707Z",
+  "generatedAt": "2026-09-03T21:02:27.918Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49554551",
+      "title": "OpenAI hails 'new era of AGI' with Astra release",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "date": "2026-09-03",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de OpenAI hails 'new era of AGI' with Astra release, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de OpenAI hails 'new era of AGI' with Astra release, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49554445",
+      "title": "OpenAI's next big AI model has 'entered the AGI era'",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "date": "2026-09-03",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de OpenAI's next big AI model has 'entered the AGI era', reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de OpenAI's next big AI model has 'entered the AGI era', reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49554273",
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "date": "2026-09-03",
+      "readTime": "3 min",
+      "summary": "https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F; , image: https:&#x2F;&#x2F;cdn.thenewstack.io&#x2F;media&#x2F;2026&#x2F;09&#x2F;358eb84a-screenshot... https:&#x2F;&#x2F;venturebeat.com&#x2F;te...",
+      "body": "https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F; , image: https:&#x2F;&#x2F;cdn.thenewstack.io&#x2F;media&#x2F;2026&#x2F;09&#x2F;358eb84a-screenshot... https:&#x2F;&#x2F;venturebeat.com&#x2F;te...",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49553090",
+      "title": "Nvidia launches free tool that links idle computers into personal AI datacenter",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "date": "2026-09-03",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Nvidia launches free tool that links idle computers into personal AI datacenter, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Nvidia launches free tool that links idle computers into personal AI datacenter, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49545209",
       "title": "Researchers fear safety disaster ahead of OpenAI's Astra release",
@@ -22,15 +94,15 @@
     },
     {
       "slug": "hacker-news-49544762",
-      "title": "Go grandmaster Shin defeats AI KataGo in historic human victory",
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
       "category": "Outils",
       "source": "Hacker News",
       "sourceUrl": "https://hn.algolia.com/",
       "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
       "date": "2026-09-03",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Go grandmaster Shin defeats AI KataGo in historic human victory, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Go grandmaster Shin defeats AI KataGo in historic human victory, reperee dans la communaute Hacker News.",
+      "summary": "Discussion technique autour de Go grandmaster Shin defeats AI KataGo with a two-stone handicap, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Go grandmaster Shin defeats AI KataGo with a two-stone handicap, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -39,128 +111,92 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/daniel3303/Equibles",
       "date": "2026-09-03",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
       "tags": [
         "github",
         "open-source",
-        "11836-stars"
+        "204-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-580387696",
+      "title": "aeon-toolkit/aeon",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/aeon-toolkit/aeon",
       "date": "2026-09-03",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "A toolkit for time series machine learning and deep learning",
+      "body": "A toolkit for time series machine learning and deep learning",
       "tags": [
         "github",
         "open-source",
-        "187100-stars"
+        "1440-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "github-41550991",
+      "title": "mars-sim/mars-sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/mars-sim/mars-sim",
       "date": "2026-09-03",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "Mars Simulation Project Official Codebase",
+      "body": "Mars Simulation Project Official Codebase",
       "tags": [
         "github",
         "open-source",
-        "7107-stars"
+        "167-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
+      "slug": "github-1161163182",
+      "title": "tinyhumansai/openhuman",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
+      "url": "https://github.com/tinyhumansai/openhuman",
       "date": "2026-09-03",
       "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
+      "summary": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "body": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "tags": [
         "github",
         "open-source",
-        "11056-stars"
+        "39392-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-09-03",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "26565-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
-      "date": "2026-09-03",
-      "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
-      "tags": [
-        "github",
-        "open-source",
-        "6272-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-09-03",
-      "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "tags": [
-        "github",
-        "open-source",
-        "29531-stars"
+        "5856-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -178,7 +214,43 @@
       "tags": [
         "github",
         "open-source",
-        "20769-stars"
+        "20773-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "date": "2026-09-03",
+      "readTime": "3 min",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "tags": [
+        "github",
+        "open-source",
+        "116-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283341037",
+      "title": "jaimasih05-commits/swarm-foraging-qlearn",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+      "date": "2026-09-03",
+      "readTime": "3 min",
+      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "tags": [
+        "github",
+        "open-source",
+        "118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -363,78 +435,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-49529511",
-      "title": "OpenAI delayed its new model's development after the Hugging Face hack",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "date": "2026-09-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de OpenAI delayed its new model's development after the Hugging Face hack, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de OpenAI delayed its new model's development after the Hugging Face hack, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49526413",
-      "title": "Jensen Huang and Lisa Su Snubbed by TIME's 2026 List of Top AI Leaders",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/jensen-huang-and-lisa-su-snubbed-by-times-2026-ai-list-paris-hilton-and-ben-affleck-among-others-make-the-list-as-architects-of-ai-are-totally-absent",
-      "date": "2026-09-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Jensen Huang and Lisa Su Snubbed by TIME's 2026 List of Top AI Leaders, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Jensen Huang and Lisa Su Snubbed by TIME's 2026 List of Top AI Leaders, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49523693",
-      "title": "Job Loss Fears in the First Years of Generative Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5136877&__cf_chl_tk=2WJamtftqdfDIR9yFfYIrEBu9TugTrmIRI0Zik5sUPs-1788228368-1.0.1.1-v8szdkEGHn_fabviS.7NDaGxeVc7tIE1ievCc8_1tx8",
-      "date": "2026-09-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Job Loss Fears in the First Years of Generative Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Job Loss Fears in the First Years of Generative Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49523688",
-      "title": "Tyler Cowen: Should You Believe the Dire Warnings About 'AI Takeover'?",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.thefp.com/p/tyler-cowen-artificial-intelligence-takeover-hugging-face",
-      "date": "2026-09-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Tyler Cowen: Should You Believe the Dire Warnings About 'AI Takeover'?, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Tyler Cowen: Should You Believe the Dire Warnings About 'AI Takeover'?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 335
+      "latencyMs": 300
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 312
+      "latencyMs": 327
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 59
+      "latencyMs": 118
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 169
+      "latencyMs": 566
     },
     {
       "id": "gdelt",
