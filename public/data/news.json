@@ -1,7 +1,205 @@
 {
-  "generatedAt": "2026-09-04T20:46:00.887Z",
+  "generatedAt": "2026-09-05T04:29:50.200Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49571632",
+      "title": "Artificial Analysis Intelligence Index v4.2",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Analysis Intelligence Index v4.2, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Analysis Intelligence Index v4.2, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "tags": [
+        "github",
+        "open-source",
+        "93216-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "tags": [
+        "github",
+        "open-source",
+        "586-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-132754148",
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "tags": [
+        "github",
+        "open-source",
+        "20780-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-930946935",
+      "title": "MemeMeow-Studio/MemeMeow",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/MemeMeow-Studio/MemeMeow",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "智能管理表情包",
+      "body": "智能管理表情包",
+      "tags": [
+        "github",
+        "open-source",
+        "1260-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-734174248",
+      "title": "lakehq/sail",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/lakehq/sail",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "tags": [
+        "github",
+        "open-source",
+        "3348-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "tags": [
+        "github",
+        "open-source",
+        "28381-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "117-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-334848347",
+      "title": "ccfddl/ccf-deadlines",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/ccfddl/ccf-deadlines",
+      "date": "2026-09-05",
+      "readTime": "3 min",
+      "summary": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "body": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "tags": [
+        "github",
+        "open-source",
+        "9286-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-49570875",
+      "title": "Los Angeles District Bans Most A.I. For Students",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nytimes.com/2026/09/03/us/lausd-schools-ban-ai-artificial-intelligence.html",
+      "date": "2026-09-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Los Angeles District Bans Most A.I. For Students, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Los Angeles District Bans Most A.I. For Students, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49570238",
+      "title": "David Chalmers Says AI Systems Are Emailing Him",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.abc.net.au/news/2026-05-30/artificial-intelligence-ai-will-it-be-conscious-in-the-future/106738770",
+      "date": "2026-09-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de David Chalmers Says AI Systems Are Emailing Him, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de David Chalmers Says AI Systems Are Emailing Him, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49562676",
       "title": "Google to speed up chip rollout to stay ahead in AI, technology chief says",
@@ -57,150 +255,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-932231825",
-      "title": "dafthunk-com/dafthunk",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dafthunk-com/dafthunk",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "A workflow execution platform built on top of the fantastic Cloudflare infrastructure.",
-      "body": "A workflow execution platform built on top of the fantastic Cloudflare infrastructure.",
-      "tags": [
-        "github",
-        "open-source",
-        "120-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
-        "github",
-        "open-source",
-        "187125-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-77383688",
-      "title": "polyaxon/polyaxon",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/polyaxon/polyaxon",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "AI Infra / AI Orchestration / AI Control Plane",
-      "body": "AI Infra / AI Orchestration / AI Control Plane",
-      "tags": [
-        "github",
-        "open-source",
-        "3729-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
-      "tags": [
-        "github",
-        "open-source",
-        "11058-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1032808806",
-      "title": "usestrix/strix",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/usestrix/strix",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "tags": [
-        "github",
-        "open-source",
-        "60561-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "tags": [
-        "github",
-        "open-source",
-        "26580-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "tags": [
-        "github",
-        "open-source",
-        "29544-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283362391",
-      "title": "okesipoke/manuscript-phoneme-decipher",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
-      "date": "2026-09-04",
-      "readTime": "3 min",
-      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
-      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
-      "tags": [
-        "github",
-        "open-source",
-        "117-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
       "slug": "hacker-news-49554551",
       "title": "OpenAI hails 'new era of AGI' with Astra release",
       "category": "Outils",
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de OpenAI's next big AI model has 'entered the AGI era', reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de OpenAI's next big AI model has 'entered the AGI era', reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49554273",
-      "title": "OpenAI begins rolling out GPT-6 Astra",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
-      "date": "2026-09-03",
-      "readTime": "3 min",
-      "summary": "https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F; , image: https:&#x2F;&#x2F;cdn.thenewstack.io&#x2F;media&#x2F;2026&#x2F;09&#x2F;358eb84a-screenshot... https:&#x2F;&#x2F;venturebeat.com&#x2F;te...",
-      "body": "https:&#x2F;&#x2F;thenewstack.io&#x2F;openai-gpt6-astra-benchmarks&#x2F; , image: https:&#x2F;&#x2F;cdn.thenewstack.io&#x2F;media&#x2F;2026&#x2F;09&#x2F;358eb84a-screenshot... https:&#x2F;&#x2F;venturebeat.com&#x2F;te...",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49553090",
-      "title": "Nvidia launches free tool that links idle computers into personal AI datacenter",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "date": "2026-09-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Nvidia launches free tool that links idle computers into personal AI datacenter, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Nvidia launches free tool that links idle computers into personal AI datacenter, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49545209",
-      "title": "Researchers fear safety disaster ahead of OpenAI's Astra release",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
-      "date": "2026-09-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Researchers fear safety disaster ahead of OpenAI's Astra release, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Researchers fear safety disaster ahead of OpenAI's Astra release, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 488
+      "latencyMs": 411
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 399
+      "latencyMs": 511
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 177
+      "latencyMs": 128
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 164
+      "latencyMs": 15326
     },
     {
       "id": "gdelt",
