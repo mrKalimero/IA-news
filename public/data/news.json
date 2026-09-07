@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-09-07T12:33:26.437Z",
+  "generatedAt": "2026-09-07T21:31:15.200Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49602018",
+      "title": "Artificial Intelligence Policy UC Berkeley School of Law [pdf]",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.law.berkeley.edu/wp-content/uploads/2026/05/AI-Final-Policy-26.pdf",
+      "date": "2026-09-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence Policy UC Berkeley School of Law [pdf], reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence Policy UC Berkeley School of Law [pdf], reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49601190",
+      "title": "The Artificial Analysis Intelligence Index v4.3",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3",
+      "date": "2026-09-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The Artificial Analysis Intelligence Index v4.3, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The Artificial Analysis Intelligence Index v4.3, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49599867",
+      "title": "Show HN: Benzi – Code Intelligence Infrastructure for Frontier AI Models",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://github.com/oooscoos/Benzi",
+      "date": "2026-09-07",
+      "readTime": "3 min",
+      "summary": "Roughly speaking, the way current AI coding agents&#x2F;harnesses work is by either: a) Pulling in appropriate text snippets of code across multiple files and handing them to the agent, or b) Parsing code to make high...",
+      "body": "Roughly speaking, the way current AI coding agents&#x2F;harnesses work is by either: a) Pulling in appropriate text snippets of code across multiple files and handing them to the agent, or b) Parsing code to make high...",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49598860",
+      "title": "GPT-6 is now #2 on updated Artificial Analysis intelligence index",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://artificialanalysis.ai/#intelligence",
+      "date": "2026-09-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de GPT-6 is now #2 on updated Artificial Analysis intelligence index, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de GPT-6 is now #2 on updated Artificial Analysis intelligence index, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49597531",
       "title": "ChatGPT can now connect to your personal apps to mimic writing style",
@@ -39,74 +111,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-1137901590",
+      "title": "H4D3ZS/vscodium-rust",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/H4D3ZS/vscodium-rust",
       "date": "2026-09-07",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "AI-native IDE with agentic workflows, iPhone emulation on Windows/Linux, PyTorch ML Studio, and ROCm-optimized local AI. Built for security researchers and cross-platform developers.",
+      "body": "AI-native IDE with agentic workflows, iPhone emulation on Windows/Linux, PyTorch ML Studio, and ROCm-optimized local AI. Built for security researchers and cross-platform developers.",
       "tags": [
         "github",
         "open-source",
-        "12247-stars"
+        "251-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-925674818",
-      "title": "wanaku-ai/wanaku",
+      "slug": "github-41550991",
+      "title": "mars-sim/mars-sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wanaku-ai/wanaku",
+      "url": "https://github.com/mars-sim/mars-sim",
       "date": "2026-09-07",
       "readTime": "3 min",
-      "summary": "Wanaku MCP Router",
-      "body": "Wanaku MCP Router",
+      "summary": "Mars Simulation Project Official Codebase",
+      "body": "Mars Simulation Project Official Codebase",
       "tags": [
         "github",
         "open-source",
-        "133-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-887435804",
-      "title": "Drix10/ai-resources",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Drix10/ai-resources",
-      "date": "2026-09-07",
-      "readTime": "3 min",
-      "summary": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
-      "body": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
-      "tags": [
-        "github",
-        "open-source",
-        "118-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-53976910",
-      "title": "apache/texera",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/apache/texera",
-      "date": "2026-09-07",
-      "readTime": "3 min",
-      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "tags": [
-        "github",
-        "open-source",
-        "304-stars"
+        "167-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -129,20 +165,20 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-178075572",
-      "title": "kserve/kserve",
+      "slug": "github-257913595",
+      "title": "voxel51/fiftyone",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kserve/kserve",
+      "url": "https://github.com/voxel51/fiftyone",
       "date": "2026-09-07",
       "readTime": "3 min",
-      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "summary": "Refine high-quality datasets and visual AI models",
+      "body": "Refine high-quality datasets and visual AI models",
       "tags": [
         "github",
         "open-source",
-        "5863-stars"
+        "11061-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -160,25 +196,61 @@
       "tags": [
         "github",
         "open-source",
-        "11346-stars"
+        "11347-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1283362391",
+      "title": "okesipoke/manuscript-phoneme-decipher",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
       "date": "2026-09-07",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
       "tags": [
         "github",
         "open-source",
-        "446-stars"
+        "117-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-132754148",
+      "title": "stefan-jansen/machine-learning-for-trading",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "date": "2026-09-07",
+      "readTime": "3 min",
+      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "tags": [
+        "github",
+        "open-source",
+        "20819-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-704324955",
+      "title": "jupyter-naas/abi",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/jupyter-naas/abi",
+      "date": "2026-09-07",
+      "readTime": "3 min",
+      "summary": "Open AI Operating System",
+      "body": "Open AI Operating System",
+      "tags": [
+        "github",
+        "open-source",
+        "155-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -211,78 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de The Microeconomics of Artificial Intelligence (Open Access), reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de The Microeconomics of Artificial Intelligence (Open Access), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49588951",
-      "title": "Designing physics experiments with artificial intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.nature.com/articles/s41586-026-10898-6",
-      "date": "2026-09-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Designing physics experiments with artificial intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Designing physics experiments with artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49587356",
-      "title": "Frontier AI faces pricing reckoning as token volume explodes 25-fold",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/frontier-ai-faces-pricing-reckoning-as-token-volume-explodes-25-fold-mid-tier-models-deliver-90-percent-of-flagship-capability-at-one-sixth-the-cost",
-      "date": "2026-09-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Frontier AI faces pricing reckoning as token volume explodes 25-fold, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Frontier AI faces pricing reckoning as token volume explodes 25-fold, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49587318",
-      "title": "Nebula's Policy on AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://blog.nebula.tv/artificially-intelligent/",
-      "date": "2026-09-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Nebula's Policy on AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Nebula's Policy on AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49587018",
-      "title": "Artificial Intelligence as a Judge Advocate's Force Multiplier",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.lineofdeparture.army.mil/Journals/Army-Lawyer/Archive/Issue-2-2026/AI-as-Force-Multiplier-for-Judge-Advocates/",
-      "date": "2026-09-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence as a Judge Advocate's Force Multiplier, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence as a Judge Advocate's Force Multiplier, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 356
+      "latencyMs": 307
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 419
+      "latencyMs": 456
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 154
+      "latencyMs": 117
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 428
+      "latencyMs": 194
     },
     {
       "id": "gdelt",
