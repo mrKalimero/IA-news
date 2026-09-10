@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-10T16:24:50.093Z",
+  "generatedAt": "2026-09-10T20:52:16.960Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49649147",
+      "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49647068",
+      "title": "Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/old-macbook-uses-a-mirror-webcam-and-ai-agent-to-code-its-own-amd-gpu-drivers-agent-first-omarchy-linux-debugs-itself-ai-can-check-its-own-progress-on-screen-in-real-time",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49642074",
       "title": "The $40k a year school where AI shapes every lesson, without teachers",
@@ -39,20 +75,74 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
+      "url": "https://github.com/ls1intum/Artemis",
       "date": "2026-09-10",
       "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
       "tags": [
         "github",
         "open-source",
-        "11071-stars"
+        "808-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-580387696",
+      "title": "aeon-toolkit/aeon",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/aeon-toolkit/aeon",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "A toolkit for time series machine learning and deep learning",
+      "body": "A toolkit for time series machine learning and deep learning",
+      "tags": [
+        "github",
+        "open-source",
+        "1444-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "tags": [
+        "github",
+        "open-source",
+        "93635-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3080-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -70,115 +160,61 @@
       "tags": [
         "github",
         "open-source",
-        "26671-stars"
+        "26679-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-132754148",
-      "title": "stefan-jansen/machine-learning-for-trading",
+      "slug": "github-681211986",
+      "title": "twinnydotdev/twinny",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/twinnydotdev/twinny",
       "date": "2026-09-10",
       "readTime": "3 min",
-      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "summary": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
+      "body": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
       "tags": [
         "github",
         "open-source",
-        "20859-stars"
+        "3636-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
+      "slug": "github-603569762",
+      "title": "canyongbs/advisingapp",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
+      "url": "https://github.com/canyongbs/advisingapp",
       "date": "2026-09-10",
       "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "summary": "Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and dri...",
+      "body": "Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and dri...",
       "tags": [
         "github",
         "open-source",
-        "3061-stars"
+        "338-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-628892037",
-      "title": "ptmrio/autorename-pdf",
+      "slug": "github-53976910",
+      "title": "apache/texera",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ptmrio/autorename-pdf",
+      "url": "https://github.com/apache/texera",
       "date": "2026-09-10",
       "readTime": "3 min",
-      "summary": "autorename-pdf is a highly efficient tool designed to automatically rename and archive PDF documents based on their content.",
-      "body": "autorename-pdf is a highly efficient tool designed to automatically rename and archive PDF documents based on their content.",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
       "tags": [
         "github",
         "open-source",
-        "117-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-137747179",
-      "title": "10up/classifai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/10up/classifai",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
-      "body": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
-      "tags": [
-        "github",
-        "open-source",
-        "710-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
-      "tags": [
-        "github",
-        "open-source",
-        "6317-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1000945946",
-      "title": "caipe-io/ai-platform-engineering",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/caipe-io/ai-platform-engineering",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
-      "body": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
-      "tags": [
-        "github",
-        "open-source",
-        "408-stars"
+        "313-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -399,42 +435,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49610905",
-      "title": "List of mathematical discoveries by artificial intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://en.wikipedia.org/wiki/List_of_mathematical_discoveries_by_artificial_intelligence",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de List of mathematical discoveries by artificial intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de List of mathematical discoveries by artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49610308",
-      "title": "AI in Recruitment: How to Stand Out in Modern Selection Processes",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.foxapply.com/blog/en/artificial-intelligence-recruitment-how-to-stand-out",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de AI in Recruitment: How to Stand Out in Modern Selection Processes, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de AI in Recruitment: How to Stand Out in Modern Selection Processes, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 343
+      "latencyMs": 498
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 308
+      "latencyMs": 373
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 116
+      "latencyMs": 112
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 164
+      "latencyMs": 168
     },
     {
       "id": "gdelt",
