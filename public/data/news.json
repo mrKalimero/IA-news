@@ -1,7 +1,169 @@
 {
-  "generatedAt": "2026-09-09T20:56:36.281Z",
+  "generatedAt": "2026-09-10T04:43:05.016Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "187236-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-95879426",
+      "title": "Tencent/ncnn",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Tencent/ncnn",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "tags": [
+        "github",
+        "open-source",
+        "23799-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "117-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "313-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "tags": [
+        "github",
+        "open-source",
+        "93585-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/marimo-team/marimo",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "tags": [
+        "github",
+        "open-source",
+        "22705-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "tags": [
+        "github",
+        "open-source",
+        "28720-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "date": "2026-09-10",
+      "readTime": "3 min",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "tags": [
+        "github",
+        "open-source",
+        "585-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-49635976",
+      "title": "Artificial Intelligence Markup Language",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://en.wikipedia.org/wiki/Artificial_Intelligence_Markup_Language",
+      "date": "2026-09-09",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence Markup Language, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence Markup Language, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49628704",
       "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
@@ -39,148 +201,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10534v1",
+      "title": "Likelihood-free inference with nuisance parameters through normalizing flows",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10534v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator fr...",
+      "body": "We present a simple decomposition of a neural-network-based normalizing flow that naturally uncovers a pivotal statistic (or something close) in the presence of nuisance parameters, based only on a sample generator fr...",
       "tags": [
-        "github",
-        "open-source",
-        "3080-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-65310972",
-      "title": "VIAME/VIAME",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/VIAME/VIAME",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10529v1",
+      "title": "A positive resolution of the gap-entropy conjecture",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10529v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "Video and Image Analytics for Multiple Environments",
-      "body": "Video and Image Analytics for Multiple Environments",
+      "summary": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$...",
+      "body": "We prove the gap-entropy conjecture for fixed-confidence best-arm identification with independent unit-variance Gaussian arms, means in $[0,1]$, and a unique optimal arm. For each suboptimal arm $i$, let $Δ_i=μ_*-μ_i$...",
       "tags": [
-        "github",
-        "open-source",
-        "338-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-132754148",
-      "title": "stefan-jansen/machine-learning-for-trading",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10525v1",
+      "title": "Characterizing Language Generation in the Limit: Finite Witnesses and a Separation-Width Hierarch",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10525v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "summary": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe....",
+      "body": "Language generation in the limit asks for valid unseen elements from every exhaustive positive presentation of an unknown infinite language. We characterize this task for arbitrary families over a countable universe....",
       "tags": [
-        "github",
-        "open-source",
-        "20851-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10522v1",
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10522v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
+      "summary": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables...",
+      "body": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables...",
       "tags": [
-        "github",
-        "open-source",
-        "11066-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10514v1",
+      "title": "Optimal Low-Rank Quantum State Tomography with Bounded-Sample Joint Measurements",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10514v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\math...",
+      "body": "We determine the optimal sample complexity of low-rank quantum state tomography when each measurement may act jointly on at most $t$ samples. For sufficiently small $\\varepsilon$, estimating an unknown state on $\\math...",
       "tags": [
-        "github",
-        "open-source",
-        "116-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1283341037",
-      "title": "jaimasih05-commits/swarm-foraging-qlearn",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10505v1",
+      "title": "Quantum Feature Engineering for Credit Default Prediction: When and Why IQP Circuits Help Linear Classifiers",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10505v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
-      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "summary": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can pro...",
+      "body": "Credit default prediction is a tabular classification problem in which modest gains in F1 translate directly into reduced financial exposure. We ask whether Instantaneous Quantum Polynomial-time (IQP) circuits can pro...",
       "tags": [
-        "github",
-        "open-source",
-        "118-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10495v1",
+      "title": "Cross-Model Agreement as a Deployment-Time Reliability Signal for Automatic Polyp Segmentation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10495v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "summary": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring...",
+      "body": "In real-time colonoscopy, ground-truth annotations are unavailable at inference, so polyp segmentation models can fail silently. We propose Referee-Based Quality Estimation (RBQE), a reference-free framework measuring...",
       "tags": [
-        "github",
-        "open-source",
-        "806-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "slug": "arxiv-http-arxiv-org-abs-2609-10494v1",
+      "title": "IBIB: A Protocol for Measuring Enterprise AI Systems by Serving Route, Not Model Identifier",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.10494v1",
       "date": "2026-09-09",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We t...",
+      "body": "Enterprises deploy systems, not checkpoints. Usable capability depends jointly on weights, serving route, precision, output contract, and harness, yet all 18 audited benchmarks score advertised model identifiers. We t...",
       "tags": [
-        "github",
-        "open-source",
-        "28709-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hacker-news-49616247",
@@ -255,150 +417,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09158v1",
-      "title": "TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09158v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments req...",
-      "body": "We study the problem of navigating cluttered indoor environments with a humanoid robot. Unlike conventional methods that model navigation as a 2D path planning problem, humanoid traversal in cluttered environments req...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09157v1",
-      "title": "Learning Length-Extrapolatable Recurrent Models",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09157v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanis...",
-      "body": "Recurrent models provide a natural path to long-context modeling, yet models trained with backpropagation through time (BPTT) often fail beyond their training horizon. Classical analyses emphasize gradients that vanis...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09153v1",
-      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09153v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving...",
-      "body": "Large language models are increasingly deployed as agents that plan over long horizons and act through external tools. Most agents select actions through unconstrained generation over an accumulating history, leaving...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09152v1",
-      "title": "Silver Rate Is (Almost) Optimal for Gradient Descent Acceleration",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09152v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O...",
-      "body": "We study how far gradient descent (GD) can be accelerated by predetermined nonnegative stepsizes in smooth convex optimization. Writing $p_{\\mathrm{sil}}=\\log_2(1+\\sqrt{2})$, we prove an $Ω\\left(n^{-p_{\\mathrm{sil}}-O...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09140v1",
-      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09140v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical c...",
-      "body": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical c...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09137v1",
-      "title": "A Data-Driven Framework for Identifying and Prioritizing RPA Opportunities in Healthcare Processes",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09137v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a...",
-      "body": "Robotic Process Automation (RPA) is widely used to reduce administrative burden in United States hospitals, yet an estimated 30-50% of RPA initiatives underperform because processes are selected informally, without a...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09135v1",
-      "title": "Entropy-Regularized Rank-Masked Policy Optimization for Test-Time Reinforcement Learning in Code Generation",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09135v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs...",
-      "body": "Existing methods for test-time reinforcement learning (TTRL) derive rewards from answer-level self-voting on unlabeled test-time tasks with canonical answers, but this breaks down for code generation because programs...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-09134v1",
-      "title": "Co-Evolving Harnesses and Models: On-Policy Correction Helps Weaker Models Catch Up Where Imitation Fails",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.09134v1",
-      "date": "2026-09-08",
-      "readTime": "3 min",
-      "summary": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller mode...",
-      "body": "Agent harnesses (the system prompt, tool set, execution hooks, and context-management scaffolding around a model) are a critical determinant of agentic task success. Automated harness evolution can enable smaller mode...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
       "slug": "hacker-news-49602018",
       "title": "Artificial Intelligence Policy UC Berkeley School of Law [pdf]",
       "category": "Outils",
@@ -409,24 +427,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Artificial Intelligence Policy UC Berkeley School of Law [pdf], reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Artificial Intelligence Policy UC Berkeley School of Law [pdf], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49601190",
-      "title": "The Artificial Analysis Intelligence Index v4.3",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-3",
-      "date": "2026-09-07",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Artificial Analysis Intelligence Index v4.3, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Artificial Analysis Intelligence Index v4.3, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 295
+      "latencyMs": 326
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 425
+      "latencyMs": 303
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 114
+      "latencyMs": 63
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 161
+      "latencyMs": 106
     },
     {
       "id": "gdelt",
