@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-11T11:21:38.788Z",
+  "generatedAt": "2026-09-11T16:28:47.554Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49657228",
+      "title": "AI Hysteria Jumps the Shark",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.washingtonpost.com/opinions/2026/09/09/artificial-intelligence-will-not-kill-us-all/",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI Hysteria Jumps the Shark, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI Hysteria Jumps the Shark, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49656503",
       "title": "Worried Anthropic researchers warn that AI 'could kill all humans'",
@@ -21,56 +39,56 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "url": "https://github.com/marimo-team/marimo",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
       "tags": [
         "github",
         "open-source",
-        "808-stars"
+        "22718-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1308140379",
-      "title": "AgentSwarms-fyi/agentswarms",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AgentSwarms-fyi/agentswarms",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "Unified Agentic AI and Data Platform",
-      "body": "Unified Agentic AI and Data Platform",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "236-stars"
+        "26690-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-883221998",
+      "title": "AIinMinutes/Data-and-AI-Concepts",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/AIinMinutes/Data-and-AI-Concepts",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "This repository contains Data & AI concepts covered on my Threads page.",
+      "body": "This repository contains Data & AI concepts covered on my Threads page.",
       "tags": [
         "github",
         "open-source",
-        "12655-stars"
+        "166-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -93,38 +111,38 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
+      "slug": "github-1017208970",
+      "title": "WordPress/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
+      "url": "https://github.com/WordPress/ai",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
       "tags": [
         "github",
         "open-source",
-        "3063-stars"
+        "336-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "187253-stars"
+        "6327-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -142,25 +160,25 @@
       "tags": [
         "github",
         "open-source",
-        "20863-stars"
+        "20866-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-99561213",
+      "title": "sonos/tract",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/sonos/tract",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
       "tags": [
         "github",
         "open-source",
-        "26689-stars"
+        "3063-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -417,24 +435,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49626897",
-      "title": "Medicine Needs to Get Serious About AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theatlantic.com/health/2026/09/artificial-intelligence-autonomous-doctor-medicine/688543/",
-      "date": "2026-09-09",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Medicine Needs to Get Serious About AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Medicine Needs to Get Serious About AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 281
+      "latencyMs": 259
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 383
+      "latencyMs": 553
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 70
+      "latencyMs": 97
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 141
+      "latencyMs": 167
     },
     {
       "id": "gdelt",
