@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-11T16:28:47.554Z",
+  "generatedAt": "2026-09-11T20:58:19.391Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49661599",
+      "title": "Stop Panicking About AI",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.thebignewsletter.com/p/is-artificial-intelligence-going",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Stop Panicking About AI, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Stop Panicking About AI, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49657228",
       "title": "AI Hysteria Jumps the Shark",
@@ -39,24 +57,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-678526156",
-      "title": "marimo-team/marimo",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/marimo-team/marimo",
-      "date": "2026-09-11",
-      "readTime": "3 min",
-      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "tags": [
-        "github",
-        "open-source",
-        "22718-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
       "slug": "github-644461337",
       "title": "vercel/ai",
       "category": "Open source",
@@ -70,115 +70,133 @@
       "tags": [
         "github",
         "open-source",
-        "26690-stars"
+        "26695-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-883221998",
-      "title": "AIinMinutes/Data-and-AI-Concepts",
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AIinMinutes/Data-and-AI-Concepts",
+      "url": "https://github.com/flwrlabs/flower",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "This repository contains Data & AI concepts covered on my Threads page.",
-      "body": "This repository contains Data & AI concepts covered on my Threads page.",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
       "tags": [
         "github",
         "open-source",
-        "166-stars"
+        "7125-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1143295695",
-      "title": "unicity-sphere/sphere-sdk",
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/unicity-sphere/sphere-sdk",
+      "url": "https://github.com/felladrin/MiniSearch",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
-      "body": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
       "tags": [
         "github",
         "open-source",
-        "5391-stars"
+        "585-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1017208970",
-      "title": "WordPress/ai",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WordPress/ai",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
-      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "336-stars"
+        "1939-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-1008304614",
+      "title": "semantica-agi/semantica",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/semantica-agi/semantica",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "tags": [
         "github",
         "open-source",
-        "6327-stars"
+        "12686-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-132754148",
-      "title": "stefan-jansen/machine-learning-for-trading",
+      "slug": "github-860612327",
+      "title": "cvs-health/langfair",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/cvs-health/langfair",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "summary": "LangFair is a Python library for conducting use-case level LLM bias and fairness assessments",
+      "body": "LangFair is a Python library for conducting use-case level LLM bias and fairness assessments",
       "tags": [
         "github",
         "open-source",
-        "20866-stars"
+        "262-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
+      "slug": "github-1308140379",
+      "title": "AgentSwarms-fyi/agentswarms",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
+      "url": "https://github.com/AgentSwarms-fyi/agentswarms",
       "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "summary": "Unified Agentic AI and Data Platform",
+      "body": "Unified Agentic AI and Data Platform",
       "tags": [
         "github",
         "open-source",
-        "3063-stars"
+        "236-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "tags": [
+        "github",
+        "open-source",
+        "116-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -417,24 +435,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49628704",
-      "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-      "date": "2026-09-09",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Anthropic Is Building a Predictive Surveillance System to Monitor Activists, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Anthropic Is Building a Predictive Surveillance System to Monitor Activists, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 259
+      "latencyMs": 341
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 553
+      "latencyMs": 398
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 97
+      "latencyMs": 166
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 167
+      "latencyMs": 474
     },
     {
       "id": "gdelt",
