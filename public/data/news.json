@@ -1,58 +1,148 @@
 {
-  "generatedAt": "2026-09-13T11:52:43.356Z",
+  "generatedAt": "2026-09-13T16:17:34.262Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-373897031",
-      "title": "yurijmikhalevich/rclip",
+      "slug": "hacker-news-49684517",
+      "title": "Engineer turns simulated fly brain into a crypto day trader",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
+      "date": "2026-09-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Engineer turns simulated fly brain into a crypto day trader, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Engineer turns simulated fly brain into a crypto day trader, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49684454",
+      "title": "Sanders proposes 20 year sentence for devs for Artificial Superintelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
+      "date": "2026-09-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Sanders proposes 20 year sentence for devs for Artificial Superintelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Sanders proposes 20 year sentence for devs for Artificial Superintelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49684165",
+      "title": "Chinese military researchers caught using Claude for air-defense and weapons",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
+      "date": "2026-09-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Chinese military researchers caught using Claude for air-defense and weapons, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Chinese military researchers caught using Claude for air-defense and weapons, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1008304614",
+      "title": "semantica-agi/semantica",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yurijmikhalevich/rclip",
+      "url": "https://github.com/semantica-agi/semantica",
       "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "grep for images – local, offline image search for the terminal",
-      "body": "grep for images – local, offline image search for the terminal",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "tags": [
         "github",
         "open-source",
-        "1000-stars"
+        "12801-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-685838716",
-      "title": "Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources",
+      "slug": "github-65310972",
+      "title": "VIAME/VIAME",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Carl-McBride-Ellis/Compendium-of-free-ML-reading-resources",
+      "url": "https://github.com/VIAME/VIAME",
       "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "Compendium of free ML reading resources",
-      "body": "Compendium of free ML reading resources",
+      "summary": "Video and Image Analytics for Multiple Environments",
+      "body": "Video and Image Analytics for Multiple Environments",
       "tags": [
         "github",
         "open-source",
-        "567-stars"
+        "338-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1016255018",
-      "title": "theexperiencecompany/gaia",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/theexperiencecompany/gaia",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "body": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "292-stars"
+        "87750-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-09-13",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "8609-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kornia/kornia",
+      "date": "2026-09-13",
+      "readTime": "3 min",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "tags": [
+        "github",
+        "open-source",
+        "11355-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -75,74 +165,38 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-132754148",
+      "title": "stefan-jansen/machine-learning-for-trading",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
       "tags": [
         "github",
         "open-source",
-        "28857-stars"
+        "20885-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1046809510",
+      "title": "vinhnx/VTCode",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/vinhnx/VTCode",
       "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "VT Code is an open-source Rust terminal coding agent.",
+      "body": "VT Code is an open-source Rust terminal coding agent.",
       "tags": [
         "github",
         "open-source",
-        "460-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-276901861",
-      "title": "sktime/pytorch-forecasting",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sktime/pytorch-forecasting",
-      "date": "2026-09-13",
-      "readTime": "3 min",
-      "summary": "Time series forecasting with PyTorch",
-      "body": "Time series forecasting with PyTorch",
-      "tags": [
-        "github",
-        "open-source",
-        "4989-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1136941035",
-      "title": "SyntheticAutonomicMind/CLIO",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
-      "date": "2026-09-13",
-      "readTime": "3 min",
-      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "tags": [
-        "github",
-        "open-source",
-        "231-stars"
+        "842-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de AI Hysteria Jumps the Shark, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de AI Hysteria Jumps the Shark, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49656503",
-      "title": "Worried Anthropic researchers warn that AI 'could kill all humans'",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "date": "2026-09-11",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Worried Anthropic researchers warn that AI 'could kill all humans', reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Worried Anthropic researchers warn that AI 'could kill all humans', reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49649147",
-      "title": "The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://theintercept.com/2026/09/08/pentagon-openai-military-contract/",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Pentagon Asked OpenAI for Artificial Intelligence Designed to Rarely Say No, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49647068",
-      "title": "Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/old-macbook-uses-a-mirror-webcam-and-ai-agent-to-code-its-own-amd-gpu-drivers-agent-first-omarchy-linux-debugs-itself-ai-can-check-its-own-progress-on-screen-in-real-time",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Old MacBook uses a mirror, webcam, and AI agent to code its own AMD GPU drivers, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -443,7 +443,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 327
+      "latencyMs": 504
     },
     {
       "id": "github",
@@ -452,7 +452,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 315
+      "latencyMs": 468
     },
     {
       "id": "hugging-face",
@@ -461,7 +461,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 119
+      "latencyMs": 172
     },
     {
       "id": "semantic-scholar",
