@@ -1,58 +1,40 @@
 {
-  "generatedAt": "2026-09-12T20:33:24.778Z",
+  "generatedAt": "2026-09-13T04:48:33.260Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-953321814",
-      "title": "robert-mcdermott/ai-knowledge-graph",
+      "slug": "github-1046809510",
+      "title": "vinhnx/VTCode",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/robert-mcdermott/ai-knowledge-graph",
-      "date": "2026-09-12",
+      "url": "https://github.com/vinhnx/VTCode",
+      "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "AI Powered Knowledge Graph Generator",
-      "body": "AI Powered Knowledge Graph Generator",
+      "summary": "VT Code is an open-source Rust terminal coding agent.",
+      "body": "VT Code is an open-source Rust terminal coding agent.",
       "tags": [
         "github",
         "open-source",
-        "3075-stars"
+        "842-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-711657499",
-      "title": "lab-emi/OpenDPD",
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lab-emi/OpenDPD",
-      "date": "2026-09-12",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
-      "body": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "tags": [
         "github",
         "open-source",
-        "177-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "date": "2026-09-12",
-      "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
-      "tags": [
-        "github",
-        "open-source",
-        "87663-stars"
+        "8605-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -63,88 +45,142 @@
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
       "url": "https://github.com/spiceai/spiceai",
-      "date": "2026-09-12",
+      "date": "2026-09-13",
       "readTime": "3 min",
       "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "3080-stars"
+        "3081-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-834466950",
-      "title": "AleksNeStu/ai-real-estate-assistant",
+      "slug": "github-41550991",
+      "title": "mars-sim/mars-sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
-      "date": "2026-09-12",
+      "url": "https://github.com/mars-sim/mars-sim",
+      "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo.",
-      "body": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo.",
+      "summary": "Mars Simulation Project Official Codebase",
+      "body": "Mars Simulation Project Official Codebase",
       "tags": [
         "github",
         "open-source",
-        "309-stars"
+        "167-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283362391",
-      "title": "okesipoke/manuscript-phoneme-decipher",
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
-      "date": "2026-09-12",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
-      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "tags": [
         "github",
         "open-source",
-        "117-stars"
+        "28842-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "github-65310972",
+      "title": "VIAME/VIAME",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
-      "date": "2026-09-12",
+      "url": "https://github.com/VIAME/VIAME",
+      "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "Video and Image Analytics for Multiple Environments",
+      "body": "Video and Image Analytics for Multiple Environments",
       "tags": [
         "github",
         "open-source",
-        "1947-stars"
+        "338-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "date": "2026-09-12",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-09-13",
       "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "93736-stars"
+        "87699-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1306090134",
+      "title": "ailinone/collective-intelligence",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/ailinone/collective-intelligence",
+      "date": "2026-09-13",
+      "readTime": "3 min",
+      "summary": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
+      "body": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
+      "tags": [
+        "github",
+        "open-source",
+        "211-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-49677712",
+      "title": "OpenAI's rogue AI tried to hack another company in May",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "date": "2026-09-12",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de OpenAI's rogue AI tried to hack another company in May, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de OpenAI's rogue AI tried to hack another company in May, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49677695",
+      "title": "\"All my fundees have blue eyes.\" Epstein and the tech dark ideology",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.codastory.com/authoritarian-tech/blue-eyes-epstein-artificial-intelligence-eugenics-silicon-valley/",
+      "date": "2026-09-12",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de \"All my fundees have blue eyes.\" Epstein and the tech dark ideology, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de \"All my fundees have blue eyes.\" Epstein and the tech dark ideology, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hacker-news-49665395",
@@ -253,186 +289,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49642074",
-      "title": "The $40k a year school where AI shapes every lesson, without teachers",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.cbsnews.com/news/alpha-school-artificial-intelligence/",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The $40k a year school where AI shapes every lesson, without teachers, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The $40k a year school where AI shapes every lesson, without teachers, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49641792",
-      "title": "Mathematicians want proof OpenAI didn't use their work",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Mathematicians want proof OpenAI didn't use their work, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Mathematicians want proof OpenAI didn't use their work, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11923v1",
-      "title": "GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11923v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, i...",
-      "body": "Counterfactual regret minimization (CFR) is one of the few large numerical workloads that still runs faster on CPUs than on GPUs. Each iteration sweeps a game tree with up to billions of states in millions of small, i...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11918v1",
-      "title": "General Quantification of Covariate and Concept Shifts",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11918v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper...",
-      "body": "Generalization under distribution shift remains a core challenge in modern machine learning, yet existing learning bound theory is limited to narrow, idealized settings and is non-estimable from samples. In this paper...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11917v1",
-      "title": "Data Scarcity and Model Sparsity: Mixtures-of-Experts Overfit More to Repeated Data",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11917v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of d...",
-      "body": "As the supply of human-written text is exhausted, it has become standard practice to repeat language model training data. Prior work has studied data repetition for densely activated Transformers, but the effects of d...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11916v1",
-      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11916v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to eval...",
-      "body": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to eval...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11915v1",
-      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11915v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Mo...",
-      "body": "Generative artificial intelligence changes how firms reach customers, but standard marketing data do not record how often users see and notice a firm's name in generated answers. We develop Generative Marketing Mix Mo...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11911v1",
-      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11911v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely...",
-      "body": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11910v1",
-      "title": "From Protocols to Evidence: Bounded Claims for AI in Service of the Common Good",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11910v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once deployed, AI becomes a...",
-      "body": "Artificial Intelligence does more than create a governance problem. It can also reveal where institutions have already failed to provide responsiveness, belonging, care, and accountability. Once deployed, AI becomes a...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-11904v1",
-      "title": "TART: A Modular Tool for Technique-Aware Audio-to-Tablature Guitar Transcription",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.11904v1",
-      "date": "2026-09-10",
-      "readTime": "3 min",
-      "summary": "Automatic Music Transcription (AMT) for guitar remains limited by three challenges: existing systems often fail to capture expressive techniques such as slides, bends, and percussive hits; they often assign notes to i...",
-      "body": "Automatic Music Transcription (AMT) for guitar remains limited by three challenges: existing systems often fail to capture expressive techniques such as slides, bends, and percussive hits; they often assign notes to i...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +443,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 299
+      "latencyMs": 473
     },
     {
       "id": "github",
@@ -596,7 +452,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 469
+      "latencyMs": 286
     },
     {
       "id": "hugging-face",
@@ -605,7 +461,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 129
+      "latencyMs": 68
     },
     {
       "id": "semantic-scholar",
@@ -621,9 +477,9 @@
       "name": "arXiv",
       "category": "Recherche",
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 223
+      "ok": false,
+      "count": 0,
+      "error": "arXiv returned HTTP 429"
     },
     {
       "id": "gdelt",
@@ -632,11 +488,12 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "arXiv: arXiv returned HTTP 429",
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
