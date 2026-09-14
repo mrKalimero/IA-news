@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-14T04:57:40.098Z",
+  "generatedAt": "2026-09-14T12:47:47.585Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49695719",
+      "title": "Alexa+ the Next Generation of Alexa",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence",
+      "date": "2026-09-14",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Alexa+ the Next Generation of Alexa, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Alexa+ the Next Generation of Alexa, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49694483",
+      "title": "The \"Nonexistent\" Research on AI's Benefits for Education",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/09/14/nonexistent-research-ais-benefits-education",
+      "date": "2026-09-14",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The \"Nonexistent\" Research on AI's Benefits for Education, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The \"Nonexistent\" Research on AI's Benefits for Education, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49691109",
       "title": "Bernie Sanders proposes 20 years in prison for developers pursuing ASI plans",
@@ -57,146 +93,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-276901861",
+      "title": "sktime/pytorch-forecasting",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/sktime/pytorch-forecasting",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Time series forecasting with PyTorch",
+      "body": "Time series forecasting with PyTorch",
       "tags": [
         "github",
         "open-source",
-        "87814-stars"
+        "4990-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-169975410",
-      "title": "leon-ai/leon",
+      "slug": "github-252767810",
+      "title": "fabsig/GPBoost",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/leon-ai/leon",
+      "url": "https://github.com/fabsig/GPBoost",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "🧠 Leon is your open-source personal assistant.",
-      "body": "🧠 Leon is your open-source personal assistant.",
+      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
+      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
       "tags": [
         "github",
         "open-source",
-        "17508-stars"
+        "695-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-688164459",
+      "title": "harvard-edge/cs249r_book",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/harvard-edge/cs249r_book",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "Machine Learning Systems",
+      "body": "Machine Learning Systems",
       "tags": [
         "github",
         "open-source",
-        "3081-stars"
+        "28206-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-65310972",
-      "title": "VIAME/VIAME",
+      "slug": "github-99561213",
+      "title": "sonos/tract",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/VIAME/VIAME",
+      "url": "https://github.com/sonos/tract",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Video and Image Analytics for Multiple Environments",
-      "body": "Video and Image Analytics for Multiple Environments",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
       "tags": [
         "github",
         "open-source",
-        "338-stars"
+        "3063-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-224908244",
-      "title": "WasmEdge/WasmEdge",
+      "slug": "github-1002593055",
+      "title": "PaulDuvall/ai-development-patterns",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WasmEdge/WasmEdge",
+      "url": "https://github.com/PaulDuvall/ai-development-patterns",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
-      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
       "tags": [
         "github",
         "open-source",
-        "10804-stars"
+        "653-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1016255018",
-      "title": "theexperiencecompany/gaia",
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/theexperiencecompany/gaia",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Your proactive personal AI assistant & companion for daily productivity 🌎",
-      "body": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
       "tags": [
         "github",
         "open-source",
-        "293-stars"
+        "117-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-711657499",
+      "title": "lab-emi/OpenDPD",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/lab-emi/OpenDPD",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
+      "body": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
       "tags": [
         "github",
         "open-source",
-        "187315-stars"
+        "177-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/frontman-ai/frontman",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
       "tags": [
         "github",
         "open-source",
-        "28897-stars"
+        "696-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -255,24 +291,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49684165",
-      "title": "Chinese military researchers caught using Claude for air-defense and weapons",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinese-military-researchers-and-tech-giants-caught-using-claude-us-frontier-model-coded-16-air-defense-suppression-tools-targeting-taiwan-drafted-anti-torpedo-specs-and-fed-151-million-training-queries-to-alibaba",
-      "date": "2026-09-13",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Chinese military researchers caught using Claude for air-defense and weapons, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Chinese military researchers caught using Claude for air-defense and weapons, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
       "title": "KurdistanAI/kurdistan_Artificial_Intelligence1.0",
       "category": "Modeles",
@@ -304,7 +322,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "83-downloads"
+        "79-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -412,7 +430,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "87-downloads"
+        "84-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
@@ -425,7 +443,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 419
+      "latencyMs": 456
     },
     {
       "id": "github",
@@ -434,7 +452,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 479
+      "latencyMs": 397
     },
     {
       "id": "hugging-face",
@@ -443,7 +461,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 139
+      "latencyMs": 128
     },
     {
       "id": "semantic-scholar",
