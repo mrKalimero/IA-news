@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-14T12:47:47.585Z",
+  "generatedAt": "2026-09-14T21:49:42.695Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49697068",
+      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down (2021)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
+      "date": "2026-09-14",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Timnit Gebru Says Artificial Intelligence Needs to Slow Down (2021), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Timnit Gebru Says Artificial Intelligence Needs to Slow Down (2021), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49695719",
       "title": "Alexa+ the Next Generation of Alexa",
@@ -93,106 +111,124 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-276901861",
-      "title": "sktime/pytorch-forecasting",
+      "slug": "github-132754148",
+      "title": "stefan-jansen/machine-learning-for-trading",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sktime/pytorch-forecasting",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Time series forecasting with PyTorch",
-      "body": "Time series forecasting with PyTorch",
+      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
       "tags": [
         "github",
         "open-source",
-        "4990-stars"
+        "20898-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-252767810",
-      "title": "fabsig/GPBoost",
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fabsig/GPBoost",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
-      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
       "tags": [
         "github",
         "open-source",
-        "695-stars"
+        "121-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-688164459",
-      "title": "harvard-edge/cs249r_book",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/harvard-edge/cs249r_book",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Machine Learning Systems",
-      "body": "Machine Learning Systems",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "28206-stars"
+        "187335-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
+      "slug": "github-894430000",
+      "title": "bodo-ai/Bodo",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
+      "url": "https://github.com/bodo-ai/Bodo",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "summary": "High Performance Scalable Data Processing in Python and SQL",
+      "body": "High Performance Scalable Data Processing in Python and SQL",
       "tags": [
         "github",
         "open-source",
-        "3063-stars"
+        "376-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1002593055",
-      "title": "PaulDuvall/ai-development-patterns",
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/PaulDuvall/ai-development-patterns",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
-      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
       "tags": [
         "github",
         "open-source",
-        "653-stars"
+        "118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "tags": [
+        "github",
+        "open-source",
+        "5917-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283362391",
+      "title": "okesipoke/manuscript-phoneme-decipher",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
+      "date": "2026-09-14",
+      "readTime": "3 min",
+      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
       "tags": [
         "github",
         "open-source",
@@ -201,38 +237,20 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-711657499",
-      "title": "lab-emi/OpenDPD",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lab-emi/OpenDPD",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-09-14",
       "readTime": "3 min",
-      "summary": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
-      "body": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "177-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
-      "tags": [
-        "github",
-        "open-source",
-        "696-stars"
+        "87901-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -273,22 +291,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-49684517",
-      "title": "Engineer turns simulated fly brain into a crypto day trader",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/engineer-turns-simulated-fly-brain-into-a-crypto-day-trader-posts-downloadable-sim-to-github-166-700-virtual-neurons-read-candlestick-charts-for-dopamine-hits",
-      "date": "2026-09-13",
+      "slug": "arxiv-http-arxiv-org-abs-2609-13134v1",
+      "title": "Rethinking Heterogeneous System Disaggregation for Subquadratic Attention",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13134v1",
+      "date": "2026-09-11",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Engineer turns simulated fly brain into a crypto day trader, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Engineer turns simulated fly brain into a crypto day trader, reperee dans la communaute Hacker News.",
+      "summary": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems mak...",
+      "body": "Frontier language models are more aggressively using subquadratic attention to reduce the memory footprint and compute requirements during inference while still delivering frontier accuracy. While existing systems mak...",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2609-13125v1",
+      "title": "A Hybrid LSTM-XGBoost Framework for Multi-Horizon Stock Return Prediction Across Diversified Equity Portfolios",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13125v1",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybri...",
+      "body": "Accurate prediction of equity returns remains a major challenge in computational finance due to the non-stationary, nonlinear, and low signal-to-noise ratio nature of financial time series. This paper proposes a hybri...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2609-13118v1",
+      "title": "CMA-OT: Hierarchical Expert Supervision for Dance-to-Music Generation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13118v1",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm an...",
+      "body": "Dance-to-music (D2M) generation aims to synthesize music that is rhythmically and stylistically aligned with dance videos. A key challenge arises from the semantic mismatch between sparse dance cues, such as rhythm an...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2609-13100v1",
+      "title": "A Ranking Approach for Measuring Calibration",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13100v1",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "When providing forecasted probabilities with a predictive model, the ideal model offers perfect calibration: the true probability of the outcome (i.e., the probability that $Y=1$) exactly matches the forecasted probab...",
+      "body": "When providing forecasted probabilities with a predictive model, the ideal model offers perfect calibration: the true probability of the outcome (i.e., the probability that $Y=1$) exactly matches the forecasted probab...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2609-13083v1",
+      "title": "ASTRIL-MPC: Autonomous Traversal Framework of Articulated Tracked Robots with Language-Guided Neural-Kinematic MPC",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13083v1",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because r...",
+      "body": "In urban search and rescue, articulated tracked robots (ATRs) must traverse structured but contact-rich environments such as stairwells and cluttered building interiors. Reliable autonomy remains challenging because r...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2609-13082v1",
+      "title": "Embodied-BenchForge: A Closed-Loop Agentic Workflow for Embodied Benchmark Construction",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13082v1",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task families. More impor...",
+      "body": "Agentic systems offer a promising way to automate embodied benchmark construction, but existing approaches typically cover isolated stages or remain specialized to predefined environments and task families. More impor...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2609-13076v1",
+      "title": "MP-Bench: Evaluating Voice Agents as a Multiparty Conversation Participant",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13076v1",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks extensively evalua...",
+      "body": "Conversational voice agents have advanced significantly, offering increasingly natural human-machine interactions through both cascaded and end-to-end architectures. However, while recent benchmarks extensively evalua...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
+    },
+    {
+      "slug": "arxiv-http-arxiv-org-abs-2609-13073v1",
+      "title": "Autonomous Research for Open-Ended Problems: A Case Study on Telecom Ticket Retrieval",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.13073v1",
+      "date": "2026-09-11",
+      "readTime": "3 min",
+      "summary": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning (ML) research. Ho...",
+      "body": "Recent breakthroughs in LLM-based systems and their abilities in problem solving and coding have allowed progress in the AI for Science paradigm, potentially replacing human roles in machine learning (ML) research. Ho...",
+      "tags": [
+        "arxiv",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -443,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 456
+      "latencyMs": 386
     },
     {
       "id": "github",
@@ -452,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 397
+      "latencyMs": 275
     },
     {
       "id": "hugging-face",
@@ -461,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 128
+      "latencyMs": 114
     },
     {
       "id": "semantic-scholar",
@@ -477,9 +621,9 @@
       "name": "arXiv",
       "category": "Recherche",
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "ok": false,
-      "count": 0,
-      "error": "arXiv returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 74
     },
     {
       "id": "gdelt",
@@ -493,7 +637,6 @@
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "arXiv: arXiv returned HTTP 429",
     "GDELT: GDELT returned HTTP 429"
   ]
 }
