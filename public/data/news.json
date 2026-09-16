@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-09-16T16:55:48.889Z",
+  "generatedAt": "2026-09-16T21:18:38.656Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49732617",
+      "title": "New satellites and artificial intelligence are transforming wildfire detection",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/satellites-ai-wildfire-detection",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de New satellites and artificial intelligence are transforming wildfire detection, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de New satellites and artificial intelligence are transforming wildfire detection, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49732478",
+      "title": "The sexy AI-powered dating app scams are here (gift link)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The sexy AI-powered dating app scams are here (gift link), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The sexy AI-powered dating app scams are here (gift link), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49731136",
+      "title": "Anyhropic Launches Google Docs Alternative: Claude Docs",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anyhropic Launches Google Docs Alternative: Claude Docs, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anyhropic Launches Google Docs Alternative: Claude Docs, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49730961",
+      "title": "Artificial Analysis: What Is the Intelligence Index Measuring?",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://itsmonkey.business/blogposts/01-On_Artificial_Analysis.html",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Analysis: What Is the Intelligence Index Measuring?, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Analysis: What Is the Intelligence Index Measuring?, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49726166",
       "title": "Altman: \"I'm on Team Human\" (Interview)",
@@ -75,110 +147,92 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1072748300",
-      "title": "xlang-ai/OSWorld-V2",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xlang-ai/OSWorld-V2",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-09-16",
       "readTime": "3 min",
-      "summary": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
-      "body": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "tags": [
         "github",
         "open-source",
-        "312-stars"
+        "6088-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-77383688",
-      "title": "polyaxon/polyaxon",
+      "slug": "github-554771302",
+      "title": "steven2358/awesome-generative-ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/polyaxon/polyaxon",
+      "url": "https://github.com/steven2358/awesome-generative-ai",
       "date": "2026-09-16",
       "readTime": "3 min",
-      "summary": "AI Infra / AI Orchestration / AI Control Plane",
-      "body": "AI Infra / AI Orchestration / AI Control Plane",
+      "summary": "A curated list of modern Generative Artificial Intelligence projects and services",
+      "body": "A curated list of modern Generative Artificial Intelligence projects and services",
       "tags": [
         "github",
         "open-source",
-        "3731-stars"
+        "12645-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1191114524",
-      "title": "daniel3303/Equibles",
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/daniel3303/Equibles",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
       "date": "2026-09-16",
       "readTime": "3 min",
-      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
-      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
       "tags": [
         "github",
         "open-source",
-        "230-stars"
+        "121-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1225446523",
-      "title": "caojiaolong/spaces-index",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/caojiaolong/spaces-index",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-09-16",
       "readTime": "3 min",
-      "summary": "🌟本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。",
-      "body": "🌟本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "297-stars"
+        "26820-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-887435804",
+      "title": "Drix10/ai-resources",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/Drix10/ai-resources",
       "date": "2026-09-16",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
+      "body": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
       "tags": [
         "github",
         "open-source",
-        "6383-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
-        "github",
-        "open-source",
-        "187387-stars"
+        "118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -196,81 +250,45 @@
       "tags": [
         "github",
         "open-source",
-        "88159-stars"
+        "88169-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-252767810",
-      "title": "fabsig/GPBoost",
+      "slug": "github-603569762",
+      "title": "canyongbs/advisingapp",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fabsig/GPBoost",
+      "url": "https://github.com/canyongbs/advisingapp",
       "date": "2026-09-16",
       "readTime": "3 min",
-      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
-      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
+      "summary": "Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and dri...",
+      "body": "Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and dri...",
       "tags": [
         "github",
         "open-source",
-        "695-stars"
+        "338-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "hacker-news-49714631",
-      "title": "The Dangerous Ideology Behind the AI Warnings",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.thefp.com/p/dangerous-ideology-effective-altruism-artificial-intelligence",
-      "date": "2026-09-15",
+      "slug": "github-925674818",
+      "title": "wanaku-ai/wanaku",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/wanaku-ai/wanaku",
+      "date": "2026-09-16",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de The Dangerous Ideology Behind the AI Warnings, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Dangerous Ideology Behind the AI Warnings, reperee dans la communaute Hacker News.",
+      "summary": "Wanaku Governed Action Proxy for AI Agents",
+      "body": "Wanaku Governed Action Proxy for AI Agents",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "github",
+        "open-source",
+        "133-stars"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49709283",
-      "title": "Is Big Tech's AI slowdown a safety pact or a cartel?",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "date": "2026-09-15",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Is Big Tech's AI slowdown a safety pact or a cartel?, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Is Big Tech's AI slowdown a safety pact or a cartel?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49707000",
-      "title": "World AI Cooperation Organization",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://en.wikipedia.org/wiki/World_Artificial_Intelligence_Cooperation_Organization",
-      "date": "2026-09-15",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de World AI Cooperation Organization, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de World AI Cooperation Organization, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "arxiv-http-arxiv-org-abs-2609-17527v1",
@@ -415,24 +433,6 @@
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-49697068",
-      "title": "Timnit Gebru Says Artificial Intelligence Needs to Slow Down (2021)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.wired.com/story/rewired-2021-timnit-gebru/",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Timnit Gebru Says Artificial Intelligence Needs to Slow Down (2021), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Timnit Gebru Says Artificial Intelligence Needs to Slow Down (2021), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 513
+      "latencyMs": 288
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 439
+      "latencyMs": 365
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 154
+      "latencyMs": 56
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 143
+      "latencyMs": 243
     },
     {
       "id": "gdelt",
