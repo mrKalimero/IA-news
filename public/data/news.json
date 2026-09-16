@@ -1,7 +1,331 @@
 {
-  "generatedAt": "2026-09-15T21:21:26.573Z",
+  "generatedAt": "2026-09-16T04:49:37.937Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49721959",
+      "title": "Symbolic Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Symbolic Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Symbolic Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49721068",
+      "title": "Artificial Intelligence, Quote Unquote",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.penny-arcade.com/news/post/2026/09/15/artificial-intelligence-quote-unquote",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence, Quote Unquote, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence, Quote Unquote, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-832482665",
+      "title": "zi-yue-1129/DATAGEN",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/zi-yue-1129/DATAGEN",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing.",
+      "body": "DATAGEN: AI-driven multi-agent research assistant automating hypothesis generation, data analysis, and report writing.",
+      "tags": [
+        "github",
+        "open-source",
+        "1801-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-334848347",
+      "title": "ccfddl/ccf-deadlines",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/ccfddl/ccf-deadlines",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "body": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "tags": [
+        "github",
+        "open-source",
+        "9318-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
+      "tags": [
+        "github",
+        "open-source",
+        "88065-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283341037",
+      "title": "jaimasih05-commits/swarm-foraging-qlearn",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "tags": [
+        "github",
+        "open-source",
+        "118-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1016255018",
+      "title": "theexperiencecompany/gaia",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/theexperiencecompany/gaia",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "body": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "tags": [
+        "github",
+        "open-source",
+        "295-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "187374-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "tags": [
+        "github",
+        "open-source",
+        "26772-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-65310972",
+      "title": "VIAME/VIAME",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/VIAME/VIAME",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "Video and Image Analytics for Multiple Environments",
+      "body": "Video and Image Analytics for Multiple Environments",
+      "tags": [
+        "github",
+        "open-source",
+        "338-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
+      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260717/rossija-2105387375.html",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "ria.ru",
+      "body": "ria.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "ria.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-news-2142746",
+      "title": "Кабмин внес в Госдуму доработанный законопроект об искусственном интеллекте",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/news/2142746/",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
+      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "wiwo.de",
+      "body": "wiwo.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "wiwo.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "hnonline.sk",
+      "body": "hnonline.sk",
+      "tags": [
+        "gdelt",
+        "media",
+        "hnonline.sk"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
+      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "finanznachrichten.de",
+      "body": "finanznachrichten.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "finanznachrichten.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-facenews-ua-news-2026-535140",
+      "title": "Діти освоюють ШІ швидше за дорослих : UNICEF б є на сполох через відсутність регулювання",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.facenews.ua/news/2026/535140/",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "facenews.ua",
+      "body": "facenews.ua",
+      "tags": [
+        "gdelt",
+        "media",
+        "facenews.ua"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-lafm-com-co-sociedad-inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
+      "title": "¿ Usa IA sin verificar ? Estos son los riesgos que enfrenta",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.lafm.com.co/sociedad/inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "lafm.com.co",
+      "body": "lafm.com.co",
+      "tags": [
+        "gdelt",
+        "media",
+        "lafm.com.co"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-ia-opinion-author-zueva-anna",
+      "title": "Зуева Анна | Авторы : ГАРАНТ . РУ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/ia/opinion/author/zueva-anna/",
+      "date": "2026-09-16",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
     {
       "slug": "hacker-news-49714631",
       "title": "The Dangerous Ideology Behind the AI Warnings",
@@ -57,148 +381,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17527v1",
+      "title": "Agentic Societies Need a Social Harness",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17527v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic...",
+      "body": "An agentic society is a collection of AI agents that coordinate autonomously across trust boundaries, on behalf of different principals whose objectives may only partially align. We show experimentally that in agentic...",
       "tags": [
-        "github",
-        "open-source",
-        "26767-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17523v1",
+      "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17523v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carryi...",
+      "body": "We introduce and release ScienceBuddy, an interactive scientific research workspace that brings continually improving scientific agents into researchers' everyday workflows. ScienceBuddy supports researchers in carryi...",
       "tags": [
-        "github",
-        "open-source",
-        "116-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1283341037",
-      "title": "jaimasih05-commits/swarm-foraging-qlearn",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17521v1",
+      "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17521v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
-      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "summary": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control sched...",
+      "body": "Interactive control for video generation is moving from coarse prompts toward fine-grained, physically meaningful manipulation of dynamic scenes. Yet existing controllable methods either require the full control sched...",
       "tags": [
-        "github",
-        "open-source",
-        "118-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1306090134",
-      "title": "ailinone/collective-intelligence",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ailinone/collective-intelligence",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17516v1",
+      "title": "When Should LLMs Abstain? Chain-of-Self-Questioning for Selective Risk Control",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17516v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
-      "body": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
+      "summary": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an expli...",
+      "body": "Large language models can produce fluent answers when their factual support is weak. This paper introduces Chain-of-Self-Questioning (CoSQ), a prompt-only framework that makes answer commitment conditional on an expli...",
       "tags": [
-        "github",
-        "open-source",
-        "211-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-704892113",
-      "title": "felladrin/MiniSearch",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/felladrin/MiniSearch",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17509v1",
+      "title": "LACE: Layer-Wise Compression for Dynamic Frame Rate Codecs",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17509v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "summary": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing t...",
+      "body": "Neural audio codecs are a key component in speech language modeling. However, their high frame rates lead to long sequence lengths, increasing computational costs. Dynamic frame rate codecs mitigate this by reducing t...",
       "tags": [
-        "github",
-        "open-source",
-        "586-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17499v1",
+      "title": "ENCP: Episode-Normalized Conformal Prediction for Vision-and-Language Navigation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17499v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "summary": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the...",
+      "body": "Uncertainty estimation for Vision-Language-Navigation (VLN) models is a critical task since it can help identify ambiguous and unreliable predictions, enabling agents to make safer navigation decisions. As one of the...",
       "tags": [
-        "github",
-        "open-source",
-        "29642-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17496v1",
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17496v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situ...",
+      "body": "LLM assistants are widely used for daily social advice, yet evaluating their social reasoning in such consultation settings remains challenging since (i) it requires setups where the assistant learns about social situ...",
       "tags": [
-        "github",
-        "open-source",
-        "187368-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
+      "slug": "arxiv-http-arxiv-org-abs-2609-17491v1",
+      "title": "FreqSpaNet: Frequency and Spatial Learning of SFPF for Physical Layer Hardware Integrity Detection",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.17491v1",
       "date": "2026-09-15",
       "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
+      "summary": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency polarization fing...",
+      "body": "Unauthorized hardware replacement can preserve a wireless device's logical identity while altering its physical implementation, posing a challenge to hardware integrity verification. Spatio-frequency polarization fing...",
       "tags": [
-        "github",
-        "open-source",
-        "11088-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hacker-news-49697068",
@@ -253,186 +577,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49691109",
-      "title": "Bernie Sanders proposes 20 years in prison for developers pursuing ASI plans",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/sanders-proposes-20-year-prison-sentence-for-ai-devs-who-plow-ahead-with-artificial-superintelligence-plans-penalty-on-par-with-illegally-developing-rogue-nuclear-weapons",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Bernie Sanders proposes 20 years in prison for developers pursuing ASI plans, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Bernie Sanders proposes 20 years in prison for developers pursuing ASI plans, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49690678",
-      "title": "The Malicious Use of Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://arxiv.org/abs/1802.07228",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Malicious Use of Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Malicious Use of Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15989v1",
-      "title": "Corrupt Plans, Clean Traces: Evading Chain-of-Thought Monitoring with Plan Injection",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15989v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model \"actor\" is inspected by a \"monitor\" (often another language model) for signs of unsafe planning, deception, or misal...",
-      "body": "Chain-of-thought (CoT) monitoring is a safety strategy where the reasoning of a large language model \"actor\" is inspected by a \"monitor\" (often another language model) for signs of unsafe planning, deception, or misal...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15987v1",
-      "title": "Bellman Policy Optimization",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15987v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived from Policy Mirro...",
-      "body": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models (LLMs). We introduce Bellman Policy Optimization (BPO), a critic-free method derived from Policy Mirro...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15983v1",
-      "title": "Stellar Colosseum: A Many-Agent Harness for Long-Horizon Research in Mathematics and Theoretical Computer Science",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15983v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar C...",
-      "body": "Language models can produce plausible short proofs, but may still be unreliable on long-horizon research problems, where progress depends on a sequence of uncertain and interdependent decisions. We introduce Stellar C...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15982v1",
-      "title": "The Router Within: Eliciting Native Skill Routing from a Frozen LLM",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15982v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Skills extend an LLM agent beyond its parametric knowledge, and the gain they promise rests on picking the right one. Deployed harnesses route by preloading every skill's metadata into the context, which disperses the...",
-      "body": "Skills extend an LLM agent beyond its parametric knowledge, and the gain they promise rests on picking the right one. Deployed harnesses route by preloading every skill's metadata into the context, which disperses the...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15980v1",
-      "title": "A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15980v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "When a video model generates physically incorrect motion, did it fail to learn the correct motion, or did it learn it but fail to use it? We show the latter: the correct motion remains available inside the model and c...",
-      "body": "When a video model generates physically incorrect motion, did it fail to learn the correct motion, or did it learn it but fail to use it? We show the latter: the correct motion remains available inside the model and c...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15975v1",
-      "title": "Disentangling Representation Evolution in Transformers through Directional Decomposition",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15975v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Transformer representations evolve through learned additive transformations that either preserve their current direction or redirect it. We study this evolution as a functional geometry, decomposing learned updates in...",
-      "body": "Transformer representations evolve through learned additive transformations that either preserve their current direction or redirect it. We study this evolution as a functional geometry, decomposing learned updates in...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15972v1",
-      "title": "Mind2Dialogue: Training Human-Aware Language Models by Simulating User Mental States",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15972v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "As language models become more capable, long-term collaboration in learning, reasoning, and decision-making calls for a deeper understanding of the people they serve. Yet training such human-aware language models face...",
-      "body": "As language models become more capable, long-term collaboration in learning, reasoning, and decision-making calls for a deeper understanding of the people they serve. Yet training such human-aware language models face...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-15950v1",
-      "title": "Privacy-Aligned Personalized Federated Learning with Compact Adaptation and Variable-Length Gaussian Communication",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.15950v1",
-      "date": "2026-09-14",
-      "readTime": "3 min",
-      "summary": "Record-level differential privacy exposes a structural misalignment in personalized federated learning when client-specific variation is low-dimensional while training repeatedly releases high-dimensional updates. In...",
-      "body": "Record-level differential privacy exposes a structural misalignment in personalized federated learning when client-specific variation is low-dimensional while training repeatedly releases high-dimensional updates. In...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +731,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 385
+      "latencyMs": 258
     },
     {
       "id": "github",
@@ -596,7 +740,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 468
+      "latencyMs": 366
     },
     {
       "id": "hugging-face",
@@ -623,20 +767,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 215
+      "latencyMs": 358
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 14373
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
