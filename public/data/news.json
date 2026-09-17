@@ -1,76 +1,94 @@
 {
-  "generatedAt": "2026-09-17T11:41:52.196Z",
+  "generatedAt": "2026-09-17T16:59:57.439Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-504032359",
-      "title": "liguge/Journals-of-Prognostics-and-Health-Management",
+      "slug": "hacker-news-49742825",
+      "title": "The suddenly explosive world of AI safety",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "date": "2026-09-17",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The suddenly explosive world of AI safety, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The suddenly explosive world of AI safety, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49742021",
+      "title": "Artificial intelligence now beats some of the best human forecasters",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters",
+      "date": "2026-09-17",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial intelligence now beats some of the best human forecasters, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial intelligence now beats some of the best human forecasters, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-644293378",
+      "title": "CVHub520/X-AnyLabeling",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/liguge/Journals-of-Prognostics-and-Health-Management",
+      "url": "https://github.com/CVHub520/X-AnyLabeling",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "智能故障诊断和寿命预测期刊（Journals of Intelligent Fault Diagnosis and Remaining Useful Life）",
-      "body": "智能故障诊断和寿命预测期刊（Journals of Intelligent Fault Diagnosis and Remaining Useful Life）",
+      "summary": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and fl...",
+      "body": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and fl...",
       "tags": [
         "github",
         "open-source",
-        "492-stars"
+        "10463-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
+      "slug": "github-871411796",
+      "title": "LJungang/Awesome-Video-Reasoning-Landscape",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
+      "url": "https://github.com/LJungang/Awesome-Video-Reasoning-Landscape",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "summary": "🔥An open-source survey of the latest video reasoning tasks, paradigms, and benchmarks.",
+      "body": "🔥An open-source survey of the latest video reasoning tasks, paradigms, and benchmarks.",
       "tags": [
         "github",
         "open-source",
-        "501-stars"
+        "191-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "187400-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-653496050",
-      "title": "xorbitsai/inference",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xorbitsai/inference",
-      "date": "2026-09-17",
-      "readTime": "3 min",
-      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "tags": [
-        "github",
-        "open-source",
-        "9575-stars"
+        "26904-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -93,56 +111,74 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1016255018",
+      "title": "theexperiencecompany/gaia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/theexperiencecompany/gaia",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Your proactive personal AI assistant & companion for daily productivity 🌎",
+      "body": "Your proactive personal AI assistant & companion for daily productivity 🌎",
       "tags": [
         "github",
         "open-source",
-        "461-stars"
+        "295-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-102692863",
-      "title": "onnx/onnx",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onnx/onnx",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "Open standard for machine learning interoperability",
-      "body": "Open standard for machine learning interoperability",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "21499-stars"
+        "6392-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1225446523",
-      "title": "caojiaolong/spaces-index",
+      "slug": "github-257913595",
+      "title": "voxel51/fiftyone",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/caojiaolong/spaces-index",
+      "url": "https://github.com/voxel51/fiftyone",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "🌟本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。",
-      "body": "🌟本项目自动抓取并索引科学空间的文章元数据，按研究主题进行规则分类，方便在 GitHub 上快速浏览并跳转到原文。",
+      "summary": "Refine high-quality datasets and visual AI models",
+      "body": "Refine high-quality datasets and visual AI models",
       "tags": [
         "github",
         "open-source",
-        "297-stars"
+        "11092-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-09-17",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "187407-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -247,42 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de China's open-weight AI models are now just 4 months behind frontier US offerings, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de China's open-weight AI models are now just 4 months behind frontier US offerings, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49721959",
-      "title": "Symbolic Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Symbolic Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Symbolic Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49721068",
-      "title": "Artificial Intelligence, Quote Unquote",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.penny-arcade.com/news/post/2026/09/15/artificial-intelligence-quote-unquote",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence, Quote Unquote, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence, Quote Unquote, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 306
+      "latencyMs": 466
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 461
+      "latencyMs": 406
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 118
+      "latencyMs": 181
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 353
+      "latencyMs": 216
     },
     {
       "id": "gdelt",
