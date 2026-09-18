@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T11:15:22.923Z",
+  "generatedAt": "2026-09-18T16:24:20.088Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
@@ -21,6 +21,42 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/tphakala/birdnet-go",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "tags": [
+        "github",
+        "open-source",
+        "2137-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-65310972",
+      "title": "VIAME/VIAME",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/VIAME/VIAME",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Video and Image Analytics for Multiple Environments",
+      "body": "Video and Image Analytics for Multiple Environments",
+      "tags": [
+        "github",
+        "open-source",
+        "338-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "github-252767810",
       "title": "fabsig/GPBoost",
       "category": "Open source",
@@ -39,128 +75,92 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-711657499",
-      "title": "lab-emi/OpenDPD",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lab-emi/OpenDPD",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-09-18",
       "readTime": "3 min",
-      "summary": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
-      "body": "OpenDPD is an end-to-end learning framework built in PyTorch for power amplifier (PA) modeling and digital pre-distortion (DPD). You are cordially invited to contribute to this project by providing your own backbone n...",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "177-stars"
+        "187431-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-769925881",
-      "title": "sanidhyy/brainwave",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sanidhyy/brainwave",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-09-18",
       "readTime": "3 min",
-      "summary": "Modern Animated SaaS Generative AI Landing Page.",
-      "body": "Modern Animated SaaS Generative AI Landing Page.",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "165-stars"
+        "6404-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-09-18",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "461-stars"
+        "88419-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-681211986",
-      "title": "twinnydotdev/twinny",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/twinnydotdev/twinny",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-09-18",
       "readTime": "3 min",
-      "summary": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
-      "body": "The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "3650-stars"
+        "63496-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-409072882",
+      "title": "arxhr007/Aliens_eye",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/arxhr007/Aliens_eye",
       "date": "2026-09-18",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "Hunt down 840+ social media accounts using AI",
+      "body": "Hunt down 840+ social media accounts using AI",
       "tags": [
         "github",
         "open-source",
-        "11363-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1136941035",
-      "title": "SyntheticAutonomicMind/CLIO",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
-      "date": "2026-09-18",
-      "readTime": "3 min",
-      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "tags": [
-        "github",
-        "open-source",
-        "231-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
-      "date": "2026-09-18",
-      "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
-      "tags": [
-        "github",
-        "open-source",
-        "810-stars"
+        "3986-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -569,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 419
+      "latencyMs": 315
     },
     {
       "id": "github",
@@ -578,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 328
+      "latencyMs": 287
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 117
+      "latencyMs": 126
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 330
+      "latencyMs": 205
     },
     {
       "id": "gdelt",
@@ -614,11 +614,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
