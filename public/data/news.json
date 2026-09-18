@@ -1,7 +1,205 @@
 {
-  "generatedAt": "2026-09-17T21:22:49.652Z",
+  "generatedAt": "2026-09-18T04:44:05.036Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49749454",
+      "title": "Essays of Dario Amodei are why people are worried about artificial intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Essays of Dario Amodei are why people are worried about artificial intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Essays of Dario Amodei are why people are worried about artificial intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/xorbitsai/inference",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "tags": [
+        "github",
+        "open-source",
+        "9575-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "317-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-734174248",
+      "title": "lakehq/sail",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/lakehq/sail",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "tags": [
+        "github",
+        "open-source",
+        "3376-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
+      "tags": [
+        "github",
+        "open-source",
+        "88351-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "117-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/dyad-sh/dyad",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "tags": [
+        "github",
+        "open-source",
+        "21576-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1169735215",
+      "title": "l33tdawg/sage",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/l33tdawg/sage",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "tags": [
+        "github",
+        "open-source",
+        "247-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "date": "2026-09-18",
+      "readTime": "3 min",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "tags": [
+        "github",
+        "open-source",
+        "116-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-49748262",
+      "title": "Can an AI chatbot save lives by answering texts about pregnancy?",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.npr.org/2026/09/17/nx-s1-5962840/artificial-intelligence-ai-chatbot-pregnancy-maternal-health",
+      "date": "2026-09-17",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Can an AI chatbot save lives by answering texts about pregnancy?, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Can an AI chatbot save lives by answering texts about pregnancy?, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49745600",
+      "title": "How Three Brothers Built an AI Slop Empire",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://futurism.com/artificial-intelligence/brown-brothers-media-ai-slop-empire",
+      "date": "2026-09-17",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de How Three Brothers Built an AI Slop Empire, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de How Three Brothers Built an AI Slop Empire, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49742825",
       "title": "The suddenly explosive world of AI safety",
@@ -39,148 +237,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20822v1",
+      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20822v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whe...",
+      "body": "Coding agents have emerged as a promising paradigm for robot manipulation: a language model writes the robot controller as a program, and agents built in this way now operate robots without robot-specific training.Whe...",
       "tags": [
-        "github",
-        "open-source",
-        "26809-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-678526156",
-      "title": "marimo-team/marimo",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/marimo-team/marimo",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20821v1",
+      "title": "Embedding Models Measure in Peculiar Ways",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20821v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "summary": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semant...",
+      "body": "Embedding spaces define notions of semantic similarity and distance. We study whether those embeddings reflect physical measurements of mass, distance, time and volume, which admit a unique, objective notion of semant...",
       "tags": [
-        "github",
-        "open-source",
-        "22818-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20820v1",
+      "title": "Workspace Models: Lightweight Robotic Memory via Saliency-Driven Supervision",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20820v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many app...",
+      "body": "Complex robotic manipulation tasks frequently require a long-term memory of past events and actions. As conditioning on full histories renders policies prone to spurious correlations and degrades performance, many app...",
       "tags": [
-        "github",
-        "open-source",
-        "88319-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-887435804",
-      "title": "Drix10/ai-resources",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Drix10/ai-resources",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20817v1",
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20817v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
-      "body": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
+      "summary": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observatio...",
+      "body": "Modeling articulated objects from sparse monocular views is challenging because each observation reveals only partial geometry and motion evidence. Most feed-forward methods infer articulation from a single observatio...",
       "tags": [
-        "github",
-        "open-source",
-        "118-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20816v1",
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20816v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colori...",
+      "body": "Professional design requires any-color control: the ability to specify an object's target color with any 24-bit hex value for image generation and editing. Prior work has explored color generation, editing, and colori...",
       "tags": [
-        "github",
-        "open-source",
-        "116-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20815v1",
+      "title": "ERCPMP-Gx: Endoscopic Image and Video Dataset for Morphological, Histopathological, and Genomic Characterization of Colorectal Polyposis",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20815v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "summary": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are ess...",
+      "body": "Hereditary polyposis syndromes can be precursor lesions to colorectal cancer and are associated with a broad spectrum of extracolonic tumors. Early identification and accurate classification of these syndromes are ess...",
       "tags": [
-        "github",
-        "open-source",
-        "29655-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-65310972",
-      "title": "VIAME/VIAME",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/VIAME/VIAME",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20814v1",
+      "title": "How Does Distribution Shift Shape Pretraining Gains in Neural PDE Surrogates?",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20814v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "Video and Image Analytics for Multiple Environments",
-      "body": "Video and Image Analytics for Multiple Environments",
+      "summary": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit....",
+      "body": "Pretraining a neural PDE surrogate can reduce the amount of new CFD data needed when geometry or modeled physics changes. However, it remains unclear how different components of distribution shift affect this benefit....",
       "tags": [
-        "github",
-        "open-source",
-        "338-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
+      "slug": "arxiv-http-arxiv-org-abs-2609-20812v1",
+      "title": "Quantifying Overclaiming Propensity in Frontier LLM Agents",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2609.20812v1",
       "date": "2026-09-17",
       "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "summary": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to...",
+      "body": "Frontier coding agents are increasingly trusted to work autonomously for long periods, yet an agent's final response is often the only account of that work a user sees. We quantify the propensity of frontier agents to...",
       "tags": [
-        "github",
-        "open-source",
-        "8654-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hacker-news-49732617",
@@ -217,222 +415,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49731136",
-      "title": "Anyhropic Launches Google Docs Alternative: Claude Docs",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Anyhropic Launches Google Docs Alternative: Claude Docs, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Anyhropic Launches Google Docs Alternative: Claude Docs, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49730961",
-      "title": "Artificial Analysis: What Is the Intelligence Index Measuring?",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://itsmonkey.business/blogposts/01-On_Artificial_Analysis.html",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Analysis: What Is the Intelligence Index Measuring?, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Analysis: What Is the Intelligence Index Measuring?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49726166",
-      "title": "Altman: \"I'm on Team Human\" (Interview)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2026-09/sam-altman-openai-artificial-intelligence-chatgpt-english",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Altman: \"I'm on Team Human\" (Interview), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Altman: \"I'm on Team Human\" (Interview), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49724690",
-      "title": "China's open-weight AI models are now just 4 months behind frontier US offerings",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chinas-open-weight-ai-models-are-now-just-4-months-behind-frontier-us-offerings-mozilla-report-claims-models-still-lag-in-some-benchmarks-but-are-drastically-cheaper-to-use",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de China's open-weight AI models are now just 4 months behind frontier US offerings, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de China's open-weight AI models are now just 4 months behind frontier US offerings, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19145v1",
-      "title": "Objective vs. Search: Decomposing What Makes a Good Tokeniser",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19145v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) an...",
-      "body": "Two dominant tokenisation algorithms are used by modern language models: byte-pair encoding (BPE) and UnigramLM. These differ along two orthogonal axes: their optimisation objective (compression vs. log-likelihood) an...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19144v1",
-      "title": "A Zeroth-Order Paradigm for LLM Preference Alignment",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19144v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alterna...",
-      "body": "Direct preference alignment methods are widely used to align large language models (LLMs) with human preferences because of their computational and memory efficiency. However, likelihood displacement motivates alterna...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19137v1",
-      "title": "Dreaming the Sound of Contact: Leveraging Video and Audio Generation for Zero-Shot Force-Aware Manipulation and Data Generation",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19137v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures...",
-      "body": "Recent advances in video generation allow robots to learn manipulation trajectories from generated videos. However, these approaches produce purely kinematic trajectories that lack force information, causing failures...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19135v1",
-      "title": "Exponential Hardness of Off-Policy Evaluation under History-Dependent Logging",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19135v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we...",
-      "body": "Can a logged dataset visit every hidden state frequently and still be exponentially uninformative about a target policy's value? We show that it can when the logger depends on history. For every horizon $H \\ge 3$, we...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19128v1",
-      "title": "Cognitive Extensions for Dual-Process Language Agents: Memory and Self-Reflection in Interactive Environments",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19128v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that co...",
-      "body": "Language agents remain brittle in interactive environments, where success requires long-horizon state tracking, valid action execution, and recovery from failed steps. We extend SwiftSage, a dual-process agent that co...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19125v1",
-      "title": "Affora: A Design System for Agent-Friendly Interfaces",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19125v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while p...",
-      "body": "Computer-use agents increasingly operate software designed for people, but interfaces often leave actions or task state unclear to machine readers. We present Affora, a design system that supports both readers while p...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19124v1",
-      "title": "Flag Game: A Toy Model for Mechanistic Swarm Interpretability",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19124v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic underst...",
-      "body": "Emergent coordinated behaviors of AI agents are starting to present critical safety risks. A key phenomenon driving these behaviors is the rapid formation and spread of beliefs about the world, and mechanistic underst...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2609-19107v1",
-      "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2609.19107v1",
-      "date": "2026-09-16",
-      "readTime": "3 min",
-      "summary": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential im...",
-      "body": "Scaling laws predict how loss decreases with increases in computation. We show, contrary to conventional wisdom, that architectural interventions can modify scaling exponents in pre-training, leading to exponential im...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-kurdistanai-kurdistan-artificial-intelligence1-0",
@@ -587,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 487
+      "latencyMs": 353
     },
     {
       "id": "github",
@@ -596,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 385
+      "latencyMs": 423
     },
     {
       "id": "hugging-face",
@@ -605,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 178
+      "latencyMs": 168
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 184
+      "latencyMs": 413
     },
     {
       "id": "gdelt",
