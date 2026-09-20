@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-09-20T16:06:48.952Z",
+  "generatedAt": "2026-09-20T20:49:35.365Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49778641",
+      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic is cutting Claude Code's current weekly limits by 17%, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic is cutting Claude Code's current weekly limits by 17%, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49774447",
       "title": "The AI regulation smackdown isn't over",
@@ -39,148 +57,292 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-794413452",
-      "title": "deven96/ahnlich",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/deven96/ahnlich",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "Suite of tools containing an in-memory vector datastore and AI proxy",
-      "body": "Suite of tools containing an in-memory vector datastore and AI proxy",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "tags": [
         "github",
         "open-source",
-        "245-stars"
+        "6069-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "7139-stars"
+        "501-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
       "tags": [
         "github",
         "open-source",
-        "117-stars"
+        "121-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-688164459",
+      "title": "harvard-edge/cs249r_book",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/harvard-edge/cs249r_book",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "body": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
       "tags": [
         "github",
         "open-source",
-        "6421-stars"
+        "28379-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-132754148",
-      "title": "stefan-jansen/machine-learning-for-trading",
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
-      "body": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
       "tags": [
         "github",
         "open-source",
-        "20949-stars"
+        "118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-48711855",
-      "title": "DoubangoTelecom/compv",
+      "slug": "github-1283362391",
+      "title": "okesipoke/manuscript-phoneme-decipher",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/DoubangoTelecom/compv",
+      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "Insanely fast Open Source Computer Vision library for ARM and x86 devices (Up to #50 times faster than OpenCV)",
-      "body": "Insanely fast Open Source Computer Vision library for ARM and x86 devices (Up to #50 times faster than OpenCV)",
+      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
       "tags": [
         "github",
         "open-source",
-        "212-stars"
+        "118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-576380523",
-      "title": "lucidrains/PaLM-rlhf-pytorch",
+      "slug": "github-1301372808",
+      "title": "CyberSunil/LLMVault",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+      "url": "https://github.com/CyberSunil/LLMVault",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
-      "body": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+      "summary": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+      "body": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
       "tags": [
         "github",
         "open-source",
-        "7862-stars"
+        "322-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1046809510",
-      "title": "vinhnx/VTCode",
+      "slug": "github-1119072163",
+      "title": "billy-enrizky/openbrowser-ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vinhnx/VTCode",
+      "url": "https://github.com/billy-enrizky/openbrowser-ai",
       "date": "2026-09-20",
       "readTime": "3 min",
-      "summary": "VT Code is an open-source Rust terminal coding agent.",
-      "body": "VT Code is an open-source Rust terminal coding agent.",
+      "summary": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, inte...",
+      "body": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, inte...",
       "tags": [
         "github",
         "open-source",
-        "851-stars"
+        "244-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
+      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260717/rossija-2105387375.html",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "ria.ru",
+      "body": "ria.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "ria.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
+      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "wiwo.de",
+      "body": "wiwo.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "wiwo.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "hnonline.sk",
+      "body": "hnonline.sk",
+      "tags": [
+        "gdelt",
+        "media",
+        "hnonline.sk"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
+      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "finanznachrichten.de",
+      "body": "finanznachrichten.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "finanznachrichten.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-facenews-ua-news-2026-535140",
+      "title": "Діти освоюють ШІ швидше за дорослих : UNICEF б є на сполох через відсутність регулювання",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.facenews.ua/news/2026/535140/",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "facenews.ua",
+      "body": "facenews.ua",
+      "tags": [
+        "gdelt",
+        "media",
+        "facenews.ua"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-lafm-com-co-sociedad-inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
+      "title": "¿ Usa IA sin verificar ? Estos son los riesgos que enfrenta",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.lafm.com.co/sociedad/inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "lafm.com.co",
+      "body": "lafm.com.co",
+      "tags": [
+        "gdelt",
+        "media",
+        "lafm.com.co"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-ia-opinion-author-zueva-anna",
+      "title": "Зуева Анна | Авторы : ГАРАНТ . РУ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/ia/opinion/author/zueva-anna/",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-bt-dk-politik-eu-regler-for-kunstig-intelligens-gaelder-men-dansk-klagevej-mangler",
+      "title": "EU - regler for kunstig intelligens gælder men dansk klagevej mangler",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.bt.dk/politik/eu-regler-for-kunstig-intelligens-gaelder-men-dansk-klagevej-mangler",
+      "date": "2026-09-20",
+      "readTime": "3 min",
+      "summary": "bt.dk",
+      "body": "bt.dk",
+      "tags": [
+        "gdelt",
+        "media",
+        "bt.dk"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-49771163",
@@ -247,24 +409,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Inside the suddenly explosive world of AI safety, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Inside the suddenly explosive world of AI safety, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49757098",
-      "title": "Code of Artificial Intelligence Offenses",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://syntheticjudiciary.com/",
-      "date": "2026-09-18",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Code of Artificial Intelligence Offenses, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Code of Artificial Intelligence Offenses, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -569,7 +713,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 300
+      "latencyMs": 369
     },
     {
       "id": "github",
@@ -578,7 +722,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 302
+      "latencyMs": 405
     },
     {
       "id": "hugging-face",
@@ -587,7 +731,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 88
+      "latencyMs": 132
     },
     {
       "id": "semantic-scholar",
@@ -605,20 +749,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 214
+      "latencyMs": 215
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 15419
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
