@@ -1,76 +1,166 @@
 {
-  "generatedAt": "2026-09-23T04:45:27.666Z",
+  "generatedAt": "2026-09-23T11:37:28.478Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-653496050",
-      "title": "xorbitsai/inference",
+      "slug": "hacker-news-49813644",
+      "title": "Build a Browser Extension with Jev",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/towards-artificial-intelligence/build-a-browser-extension-with-jev-22e026255cb7",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Build a Browser Extension with Jev, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Build a Browser Extension with Jev, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49812776",
+      "title": "Rebranding artificial intelligence as super intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.bbc.com/news/videos/c8n5d9x10v14o",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Rebranding artificial intelligence as super intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Rebranding artificial intelligence as super intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xorbitsai/inference",
+      "url": "https://github.com/kornia/kornia",
       "date": "2026-09-23",
       "readTime": "3 min",
-      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
       "tags": [
         "github",
         "open-source",
-        "9591-stars"
+        "11379-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-78372913",
+      "title": "esa/pagmo2",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/esa/pagmo2",
       "date": "2026-09-23",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "A C++ platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model.",
+      "body": "A C++ platform to perform parallel computations of optimisation tasks (global and local) via the asynchronous generalized island model.",
       "tags": [
         "github",
         "open-source",
-        "29284-stars"
+        "936-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1078093679",
-      "title": "softmata/horus",
+      "slug": "github-681211986",
+      "title": "twinnydotdev/twinny",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/softmata/horus",
+      "url": "https://github.com/twinnydotdev/twinny",
       "date": "2026-09-23",
       "readTime": "3 min",
-      "summary": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
-      "body": "Fastest Robotics Runtime System. If phones have Android, robots deserve HORUS.",
+      "summary": "Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
+      "body": "Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
       "tags": [
         "github",
         "open-source",
-        "439-stars"
+        "3650-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-678526156",
-      "title": "marimo-team/marimo",
+      "slug": "github-925674818",
+      "title": "wanaku-ai/wanaku",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/marimo-team/marimo",
+      "url": "https://github.com/wanaku-ai/wanaku",
       "date": "2026-09-23",
       "readTime": "3 min",
-      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "summary": "Wanaku Governed Action Proxy for AI Agents",
+      "body": "Wanaku Governed Action Proxy for AI Agents",
       "tags": [
         "github",
         "open-source",
-        "22880-stars"
+        "134-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "187505-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-688186076",
+      "title": "leptonai/leptonai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/leptonai/leptonai",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "A Pythonic framework to simplify AI service building",
+      "body": "A Pythonic framework to simplify AI service building",
+      "tags": [
+        "github",
+        "open-source",
+        "2824-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-499438243",
+      "title": "hotosm/fAIr",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/hotosm/fAIr",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "fAIr - AI Assisted Mapping Tool , https://fair.hotosm.org/",
+      "body": "fAIr - AI Assisted Mapping Tool , https://fair.hotosm.org/",
+      "tags": [
+        "github",
+        "open-source",
+        "145-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -88,63 +178,153 @@
       "tags": [
         "github",
         "open-source",
-        "26902-stars"
+        "26911-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
+      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260717/rossija-2105387375.html",
       "date": "2026-09-23",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "ria.ru",
+      "body": "ria.ru",
       "tags": [
-        "github",
-        "open-source",
-        "13415-stars"
+        "gdelt",
+        "media",
+        "ria.ru"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
+      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
+      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
       "date": "2026-09-23",
       "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "summary": "wiwo.de",
+      "body": "wiwo.de",
       "tags": [
-        "github",
-        "open-source",
-        "8704-stars"
+        "gdelt",
+        "media",
+        "wiwo.de"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
-      "slug": "github-1046809510",
-      "title": "vinhnx/VTCode",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vinhnx/VTCode",
+      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
       "date": "2026-09-23",
       "readTime": "3 min",
-      "summary": "VT Code is an open-source Rust terminal coding agent.",
-      "body": "VT Code is an open-source Rust terminal coding agent.",
+      "summary": "hnonline.sk",
+      "body": "hnonline.sk",
       "tags": [
-        "github",
-        "open-source",
-        "852-stars"
+        "gdelt",
+        "media",
+        "hnonline.sk"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
+      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "finanznachrichten.de",
+      "body": "finanznachrichten.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "finanznachrichten.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-facenews-ua-news-2026-535140",
+      "title": "Діти освоюють ШІ швидше за дорослих : UNICEF б є на сполох через відсутність регулювання",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.facenews.ua/news/2026/535140/",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "facenews.ua",
+      "body": "facenews.ua",
+      "tags": [
+        "gdelt",
+        "media",
+        "facenews.ua"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-lafm-com-co-sociedad-inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
+      "title": "¿ Usa IA sin verificar ? Estos son los riesgos que enfrenta",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.lafm.com.co/sociedad/inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "lafm.com.co",
+      "body": "lafm.com.co",
+      "tags": [
+        "gdelt",
+        "media",
+        "lafm.com.co"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-ia-opinion-author-zueva-anna",
+      "title": "Зуева Анна | Авторы : ГАРАНТ . РУ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/ia/opinion/author/zueva-anna/",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-bt-dk-politik-eu-regler-for-kunstig-intelligens-gaelder-men-dansk-klagevej-mangler",
+      "title": "EU - regler for kunstig intelligens gælder men dansk klagevej mangler",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.bt.dk/politik/eu-regler-for-kunstig-intelligens-gaelder-men-dansk-klagevej-mangler",
+      "date": "2026-09-23",
+      "readTime": "3 min",
+      "summary": "bt.dk",
+      "body": "bt.dk",
+      "tags": [
+        "gdelt",
+        "media",
+        "bt.dk"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-49809436",
@@ -247,24 +427,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de The Rise of A.I. Is Raising Threats from Drones, Police Group Warns, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de The Rise of A.I. Is Raising Threats from Drones, Police Group Warns, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49795839",
-      "title": "Artificial Intelligence and Labor Market Reallocation [pdf]",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://conference.nber.org/conf_papers/f247923.pdf",
-      "date": "2026-09-22",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence and Labor Market Reallocation [pdf], reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence and Labor Market Reallocation [pdf], reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -417,24 +579,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-49793057",
-      "title": "Jonathan Swift vs. AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
-      "date": "2026-09-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Jonathan Swift vs. AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Jonathan Swift vs. AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
       "title": "Artificial-Intelligence-Files/artificial-intelligence-files",
       "category": "Modeles",
@@ -484,7 +628,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "80-downloads"
+        "85-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -587,7 +731,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 294
+      "latencyMs": 316
     },
     {
       "id": "github",
@@ -596,7 +740,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 296
+      "latencyMs": 461
     },
     {
       "id": "hugging-face",
@@ -605,7 +749,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 67
+      "latencyMs": 148
     },
     {
       "id": "semantic-scholar",
@@ -623,20 +767,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 58
+      "latencyMs": 216
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 18668
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
