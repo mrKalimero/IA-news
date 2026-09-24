@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-09-24T11:46:25.827Z",
+  "generatedAt": "2026-09-24T17:11:38.355Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49831475",
+      "title": "Artificial Symbiotic Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/",
+      "date": "2026-09-24",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Symbiotic Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Symbiotic Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49831456",
+      "title": "Japanese used bookstores see 5x sales surge as books are being bought by the ton",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/japanese-used-bookstores-see-5x-sales-surge-as-books-are-being-bought-by-the-ton-one-50-ton-order-sent-to-the-us-for-ai-scanning-and-destruction-multitude-of-suspicious-bulk-buys-thought-to-end-up-in-foreign-ai-scan-and-shred-facilities",
+      "date": "2026-09-24",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Japanese used bookstores see 5x sales surge as books are being bought by the ton, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Japanese used bookstores see 5x sales surge as books are being bought by the ton, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49824843",
       "title": "AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?",
@@ -21,146 +57,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-290152313",
-      "title": "e-m-b-a/emba",
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/e-m-b-a/emba",
+      "url": "https://github.com/marimo-team/marimo",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "EMBA - The firmware security analyzer",
-      "body": "EMBA - The firmware security analyzer",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
       "tags": [
         "github",
         "open-source",
-        "3677-stars"
+        "22889-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-942516454",
-      "title": "TangleML/tangle",
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TangleML/tangle",
+      "url": "https://github.com/dyad-sh/dyad",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "Tangle is a web app that allows the users to build and run Machine Learning pipelines without having to set up development environment.",
-      "body": "Tangle is a web app that allows the users to build and run Machine Learning pipelines without having to set up development environment.",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
       "tags": [
         "github",
         "open-source",
-        "510-stars"
+        "21604-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "187520-stars"
+        "89071-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-334848347",
+      "title": "ccfddl/ccf-deadlines",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/ccfddl/ccf-deadlines",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "body": "⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
       "tags": [
         "github",
         "open-source",
-        "11379-stars"
+        "9362-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-755979015",
-      "title": "AlonzoLeeeooo/awesome-text-to-image-studies",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "A collection of awesome text-to-image generation studies.",
-      "body": "A collection of awesome text-to-image generation studies.",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "762-stars"
+        "26928-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-681211986",
+      "title": "twinnydotdev/twinny",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/twinnydotdev/twinny",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
+      "body": "Open-source AI coding assistant for VS Code. Code completion, chat, edits and reviews with local or hosted models. Your models, your infrastructure.",
       "tags": [
         "github",
         "open-source",
-        "462-stars"
+        "3650-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "29344-stars"
+        "5997-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283346786",
-      "title": "aminekago-web/Paradigm-Survival-Arena",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-09-24",
       "readTime": "3 min",
-      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
-      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "118-stars"
+        "6447-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -247,42 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de OpenAI nabs key Patreon execs ahead of upcoming announcement, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de OpenAI nabs key Patreon execs ahead of upcoming announcement, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49817199",
-      "title": "How to Survive Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://illwill.com/how-to-survive-artificial-intelligence",
-      "date": "2026-09-23",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de How to Survive Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de How to Survive Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49815653",
-      "title": "Andreessen Horowitz is launching an (AI) 'academy' with no homework",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "date": "2026-09-23",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Andreessen Horowitz is launching an (AI) 'academy' with no homework, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Andreessen Horowitz is launching an (AI) 'academy' with no homework, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 298
+      "latencyMs": 651
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 462
+      "latencyMs": 527
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 121
+      "latencyMs": 151
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 349
+      "latencyMs": 264
     },
     {
       "id": "gdelt",
