@@ -1,148 +1,202 @@
 {
-  "generatedAt": "2026-09-27T12:03:08.831Z",
+  "generatedAt": "2026-09-27T16:58:25.338Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-334848347",
-      "title": "ccfddl/ccf-deadlines",
+      "slug": "hacker-news-49867212",
+      "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+      "date": "2026-09-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49867097",
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "date": "2026-09-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49866375",
+      "title": "Job Titles Are Out. Now We're All 'Members of the Technical Staff.'",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html",
+      "date": "2026-09-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Job Titles Are Out. Now We're All 'Members of the Technical Staff.', reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Job Titles Are Out. Now We're All 'Members of the Technical Staff.', reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-887435804",
+      "title": "Drix10/ai-resources",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ccfddl/ccf-deadlines",
+      "url": "https://github.com/Drix10/ai-resources",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "⏰ Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
-      "body": "⏰ Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)",
+      "summary": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
+      "body": "Daily updated resources on AI across various domains including ML, development, education, healthcare, real estate, robotics, crypto, web3 and more, curated by enthusiasts.",
       "tags": [
         "github",
         "open-source",
-        "9363-stars"
+        "118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/0xPlaygrounds/rig",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "tags": [
         "github",
         "open-source",
-        "11384-stars"
+        "8745-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "github-920644180",
+      "title": "rishabhops/CipherElite",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/rishabhops/CipherElite",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "CipherElite: A new era Telegram Userbot featuring advanced AI plugins. Built with Python & Telethon to automate tasks, manage groups, and generate AI responses. Supports Heroku, VPS, & Termux.",
+      "body": "CipherElite: A new era Telegram Userbot featuring advanced AI plugins. Built with Python & Telethon to automate tasks, manage groups, and generate AI responses. Supports Heroku, VPS, & Termux.",
       "tags": [
         "github",
         "open-source",
-        "2195-stars"
+        "259-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-1046809510",
+      "title": "vinhnx/VTCode",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/vinhnx/VTCode",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "VT Code is an open-source Rust terminal coding agent.",
+      "body": "VT Code is an open-source Rust terminal coding agent.",
       "tags": [
         "github",
         "open-source",
-        "89272-stars"
+        "856-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-580387696",
+      "title": "aeon-toolkit/aeon",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/aeon-toolkit/aeon",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "A toolkit for time series machine learning and deep learning",
+      "body": "A toolkit for time series machine learning and deep learning",
       "tags": [
         "github",
         "open-source",
-        "460-stars"
+        "1454-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-222310153",
-      "title": "pkalivas/radiate",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/pkalivas/radiate",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques",
-      "body": "A fast and flexible evolution engine for implementing artificial evolution and genetic programming techniques",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "255-stars"
+        "6461-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/ls1intum/Artemis",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
       "tags": [
         "github",
         "open-source",
-        "187584-stars"
+        "812-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1306090134",
-      "title": "ailinone/collective-intelligence",
+      "slug": "github-1072748300",
+      "title": "xlang-ai/OSWorld-V2",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ailinone/collective-intelligence",
+      "url": "https://github.com/xlang-ai/OSWorld-V2",
       "date": "2026-09-27",
       "readTime": "3 min",
-      "summary": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
-      "body": "Ailin¹ is an open-source collective intelligence engine where tens of thousands of AI models collaborate through dozens of coordination strategies, applying structured diversity and independent reasoning to improve re...",
+      "summary": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
+      "body": "OSWorld 2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks",
       "tags": [
         "github",
         "open-source",
-        "209-stars"
+        "338-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Plan mode is dead, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Plan mode is dead, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49839390",
-      "title": "ESA and Mistral strengthen cooperation on AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.esa.int/Newsroom/Press_Releases/ESA_and_Mistral_strengthen_cooperation_on_artificial_intelligence",
-      "date": "2026-09-25",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de ESA and Mistral strengthen cooperation on AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de ESA and Mistral strengthen cooperation on AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49836732",
-      "title": "China's new travel rules unsettle tech giants and talent",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.dw.com/en/china-technology-artificial-intelligence-expertise-capital-travel-rules/a-79319937",
-      "date": "2026-09-24",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de China's new travel rules unsettle tech giants and talent, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de China's new travel rules unsettle tech giants and talent, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49835931",
-      "title": "Tech leaders to UN: For sake of humanity, please control the AI tech we created",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://apnews.com/article/ai-artificial-intelligence-un-security-council-64519ea66b38e2600026f4481ad7f211",
-      "date": "2026-09-24",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Tech leaders to UN: For sake of humanity, please control the AI tech we created, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Tech leaders to UN: For sake of humanity, please control the AI tech we created, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 467
+      "latencyMs": 422
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 372
+      "latencyMs": 332
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 166
+      "latencyMs": 102
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 153
+      "latencyMs": 200
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
