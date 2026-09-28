@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-09-28T13:55:44.037Z",
+  "generatedAt": "2026-09-28T23:16:39.995Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49885725",
+      "title": "Sonnet 5.5 scores just behind Opus 5.5 on Artificial Analysis Intelligence Index",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://artificialanalysis.ai/articles/claude-sonnet-5-5",
+      "date": "2026-09-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Sonnet 5.5 scores just behind Opus 5.5 on Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Sonnet 5.5 scores just behind Opus 5.5 on Artificial Analysis Intelligence Index, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49884367",
+      "title": "Man Says Meta's Muse AI Gave His Home Address Out to Strangers",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses",
+      "date": "2026-09-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Man Says Meta's Muse AI Gave His Home Address Out to Strangers, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Man Says Meta's Muse AI Gave His Home Address Out to Strangers, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49883628",
+      "title": "Artificial Intelligence Incident Database",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://incidentdatabase.ai/",
+      "date": "2026-09-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence Incident Database, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence Incident Database, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49881454",
+      "title": "Towards autonomous medical artificial intelligence agents",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.nature.com/articles/s41586-026-10675-5...",
+      "date": "2026-09-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Towards autonomous medical artificial intelligence agents, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Towards autonomous medical artificial intelligence agents, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49879267",
+      "title": "UK government tells staff to stop thanking AI chatbots",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact",
+      "date": "2026-09-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de UK government tells staff to stop thanking AI chatbots, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de UK government tells staff to stop thanking AI chatbots, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49877081",
       "title": "The next AI divide is between learning and earning",
@@ -39,92 +129,92 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-149430917",
-      "title": "recommenders-team/recommenders",
+      "slug": "github-1316437295",
+      "title": "oooscoos/Benzi",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/recommenders-team/recommenders",
+      "url": "https://github.com/oooscoos/Benzi",
       "date": "2026-09-28",
       "readTime": "3 min",
-      "summary": "Best Practices on Recommendation Systems",
-      "body": "Best Practices on Recommendation Systems",
+      "summary": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves — and answers in O(1). Every language runs its own tree-sitter grammar into the same query map.",
+      "body": "Benzi is AI-native code intelligence infrastructure. Claude Code greps; Cursor embeds; Aider maps signatures; Benzi resolves — and answers in O(1). Every language runs its own tree-sitter grammar into the same query map.",
       "tags": [
         "github",
         "open-source",
-        "21924-stars"
+        "102-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-252767810",
-      "title": "fabsig/GPBoost",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fabsig/GPBoost",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-09-28",
       "readTime": "3 min",
-      "summary": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
-      "body": "Tree-Boosting, Gaussian Processes, and Mixed-Effects Models",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "699-stars"
+        "3096-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-178075572",
-      "title": "kserve/kserve",
+      "slug": "github-511003180",
+      "title": "basetenlabs/truss",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kserve/kserve",
+      "url": "https://github.com/basetenlabs/truss",
       "date": "2026-09-28",
       "readTime": "3 min",
-      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "summary": "The simplest way to serve AI/ML models in production",
+      "body": "The simplest way to serve AI/ML models in production",
       "tags": [
         "github",
         "open-source",
-        "6033-stars"
+        "1205-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
       "date": "2026-09-28",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "tags": [
         "github",
         "open-source",
-        "11385-stars"
+        "29480-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-41550991",
-      "title": "mars-sim/mars-sim",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/mars-sim/mars-sim",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-09-28",
       "readTime": "3 min",
-      "summary": "Mars Simulation Project Official Codebase",
-      "body": "Mars Simulation Project Official Codebase",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "167-stars"
+        "27018-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -142,189 +232,45 @@
       "tags": [
         "github",
         "open-source",
-        "89377-stars"
+        "89410-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-785180896",
-      "title": "darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP",
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/darkdevil3610/100-AI-Machine-learning-Deep-learning-Computer-vision-NLP",
+      "url": "https://github.com/thedotmack/claude-mem",
       "date": "2026-09-28",
       "readTime": "3 min",
-      "summary": "100+ AI Machine learning Deep learning Computer vision NLP Projects with code",
-      "body": "100+ AI Machine learning Deep learning Computer vision NLP Projects with code",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
       "tags": [
         "github",
         "open-source",
-        "412-stars"
+        "94848-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-312348119",
+      "title": "google-deepmind/lab2d",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/google-deepmind/lab2d",
       "date": "2026-09-28",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "A customisable 2D platform for agent-based AI research",
+      "body": "A customisable 2D platform for agent-based AI research",
       "tags": [
         "github",
         "open-source",
-        "187599-stars"
+        "443-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260717-rossija-2105387375-html",
-      "title": "Россия будет играть важную роль в регулировании ИИ , заявил Орешкин",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260717/rossija-2105387375.html",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
-      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "wiwo.de",
-      "body": "wiwo.de",
-      "tags": [
-        "gdelt",
-        "media",
-        "wiwo.de"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
-      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "hnonline.sk",
-      "body": "hnonline.sk",
-      "tags": [
-        "gdelt",
-        "media",
-        "hnonline.sk"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
-      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "finanznachrichten.de",
-      "body": "finanznachrichten.de",
-      "tags": [
-        "gdelt",
-        "media",
-        "finanznachrichten.de"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-facenews-ua-news-2026-535140",
-      "title": "Діти освоюють ШІ швидше за дорослих : UNICEF б є на сполох через відсутність регулювання",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.facenews.ua/news/2026/535140/",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "facenews.ua",
-      "body": "facenews.ua",
-      "tags": [
-        "gdelt",
-        "media",
-        "facenews.ua"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260927-gejts-2120563236-html",
-      "title": "Гейтс : договориться о регулировании ИИ будет сложнее , чем об ограничении ЯО",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260927/gejts-2120563236.html",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-lafm-com-co-sociedad-inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
-      "title": "¿ Usa IA sin verificar ? Estos son los riesgos que enfrenta",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.lafm.com.co/sociedad/inteligencia-artificial-colombia-regulacion-prompts-chatgpt-innovacion-productividad-tecnologia-405632",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "lafm.com.co",
-      "body": "lafm.com.co",
-      "tags": [
-        "gdelt",
-        "media",
-        "lafm.com.co"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-garant-ru-ia-opinion-author-zueva-anna",
-      "title": "Зуева Анна | Авторы : ГАРАНТ . РУ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.garant.ru/ia/opinion/author/zueva-anna/",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "garant.ru",
-      "body": "garant.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "garant.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-49871100",
@@ -337,96 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de AI Has Cracked the Most Diabolical Problems in Math. Why Can't It Solve Chess?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49868865",
-      "title": "Intelligence Explosions Are Social",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://institute.deepmind.com/essays/artificial-symbiotic-intelligence/",
-      "date": "2026-09-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Intelligence Explosions Are Social, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Intelligence Explosions Are Social, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49867212",
-      "title": "Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
-      "date": "2026-09-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Bill Gates says unchecked AI could 'cause billion deaths' in call for regulation, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49867097",
-      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-      "date": "2026-09-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49866375",
-      "title": "Job Titles Are Out. Now We're All 'Members of the Technical Staff.'",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.nytimes.com/2026/09/27/business/members-of-technical-staff-artificial-intelligence.html",
-      "date": "2026-09-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Job Titles Are Out. Now We're All 'Members of the Technical Staff.', reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Job Titles Are Out. Now We're All 'Members of the Technical Staff.', reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49860545",
-      "title": "OpenAI pauses training of its 'most capable models'",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "date": "2026-09-26",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de OpenAI pauses training of its 'most capable models', reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de OpenAI pauses training of its 'most capable models', reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -731,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 274
+      "latencyMs": 475
     },
     {
       "id": "github",
@@ -740,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 328
+      "latencyMs": 389
     },
     {
       "id": "hugging-face",
@@ -749,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 56
+      "latencyMs": 174
     },
     {
       "id": "semantic-scholar",
@@ -767,19 +623,20 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 81
+      "latencyMs": 162
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 24246
+      "ok": false,
+      "count": 0,
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
