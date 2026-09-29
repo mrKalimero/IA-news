@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-09-29T12:53:41.143Z",
+  "generatedAt": "2026-09-29T22:15:39.040Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49900328",
+      "title": "Artifical Analysis - GPT-6.1 Sol Replaces 6 Sol After 7 Days",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
+      "date": "2026-09-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artifical Analysis - GPT-6.1 Sol Replaces 6 Sol After 7 Days, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artifical Analysis - GPT-6.1 Sol Replaces 6 Sol After 7 Days, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49897457",
+      "title": "A Bohm-inspired look at agents, harnesses, and holoflux",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://enogrob.github.io/artificial-intelligence/architecture/agentic-ai/philosophy/2026/09/22/intelligence-in-motion-bohm-holoflux-ai-agents.html",
+      "date": "2026-09-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de A Bohm-inspired look at agents, harnesses, and holoflux, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de A Bohm-inspired look at agents, harnesses, and holoflux, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49896169",
+      "title": "DHH: Pencils Down. Intent Up",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://enogrob.github.io/ruby/rails/artificial-intelligence/software-engineering/2026/09/29/pencils-down-intent-up.html",
+      "date": "2026-09-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de DHH: Pencils Down. Intent Up, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de DHH: Pencils Down. Intent Up, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49893701",
+      "title": "Inside the Biggest Feud in Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theatlantic.com/technology/2026/09/openai-v-anthropic-inside-biggest-rivalry-tech/688819/",
+      "date": "2026-09-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Inside the Biggest Feud in Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Inside the Biggest Feud in Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49891496",
       "title": "Meta Has Hired MongoDB CEO Chirantan Desai for AI Push",
@@ -21,92 +93,74 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-894430000",
+      "title": "bodo-ai/Bodo",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/bodo-ai/Bodo",
       "date": "2026-09-29",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "High Performance Scalable Data Processing in Python and SQL",
+      "body": "High Performance Scalable Data Processing in Python and SQL",
       "tags": [
         "github",
         "open-source",
-        "11388-stars"
+        "380-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-178075572",
-      "title": "kserve/kserve",
+      "slug": "github-1046809510",
+      "title": "vinhnx/VTCode",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kserve/kserve",
+      "url": "https://github.com/vinhnx/VTCode",
       "date": "2026-09-29",
       "readTime": "3 min",
-      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "summary": "VT Code is an open-source Rust terminal coding agent.",
+      "body": "VT Code is an open-source Rust terminal coding agent.",
       "tags": [
         "github",
         "open-source",
-        "6046-stars"
+        "858-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-741100585",
+      "title": "langchain-ai/langgraphjs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/langchain-ai/langgraphjs",
       "date": "2026-09-29",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Framework to build resilient language agents as graphs.",
+      "body": "Framework to build resilient language agents as graphs.",
       "tags": [
         "github",
         "open-source",
-        "187605-stars"
+        "3326-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-09-29",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "460-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-659402878",
-      "title": "spring-projects/spring-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spring-projects/spring-ai",
-      "date": "2026-09-29",
-      "readTime": "3 min",
-      "summary": "An Application Framework for AI Engineering",
-      "body": "An Application Framework for AI Engineering",
-      "tags": [
-        "github",
-        "open-source",
-        "9494-stars"
+        "65577-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -124,43 +178,61 @@
       "tags": [
         "github",
         "open-source",
-        "89483-stars"
+        "89539-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
       "date": "2026-09-29",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
       "tags": [
         "github",
         "open-source",
-        "29500-stars"
+        "121-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-137747179",
+      "title": "10up/classifai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/10up/classifai",
       "date": "2026-09-29",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
+      "body": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
       "tags": [
         "github",
         "open-source",
-        "27032-stars"
+        "711-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-09-29",
+      "readTime": "3 min",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3096-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -211,78 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Artificial Intelligence Incident Database, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Artificial Intelligence Incident Database, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49881454",
-      "title": "Towards autonomous medical artificial intelligence agents",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.nature.com/articles/s41586-026-10675-5...",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Towards autonomous medical artificial intelligence agents, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Towards autonomous medical artificial intelligence agents, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49879267",
-      "title": "UK government tells staff to stop thanking AI chatbots",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/uk-government-tells-staff-to-stop-thanking-ai-chatbots-draft-guidance-pushes-lightweight-models-and-shorter-prompts-to-cut-environmental-impact",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de UK government tells staff to stop thanking AI chatbots, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de UK government tells staff to stop thanking AI chatbots, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49877081",
-      "title": "The next AI divide is between learning and earning",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.weforum.org/stories/artificial-intelligence/ai-young-skills-jobs/",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The next AI divide is between learning and earning, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The next AI divide is between learning and earning, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49876231",
-      "title": "The Extinction Risk from Artificial Intelligence [pdf]",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.rand.org/content/dam/rand/pubs/research_reports/RRA3000/RRA3034-1/RAND_RRA3034-1.pdf",
-      "date": "2026-09-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Extinction Risk from Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Extinction Risk from Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 594
+      "latencyMs": 326
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 662
+      "latencyMs": 338
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 313
+      "latencyMs": 83
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 334
+      "latencyMs": 122
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
