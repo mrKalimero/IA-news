@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-10-01T13:15:40.259Z",
+  "generatedAt": "2026-10-01T22:41:30.942Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49925788",
+      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+      "date": "2026-10-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Nvidia launches Open Agent Safety Platform to restrain rogue AI agents, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Nvidia launches Open Agent Safety Platform to restrain rogue AI agents, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49925758",
+      "title": "People Who Drink Their Own Pee Are Obsessed with AI",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://futurism.com/artificial-intelligence/urine-therapy-ai",
+      "date": "2026-10-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de People Who Drink Their Own Pee Are Obsessed with AI, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de People Who Drink Their Own Pee Are Obsessed with AI, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49924402",
+      "title": "Anthropic's biolab made a discovery it's comparing to CRISPR",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "date": "2026-10-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic's biolab made a discovery it's comparing to CRISPR, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic's biolab made a discovery it's comparing to CRISPR, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49923539",
+      "title": "Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-rents-four-nvidia-h200s-to-test-80x-cheaper-deepseek-claim-usd13-200-monthly-gpu-rental-doubles-claude-bill-while-security-flaws-keep-code-offline",
+      "date": "2026-10-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49916710",
       "title": "Ruby in the Age of AI",
@@ -39,146 +111,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1191114524",
-      "title": "daniel3303/Equibles",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/daniel3303/Equibles",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
-      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "231-stars"
+        "27079-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/0xPlaygrounds/rig",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "tags": [
         "github",
         "open-source",
-        "13604-stars"
+        "8789-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1034615749",
-      "title": "assalas/pcb-designer-ai-agent",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/assalas/pcb-designer-ai-agent",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "🤖 Intelligent AI-powered PCB design automation tool using machine learning for component placement, routing optimization, and signal integrity analysis. Supports KiCad, Altium Designer, and Eagle CAD integration.",
-      "body": "🤖 Intelligent AI-powered PCB design automation tool using machine learning for component placement, routing optimization, and signal integrity analysis. Supports KiCad, Altium Designer, and Eagle CAD integration.",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "131-stars"
+        "65936-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-306980630",
-      "title": "lucidrains/x-transformers",
+      "slug": "github-734174248",
+      "title": "lakehq/sail",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lucidrains/x-transformers",
+      "url": "https://github.com/lakehq/sail",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "A concise but complete full-attention transformer with a set of promising experimental features from various papers",
-      "body": "A concise but complete full-attention transformer with a set of promising experimental features from various papers",
+      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
       "tags": [
         "github",
         "open-source",
-        "5951-stars"
+        "3410-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-704324955",
-      "title": "jupyter-naas/abi",
+      "slug": "github-1000945946",
+      "title": "caipe-io/ai-platform-engineering",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jupyter-naas/abi",
+      "url": "https://github.com/caipe-io/ai-platform-engineering",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "Open AI Operating System",
-      "body": "Open AI Operating System",
+      "summary": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "body": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
       "tags": [
         "github",
         "open-source",
-        "163-stars"
+        "421-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-125381318",
+      "title": "Trusted-AI/adversarial-robustness-toolbox",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+      "body": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
       "tags": [
         "github",
         "open-source",
-        "11391-stars"
+        "6251-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
+      "slug": "github-1143295695",
+      "title": "unicity-sphere/sphere-sdk",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
+      "url": "https://github.com/unicity-sphere/sphere-sdk",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
+      "summary": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
+      "body": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
       "tags": [
         "github",
         "open-source",
-        "11136-stars"
+        "5388-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-10-01",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "187633-stars"
+        "501-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -363,60 +435,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-49900328",
-      "title": "Artifical Analysis - GPT-6.1 Sol Replaces 6 Sol After 7 Days",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://artificialanalysis.ai/articles/gpt-6-1-sol-replaces-gpt-6-sol-after-just-7-days-with-near-astra-intelligence",
-      "date": "2026-09-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artifical Analysis - GPT-6.1 Sol Replaces 6 Sol After 7 Days, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artifical Analysis - GPT-6.1 Sol Replaces 6 Sol After 7 Days, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49897457",
-      "title": "A Bohm-inspired look at agents, harnesses, and holoflux",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://enogrob.github.io/artificial-intelligence/architecture/agentic-ai/philosophy/2026/09/22/intelligence-in-motion-bohm-holoflux-ai-agents.html",
-      "date": "2026-09-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de A Bohm-inspired look at agents, harnesses, and holoflux, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de A Bohm-inspired look at agents, harnesses, and holoflux, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49896169",
-      "title": "DHH: Pencils Down. Intent Up",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://enogrob.github.io/ruby/rails/artificial-intelligence/software-engineering/2026/09/29/pencils-down-intent-up.html",
-      "date": "2026-09-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de DHH: Pencils Down. Intent Up, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de DHH: Pencils Down. Intent Up, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
       "title": "Artificial-Intelligence-Files/artificial-intelligence-files",
       "category": "Modeles",
@@ -569,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 698
+      "latencyMs": 373
     },
     {
       "id": "github",
@@ -578,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 432
+      "latencyMs": 410
     },
     {
       "id": "hugging-face",
@@ -587,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 168
+      "latencyMs": 160
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 152
+      "latencyMs": 255
     },
     {
       "id": "gdelt",
@@ -614,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
