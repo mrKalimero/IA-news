@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-02T12:35:40.101Z",
+  "generatedAt": "2026-10-02T22:14:32.000Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49934603",
+      "title": "PewDiePie uncensors Qwen3.5-9B with Heretic",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
+      "date": "2026-10-02",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de PewDiePie uncensors Qwen3.5-9B with Heretic, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de PewDiePie uncensors Qwen3.5-9B with Heretic, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49931219",
       "title": "Below Intent: The Semantic Infrastructure of Agentic Software Engineering",
@@ -55,150 +73,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-197261780",
-      "title": "bee-san/Ciphey",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/bee-san/Ciphey",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
-      "body": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
-      "tags": [
-        "github",
-        "open-source",
-        "21647-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-850685665",
-      "title": "RichmondAlake/memorizz",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/RichmondAlake/memorizz",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management.",
-      "body": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management.",
-      "tags": [
-        "github",
-        "open-source",
-        "773-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-635000226",
-      "title": "Psyyke/A.C.A.S",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Psyyke/A.C.A.S",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Advanced Chess Assistance System for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and browsers supported.",
-      "body": "Advanced Chess Assistance System for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and browsers supported.",
-      "tags": [
-        "github",
-        "open-source",
-        "175-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-622424201",
-      "title": "ikaijua/Awesome-AITools",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ikaijua/Awesome-AITools",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
-      "body": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
-      "tags": [
-        "github",
-        "open-source",
-        "6203-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "tags": [
-        "github",
-        "open-source",
-        "3098-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1137988915",
-      "title": "JuiceBoxxGames/utsuwa",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JuiceBoxxGames/utsuwa",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Utsuwa is an open-source alternative to Grok Companion. This is a platform where you can have a virtual AI waifu that learns and grows with you, bundled with optional mechanics inspired by Japanese dating sim games.",
-      "body": "Utsuwa is an open-source alternative to Grok Companion. This is a platform where you can have a virtual AI waifu that learns and grows with you, bundled with optional mechanics inspired by Japanese dating sim games.",
-      "tags": [
-        "github",
-        "open-source",
-        "111-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1375922101",
-      "title": "wh000wh000/awesome-jev-live",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wh000wh000/awesome-jev-live",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "tags": [
-        "github",
-        "open-source",
-        "109-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "tags": [
-        "github",
-        "open-source",
-        "13614-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-49925788",
@@ -265,24 +139,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Firm rents four Nvidia H200s to test '80x cheaper' DeepSeek claim, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49916710",
-      "title": "Ruby in the Age of AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://enogrob.github.io/ruby/artificial-intelligence/software-engineering/architecture/2026/10/01/ruby-in-the-age-of-ai.html",
-      "date": "2026-10-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Ruby in the Age of AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Ruby in the Age of AI, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,16 +443,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 331
+      "latencyMs": 373
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 550
+      "ok": false,
+      "count": 0,
+      "error": "GitHub returned HTTP 403"
     },
     {
       "id": "hugging-face",
@@ -605,7 +461,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 117
+      "latencyMs": 147
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +479,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 204
+      "latencyMs": 238
     },
     {
       "id": "gdelt",
@@ -636,6 +492,7 @@
     }
   ],
   "errors": [
+    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: GDELT returned HTTP 429"
   ]
