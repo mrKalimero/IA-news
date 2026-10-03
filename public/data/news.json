@@ -1,7 +1,79 @@
 {
-  "generatedAt": "2026-10-03T11:41:29.262Z",
+  "generatedAt": "2026-10-03T16:17:58.383Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49945215",
+      "title": "Writing Without Artificial Intelligence [pdf]",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://provost.uchicago.edu/sites/default/files/2026-09/WritingWithoutAIPrinciplesandRecommendations.pdf",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Writing Without Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Writing Without Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49945193",
+      "title": "The Journal of Writing and Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.jwai.org",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The Journal of Writing and Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The Journal of Writing and Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49944389",
+      "title": "GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49943381",
+      "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic claims popular Chinese AI model has Mythos-class hacking abilities, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic claims popular Chinese AI model has Mythos-class hacking abilities, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49942578",
       "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
@@ -39,6 +111,150 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
+      "slug": "github-1283610217",
+      "title": "tinyhumansai/tinyagents",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/tinyhumansai/tinyagents",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "A small, provider-neutral agent harness written in Rust",
+      "body": "A small, provider-neutral agent harness written in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "116-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/daniel3303/Equibles",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "tags": [
+        "github",
+        "open-source",
+        "230-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-197261780",
+      "title": "bee-san/Ciphey",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/bee-san/Ciphey",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+      "body": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+      "tags": [
+        "github",
+        "open-source",
+        "21646-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "tags": [
+        "github",
+        "open-source",
+        "6500-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "tags": [
+        "github",
+        "open-source",
+        "130-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "187645-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-51751006",
+      "title": "hyperquest-hq/hyperbase",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/hyperquest-hq/hyperbase",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "A foundational library for Semantic Hypergraphs",
+      "body": "A foundational library for Semantic Hypergraphs",
+      "tags": [
+        "github",
+        "open-source",
+        "649-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1034615749",
+      "title": "assalas/pcb-designer-ai-agent",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/assalas/pcb-designer-ai-agent",
+      "date": "2026-10-03",
+      "readTime": "3 min",
+      "summary": "🤖 Intelligent AI-powered PCB design automation tool using machine learning for component placement, routing optimization, and signal integrity analysis. Supports KiCad, Altium Designer, and Eagle CAD integration.",
+      "body": "🤖 Intelligent AI-powered PCB design automation tool using machine learning for component placement, routing optimization, and signal integrity analysis. Supports KiCad, Altium Designer, and Eagle CAD integration.",
+      "tags": [
+        "github",
+        "open-source",
+        "131-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "hacker-news-49934603",
       "title": "PewDiePie uncensors Qwen3.5-9B with Heretic",
       "category": "Outils",
@@ -67,78 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Below Intent: The Semantic Infrastructure of Agentic Software Engineering, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Below Intent: The Semantic Infrastructure of Agentic Software Engineering, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49930563",
-      "title": "The AI data center e-waste problem is huge",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The AI data center e-waste problem is huge, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The AI data center e-waste problem is huge, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49930002",
-      "title": "Artificial Intelligence from an Evolutionary Perspective [video]",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.youtube.com/watch?v=ws_9ettrtSg",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence from an Evolutionary Perspective [video], reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence from an Evolutionary Perspective [video], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49925788",
-      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
-      "date": "2026-10-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Nvidia launches Open Agent Safety Platform to restrain rogue AI agents, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Nvidia launches Open Agent Safety Platform to restrain rogue AI agents, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49925758",
-      "title": "People Who Drink Their Own Pee Are Obsessed with AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://futurism.com/artificial-intelligence/urine-therapy-ai",
-      "date": "2026-10-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de People Who Drink Their Own Pee Are Obsessed with AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de People Who Drink Their Own Pee Are Obsessed with AI, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -443,16 +587,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 440
+      "latencyMs": 328
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": false,
-      "count": 0,
-      "error": "GitHub returned HTTP 403"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 316
     },
     {
       "id": "hugging-face",
@@ -461,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 119
+      "latencyMs": 103
     },
     {
       "id": "semantic-scholar",
@@ -479,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 223
+      "latencyMs": 108
     },
     {
       "id": "gdelt",
@@ -492,7 +636,6 @@
     }
   ],
   "errors": [
-    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: GDELT returned HTTP 429"
   ]
