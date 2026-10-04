@@ -1,24 +1,96 @@
 {
-  "generatedAt": "2026-10-04T12:22:17.101Z",
+  "generatedAt": "2026-10-04T21:25:41.366Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-132186783",
-      "title": "autonomio/talos",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/autonomio/talos",
+      "slug": "hacker-news-49957870",
+      "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
       "date": "2026-10-04",
       "readTime": "3 min",
-      "summary": "Hyperparameter Experiments with TensorFlow and Keras",
-      "body": "Hyperparameter Experiments with TensorFlow and Keras",
+      "summary": "Discussion technique autour de An AI couldn't beat humans at StarCraft, so it decided to cheat, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de An AI couldn't beat humans at StarCraft, so it decided to cheat, reperee dans la communaute Hacker News.",
       "tags": [
-        "github",
-        "open-source",
-        "1636-stars"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49957570",
+      "title": "Google freezes open-source bug bounty program amid flood of invalid AI slop",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1",
+      "date": "2026-10-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Google freezes open-source bug bounty program amid flood of invalid AI slop, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Google freezes open-source bug bounty program amid flood of invalid AI slop, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49955719",
+      "title": "ChatGPT-6 Astra cracks 217-year-old Napoleonic code in six hours",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-217-year-old-napoleonic-code-in-just-six-hours-single-prompt-ai-run-solves-24-rows-of-custom-symbols-from-a-single-image-reveals-lost-troop-orders",
+      "date": "2026-10-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de ChatGPT-6 Astra cracks 217-year-old Napoleonic code in six hours, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de ChatGPT-6 Astra cracks 217-year-old Napoleonic code in six hours, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49953962",
+      "title": "Trump names national intelligence director Jay Clayton to lead new AI task force",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://apnews.com/article/trump-jay-clayton-artificial-intelligence-task-force-b8689ea07de9102a52bd1cd2049b5901",
+      "date": "2026-10-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Trump names national intelligence director Jay Clayton to lead new AI task force, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Trump names national intelligence director Jay Clayton to lead new AI task force, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49953892",
+      "title": "Anthropic asks Claude users to share voice data for AI model training",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+      "date": "2026-10-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic asks Claude users to share voice data for AI model training, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic asks Claude users to share voice data for AI model training, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "github-138552196",
@@ -34,7 +106,25 @@
       "tags": [
         "github",
         "open-source",
-        "29612-stars"
+        "29624-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/usestrix/strix",
+      "date": "2026-10-04",
+      "readTime": "3 min",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "tags": [
+        "github",
+        "open-source",
+        "66489-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -57,92 +147,92 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-912559512",
+      "title": "simstudioai/sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/simstudioai/sim",
       "date": "2026-10-04",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
       "tags": [
         "github",
         "open-source",
-        "462-stars"
+        "29779-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-307191665",
-      "title": "obsei/obsei",
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/obsei/obsei",
+      "url": "https://github.com/felladrin/MiniSearch",
       "date": "2026-10-04",
       "readTime": "3 min",
-      "summary": "Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .",
-      "body": "Obsei is a low code AI powered automation tool. It can be used in various business flows like social listening, AI based alerting, brand image analysis, comparative study and more .",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
       "tags": [
         "github",
         "open-source",
-        "1431-stars"
+        "600-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
+      "slug": "github-920654893",
+      "title": "securade/hub",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
+      "url": "https://github.com/securade/hub",
       "date": "2026-10-04",
       "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "summary": "Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart.",
+      "body": "Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart.",
       "tags": [
         "github",
         "open-source",
-        "254-stars"
+        "291-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1046809510",
-      "title": "vinhnx/VTCode",
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vinhnx/VTCode",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
       "date": "2026-10-04",
       "readTime": "3 min",
-      "summary": "VT Code is an open-source Rust terminal coding agent.",
-      "body": "VT Code is an open-source Rust terminal coding agent.",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
       "tags": [
         "github",
         "open-source",
-        "866-stars"
+        "193-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-169975410",
-      "title": "leon-ai/leon",
+      "slug": "github-41550991",
+      "title": "mars-sim/mars-sim",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/leon-ai/leon",
+      "url": "https://github.com/mars-sim/mars-sim",
       "date": "2026-10-04",
       "readTime": "3 min",
-      "summary": "🧠 Leon is your open-source personal assistant.",
-      "body": "🧠 Leon is your open-source personal assistant.",
+      "summary": "Mars Simulation Project Official Codebase",
+      "body": "Mars Simulation Project Official Codebase",
       "tags": [
         "github",
         "open-source",
-        "17555-stars"
+        "168-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -175,114 +265,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de The Journal of Writing and Artificial Intelligence, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de The Journal of Writing and Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49944389",
-      "title": "GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/gpt-6-astra-plays-world-of-warcraft-blind-and-clears-the-orc-starting-zone-in-40-minutes-with-no-deaths-ai-agent-navigates-by-server-network-traffic-with-pulled-quest-data",
-      "date": "2026-10-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de GPT-6 Astra plays World of Warcraft blind, clears starting zone in 40 minutes, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49943381",
-      "title": "Anthropic claims popular Chinese AI model has Mythos-class hacking abilities",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-claims-popular-chinese-ai-model-has-mythos-class-hacking-abilities-frontier-red-teaming-report-details-weak-safeguards-on-open-weight-ai",
-      "date": "2026-10-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Anthropic claims popular Chinese AI model has Mythos-class hacking abilities, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Anthropic claims popular Chinese AI model has Mythos-class hacking abilities, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49942578",
-      "title": "Some topics are off limits inside popular Chinese-made free AI, researchers find",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.cbsnews.com/news/china-ai-qwen-artificial-intelligence-bias-analysis/",
-      "date": "2026-10-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Some topics are off limits inside popular Chinese-made free AI, researchers find, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Some topics are off limits inside popular Chinese-made free AI, researchers find, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49942002",
-      "title": "Understanding Frontier Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://casp.ac/reports/intelligence-explosion",
-      "date": "2026-10-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Understanding Frontier Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Understanding Frontier Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49934603",
-      "title": "PewDiePie uncensors Qwen3.5-9B with Heretic",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de PewDiePie uncensors Qwen3.5-9B with Heretic, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de PewDiePie uncensors Qwen3.5-9B with Heretic, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49931219",
-      "title": "Below Intent: The Semantic Infrastructure of Agentic Software Engineering",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://enogrob.github.io/artificial-intelligence/software-engineering/architecture/ruby/2026/10/02/below-intent-semantic-infrastructure.html",
-      "date": "2026-10-02",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Below Intent: The Semantic Infrastructure of Agentic Software Engineering, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Below Intent: The Semantic Infrastructure of Agentic Software Engineering, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -586,8 +568,8 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 8,
-      "latencyMs": 3712
+      "count": 7,
+      "latencyMs": 301
     },
     {
       "id": "github",
@@ -596,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 315
+      "latencyMs": 359
     },
     {
       "id": "hugging-face",
@@ -605,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 109
+      "latencyMs": 130
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 50
+      "latencyMs": 300
     },
     {
       "id": "gdelt",
