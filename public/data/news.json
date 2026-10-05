@@ -1,7 +1,187 @@
 {
-  "generatedAt": "2026-10-04T21:25:41.366Z",
+  "generatedAt": "2026-10-05T05:40:56.416Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49960347",
+      "title": "Calling AI 'other intelligence' better describes the advent of a new lifeform",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.abc.net.au/news/2026-10-05/is-artificial-intelligence-a-new-lifeform/107226762",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Calling AI 'other intelligence' better describes the advent of a new lifeform, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Calling AI 'other intelligence' better describes the advent of a new lifeform, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49959571",
+      "title": "Adversarial Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.rand.org/pubs/research_reports/RRA4734-2.html",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Adversarial Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Adversarial Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "tags": [
+        "github",
+        "open-source",
+        "96236-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/xorbitsai/inference",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "tags": [
+        "github",
+        "open-source",
+        "9598-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-224908244",
+      "title": "WasmEdge/WasmEdge",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/WasmEdge/WasmEdge",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "tags": [
+        "github",
+        "open-source",
+        "10817-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-620363420",
+      "title": "TimefoldAI/timefold-solver",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "tags": [
+        "github",
+        "open-source",
+        "1810-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/frontman-ai/frontman",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
+      "tags": [
+        "github",
+        "open-source",
+        "710-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "8807-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "tags": [
+        "github",
+        "open-source",
+        "202-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-169975410",
+      "title": "leon-ai/leon",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/leon-ai/leon",
+      "date": "2026-10-05",
+      "readTime": "3 min",
+      "summary": "🧠 Leon is your open-source personal assistant.",
+      "body": "🧠 Leon is your open-source personal assistant.",
+      "tags": [
+        "github",
+        "open-source",
+        "17557-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "hacker-news-49957870",
       "title": "An AI couldn't beat humans at StarCraft, so it decided to cheat",
@@ -93,196 +273,16 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "tags": [
-        "github",
-        "open-source",
-        "29624-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1032808806",
-      "title": "usestrix/strix",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/usestrix/strix",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "tags": [
-        "github",
-        "open-source",
-        "66489-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
-      "tags": [
-        "github",
-        "open-source",
-        "116-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "tags": [
-        "github",
-        "open-source",
-        "29779-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-704892113",
-      "title": "felladrin/MiniSearch",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/felladrin/MiniSearch",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "tags": [
-        "github",
-        "open-source",
-        "600-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-920654893",
-      "title": "securade/hub",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/securade/hub",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart.",
-      "body": "Securade.ai HUB - A generative AI based edge platform for computer vision that connects to existing CCTV cameras and makes them smart.",
-      "tags": [
-        "github",
-        "open-source",
-        "291-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1375922101",
-      "title": "wh000wh000/awesome-jev-live",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wh000wh000/awesome-jev-live",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "tags": [
-        "github",
-        "open-source",
-        "193-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-41550991",
-      "title": "mars-sim/mars-sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/mars-sim/mars-sim",
-      "date": "2026-10-04",
-      "readTime": "3 min",
-      "summary": "Mars Simulation Project Official Codebase",
-      "body": "Mars Simulation Project Official Codebase",
-      "tags": [
-        "github",
-        "open-source",
-        "168-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "hacker-news-49945215",
-      "title": "Writing Without Artificial Intelligence [pdf]",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://provost.uchicago.edu/sites/default/files/2026-09/WritingWithoutAIPrinciplesandRecommendations.pdf",
-      "date": "2026-10-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Writing Without Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Writing Without Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49945193",
-      "title": "The Journal of Writing and Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.jwai.org",
-      "date": "2026-10-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Journal of Writing and Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Journal of Writing and Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02207v1",
-      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03717v1",
+      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02207v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03717v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can...",
-      "body": "3D Gaussian avatars support fast rendering, however, their real-time animation is often challenged by the costly neural inference. We address this bottleneck and show that the animation of pretrained avatar models can...",
+      "summary": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representat...",
+      "body": "This paper examines the role of Novel View Synthesis (NVS) in geometric representation learning. In principle, NVS should reason about 3D scene structure, thereby enabling transferable multi-view geometric representat...",
       "tags": [
         "arxiv",
         "paper",
@@ -291,16 +291,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02206v1",
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03715v1",
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02206v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03715v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end a...",
-      "body": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end a...",
+      "summary": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate v...",
+      "body": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate v...",
       "tags": [
         "arxiv",
         "paper",
@@ -309,16 +309,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02204v1",
-      "title": "Reconstruct, Practice, Go Real: Guided Self-Improvement for Embodied Agents",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03713v1",
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02204v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03713v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go R...",
-      "body": "Building reliable robot capabilities across diverse tasks requires substantial human effort to develop and maintain skills, design rewards, and integrate perception with control. We present Reconstruct, Practice, Go R...",
+      "summary": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World...",
+      "body": "Continual learning treats degradation on previously seen data as evidence of failure, a convention inherited from settings with a stationary prediction target, where a correct label remains correct indefinitely. World...",
       "tags": [
         "arxiv",
         "paper",
@@ -327,16 +327,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02203v1",
-      "title": "Embedding Prediction Helps Image Generation",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03712v1",
+      "title": "RNADyn: A Benchmark for Generating and Understanding RNA Dynamics",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02203v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03712v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embed...",
-      "body": "In diffusion transformers, a class label or a text prompt is embedded once, and the same condition is reused at every denoising step. We ask whether predicted embeddings can serve as this condition instead. Next-Embed...",
+      "summary": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically t...",
+      "body": "Ribonucleic acid (RNA) functions through conformational changes that are not fully captured by static structures. However, large-scale standardized RNA dynamics data remain limited, and existing approaches typically t...",
       "tags": [
         "arxiv",
         "paper",
@@ -345,16 +345,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02202v1",
-      "title": "ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03710v1",
+      "title": "EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02202v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03710v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new prob...",
-      "body": "What makes great scientists great? Even as AI systems start to make progress on open problems, scientists remain far ahead of them at sensing which prior idea, buried in an ever-growing archive of research, a new prob...",
+      "summary": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene b...",
+      "body": "Inspired by human vision, we introduce a framework using active gaze to enable fine-grained bimanual manipulation with only a single stereo camera. EyeRobot 2.0 physically attends to a 3D fixation point in the scene b...",
       "tags": [
         "arxiv",
         "paper",
@@ -363,16 +363,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02201v1",
-      "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03709v1",
+      "title": "From Mixing to Tearing: Graph Decomposition in Decentralized Optimization via Message Passing",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02201v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03709v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous su...",
-      "body": "High-resolution 3D generation increasingly relies on voxel latents and multi-stage pipelines that first predict active structure and then synthesize local geometry. While effective, this design fragments continuous su...",
+      "summary": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods...",
+      "body": "We study the minimization of sums of smooth strongly convex functions over undirected graphs, with each function held by one agent and communication restricted to neighbors in the graph. Existing decentralized methods...",
       "tags": [
         "arxiv",
         "paper",
@@ -381,16 +381,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02200v1",
-      "title": "VISTA: A Visual Harness for Reasoning in an Interactive World",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03702v1",
+      "title": "LESSER: Post-Training Data Selection with Output-Layer Gradients",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02200v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03702v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness...",
-      "body": "We show that multimodal models possess strong reasoning abilities and that an appropriate harness can unlock their potential to solve tasks across diverse interactive environments. We introduce VISTA, a visual harness...",
+      "summary": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align w...",
+      "body": "The choice of post-training data for large language models substantially affects downstream performance. Gradient-based data selection is a popular approach that ranks training data by how well their gradients align w...",
       "tags": [
         "arxiv",
         "paper",
@@ -399,16 +399,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-02199v1",
-      "title": "TACO: Ternary Absolute-max Column-wise One-sparse Optimizer for LLM Fine-Tuning",
+      "slug": "arxiv-http-arxiv-org-abs-2610-03693v1",
+      "title": "Transcriptome-informed multi-modal AI for predicting neoadjuvant therapy response from breast cancer biopsies",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.02199v1",
-      "date": "2026-10-01",
+      "url": "http://arxiv.org/abs/2610.03693v1",
+      "date": "2026-10-02",
       "readTime": "3 min",
-      "summary": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, aba...",
-      "body": "Full-parameter fine-tuning of large language models (LLMs) incurs substantial optimizer state memory overhead, limiting the model sizes that fit on modern GPUs. Existing approaches either compress optimizer state, aba...",
+      "summary": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first s...",
+      "body": "Scarcity of labeled data limits development of deep learning biomarkers in oncology. We develop a two-stage AI model predicting pathological complete response (pCR) to neoadjuvant therapy in breast cancer. The first s...",
       "tags": [
         "arxiv",
         "paper",
@@ -569,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 301
+      "latencyMs": 446
     },
     {
       "id": "github",
@@ -578,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 359
+      "latencyMs": 459
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 130
+      "latencyMs": 190
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 300
+      "latencyMs": 234
     },
     {
       "id": "gdelt",
@@ -614,11 +614,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
