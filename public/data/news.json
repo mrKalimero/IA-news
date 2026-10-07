@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-07T13:24:13.074Z",
+  "generatedAt": "2026-10-07T23:05:32.093Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-49994214",
+      "title": "Canada launches national council to advise on artificial intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://nationalpost.com/news/canada/mark-carney-artificial-intelligence-council",
+      "date": "2026-10-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Canada launches national council to advise on artificial intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Canada launches national council to advise on artificial intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-49992719",
+      "title": "NYC AI Report; Job Postings in Design, Media, and Writing Down 40%",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://pfnyc.org/research/artificial-intelligence-is-already-reshaping-new-york-city",
+      "date": "2026-10-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de NYC AI Report; Job Postings in Design, Media, and Writing Down 40%, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de NYC AI Report; Job Postings in Design, Media, and Writing Down 40%, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-49990047",
       "title": "Why Artificial Intelligence Is Impossible [1984 USSR Perspective on AI]",
@@ -21,146 +57,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1143295695",
-      "title": "unicity-sphere/sphere-sdk",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/unicity-sphere/sphere-sdk",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
-      "body": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "5384-stars"
+        "28437-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "711-stars"
+        "67098-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-794413452",
-      "title": "deven96/ahnlich",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/deven96/ahnlich",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "Suite of tools containing an in-memory vector datastore and AI proxy",
-      "body": "Suite of tools containing an in-memory vector datastore and AI proxy",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "247-stars"
+        "27156-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1000945946",
-      "title": "caipe-io/ai-platform-engineering",
+      "slug": "github-409653223",
+      "title": "Nixtla/nixtla",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/caipe-io/ai-platform-engineering",
+      "url": "https://github.com/Nixtla/nixtla",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
-      "body": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "summary": "TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurat...",
+      "body": "TimeGPT-2.1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurat...",
       "tags": [
         "github",
         "open-source",
-        "424-stars"
+        "4019-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1002593055",
-      "title": "PaulDuvall/ai-development-patterns",
+      "slug": "github-815162993",
+      "title": "YuvrajSingh-mist/Paper-Replications",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/PaulDuvall/ai-development-patterns",
+      "url": "https://github.com/YuvrajSingh-mist/Paper-Replications",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
-      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "summary": "From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.",
+      "body": "From-scratch PyTorch replications of classic and SOTA AI/ML papers: transformers, attention, GANs, diffusion, CLIP, LoRA, MoE and more, with reproducible training code.",
       "tags": [
         "github",
         "open-source",
-        "664-stars"
+        "428-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
       "tags": [
         "github",
         "open-source",
-        "462-stars"
+        "120-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
       "tags": [
         "github",
         "open-source",
-        "2248-stars"
+        "117-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283610217",
-      "title": "tinyhumansai/tinyagents",
+      "slug": "github-622424201",
+      "title": "ikaijua/Awesome-AITools",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tinyhumansai/tinyagents",
+      "url": "https://github.com/ikaijua/Awesome-AITools",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "A small, provider-neutral agent harness written in Rust",
-      "body": "A small, provider-neutral agent harness written in Rust",
+      "summary": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
+      "body": "Collection of AI-related utilities. Welcome to submit pull requests /收藏AI相关的实用工具，欢迎提交pull requests",
       "tags": [
         "github",
         "open-source",
-        "118-stars"
+        "6210-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -247,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Render IA: renders de arquitectura con inteligencia artificial, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Render IA: renders de arquitectura con inteligencia artificial, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49972816",
-      "title": "Third conversation with Claude that Anthropic reported to police since August",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-reports-florida-womans-claude-diary-threat-to-shoot-up-sheriffs-office-felony-charge-follows-its-at-least-the-third-such-conversation-to-reach-police-since-august",
-      "date": "2026-10-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Third conversation with Claude that Anthropic reported to police since August, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Third conversation with Claude that Anthropic reported to police since August, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -569,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 300
+      "latencyMs": 336
     },
     {
       "id": "github",
@@ -578,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 461
+      "latencyMs": 418
     },
     {
       "id": "hugging-face",
@@ -587,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 148
+      "latencyMs": 113
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 440
+      "latencyMs": 166
     },
     {
       "id": "gdelt",
