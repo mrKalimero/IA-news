@@ -1,112 +1,148 @@
 {
-  "generatedAt": "2026-10-07T05:59:59.560Z",
+  "generatedAt": "2026-10-07T13:24:13.074Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-257913595",
-      "title": "voxel51/fiftyone",
+      "slug": "hacker-news-49990047",
+      "title": "Why Artificial Intelligence Is Impossible [1984 USSR Perspective on AI]",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://archive.org/details/MarkovCyberneticsTodayMir1984",
+      "date": "2026-10-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Why Artificial Intelligence Is Impossible [1984 USSR Perspective on AI], reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Why Artificial Intelligence Is Impossible [1984 USSR Perspective on AI], reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1143295695",
+      "title": "unicity-sphere/sphere-sdk",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/voxel51/fiftyone",
+      "url": "https://github.com/unicity-sphere/sphere-sdk",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "Refine high-quality datasets and visual AI models",
-      "body": "Refine high-quality datasets and visual AI models",
+      "summary": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
+      "body": "The SDK for autonomous economic agents. Give an agent an identity, a wallet, and the ability to find, negotiate with, and settle with other agents - peer-to-peer, with perfect privacy and ultra-fast finality",
       "tags": [
         "github",
         "open-source",
-        "11151-stars"
+        "5384-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-688186076",
-      "title": "leptonai/leptonai",
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/leptonai/leptonai",
+      "url": "https://github.com/frontman-ai/frontman",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "A Pythonic framework to simplify AI service building",
-      "body": "A Pythonic framework to simplify AI service building",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
       "tags": [
         "github",
         "open-source",
-        "2825-stars"
+        "711-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-794413452",
+      "title": "deven96/ahnlich",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/deven96/ahnlich",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Suite of tools containing an in-memory vector datastore and AI proxy",
+      "body": "Suite of tools containing an in-memory vector datastore and AI proxy",
       "tags": [
         "github",
         "open-source",
-        "187678-stars"
+        "247-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-149430917",
-      "title": "recommenders-team/recommenders",
+      "slug": "github-1000945946",
+      "title": "caipe-io/ai-platform-engineering",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/recommenders-team/recommenders",
+      "url": "https://github.com/caipe-io/ai-platform-engineering",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "Best Practices on Recommendation Systems",
-      "body": "Best Practices on Recommendation Systems",
+      "summary": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "body": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
       "tags": [
         "github",
         "open-source",
-        "21927-stars"
+        "424-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-925674818",
-      "title": "wanaku-ai/wanaku",
+      "slug": "github-1002593055",
+      "title": "PaulDuvall/ai-development-patterns",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wanaku-ai/wanaku",
+      "url": "https://github.com/PaulDuvall/ai-development-patterns",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "Wanaku Governed Action Proxy for AI Agents",
-      "body": "Wanaku Governed Action Proxy for AI Agents",
+      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
       "tags": [
         "github",
         "open-source",
-        "134-stars"
+        "664-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1375922101",
-      "title": "wh000wh000/awesome-jev-live",
+      "slug": "github-896173731",
+      "title": "viveknaskar/everything-ai-ml",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "url": "https://github.com/viveknaskar/everything-ai-ml",
       "date": "2026-10-07",
       "readTime": "3 min",
-      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
       "tags": [
         "github",
         "open-source",
-        "237-stars"
+        "462-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/tphakala/birdnet-go",
+      "date": "2026-10-07",
+      "readTime": "3 min",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "tags": [
+        "github",
+        "open-source",
+        "2248-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -125,24 +161,6 @@
         "github",
         "open-source",
         "118-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "date": "2026-10-07",
-      "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
-      "tags": [
-        "github",
-        "open-source",
-        "90135-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -399,24 +417,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-49969932",
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "date": "2026-10-05",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de An open-source tool lets you delete 12GB of Apple Intelligence data on macOS, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de An open-source tool lets you delete 12GB of Apple Intelligence data on macOS, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
       "title": "Artificial-Intelligence-Files/artificial-intelligence-files",
       "category": "Modeles",
@@ -466,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "72-downloads"
+        "73-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -569,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 328
+      "latencyMs": 300
     },
     {
       "id": "github",
@@ -578,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 430
+      "latencyMs": 461
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 144
+      "latencyMs": 148
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 416
+      "latencyMs": 440
     },
     {
       "id": "gdelt",
