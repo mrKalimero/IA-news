@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-10-08T13:29:58.610Z",
+  "generatedAt": "2026-10-08T23:21:10.241Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50012433",
+      "title": "A robot entered a Denver comedy club. (This isn't a joke.)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://coloradosun.com/2026/10/08/robot-improv-death-artificial-intelligence-research-human/",
+      "date": "2026-10-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de A robot entered a Denver comedy club. (This isn't a joke.), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de A robot entered a Denver comedy club. (This isn't a joke.), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50011127",
+      "title": "A.I. could upend food delivery",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "date": "2026-10-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de A.I. could upend food delivery, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de A.I. could upend food delivery, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50010944",
+      "title": "President says those using the term 'Artificial' Intelligence are 'THE ENEMY'",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.businessinsider.com/trump-super-intelligence-rebrand-enemy-white-house-2026-10",
+      "date": "2026-10-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de President says those using the term 'Artificial' Intelligence are 'THE ENEMY', reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de President says those using the term 'Artificial' Intelligence are 'THE ENEMY', reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50008565",
+      "title": "Anthropic bans 'abusive or cruel behavior' towards Claude",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+      "date": "2026-10-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic bans 'abusive or cruel behavior' towards Claude, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic bans 'abusive or cruel behavior' towards Claude, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50008272",
+      "title": "Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\"",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://breakingthenews.net/Article/Trump:-Anyone-using-term-%27Artificial-Intelligence%27-is-the-%27ENEMY%27/67261230",
+      "date": "2026-10-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\", reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\", reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50006086",
+      "title": "Why the Catholic Church Is AI Doom's Most Formidable Foe",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/",
+      "date": "2026-10-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Why the Catholic Church Is AI Doom's Most Formidable Foe, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Why the Catholic Church Is AI Doom's Most Formidable Foe, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50002993",
       "title": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in 12 hours",
@@ -21,202 +129,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "7156-stars"
+        "67308-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-95879426",
-      "title": "Tencent/ncnn",
+      "slug": "github-307782839",
+      "title": "ombharatiya/FAANG-Coding-Interview-Questions",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Tencent/ncnn",
+      "url": "https://github.com/ombharatiya/FAANG-Coding-Interview-Questions",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
-      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "summary": "A curated List of Coding Questions Asked in FAANG Interviews",
+      "body": "A curated List of Coding Questions Asked in FAANG Interviews",
       "tags": [
         "github",
         "open-source",
-        "23921-stars"
+        "6027-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-108102826",
-      "title": "carla-simulator/carla",
+      "slug": "github-1117470788",
+      "title": "ombharatiya/ai-system-design-guide",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/carla-simulator/carla",
+      "url": "https://github.com/ombharatiya/ai-system-design-guide",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "Open-source simulator for autonomous driving research.",
-      "body": "Open-source simulator for autonomous driving research.",
+      "summary": "AI system design guide for engineers building production AI systems and evals.",
+      "body": "AI system design guide for engineers building production AI systems and evals.",
       "tags": [
         "github",
         "open-source",
-        "14465-stars"
+        "3527-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "90270-stars"
+        "27185-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "464-stars"
+        "2250-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-525592995",
-      "title": "invoke-ai/InvokeAI",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/invoke-ai/InvokeAI",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
-      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "28451-stars"
+        "187486-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1017208970",
-      "title": "WordPress/ai",
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WordPress/ai",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
-      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
       "tags": [
         "github",
         "open-source",
-        "359-stars"
+        "120-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-137747179",
-      "title": "10up/classifai",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/10up/classifai",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
-      "body": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "712-stars"
+        "501-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "hacker-news-49994214",
-      "title": "Canada launches national council to advise on artificial intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://nationalpost.com/news/canada/mark-carney-artificial-intelligence-council",
-      "date": "2026-10-07",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Canada launches national council to advise on artificial intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Canada launches national council to advise on artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49992719",
-      "title": "NYC AI Report; Job Postings in Design, Media, and Writing Down 40%",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://pfnyc.org/research/artificial-intelligence-is-already-reshaping-new-york-city",
-      "date": "2026-10-07",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de NYC AI Report; Job Postings in Design, Media, and Writing Down 40%, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de NYC AI Report; Job Postings in Design, Media, and Writing Down 40%, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49990047",
-      "title": "Why Artificial Intelligence Is Impossible [1984 USSR Perspective on AI]",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://archive.org/details/MarkovCyberneticsTodayMir1984",
-      "date": "2026-10-07",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Why Artificial Intelligence Is Impossible [1984 USSR Perspective on AI], reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Why Artificial Intelligence Is Impossible [1984 USSR Perspective on AI], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "arxiv-http-arxiv-org-abs-2610-10538v1",
@@ -361,78 +415,6 @@
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-49980602",
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "date": "2026-10-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de OpenAI is adding text watermarking in ChatGPT and Codex, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de OpenAI is adding text watermarking in ChatGPT and Codex, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49979121",
-      "title": "Our minds aren't equipped to handle AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "date": "2026-10-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Our minds aren't equipped to handle AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Our minds aren't equipped to handle AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49977872",
-      "title": "Chick-fil-A will not use artificial intelligence to replace human workers",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://notthebee.com/article/chick-fil-a-will-not-use-artificial-intelligence-to-replace-human-workers-in-the-drive-thru",
-      "date": "2026-10-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Chick-fil-A will not use artificial intelligence to replace human workers, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Chick-fil-A will not use artificial intelligence to replace human workers, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-49975499",
-      "title": "Local Quantization and Multi-Back End Deployment with AMD Quark on Strix Halo",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://rocm.blogs.amd.com/artificial-intelligence/quark-strix-halo/README.html",
-      "date": "2026-10-06",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Local Quantization and Multi-Back End Deployment with AMD Quark on Strix Halo, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Local Quantization and Multi-Back End Deployment with AMD Quark on Strix Halo, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
@@ -586,8 +568,8 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 8,
-      "latencyMs": 377
+      "count": 7,
+      "latencyMs": 498
     },
     {
       "id": "github",
@@ -596,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 496
+      "latencyMs": 362
     },
     {
       "id": "hugging-face",
@@ -605,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 169
+      "latencyMs": 121
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 242
+      "latencyMs": 271
     },
     {
       "id": "gdelt",
