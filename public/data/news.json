@@ -1,58 +1,76 @@
 {
-  "generatedAt": "2026-10-08T06:04:37.602Z",
+  "generatedAt": "2026-10-08T13:29:58.610Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "hacker-news-50002993",
+      "title": "AI agent designs a complete RISC-V CPU from a 219-word spec sheet in 12 hours",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-designs-a-complete-risc-v-cpu-from-a-219-word-spec-in-just-12-hours",
+      "date": "2026-10-08",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI agent designs a complete RISC-V CPU from a 219-word spec sheet in 12 hours, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI agent designs a complete RISC-V CPU from a 219-word spec sheet in 12 hours, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/flwrlabs/flower",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
       "tags": [
         "github",
         "open-source",
-        "3100-stars"
+        "7156-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-734174248",
-      "title": "lakehq/sail",
+      "slug": "github-95879426",
+      "title": "Tencent/ncnn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lakehq/sail",
+      "url": "https://github.com/Tencent/ncnn",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
-      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
       "tags": [
         "github",
         "open-source",
-        "3416-stars"
+        "23921-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-678526156",
-      "title": "marimo-team/marimo",
+      "slug": "github-108102826",
+      "title": "carla-simulator/carla",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/marimo-team/marimo",
+      "url": "https://github.com/carla-simulator/carla",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "summary": "Open-source simulator for autonomous driving research.",
+      "body": "Open-source simulator for autonomous driving research.",
       "tags": [
         "github",
         "open-source",
-        "23057-stars"
+        "14465-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -70,79 +88,79 @@
       "tags": [
         "github",
         "open-source",
-        "90229-stars"
+        "90270-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-896173731",
+      "title": "viveknaskar/everything-ai-ml",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/viveknaskar/everything-ai-ml",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
       "tags": [
         "github",
         "open-source",
-        "187693-stars"
+        "464-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-957217108",
-      "title": "joylarkin/Awesome-AI-Market-Maps",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/joylarkin/Awesome-AI-Market-Maps",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
-      "body": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "343-stars"
+        "28451-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-1017208970",
+      "title": "WordPress/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/WordPress/ai",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
       "tags": [
         "github",
         "open-source",
-        "29696-stars"
+        "359-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-59450149",
-      "title": "DrVrej/VJ-Base",
+      "slug": "github-137747179",
+      "title": "10up/classifai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/DrVrej/VJ-Base",
+      "url": "https://github.com/10up/classifai",
       "date": "2026-10-08",
       "readTime": "3 min",
-      "summary": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
-      "body": "An addon for Garry’s Mod that provides a collection of bases to assist in creating different types of addons.",
+      "summary": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
+      "body": "Supercharge WordPress Content Workflows and Engagement with Artificial Intelligence.",
       "tags": [
         "github",
         "open-source",
-        "122-stars"
+        "712-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -466,7 +484,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "73-downloads"
+        "72-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -569,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 865
+      "latencyMs": 377
     },
     {
       "id": "github",
@@ -578,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 613
+      "latencyMs": 496
     },
     {
       "id": "hugging-face",
@@ -587,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 351
+      "latencyMs": 169
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 568
+      "latencyMs": 242
     },
     {
       "id": "gdelt",
@@ -614,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
