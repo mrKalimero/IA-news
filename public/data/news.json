@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-09T06:09:12.262Z",
+  "generatedAt": "2026-10-09T13:17:42.060Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50019829",
+      "title": "Artificial Intelligence in the Firm: Bottlenecks in Software Production [pdf]",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://fion.ac/jellyfish.pdf",
+      "date": "2026-10-09",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence in the Firm: Bottlenecks in Software Production [pdf], reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence in the Firm: Bottlenecks in Software Production [pdf], reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50015492",
       "title": "Show HN: Rename Super Intelligence Back to Artificial Intelligence",
@@ -19,150 +37,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-1131637627",
-      "title": "zjunlp/SkillNet",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/zjunlp/SkillNet",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "Create, Evaluate, and Connect AI Skills",
-      "body": "Create, Evaluate, and Connect AI Skills",
-      "tags": [
-        "github",
-        "open-source",
-        "1394-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1184170771",
-      "title": "OpenRaiser/NanoResearch",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenRaiser/NanoResearch",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "🦞+🔬 NanoResearch: The Autonomous AI Research Assistant",
-      "body": "🦞+🔬 NanoResearch: The Autonomous AI Research Assistant",
-      "tags": [
-        "github",
-        "open-source",
-        "1339-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-704892113",
-      "title": "felladrin/MiniSearch",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/felladrin/MiniSearch",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "tags": [
-        "github",
-        "open-source",
-        "599-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "tags": [
-        "github",
-        "open-source",
-        "27192-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-184704903",
-      "title": "interpretml/interpret",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/interpretml/interpret",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "Fit interpretable models. Explain blackbox machine learning.",
-      "body": "Fit interpretable models. Explain blackbox machine learning.",
-      "tags": [
-        "github",
-        "open-source",
-        "6956-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "tags": [
-        "github",
-        "open-source",
-        "29737-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "tags": [
-        "github",
-        "open-source",
-        "2250-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
-      "date": "2026-10-09",
-      "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "8837-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-50012433",
@@ -247,24 +121,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\", reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Trump says anyone who uses the phrase \"artificial intelligence\" is \"the enemy\", reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50006086",
-      "title": "Why the Catholic Church Is AI Doom's Most Formidable Foe",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://thedispatch.com/article/catholic-church-artificial-intelligence-millenarian/",
-      "date": "2026-10-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Why the Catholic Church Is AI Doom's Most Formidable Foe, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Why the Catholic Church Is AI Doom's Most Formidable Foe, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -466,7 +322,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "72-downloads"
+        "86-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -569,16 +425,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 859
+      "latencyMs": 376
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 303
+      "ok": false,
+      "count": 0,
+      "error": "GitHub returned HTTP 403"
     },
     {
       "id": "hugging-face",
@@ -587,7 +443,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 110
+      "latencyMs": 78
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +461,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 472
+      "latencyMs": 124
     },
     {
       "id": "gdelt",
@@ -618,6 +474,7 @@
     }
   ],
   "errors": [
+    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: GDELT returned HTTP 429"
   ]
