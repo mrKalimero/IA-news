@@ -1,7 +1,169 @@
 {
-  "generatedAt": "2026-10-10T21:44:43.242Z",
+  "generatedAt": "2026-10-11T05:47:04.125Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50039627",
+      "title": "Satya Nadella says we should assume all AI models are 'compromised'",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Satya Nadella says we should assume all AI models are 'compromised', reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Satya Nadella says we should assume all AI models are 'compromised', reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "tags": [
+        "github",
+        "open-source",
+        "27234-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/stillwater-sc/universal",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "tags": [
+        "github",
+        "open-source",
+        "501-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-102692863",
+      "title": "onnx/onnx",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/onnx/onnx",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Open standard for machine learning interoperability",
+      "body": "Open standard for machine learning interoperability",
+      "tags": [
+        "github",
+        "open-source",
+        "21575-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-957217108",
+      "title": "joylarkin/Awesome-AI-Market-Maps",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/joylarkin/Awesome-AI-Market-Maps",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
+      "body": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
+      "tags": [
+        "github",
+        "open-source",
+        "344-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-644293378",
+      "title": "CVHub520/X-AnyLabeling",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/CVHub520/X-AnyLabeling",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and fl...",
+      "body": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and fl...",
+      "tags": [
+        "github",
+        "open-source",
+        "10643-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283610217",
+      "title": "tinyhumansai/tinyagents",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/tinyhumansai/tinyagents",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "A small, provider-neutral agent harness written in Rust",
+      "body": "A small, provider-neutral agent harness written in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "120-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-928541397",
+      "title": "whiteducksoftware/flock",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/whiteducksoftware/flock",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "🐤🐧 A declarative and highly modular Blackboard Multi Agent System 🐓 🦆",
+      "body": "🐤🐧 A declarative and highly modular Blackboard Multi Agent System 🐓 🦆",
+      "tags": [
+        "github",
+        "open-source",
+        "121-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-935822565",
+      "title": "existence-master/Sentient",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/existence-master/Sentient",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Your personal AI assistant, running on your own computer. Long-running tasks, real memory, proactive help, voice, phones and smart glasses. Any model, local or cloud. No account.",
+      "body": "Your personal AI assistant, running on your own computer. Long-running tasks, real memory, proactive help, voice, phones and smart glasses. Any model, local or cloud. No account.",
+      "tags": [
+        "github",
+        "open-source",
+        "698-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "hacker-news-50036049",
       "title": "Can Artificial Intelligence Learn the Art of Surgery?",
@@ -55,150 +217,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "tags": [
-        "github",
-        "open-source",
-        "29803-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-928541397",
-      "title": "whiteducksoftware/flock",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/whiteducksoftware/flock",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "🐤🐧 A declarative and highly modular Blackboard Multi Agent System 🐓 🦆",
-      "body": "🐤🐧 A declarative and highly modular Blackboard Multi Agent System 🐓 🦆",
-      "tags": [
-        "github",
-        "open-source",
-        "121-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-41550991",
-      "title": "mars-sim/mars-sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/mars-sim/mars-sim",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "Mars Simulation Project Official Codebase",
-      "body": "Mars Simulation Project Official Codebase",
-      "tags": [
-        "github",
-        "open-source",
-        "169-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-525592995",
-      "title": "invoke-ai/InvokeAI",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/invoke-ai/InvokeAI",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
-      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
-      "tags": [
-        "github",
-        "open-source",
-        "28537-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "tags": [
-        "github",
-        "open-source",
-        "29816-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "tags": [
-        "github",
-        "open-source",
-        "11415-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "tags": [
-        "github",
-        "open-source",
-        "27229-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-786509147",
-      "title": "curiousily/AI-Bootcamp",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/curiousily/AI-Bootcamp",
-      "date": "2026-10-10",
-      "readTime": "3 min",
-      "summary": "Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, Llama, Gemini)",
-      "body": "Self-paced bootcamp on Generative AI. Tutorials on ML fundamentals, Ollama, LLMs, RAGs, LangChain, LangGraph, Fine-tuning, DSPy & AI Agents (CrewAI), (Using ChatGPT, gpt-oss, Claude, Qwen, Gemma, Llama, Gemini)",
-      "tags": [
-        "github",
-        "open-source",
-        "946-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-50019829",
@@ -265,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de A.I. could upend food delivery, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de A.I. could upend food delivery, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50010944",
-      "title": "President says those using the term 'Artificial' Intelligence are 'THE ENEMY'",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.businessinsider.com/trump-super-intelligence-rebrand-enemy-white-house-2026-10",
-      "date": "2026-10-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de President says those using the term 'Artificial' Intelligence are 'THE ENEMY', reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de President says those using the term 'Artificial' Intelligence are 'THE ENEMY', reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 344
+      "latencyMs": 407
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 390
+      "latencyMs": 450
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 114
+      "latencyMs": 150
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 137
+      "latencyMs": 352
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
