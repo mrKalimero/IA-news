@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-11T05:47:04.125Z",
+  "generatedAt": "2026-10-11T12:50:41.210Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50041162",
+      "title": "'Pure insanity': Mathematicians react to OpenAI's math results drop",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de 'Pure insanity': Mathematicians react to OpenAI's math results drop, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de 'Pure insanity': Mathematicians react to OpenAI's math results drop, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50039627",
       "title": "Satya Nadella says we should assume all AI models are 'compromised'",
@@ -21,110 +39,20 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
       "date": "2026-10-11",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "tags": [
         "github",
         "open-source",
-        "27234-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
-      "date": "2026-10-11",
-      "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "tags": [
-        "github",
-        "open-source",
-        "501-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-102692863",
-      "title": "onnx/onnx",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onnx/onnx",
-      "date": "2026-10-11",
-      "readTime": "3 min",
-      "summary": "Open standard for machine learning interoperability",
-      "body": "Open standard for machine learning interoperability",
-      "tags": [
-        "github",
-        "open-source",
-        "21575-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-957217108",
-      "title": "joylarkin/Awesome-AI-Market-Maps",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/joylarkin/Awesome-AI-Market-Maps",
-      "date": "2026-10-11",
-      "readTime": "3 min",
-      "summary": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
-      "body": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
-      "tags": [
-        "github",
-        "open-source",
-        "344-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-644293378",
-      "title": "CVHub520/X-AnyLabeling",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CVHub520/X-AnyLabeling",
-      "date": "2026-10-11",
-      "readTime": "3 min",
-      "summary": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and fl...",
-      "body": "X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and fl...",
-      "tags": [
-        "github",
-        "open-source",
-        "10643-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283610217",
-      "title": "tinyhumansai/tinyagents",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tinyhumansai/tinyagents",
-      "date": "2026-10-11",
-      "readTime": "3 min",
-      "summary": "A small, provider-neutral agent harness written in Rust",
-      "body": "A small, provider-neutral agent harness written in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "120-stars"
+        "29840-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -147,6 +75,42 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
+      "slug": "github-1046952313",
+      "title": "promptise-com/Foundry",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/promptise-com/Foundry",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "The foundation layer for agentic intelligence.",
+      "body": "The foundation layer for agentic intelligence.",
+      "tags": [
+        "github",
+        "open-source",
+        "873-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-688164459",
+      "title": "harvard-edge/cs249r_book",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "body": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "tags": [
+        "github",
+        "open-source",
+        "28942-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "github-935822565",
       "title": "existence-master/Sentient",
       "category": "Open source",
@@ -160,7 +124,61 @@
       "tags": [
         "github",
         "open-source",
-        "698-stars"
+        "697-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-825945799",
+      "title": "WP-Autoplugin/wp-autoplugin",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/WP-Autoplugin/wp-autoplugin",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat.",
+      "body": "Quickly create functional plugins from simple descriptions, addressing specific needs without unnecessary bloat.",
+      "tags": [
+        "github",
+        "open-source",
+        "397-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "tags": [
+        "github",
+        "open-source",
+        "598-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1283302820",
+      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "date": "2026-10-11",
+      "readTime": "3 min",
+      "summary": "Best AI Image Generator for Professional Designs 2026",
+      "body": "Best AI Image Generator for Professional Designs 2026",
+      "tags": [
+        "github",
+        "open-source",
+        "116-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -265,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de A robot entered a Denver comedy club. (This isn't a joke.), reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de A robot entered a Denver comedy club. (This isn't a joke.), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50011127",
-      "title": "A.I. could upend food delivery",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
-      "date": "2026-10-08",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de A.I. could upend food delivery, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de A.I. could upend food delivery, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -484,7 +484,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "87-downloads"
+        "88-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 407
+      "latencyMs": 392
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 450
+      "latencyMs": 469
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 150
+      "latencyMs": 117
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 352
+      "latencyMs": 252
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
