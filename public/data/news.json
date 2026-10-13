@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-13T14:12:13.970Z",
+  "generatedAt": "2026-10-13T22:45:02.425Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50077321",
+      "title": "The Tao of Tao",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://newsroom.ucla.edu/magazine/terence-tao-math-artificial-intelligence-alpha-research",
+      "date": "2026-10-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The Tao of Tao, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The Tao of Tao, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50073951",
+      "title": "AI causes uproar in mathematics after OpenAI shares 722 manuscripts and proofs",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-causes-uproar-in-mathematics-as-experts-warn-against-sharing-research-with-llms-after-openai-shares-722-manuscripts-and-proofs-professor-argues-that-the-field-must-focus-on-building-community-over-raw-solutions",
+      "date": "2026-10-13",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI causes uproar in mathematics after OpenAI shares 722 manuscripts and proofs, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI causes uproar in mathematics after OpenAI shares 722 manuscripts and proofs, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50070038",
       "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
@@ -31,6 +67,24 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Character.ai Files for Bankruptcy, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Character.ai Files for Bankruptcy, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50068036",
+      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://blog.character.ai/an-update-on-character-ai/",
+      "date": "2026-10-13",
+      "readTime": "3 min",
+      "summary": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F;www.reuters.com&...",
+      "body": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1009802&#x2F;... https:&#x2F;&#x2F;techcrunch.com&#x2F;2026&#x2F;10&#x2F;13&#x2F;just-5-years-in-interactiv... https:&#x2F;&#x2F;www.reuters.com&...",
       "tags": [
         "hacker-news",
         "tech",
@@ -75,146 +129,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "11422-stars"
+        "3099-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-511003180",
+      "title": "basetenlabs/truss",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/basetenlabs/truss",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "The simplest way to serve AI/ML models in production",
+      "body": "The simplest way to serve AI/ML models in production",
       "tags": [
         "github",
         "open-source",
-        "90792-stars"
+        "1219-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-133444044",
-      "title": "fairlearn/fairlearn",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fairlearn/fairlearn",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "A Python package to assess and improve fairness of machine learning models.",
-      "body": "A Python package to assess and improve fairness of machine learning models.",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "2292-stars"
+        "27302-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1017208970",
-      "title": "WordPress/ai",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WordPress/ai",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
-      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "tags": [
         "github",
         "open-source",
-        "363-stars"
+        "6342-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
       "tags": [
         "github",
         "open-source",
-        "2269-stars"
+        "303-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-178075572",
-      "title": "kserve/kserve",
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kserve/kserve",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
       "tags": [
         "github",
         "open-source",
-        "6108-stars"
+        "115-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
+      "slug": "github-1283610217",
+      "title": "tinyhumansai/tinyagents",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
+      "url": "https://github.com/tinyhumansai/tinyagents",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "summary": "A small, provider-neutral agent harness written in Rust",
+      "body": "A small, provider-neutral agent harness written in Rust",
       "tags": [
         "github",
         "open-source",
-        "8869-stars"
+        "122-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-744164276",
-      "title": "oracle-devrel/oracle-ai-developer-hub",
+      "slug": "github-1283341037",
+      "title": "jaimasih05-commits/swarm-foraging-qlearn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
       "date": "2026-10-13",
       "readTime": "3 min",
-      "summary": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
-      "body": "Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services",
+      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
       "tags": [
         "github",
         "open-source",
-        "4418-stars"
+        "119-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Artificial Intelligence in the Firm: Bottlenecks in Software Production [pdf], reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Artificial Intelligence in the Firm: Bottlenecks in Software Production [pdf], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50062098",
-      "title": "Nvidia accused of trying to cut a deal with Anna's Archive",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-accused-of-trying-to-cut-a-deal-with-annas-archive-for-high-speed-access-to-the-massive-pirated-book-haul-allegedly-chased-stolen-data-to-fuel-its-llms",
-      "date": "2026-10-12",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Nvidia accused of trying to cut a deal with Anna's Archive, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Nvidia accused of trying to cut a deal with Anna's Archive, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50061359",
-      "title": "Designate the Google client for use by artificial intelligence (AI) agents",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://support.google.com/cloud/answer/15549257?hl=en",
-      "date": "2026-10-12",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Designate the Google client for use by artificial intelligence (AI) agents, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Designate the Google client for use by artificial intelligence (AI) agents, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50056688",
-      "title": "Dev used AI agents to rebuild Modern Warfare 2's source code; 83% matches",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/dev-used-ai-agents-and-more-than-500-billion-tokens-to-rebuild-call-of-duty-modern-warfare-2s-source-code-83-percent-of-the-2009-shooters-functions-now-match-the-original-byte-for-byte",
-      "date": "2026-10-12",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Dev used AI agents to rebuild Modern Warfare 2's source code; 83% matches, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Dev used AI agents to rebuild Modern Warfare 2's source code; 83% matches, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 509
+      "latencyMs": 467
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 531
+      "latencyMs": 418
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 115
+      "latencyMs": 154
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 428
+      "latencyMs": 208
     },
     {
       "id": "gdelt",
