@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-14T11:52:30.354Z",
+  "generatedAt": "2026-10-14T17:10:34.786Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50090754",
+      "title": "Simple math can predict when AI is about to go rogue, physicists say",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
+      "date": "2026-10-14",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Simple math can predict when AI is about to go rogue, physicists say, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Simple math can predict when AI is about to go rogue, physicists say, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50080703",
       "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
@@ -21,146 +39,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-796274918",
-      "title": "OpenHUTB/hutb",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHUTB/hutb",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "人车模拟器（Human-vehicle Simulator）",
-      "body": "人车模拟器（Human-vehicle Simulator）",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "656-stars"
+        "2282-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-678526156",
-      "title": "marimo-team/marimo",
+      "slug": "github-1017208970",
+      "title": "WordPress/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/marimo-team/marimo",
+      "url": "https://github.com/WordPress/ai",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
+      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
       "tags": [
         "github",
         "open-source",
-        "23159-stars"
+        "364-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-1155531826",
+      "title": "gonzaroman/acornix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/gonzaroman/acornix",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "Vibe coding in your pocket. A native Android app that creates apps and games from text, voice or a photo with AI, runs them full screen with their own data, and controls your phone just by asking. Works with Claude, O...",
+      "body": "Vibe coding in your pocket. A native Android app that creates apps and games from text, voice or a photo with AI, runs them full screen with their own data, and controls your phone just by asking. Works with Claude, O...",
       "tags": [
         "github",
         "open-source",
-        "3099-stars"
+        "150-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-620363420",
-      "title": "TimefoldAI/timefold-solver",
+      "slug": "github-738046322",
+      "title": "LMD0311/Awesome-World-Model",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "url": "https://github.com/LMD0311/Awesome-World-Model",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "summary": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers.",
+      "body": "Collect some World Models for Autonomous Driving (and Robotic, etc.) papers.",
       "tags": [
         "github",
         "open-source",
-        "1830-stars"
+        "2280-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-834798573",
-      "title": "brain4j-org/brain4j",
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/brain4j-org/brain4j",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "Open-source deep learning framework for Java. Designed with speed and lightweight in mind.",
-      "body": "Open-source deep learning framework for Java. Designed with speed and lightweight in mind.",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
       "tags": [
         "github",
         "open-source",
-        "124-stars"
+        "313-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1066509034",
-      "title": "deepnote/deepnote",
+      "slug": "github-241095326",
+      "title": "flwrlabs/flower",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/deepnote/deepnote",
+      "url": "https://github.com/flwrlabs/flower",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-tim...",
-      "body": "Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-tim...",
+      "summary": "Flower: A Friendly Federated AI Framework",
+      "body": "Flower: A Friendly Federated AI Framework",
       "tags": [
         "github",
         "open-source",
-        "3017-stars"
+        "7160-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-584639396",
-      "title": "ai-collection/ai-collection",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ai-collection/ai-collection",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
-      "body": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "9204-stars"
+        "6113-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/ls1intum/Artemis",
       "date": "2026-10-14",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
       "tags": [
         "github",
         "open-source",
-        "482-stars"
+        "818-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -265,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Building Pro-Worker Artificial Intelligence, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Building Pro-Worker Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50066786",
-      "title": "Intel Accelerates Open Infrastructure for the Agentic AI Era",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-accelerates-open-infrastructure-agentic-ai-era.html",
-      "date": "2026-10-13",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Intel Accelerates Open Infrastructure for the Agentic AI Era, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Intel Accelerates Open Infrastructure for the Agentic AI Era, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 341
+      "latencyMs": 318
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 474
+      "latencyMs": 472
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 128
+      "latencyMs": 155
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 185
+      "latencyMs": 441
     },
     {
       "id": "gdelt",
