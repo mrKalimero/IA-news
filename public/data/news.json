@@ -1,7 +1,223 @@
 {
-  "generatedAt": "2026-10-15T21:23:13.832Z",
+  "generatedAt": "2026-10-16T04:32:14.013Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50113712",
+      "title": "Artificial Intelligence, Economics, Sustainability, and Irreversibility",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.alexahn.com/2026/10/artificial-intelligence-economics.html",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence, Economics, Sustainability, and Irreversibility, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence, Economics, Sustainability, and Irreversibility, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50113186",
+      "title": "Fractal Recursion, Bounded Infinity, and Adapted Systems",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/towards-artificial-intelligence/fractal-recursion-bounded-infinity-and-adapted-systems-b11046c9e1e1",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Fractal Recursion, Bounded Infinity, and Adapted Systems, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Fractal Recursion, Bounded Infinity, and Adapted Systems, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50112114",
+      "title": "Subversion of clinical judgment by conversational artificial intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.10.05.26364541v1",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Subversion of clinical judgment by conversational artificial intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Subversion of clinical judgment by conversational artificial intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
+      "tags": [
+        "github",
+        "open-source",
+        "91017-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "187601-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-711904962",
+      "title": "aurelio-labs/semantic-router",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/aurelio-labs/semantic-router",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Superfast AI decision making and intelligent processing of multi-modal data.",
+      "body": "Superfast AI decision making and intelligent processing of multi-modal data.",
+      "tags": [
+        "github",
+        "open-source",
+        "3952-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "tags": [
+        "github",
+        "open-source",
+        "101096-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/dyad-sh/dyad",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "tags": [
+        "github",
+        "open-source",
+        "21941-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/xorbitsai/inference",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "tags": [
+        "github",
+        "open-source",
+        "9610-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3099-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "date": "2026-10-16",
+      "readTime": "3 min",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "tags": [
+        "github",
+        "open-source",
+        "28670-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-50111454",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "date": "2026-10-15",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de ChatGPT can peek at your Chrome tabs now, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de ChatGPT can peek at your Chrome tabs now, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50108412",
       "title": "Oracle Startup Growth Engine",
@@ -75,214 +291,16 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-554771302",
-      "title": "steven2358/awesome-generative-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/steven2358/awesome-generative-ai",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "A curated list of modern Generative Artificial Intelligence projects and services",
-      "body": "A curated list of modern Generative Artificial Intelligence projects and services",
-      "tags": [
-        "github",
-        "open-source",
-        "12739-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
-        "github",
-        "open-source",
-        "187601-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "tags": [
-        "github",
-        "open-source",
-        "101013-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-809673506",
-      "title": "Eigenwise/atomic-agents",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Eigenwise/atomic-agents",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "Building AI agents, atomically",
-      "body": "Building AI agents, atomically",
-      "tags": [
-        "github",
-        "open-source",
-        "6286-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-525592995",
-      "title": "invoke-ai/InvokeAI",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/invoke-ai/InvokeAI",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
-      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
-      "tags": [
-        "github",
-        "open-source",
-        "28663-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "tags": [
-        "github",
-        "open-source",
-        "27335-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1283346786",
-      "title": "aminekago-web/Paradigm-Survival-Arena",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
-      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
-      "tags": [
-        "github",
-        "open-source",
-        "117-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-902570217",
-      "title": "Bessouat40/RAGLight",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Bessouat40/RAGLight",
-      "date": "2026-10-15",
-      "readTime": "3 min",
-      "summary": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools...",
-      "body": "RAGLight is a modular framework for Retrieval-Augmented Generation (RAG). It makes it easy to plug in different LLMs, embeddings, and vector stores, and now includes seamless MCP integration to connect external tools...",
-      "tags": [
-        "github",
-        "open-source",
-        "672-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "hacker-news-50093555",
-      "title": "Gartner: 80% of Neocloud Providers Will Cease Independent Operations by 2030",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-10-14-gartner-says-over-us-dollars-three-and-a-half-trillion-of-artificial-intelligence-infrastructure-spending-could-be-exposed-to-impairment-by-the-end-of-2030",
-      "date": "2026-10-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Gartner: 80% of Neocloud Providers Will Cease Independent Operations by 2030, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Gartner: 80% of Neocloud Providers Will Cease Independent Operations by 2030, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50093326",
-      "title": "An A.I. Manifesto to End All A.I. Manifestoes",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.nytimes.com/2026/10/14/opinion/artificial-intelligence-ai-manifesto.html",
-      "date": "2026-10-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de An A.I. Manifesto to End All A.I. Manifestoes, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de An A.I. Manifesto to End All A.I. Manifestoes, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50090754",
-      "title": "Simple math can predict when AI is about to go rogue, physicists say",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
-      "date": "2026-10-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Simple math can predict when AI is about to go rogue, physicists say, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Simple math can predict when AI is about to go rogue, physicists say, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20606v1",
-      "title": "Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22372v1",
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20606v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional...",
-      "body": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained through conventional...",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic ma...",
+      "body": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, personalized robotic ma...",
       "tags": [
         "arxiv",
         "paper",
@@ -291,16 +309,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20607v1",
-      "title": "Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22367v1",
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20607v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneo...",
-      "body": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling between heterogeneo...",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algor...",
+      "body": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of efficient quantum algor...",
       "tags": [
         "arxiv",
         "paper",
@@ -309,16 +327,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20597v1",
-      "title": "Co-Evolving Acting and Forecasting for Language Agents",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22364v1",
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20597v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate s...",
-      "body": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision in intermediate s...",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties...",
+      "body": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from physical properties...",
       "tags": [
         "arxiv",
         "paper",
@@ -327,16 +345,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20588v1",
-      "title": "Your Transformer Is Secretly Elastic",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22362v1",
+      "title": "CoDA: Co-Evolution of Data Engines and Action Policies",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20588v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22362v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to...",
-      "body": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L), forcing users to...",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures...",
+      "body": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a policy's failures...",
       "tags": [
         "arxiv",
         "paper",
@@ -345,16 +363,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20587v1",
-      "title": "Price of Anarchy of First-Price Auctions in Agentic Markets",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22358v1",
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20587v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22358v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its resp...",
-      "body": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the reward for its resp...",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspeci...",
+      "body": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspeci...",
       "tags": [
         "arxiv",
         "paper",
@@ -363,16 +381,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20586v1",
-      "title": "Continuum Attention",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22353v1",
+      "title": "Rethinking Routing Exploration in Modern Mixture-of-Experts",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20586v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22353v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an expon...",
-      "body": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query induces an expon...",
+      "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. Th...",
+      "body": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and shared experts. Th...",
       "tags": [
         "arxiv",
         "paper",
@@ -381,16 +399,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20585v1",
-      "title": "Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22350v1",
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20585v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22350v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solut...",
-      "body": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that partitions the solut...",
+      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must...",
+      "body": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engineers (FDEs) must...",
       "tags": [
         "arxiv",
         "paper",
@@ -399,16 +417,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-20584v1",
-      "title": "Player-1: Learning to Play from Synthetic Experience",
+      "slug": "arxiv-http-arxiv-org-abs-2610-22344v1",
+      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.20584v1",
-      "date": "2026-10-14",
+      "url": "http://arxiv.org/abs/2610.22344v1",
+      "date": "2026-10-15",
       "readTime": "3 min",
-      "summary": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and...",
-      "body": "Computer-use agents have demonstrated strong capabilities in interpreting screens and executing keyboard and mouse actions. However, games, with their visually rich worlds and diverse mechanics, remain challenging and...",
+      "summary": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improve...",
+      "body": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improve...",
       "tags": [
         "arxiv",
         "paper",
@@ -569,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 795
+      "latencyMs": 666
     },
     {
       "id": "github",
@@ -587,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 296
+      "latencyMs": 104
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 312
+      "latencyMs": 201
     },
     {
       "id": "gdelt",
@@ -614,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
