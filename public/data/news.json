@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-17T15:35:20.437Z",
+  "generatedAt": "2026-10-17T20:36:47.031Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50132550",
+      "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI lab offers free plumbing and HVAC repairs to train AI robots, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI lab offers free plumbing and HVAC repairs to train AI robots, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50132119",
+      "title": "Websites are closing their doors to AI agents",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Websites are closing their doors to AI agents, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Websites are closing their doors to AI agents, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50128966",
       "title": "Hallucination as Model Defense: On the Nature of Artificial Intelligence Errors",
@@ -57,20 +93,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-653496050",
-      "title": "xorbitsai/inference",
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xorbitsai/inference",
+      "url": "https://github.com/daniel3303/Equibles",
       "date": "2026-10-17",
       "readTime": "3 min",
-      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
       "tags": [
         "github",
         "open-source",
-        "9612-stars"
+        "231-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
+      "tags": [
+        "github",
+        "open-source",
+        "91134-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -88,117 +142,243 @@
       "tags": [
         "github",
         "open-source",
-        "11433-stars"
+        "11434-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-10-17",
       "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "101338-stars"
+        "504-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-95879426",
-      "title": "Tencent/ncnn",
+      "slug": "github-1283352305",
+      "title": "Sujal-142/ai-image-clean-eraser",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Tencent/ncnn",
+      "url": "https://github.com/Sujal-142/ai-image-clean-eraser",
       "date": "2026-10-17",
       "readTime": "3 min",
-      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
-      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "summary": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
+      "body": "AI-Powered Text Remover 2026: Auto-Detect & Manual Precision with HD Quality",
       "tags": [
         "github",
         "open-source",
-        "23969-stars"
+        "120-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1375922101",
-      "title": "wh000wh000/awesome-jev-live",
+      "slug": "github-184704903",
+      "title": "interpretml/interpret",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "url": "https://github.com/interpretml/interpret",
       "date": "2026-10-17",
       "readTime": "3 min",
-      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "summary": "Fit interpretable models. Explain blackbox machine learning.",
+      "body": "Fit interpretable models. Explain blackbox machine learning.",
       "tags": [
         "github",
         "open-source",
-        "343-stars"
+        "6962-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-133444044",
+      "title": "fairlearn/fairlearn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/fairlearn/fairlearn",
       "date": "2026-10-17",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "A Python package to assess and improve fairness of machine learning models.",
+      "body": "A Python package to assess and improve fairness of machine learning models.",
       "tags": [
         "github",
         "open-source",
-        "6569-stars"
+        "2298-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283352003",
-      "title": "onlyoneshakibul/magic-eraser-studio",
+      "slug": "github-1283346786",
+      "title": "aminekago-web/Paradigm-Survival-Arena",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
       "date": "2026-10-17",
       "readTime": "3 min",
-      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
-      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
       "tags": [
         "github",
         "open-source",
-        "115-stars"
+        "117-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283341037",
-      "title": "jaimasih05-commits/swarm-foraging-qlearn",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
+      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
+      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
       "date": "2026-10-17",
       "readTime": "3 min",
-      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
-      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "summary": "wiwo.de",
+      "body": "wiwo.de",
       "tags": [
-        "github",
-        "open-source",
-        "119-stars"
+        "gdelt",
+        "media",
+        "wiwo.de"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "hnonline.sk",
+      "body": "hnonline.sk",
+      "tags": [
+        "gdelt",
+        "media",
+        "hnonline.sk"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
+      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "finanznachrichten.de",
+      "body": "finanznachrichten.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "finanznachrichten.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ria-ru-20260927-gejts-2120563236-html",
+      "title": "Гейтс : договориться о регулировании ИИ будет сложнее , чем об ограничении ЯО",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260927/gejts-2120563236.html",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "ria.ru",
+      "body": "ria.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "ria.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-garant-ru-ia-opinion-author-zueva-anna",
+      "title": "Зуева Анна | Авторы : ГАРАНТ . РУ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.garant.ru/ia/opinion/author/zueva-anna/",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "garant.ru",
+      "body": "garant.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "garant.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-bt-dk-politik-eu-regler-for-kunstig-intelligens-gaelder-men-dansk-klagevej-mangler",
+      "title": "EU - regler for kunstig intelligens gælder men dansk klagevej mangler",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.bt.dk/politik/eu-regler-for-kunstig-intelligens-gaelder-men-dansk-klagevej-mangler",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "bt.dk",
+      "body": "bt.dk",
+      "tags": [
+        "gdelt",
+        "media",
+        "bt.dk"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-http-mignews-com-news-technology-v-es-vstupili-v-silu-novye-pravila-regulirovaniya-iskusstvennogo-intellekta-html",
+      "title": "В ЕС вступили в силу новые правила регулирования искусственного интеллекта | MigNews - Новости Израиля и Мира на русском языке",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "http://mignews.com/news/technology/v-es-vstupili-v-silu-novye-pravila-regulirovaniya-iskusstvennogo-intellekta.html",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "mignews.com",
+      "body": "mignews.com",
+      "tags": [
+        "gdelt",
+        "media",
+        "mignews.com"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-expreso-com-mx-expresion-el-poder-de-las-ideas-el-poder-de-las-ideas-columna-de-marco-a-paz-pellat-262415",
+      "title": "El Poder de las Ideas : Columna de Marco A . Paz Pellat",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.expreso.com.mx/expresion/el-poder-de-las-ideas/el-poder-de-las-ideas-columna-de-marco-a-paz-pellat/262415",
+      "date": "2026-10-17",
+      "readTime": "3 min",
+      "summary": "expreso.com.mx",
+      "body": "expreso.com.mx",
+      "tags": [
+        "gdelt",
+        "media",
+        "expreso.com.mx"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-50119509",
@@ -229,60 +409,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Artificial intelligence is capitalism's final destination, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Artificial intelligence is capitalism's final destination, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50115710",
-      "title": "Mini brain organoids 'reading' Braille marks step towards biohybrid computing",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-      "date": "2026-10-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Mini brain organoids 'reading' Braille marks step towards biohybrid computing, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Mini brain organoids 'reading' Braille marks step towards biohybrid computing, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50113712",
-      "title": "Artificial Intelligence, Economics, Sustainability, and Irreversibility",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.alexahn.com/2026/10/artificial-intelligence-economics.html",
-      "date": "2026-10-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence, Economics, Sustainability, and Irreversibility, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence, Economics, Sustainability, and Irreversibility, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50113186",
-      "title": "Fractal Recursion, Bounded Infinity, and Adapted Systems",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/towards-artificial-intelligence/fractal-recursion-bounded-infinity-and-adapted-systems-b11046c9e1e1",
-      "date": "2026-10-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Fractal Recursion, Bounded Infinity, and Adapted Systems, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Fractal Recursion, Bounded Infinity, and Adapted Systems, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -586,7 +712,7 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 8,
+      "count": 7,
       "latencyMs": 376
     },
     {
@@ -596,7 +722,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 433
+      "latencyMs": 445
     },
     {
       "id": "hugging-face",
@@ -605,7 +731,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 123
+      "latencyMs": 148
     },
     {
       "id": "semantic-scholar",
@@ -623,20 +749,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 197
+      "latencyMs": 209
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 13046
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
