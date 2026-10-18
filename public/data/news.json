@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-18T11:05:34.656Z",
+  "generatedAt": "2026-10-18T15:52:13.298Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "hacker-news-50136684",
-      "title": "Blocking AI-bot can be a double-edged Sword",
+      "slug": "hacker-news-50141657",
+      "title": "Websites are closing their doors to AI agents",
       "category": "Outils",
       "source": "Hacker News",
       "sourceUrl": "https://hn.algolia.com/",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "date": "2026-10-18",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Blocking AI-bot can be a double-edged Sword, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Blocking AI-bot can be a double-edged Sword, reperee dans la communaute Hacker News.",
+      "summary": "Discussion technique autour de Websites are closing their doors to AI agents, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Websites are closing their doors to AI agents, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -21,22 +21,40 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1136941035",
-      "title": "SyntheticAutonomicMind/CLIO",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
+      "slug": "hacker-news-50141494",
+      "title": "World Bank says 'small AI' could transform developing countries",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
       "date": "2026-10-18",
       "readTime": "3 min",
-      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "summary": "Discussion technique autour de World Bank says 'small AI' could transform developing countries, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de World Bank says 'small AI' could transform developing countries, reperee dans la communaute Hacker News.",
       "tags": [
-        "github",
-        "open-source",
-        "232-stars"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50141429",
+      "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "date": "2026-10-18",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "github-707764474",
@@ -57,56 +75,38 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-702105555",
-      "title": "lofcz/LLMTornado",
+      "slug": "github-1079345325",
+      "title": "CaviraOSS/LongMemory",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lofcz/LLMTornado",
+      "url": "https://github.com/CaviraOSS/LongMemory",
       "date": "2026-10-18",
       "readTime": "3 min",
-      "summary": "The .NET library to build AI agents with 30+ built-in connectors.",
-      "body": "The .NET library to build AI agents with 30+ built-in connectors.",
+      "summary": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
+      "body": "Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc.",
       "tags": [
         "github",
         "open-source",
-        "645-stars"
+        "4541-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-850685665",
-      "title": "RichmondAlake/memorizz",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/RichmondAlake/memorizz",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-10-18",
       "readTime": "3 min",
-      "summary": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management.",
-      "body": "MemoRizz: A Python library serving as a memory layer for AI applications. Leverages popular databases and storage solutions to optimize memory usage. Provides utility classes and methods for efficient data management.",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "774-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1120133815",
-      "title": "SyntheticAutonomicMind/SAM",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/SAM",
-      "date": "2026-10-18",
-      "readTime": "3 min",
-      "summary": "Synthetic Autonomic Mind - An AI assistant for everyone.",
-      "body": "Synthetic Autonomic Mind - An AI assistant for everyone.",
-      "tags": [
-        "github",
-        "open-source",
-        "132-stars"
+        "6575-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -129,38 +129,74 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
       "date": "2026-10-18",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
       "tags": [
         "github",
         "open-source",
-        "116-stars"
+        "351-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/daniel3303/Equibles",
       "date": "2026-10-18",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
       "tags": [
         "github",
         "open-source",
-        "486-stars"
+        "234-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "date": "2026-10-18",
+      "readTime": "3 min",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "tags": [
+        "github",
+        "open-source",
+        "28729-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1155531826",
+      "title": "gonzaroman/acornix",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/gonzaroman/acornix",
+      "date": "2026-10-18",
+      "readTime": "3 min",
+      "summary": "Vibe coding in your pocket. A native Android app that creates apps and games from text, voice or a photo with AI, runs them full screen with their own data, and controls your phone just by asking. Works with Claude, O...",
+      "body": "Vibe coding in your pocket. A native Android app that creates apps and games from text, voice or a photo with AI, runs them full screen with their own data, and controls your phone just by asking. Works with Claude, O...",
+      "tags": [
+        "github",
+        "open-source",
+        "149-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -193,60 +229,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de AI lab offers free plumbing and HVAC repairs to train AI robots, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de AI lab offers free plumbing and HVAC repairs to train AI robots, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50128966",
-      "title": "Hallucination as Model Defense: On the Nature of Artificial Intelligence Errors",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/@smoking2man/hallucination-as-model-defense-on-the-nature-of-artificial-intelligence-errors-1186260be3be",
-      "date": "2026-10-17",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Hallucination as Model Defense: On the Nature of Artificial Intelligence Errors, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Hallucination as Model Defense: On the Nature of Artificial Intelligence Errors, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50128314",
-      "title": "Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/@smoking2man/sterile-knowledge-artificial-intelligence-models-and-the-genealogy-of-understanding-51d8e1355a04",
-      "date": "2026-10-17",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Sterile Knowledge: Artificial Intelligence, and the Genealogy of Understanding, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50127957",
-      "title": "Tort Law at the Frontier of Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6979919",
-      "date": "2026-10-17",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Tort Law at the Frontier of Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Tort Law at the Frontier of Artificial Intelligence, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -551,7 +533,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 551
+      "latencyMs": 338
     },
     {
       "id": "github",
@@ -560,7 +542,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 386
+      "latencyMs": 453
     },
     {
       "id": "hugging-face",
@@ -569,7 +551,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 169
+      "latencyMs": 136
     },
     {
       "id": "semantic-scholar",
@@ -587,7 +569,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 108
+      "latencyMs": 496
     },
     {
       "id": "gdelt",
