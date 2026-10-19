@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-19T04:40:54.662Z",
+  "generatedAt": "2026-10-19T13:16:11.517Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50151262",
+      "title": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/@MichaelMcBride/did-karl-marx-predict-artificial-intelligence-170-years-ago-4fd7c23505ef",
+      "date": "2026-10-19",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Did Karl Marx Predict Artificial Intelligence 170 Years Ago?, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Did Karl Marx Predict Artificial Intelligence 170 Years Ago?, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50149650",
+      "title": "Does Artificial Intelligence Democratize Science? Evidence from AlphaFold",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://papers.ssrn.com/abstract=5130373",
+      "date": "2026-10-19",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Does Artificial Intelligence Democratize Science? Evidence from AlphaFold, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Does Artificial Intelligence Democratize Science? Evidence from AlphaFold, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50148076",
       "title": "Mathematics, Science and Artificial intelligence by Prof. Weinan E [video]",
@@ -21,110 +57,110 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-104741169",
-      "title": "microsoft/pai",
+      "slug": "github-95879426",
+      "title": "Tencent/ncnn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/microsoft/pai",
+      "url": "https://github.com/Tencent/ncnn",
       "date": "2026-10-19",
       "readTime": "3 min",
-      "summary": "Resource scheduling and cluster management for AI",
-      "body": "Resource scheduling and cluster management for AI",
+      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
       "tags": [
         "github",
         "open-source",
-        "2700-stars"
+        "23975-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-97563295",
-      "title": "hades217/awesome-ai",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/hades217/awesome-ai",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-10-19",
       "readTime": "3 min",
-      "summary": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)",
-      "body": "A curated list of artificial intelligence resources (Courses, Tools, App, Open Source Project)",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "554-stars"
+        "6131-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-608227238",
-      "title": "AgileRL/AgileRL",
+      "slug": "github-1008304614",
+      "title": "semantica-agi/semantica",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AgileRL/AgileRL",
+      "url": "https://github.com/semantica-agi/semantica",
       "date": "2026-10-19",
       "readTime": "3 min",
-      "summary": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
-      "body": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
+      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "tags": [
         "github",
         "open-source",
-        "959-stars"
+        "14135-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-620363420",
-      "title": "TimefoldAI/timefold-solver",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-10-19",
       "readTime": "3 min",
-      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "1834-stars"
+        "2316-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-9517720",
+      "title": "robotology/yarp",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/robotology/yarp",
       "date": "2026-10-19",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "YARP - Yet Another Robot Platform",
+      "body": "YARP - Yet Another Robot Platform",
       "tags": [
         "github",
         "open-source",
-        "187645-stars"
+        "604-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-887435804",
-      "title": "Drix10/ai-resources",
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Drix10/ai-resources",
+      "url": "https://github.com/kornia/kornia",
       "date": "2026-10-19",
       "readTime": "3 min",
-      "summary": "Daily-updated, AI-curated knowledge base: LLMs, AI agents, machine learning, developer tools, cybersecurity, robotics, crypto and more across 40+ categories. Auto-published to blogs.drix10.com.",
-      "body": "Daily-updated, AI-curated knowledge base: LLMs, AI agents, machine learning, developer tools, cybersecurity, robotics, crypto and more across 40+ categories. Auto-published to blogs.drix10.com.",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
       "tags": [
         "github",
         "open-source",
-        "120-stars"
+        "11435-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -142,45 +178,27 @@
       "tags": [
         "github",
         "open-source",
-        "356-stars"
+        "362-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-10-19",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "91227-stars"
+        "3102-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "semantic-scholar-a9a654ea503386cbfd8bb119fc650cc3d08dc206",
-      "title": "Revised Surgical CAse REport (SCARE) guideline: An update for the age of Artificial Intelligence",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/a9a654ea503386cbfd8bb119fc650cc3d08dc206",
-      "date": "2026-10-19",
-      "readTime": "3 min",
-      "summary": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
-      "body": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     },
     {
       "slug": "hacker-news-50141657",
@@ -247,24 +265,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de AI coding interfaces make approval easy and understanding hard, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de AI coding interfaces make approval easy and understanding hard, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50132550",
-      "title": "AI lab offers free plumbing and HVAC repairs to train AI robots",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-      "date": "2026-10-17",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de AI lab offers free plumbing and HVAC repairs to train AI robots, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de AI lab offers free plumbing and HVAC repairs to train AI robots, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -466,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "103-downloads"
+        "115-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -559,132 +559,6 @@
         "0-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "semantic-scholar-8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
-      "date": "2023-03-22",
-      "readTime": "3 min",
-      "summary": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "body": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
-      "date": "2019-10-28",
-      "readTime": "3 min",
-      "summary": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "body": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
-      "date": "2019-10-22",
-      "readTime": "3 min",
-      "summary": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "body": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-6a132499ca1dc0d23cfe7d5db841b819df63b51b",
-      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/6a132499ca1dc0d23cfe7d5db841b819df63b51b",
-      "date": "2019-08-27",
-      "readTime": "3 min",
-      "summary": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reach...",
-      "body": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reach...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "title": "High-performance medicine: the convergence of human and artificial intelligence",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/f134abeaf9bfd41f29b97aec675ec31895bf541d",
-      "date": "2019-01-01",
-      "readTime": "3 min",
-      "summary": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "body": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-21dff47a4142445f83016da0819ffe6dd2947f66",
-      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/21dff47a4142445f83016da0819ffe6dd2947f66",
-      "date": "2018-09-17",
-      "readTime": "3 min",
-      "summary": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "body": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
-    },
-    {
-      "slug": "semantic-scholar-e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
-      "category": "Recherche",
-      "source": "Semantic Scholar",
-      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "url": "https://www.semanticscholar.org/paper/e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
-      "date": "2017-06-22",
-      "readTime": "3 min",
-      "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "body": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
-      "tags": [
-        "semantic-scholar",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     }
   ],
   "sources": [
@@ -694,8 +568,8 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 7,
-      "latencyMs": 302
+      "count": 8,
+      "latencyMs": 327
     },
     {
       "id": "github",
@@ -704,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 326
+      "latencyMs": 486
     },
     {
       "id": "hugging-face",
@@ -713,16 +587,16 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 91
+      "latencyMs": 162
     },
     {
       "id": "semantic-scholar",
       "name": "Semantic Scholar",
       "category": "Recherche",
       "docsUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 924
+      "ok": false,
+      "count": 0,
+      "error": "Semantic Scholar returned HTTP 429"
     },
     {
       "id": "arxiv",
@@ -731,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 144
+      "latencyMs": 204
     },
     {
       "id": "gdelt",
@@ -744,6 +618,7 @@
     }
   ],
   "errors": [
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: fetch failed"
   ]
 }
