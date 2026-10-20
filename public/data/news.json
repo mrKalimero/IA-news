@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-20T11:37:05.866Z",
+  "generatedAt": "2026-10-20T17:05:10.060Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50167955",
+      "title": "Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://github.com/dib-artificial/pluto-flash",
+      "date": "2026-10-20",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Show HN: TinyML AI – A New Architecture to Control Embedded Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50166827",
+      "title": "Show HN: Standard Topic – An AI and RSS-powered news and resource platform",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.standardtopic.com/",
+      "date": "2026-10-20",
+      "readTime": "3 min",
+      "summary": "Hi HN, I&#x27;m John, a knowledge management and AI enablement professional. I created Standard Topic, an AI and RSS-powered news and resource platform, with assistance from Claude Code. Standard Topic uses AI integra...",
+      "body": "Hi HN, I&#x27;m John, a knowledge management and AI enablement professional. I created Standard Topic, an AI and RSS-powered news and resource platform, with assistance from Claude Code. Standard Topic uses AI integra...",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50162978",
       "title": "Training Your Own Models Is a Stupid Idea",
@@ -34,133 +70,133 @@
       "tags": [
         "github",
         "open-source",
-        "3102-stars"
+        "3101-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1046809510",
-      "title": "vinhnx/VTCode",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vinhnx/VTCode",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-10-20",
       "readTime": "3 min",
-      "summary": "VT Code is an open-source Rust terminal coding agent.",
-      "body": "VT Code is an open-source Rust terminal coding agent.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "883-stars"
+        "2319-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-619143361",
-      "title": "elevenlabs/elevenlabs-python",
+      "slug": "github-511003180",
+      "title": "basetenlabs/truss",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/elevenlabs/elevenlabs-python",
+      "url": "https://github.com/basetenlabs/truss",
       "date": "2026-10-20",
       "readTime": "3 min",
-      "summary": "The official Python SDK for the ElevenLabs API.",
-      "body": "The official Python SDK for the ElevenLabs API.",
+      "summary": "The simplest way to serve AI/ML models in production",
+      "body": "The simplest way to serve AI/ML models in production",
       "tags": [
         "github",
         "open-source",
-        "3146-stars"
+        "1221-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-1301372808",
+      "title": "CyberSunil/LLMVault",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/CyberSunil/LLMVault",
       "date": "2026-10-20",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
+      "body": "An intentionally vulnerable OWASP LLM Top 10 training platform for AI Security, Prompt Injection, RAG Security, Agent Security, and GenAI penetration testing.",
       "tags": [
         "github",
         "open-source",
-        "11438-stars"
+        "342-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1136941035",
-      "title": "SyntheticAutonomicMind/CLIO",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-10-20",
       "readTime": "3 min",
-      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "232-stars"
+        "187675-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1032808806",
-      "title": "usestrix/strix",
+      "slug": "github-298922635",
+      "title": "lucidrains/ppo",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/usestrix/strix",
+      "url": "https://github.com/lucidrains/ppo",
       "date": "2026-10-20",
       "readTime": "3 min",
-      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "summary": "An implementation of PPO in Pytorch",
+      "body": "An implementation of PPO in Pytorch",
       "tags": [
         "github",
         "open-source",
-        "70258-stars"
+        "130-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-704324955",
+      "title": "jupyter-naas/abi",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/jupyter-naas/abi",
       "date": "2026-10-20",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "Open AI Operating System",
+      "body": "Open AI Operating System",
       "tags": [
         "github",
         "open-source",
-        "30366-stars"
+        "173-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1283302820",
-      "title": "abnormal-codex/Ai-Pixel-Design-Archive",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/abnormal-codex/Ai-Pixel-Design-Archive",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-10-20",
       "readTime": "3 min",
-      "summary": "Best AI Image Generator for Professional Designs 2026",
-      "body": "Best AI Image Generator for Professional Designs 2026",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "116-stars"
+        "91392-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -247,42 +283,6 @@
       "readTime": "3 min",
       "summary": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1013643&#x2F;...",
       "body": "https:&#x2F;&#x2F;www.theverge.com&#x2F;ai-artificial-intelligence&#x2F;1013643&#x2F;...",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50151262",
-      "title": "Did Karl Marx Predict Artificial Intelligence 170 Years Ago?",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/@MichaelMcBride/did-karl-marx-predict-artificial-intelligence-170-years-ago-4fd7c23505ef",
-      "date": "2026-10-19",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Did Karl Marx Predict Artificial Intelligence 170 Years Ago?, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Did Karl Marx Predict Artificial Intelligence 170 Years Ago?, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50149650",
-      "title": "Does Artificial Intelligence Democratize Science? Evidence from AlphaFold",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://papers.ssrn.com/abstract=5130373",
-      "date": "2026-10-19",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Does Artificial Intelligence Democratize Science? Evidence from AlphaFold, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Does Artificial Intelligence Democratize Science? Evidence from AlphaFold, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 344
+      "latencyMs": 291
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 520
+      "latencyMs": 391
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 130
+      "latencyMs": 109
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 124
+      "latencyMs": 156
     },
     {
       "id": "gdelt",
