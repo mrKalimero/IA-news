@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-10-22T17:10:43.915Z",
+  "generatedAt": "2026-10-22T21:35:54.602Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50199748",
+      "title": "Why AI Agents Need Shared Experience, Not Just Better Models",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://project507.substack.com/p/the-five-senses-of-artificial-intelligence",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Why AI Agents Need Shared Experience, Not Just Better Models, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Why AI Agents Need Shared Experience, Not Just Better Models, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50197539",
       "title": "Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI",
@@ -22,15 +40,15 @@
     },
     {
       "slug": "hacker-news-50197450",
-      "title": "Mini brain organoids 'reading' Braille key step towards biohybrid computing",
+      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
       "category": "Outils",
       "source": "Hacker News",
       "sourceUrl": "https://hn.algolia.com/",
       "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
       "date": "2026-10-22",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Mini brain organoids 'reading' Braille key step towards biohybrid computing, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Mini brain organoids 'reading' Braille key step towards biohybrid computing, reperee dans la communaute Hacker News.",
+      "summary": "Discussion technique autour de Mini brain organoids ‘reading’ Braille key step towards biohybrid computing, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Mini brain organoids ‘reading’ Braille key step towards biohybrid computing, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -75,22 +93,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-50189088",
-      "title": "The Five Senses of Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://project507.substack.com/p/the-five-senses-of-artificial-intelligence",
-      "date": "2026-10-21",
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/marimo-team/marimo",
+      "date": "2026-10-22",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de The Five Senses of Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Five Senses of Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "github",
+        "open-source",
+        "23297-stars"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/tphakala/birdnet-go",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "tags": [
+        "github",
+        "open-source",
+        "2330-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "tags": [
+        "github",
+        "open-source",
+        "6449-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-195266931",
+      "title": "csinva/imodels",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/csinva/imodels",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).",
+      "body": "Interpretable ML package 🔍 for concise, transparent, and accurate predictive modeling (sklearn-compatible).",
+      "tags": [
+        "github",
+        "open-source",
+        "1629-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/invoke-ai/InvokeAI",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "tags": [
+        "github",
+        "open-source",
+        "28817-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/daniel3303/Equibles",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "tags": [
+        "github",
+        "open-source",
+        "237-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "tags": [
+        "github",
+        "open-source",
+        "27460-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-10-22",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "8945-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-50177342",
@@ -121,24 +265,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Empires of AI: The Rise and Fall of a New Global Order, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Empires of AI: The Rise and Fall of a New Global Order, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50176872",
-      "title": "Google DeepMind says four AI agents beat Minecraft in 27 hours",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-deepmind-claims-four-gemini-4-agents-beat-minecraft-in-27-hours-by-writing-2-783-programs-of-their-own-the-ai-team-died-605-times-on-easy-difficulty-and-ran-up-an-estimated-usd520-in-tokens",
-      "date": "2026-10-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Google DeepMind says four AI agents beat Minecraft in 27 hours, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Google DeepMind says four AI agents beat Minecraft in 27 hours, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -443,16 +569,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 352
+      "latencyMs": 346
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": false,
-      "count": 0,
-      "error": "GitHub returned HTTP 403"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 509
     },
     {
       "id": "hugging-face",
@@ -461,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 98
+      "latencyMs": 113
     },
     {
       "id": "semantic-scholar",
@@ -479,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 188
+      "latencyMs": 170
     },
     {
       "id": "gdelt",
@@ -488,12 +614,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
