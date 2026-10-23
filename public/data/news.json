@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-10-23T11:39:24.709Z",
+  "generatedAt": "2026-10-23T17:07:27.732Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50210583",
+      "title": "Retro gaming is being overrun with AI",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "date": "2026-10-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Retro gaming is being overrun with AI, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Retro gaming is being overrun with AI, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50209500",
+      "title": "Show HN: Kavela – AI Automations that do not fail silently",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://kavela.ai",
+      "date": "2026-10-23",
+      "readTime": "3 min",
+      "summary": "Kavela’s closed beta is out. AI agent automations that do not fail silently. There are now 216 unique users in our closed-beta tests! It is my belief that Kavela will be a winner in the vertical of scaling the consump...",
+      "body": "Kavela’s closed beta is out. AI agent automations that do not fail silently. There are now 216 unique users in our closed-beta tests! It is my belief that Kavela will be a winner in the vertical of scaling the consump...",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50209163",
+      "title": "Wall Street Is Getting Nervous About AI",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://jacobin.com/2026/10/artificial-intelligence-investors-finance-bubble",
+      "date": "2026-10-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Wall Street Is Getting Nervous About AI, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Wall Street Is Getting Nervous About AI, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50203240",
       "title": "Canva's first in-house AI image model plans designs before generating them",
@@ -21,110 +75,110 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1332399543",
-      "title": "JiangNanGenius/floe-agent",
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/JiangNanGenius/floe-agent",
+      "url": "https://github.com/xorbitsai/inference",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-fi...",
-      "body": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-fi...",
+      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
       "tags": [
         "github",
         "open-source",
-        "303-stars"
+        "9625-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-814989791",
-      "title": "GeminiLight/awesome-ai-llm4education",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/GeminiLight/awesome-ai-llm4education",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "Awesome artificial intelligence (AI) and large language model (LLM) for education papers.",
-      "body": "Awesome artificial intelligence (AI) and large language model (LLM) for education papers.",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "220-stars"
+        "27488-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/thedotmack/claude-mem",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
       "tags": [
         "github",
         "open-source",
-        "487-stars"
+        "102495-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-21467110",
-      "title": "explosion/spaCy",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/explosion/spaCy",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
-      "body": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "33988-stars"
+        "187717-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-133444044",
+      "title": "fairlearn/fairlearn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/fairlearn/fairlearn",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "A Python package to assess and improve fairness of machine learning models.",
+      "body": "A Python package to assess and improve fairness of machine learning models.",
       "tags": [
         "github",
         "open-source",
-        "30648-stars"
+        "2301-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "github-608227238",
+      "title": "AgileRL/AgileRL",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/AgileRL/AgileRL",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
+      "body": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
       "tags": [
         "github",
         "open-source",
-        "2342-stars"
+        "959-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -147,20 +201,20 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-17072697",
-      "title": "genielabs/HomeGenie",
+      "slug": "github-53976910",
+      "title": "apache/texera",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/genielabs/HomeGenie",
+      "url": "https://github.com/apache/texera",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.",
-      "body": "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
       "tags": [
         "github",
         "open-source",
-        "459-stars"
+        "325-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,24 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Data centers could erase decades of air quality gains, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Data centers could erase decades of air quality gains, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50189499",
-      "title": "Unsupervised AI agent reportedly deletes TV show's edit before release",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-deletes-tv-shows-entire-edit-weeks-before-release-backup-failure-means-production-team-needs-to-re-edit",
-      "date": "2026-10-22",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Unsupervised AI agent reportedly deletes TV show's edit before release, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Unsupervised AI agent reportedly deletes TV show's edit before release, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -397,24 +433,6 @@
         "recherche"
       ],
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "hacker-news-50177342",
-      "title": "Artificial Domain Intelligence (ADI) – Embedded Intelligence for Appliances",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://github.com/Tem-Degu/adi",
-      "date": "2026-10-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Domain Intelligence (ADI) – Embedded Intelligence for Appliances, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Domain Intelligence (ADI) – Embedded Intelligence for Appliances, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
@@ -569,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 422
+      "latencyMs": 278
     },
     {
       "id": "github",
@@ -578,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 352
+      "latencyMs": 446
     },
     {
       "id": "hugging-face",
@@ -587,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 84
+      "latencyMs": 125
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 276
+      "latencyMs": 172
     },
     {
       "id": "gdelt",
