@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:07:27.732Z",
+  "generatedAt": "2026-10-23T21:24:30.056Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
@@ -75,20 +75,74 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-653496050",
-      "title": "xorbitsai/inference",
+      "slug": "github-298652021",
+      "title": "asigalov61/Tegridy-MIDI-Dataset",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xorbitsai/inference",
+      "url": "https://github.com/asigalov61/Tegridy-MIDI-Dataset",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "summary": "Tegridy MIDI Dataset for precise and effective Music AI models creation.",
+      "body": "Tegridy MIDI Dataset for precise and effective Music AI models creation.",
       "tags": [
         "github",
         "open-source",
-        "9625-stars"
+        "299-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1332399543",
+      "title": "JiangNanGenius/floe-agent",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/JiangNanGenius/floe-agent",
+      "date": "2026-10-23",
+      "readTime": "3 min",
+      "summary": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-fi...",
+      "body": "Open-source on-device AI agent workspace designed for iOS/iPadOS and Android: Linux environments, code execution, local web previews and supported local models. Notes, Office, creative tools and BYOK cloud AI. iPad-fi...",
+      "tags": [
+        "github",
+        "open-source",
+        "305-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kornia/kornia",
+      "date": "2026-10-23",
+      "readTime": "3 min",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "tags": [
+        "github",
+        "open-source",
+        "11443-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-99561213",
+      "title": "sonos/tract",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/sonos/tract",
+      "date": "2026-10-23",
+      "readTime": "3 min",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "tags": [
+        "github",
+        "open-source",
+        "3096-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -106,25 +160,7 @@
       "tags": [
         "github",
         "open-source",
-        "27488-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "date": "2026-10-23",
-      "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "tags": [
-        "github",
-        "open-source",
-        "102495-stars"
+        "27490-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -147,74 +183,38 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-133444044",
-      "title": "fairlearn/fairlearn",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/fairlearn/fairlearn",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "A Python package to assess and improve fairness of machine learning models.",
-      "body": "A Python package to assess and improve fairness of machine learning models.",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "2301-stars"
+        "504-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-608227238",
-      "title": "AgileRL/AgileRL",
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AgileRL/AgileRL",
+      "url": "https://github.com/thedotmack/claude-mem",
       "date": "2026-10-23",
       "readTime": "3 min",
-      "summary": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
-      "body": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
       "tags": [
         "github",
         "open-source",
-        "959-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
-      "date": "2026-10-23",
-      "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "tags": [
-        "github",
-        "open-source",
-        "3104-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-53976910",
-      "title": "apache/texera",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/apache/texera",
-      "date": "2026-10-23",
-      "readTime": "3 min",
-      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "tags": [
-        "github",
-        "open-source",
-        "325-stars"
+        "102537-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 278
+      "latencyMs": 655
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 446
+      "latencyMs": 456
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 125
+      "latencyMs": 161
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 172
+      "latencyMs": 429
     },
     {
       "id": "gdelt",
