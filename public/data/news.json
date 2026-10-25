@@ -1,58 +1,94 @@
 {
-  "generatedAt": "2026-10-25T11:30:07.475Z",
+  "generatedAt": "2026-10-25T16:19:38.398Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "hacker-news-50231744",
+      "title": "r/open source just banned AI, non-English speakers and more",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "date": "2026-10-25",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de r/open source just banned AI, non-English speakers and more, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de r/open source just banned AI, non-English speakers and more, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50231492",
+      "title": "Empires of AI: The Rise and Fall of a New Global Order",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+      "date": "2026-10-25",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Empires of AI: The Rise and Fall of a New Global Order, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Empires of AI: The Rise and Fall of a New Global Order, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50231369",
+      "title": "To make AI morally good, tech companies are turning to religion",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
+      "date": "2026-10-25",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de To make AI morally good, tech companies are turning to religion, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de To make AI morally good, tech companies are turning to religion, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1137988915",
+      "title": "JuiceBoxxGames/utsuwa",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/JuiceBoxxGames/utsuwa",
       "date": "2026-10-25",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "Utsuwa is an open-source alternative to Grok Companion. This is a platform where you can have a virtual AI waifu that learns and grows with you, bundled with optional mechanics inspired by Japanese dating sim games.",
+      "body": "Utsuwa is an open-source alternative to Grok Companion. This is a platform where you can have a virtual AI waifu that learns and grows with you, bundled with optional mechanics inspired by Japanese dating sim games.",
       "tags": [
         "github",
         "open-source",
-        "91779-stars"
+        "128-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-10-25",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "tags": [
         "github",
         "open-source",
-        "187739-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
-      "date": "2026-10-25",
-      "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "tags": [
-        "github",
-        "open-source",
-        "3104-stars"
+        "6469-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -88,7 +124,61 @@
       "tags": [
         "github",
         "open-source",
-        "14225-stars"
+        "14234-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-10-25",
+      "readTime": "3 min",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3104-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1066256303",
+      "title": "frontman-ai/frontman",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/frontman-ai/frontman",
+      "date": "2026-10-25",
+      "readTime": "3 min",
+      "summary": "The AI agent that lives in your framework/browser",
+      "body": "The AI agent that lives in your framework/browser",
+      "tags": [
+        "github",
+        "open-source",
+        "719-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-95879426",
+      "title": "Tencent/ncnn",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Tencent/ncnn",
+      "date": "2026-10-25",
+      "readTime": "3 min",
+      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "tags": [
+        "github",
+        "open-source",
+        "23997-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -107,42 +197,6 @@
         "github",
         "open-source",
         "116-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
-      "date": "2026-10-25",
-      "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "8966-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
-      "date": "2026-10-25",
-      "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "tags": [
-        "github",
-        "open-source",
-        "489-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Wall Street Is Getting Nervous About AI, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Wall Street Is Getting Nervous About AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50203240",
-      "title": "Canva's first in-house AI image model plans designs before generating them",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "date": "2026-10-23",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Canva's first in-house AI image model plans designs before generating them, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Canva's first in-house AI image model plans designs before generating them, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50199748",
-      "title": "Why AI Agents Need Shared Experience, Not Just Better Models",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://project507.substack.com/p/the-five-senses-of-artificial-intelligence",
-      "date": "2026-10-22",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Why AI Agents Need Shared Experience, Not Just Better Models, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Why AI Agents Need Shared Experience, Not Just Better Models, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50197539",
-      "title": "Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://lucasaguiar.xyz/posts/patentes-inteligencia-artificial-brasil-guia-2026/",
-      "date": "2026-10-22",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence Patents in Brazil: Complete Guide on Protection of AI, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 350
+      "latencyMs": 357
     },
     {
       "id": "github",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 55
+      "latencyMs": 90
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 71
+      "latencyMs": 229
     },
     {
       "id": "gdelt",
