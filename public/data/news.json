@@ -1,76 +1,130 @@
 {
-  "generatedAt": "2026-10-27T12:12:00.743Z",
+  "generatedAt": "2026-10-27T18:00:32.202Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "hacker-news-50261589",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "date": "2026-10-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Amazon Is Gutting Its AI Division After Sustained Failure, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Amazon Is Gutting Its AI Division After Sustained Failure, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "2369-stars"
+        "27542-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-224908244",
-      "title": "WasmEdge/WasmEdge",
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WasmEdge/WasmEdge",
+      "url": "https://github.com/marimo-team/marimo",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
-      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
       "tags": [
         "github",
         "open-source",
-        "10847-stars"
+        "23336-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-276901861",
-      "title": "sktime/pytorch-forecasting",
+      "slug": "github-308444913",
+      "title": "kuberay-project/kuberay",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sktime/pytorch-forecasting",
+      "url": "https://github.com/kuberay-project/kuberay",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "Time series forecasting with PyTorch",
-      "body": "Time series forecasting with PyTorch",
+      "summary": "A toolkit to run Ray applications on Kubernetes",
+      "body": "A toolkit to run Ray applications on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "5004-stars"
+        "2749-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-635000226",
-      "title": "Psyyke/A.C.A.S",
+      "slug": "github-83909958",
+      "title": "slrbl/Intrusion-and-anomaly-detection-with-machine-learning",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Psyyke/A.C.A.S",
+      "url": "https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "Advanced Chess Assistance System for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and browsers supported.",
-      "body": "Advanced Chess Assistance System for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and browsers supported.",
+      "summary": "Machine learning algorithms applied on log analysis to detect intrusions and suspicious activities.",
+      "body": "Machine learning algorithms applied on log analysis to detect intrusions and suspicious activities.",
       "tags": [
         "github",
         "open-source",
-        "181-stars"
+        "175-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-639195966",
+      "title": "kyegomez/swarms",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kyegomez/swarms",
+      "date": "2026-10-27",
+      "readTime": "3 min",
+      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "tags": [
+        "github",
+        "open-source",
+        "7306-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/daniel3303/Equibles",
+      "date": "2026-10-27",
+      "readTime": "3 min",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "tags": [
+        "github",
+        "open-source",
+        "240-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -88,61 +142,25 @@
       "tags": [
         "github",
         "open-source",
-        "91987-stars"
+        "92004-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "491-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "tags": [
-        "github",
-        "open-source",
-        "11450-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "tags": [
-        "github",
-        "open-source",
-        "14267-stars"
+        "6602-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -381,24 +399,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-50219381",
-      "title": "Mace AI founders warn of AI double agents amid banks detecting unauthorized AI",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.thestreet.com/crypto/artificial-intelligence/mace-ai-founders-warn-of-ai-double-agents-amid-banks-detecting-unauthorized-ai-agents-",
-      "date": "2026-10-24",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Mace AI founders warn of AI double agents amid banks detecting unauthorized AI, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Mace AI founders warn of AI double agents amid banks detecting unauthorized AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
       "title": "Artificial-Intelligence-Files/artificial-intelligence-files",
       "category": "Modeles",
@@ -551,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 332
+      "latencyMs": 1203
     },
     {
       "id": "github",
@@ -560,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 432
+      "latencyMs": 446
     },
     {
       "id": "hugging-face",
@@ -569,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 111
+      "latencyMs": 123
     },
     {
       "id": "semantic-scholar",
@@ -587,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 167
+      "latencyMs": 114
     },
     {
       "id": "gdelt",
@@ -596,11 +596,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
