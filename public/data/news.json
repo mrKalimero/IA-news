@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-27T18:00:32.202Z",
+  "generatedAt": "2026-10-27T22:14:11.200Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50264228",
+      "title": "US President says he will ban the term 'artificial intelligence'",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
+      "date": "2026-10-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de US President says he will ban the term 'artificial intelligence', reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de US President says he will ban the term 'artificial intelligence', reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50263699",
+      "title": "Trump says he will ban everyone from using the phrase 'artificial intelligence'",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html",
+      "date": "2026-10-27",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Trump says he will ban everyone from using the phrase 'artificial intelligence', reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Trump says he will ban everyone from using the phrase 'artificial intelligence', reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50261589",
       "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
@@ -21,146 +57,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-53976910",
+      "title": "apache/texera",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/apache/texera",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
       "tags": [
         "github",
         "open-source",
-        "27542-stars"
+        "326-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-678526156",
-      "title": "marimo-team/marimo",
+      "slug": "github-635000226",
+      "title": "Psyyke/A.C.A.S",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/marimo-team/marimo",
+      "url": "https://github.com/Psyyke/A.C.A.S",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
-      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "summary": "Advanced Chess Assistance System for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and browsers supported.",
+      "body": "Advanced Chess Assistance System for Chess.com, Lichess.org, Pychess.org and more. Hassle-free 1-click install, no downloading. All devices and browsers supported.",
       "tags": [
         "github",
         "open-source",
-        "23336-stars"
+        "181-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-308444913",
-      "title": "kuberay-project/kuberay",
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kuberay-project/kuberay",
+      "url": "https://github.com/ls1intum/Artemis",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "A toolkit to run Ray applications on Kubernetes",
-      "body": "A toolkit to run Ray applications on Kubernetes",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
       "tags": [
         "github",
         "open-source",
-        "2749-stars"
+        "822-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-83909958",
-      "title": "slrbl/Intrusion-and-anomaly-detection-with-machine-learning",
+      "slug": "github-178075572",
+      "title": "kserve/kserve",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/slrbl/Intrusion-and-anomaly-detection-with-machine-learning",
+      "url": "https://github.com/kserve/kserve",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "Machine learning algorithms applied on log analysis to detect intrusions and suspicious activities.",
-      "body": "Machine learning algorithms applied on log analysis to detect intrusions and suspicious activities.",
+      "summary": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "body": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
       "tags": [
         "github",
         "open-source",
-        "175-stars"
+        "6163-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-639195966",
-      "title": "kyegomez/swarms",
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kyegomez/swarms",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
       "tags": [
         "github",
         "open-source",
-        "7306-stars"
+        "6491-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1191114524",
-      "title": "daniel3303/Equibles",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/daniel3303/Equibles",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
-      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "240-stars"
+        "187789-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
+      "slug": "github-77383688",
+      "title": "polyaxon/polyaxon",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
+      "url": "https://github.com/polyaxon/polyaxon",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
+      "summary": "AI Infra / AI Orchestration / AI Control Plane",
+      "body": "AI Infra / AI Orchestration / AI Control Plane",
       "tags": [
         "github",
         "open-source",
-        "92004-stars"
+        "3746-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-10-27",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "6602-stars"
+        "28889-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -363,42 +399,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-50231369",
-      "title": "To make AI morally good, tech companies are turning to religion",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://apnews.com/article/anthropic-moral-artificial-intelligence-religion-2bb91e3334fd6d732edf22288cabf4ec",
-      "date": "2026-10-25",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de To make AI morally good, tech companies are turning to religion, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de To make AI morally good, tech companies are turning to religion, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50222339",
-      "title": "Claude did not invent scorpion antivenom",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "date": "2026-10-24",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Claude did not invent scorpion antivenom, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Claude did not invent scorpion antivenom, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
       "title": "Artificial-Intelligence-Files/artificial-intelligence-files",
       "category": "Modeles",
@@ -551,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 1203
+      "latencyMs": 585
     },
     {
       "id": "github",
@@ -560,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 446
+      "latencyMs": 458
     },
     {
       "id": "hugging-face",
@@ -569,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 123
+      "latencyMs": 121
     },
     {
       "id": "semantic-scholar",
@@ -587,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 114
+      "latencyMs": 172
     },
     {
       "id": "gdelt",
@@ -596,11 +596,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
