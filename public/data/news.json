@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-10-28T12:54:59.988Z",
+  "generatedAt": "2026-10-28T22:35:19.457Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50274681",
+      "title": "Artificial Analysis Intelligence Index v5",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://artificialanalysis.ai/#intelligence-efficiency-tabs",
+      "date": "2026-10-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50273843",
+      "title": "Comer Investigates Delaware Initiative to Create AI Companies",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://oversight.house.gov/release/comer-investigates-potential-for-harm-lack-of-transparency-in-delaware-initiative-to-create-new-artificial-intelligence-companies/",
+      "date": "2026-10-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Comer Investigates Delaware Initiative to Create AI Companies, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Comer Investigates Delaware Initiative to Create AI Companies, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50272819",
+      "title": "Trump Vows to Ban Term 'Artificial Intelligence'",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.forbes.com/sites/fionariley/2026/10/27/trump-vows-to-ban-term-artificial-intelligence/",
+      "date": "2026-10-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Trump Vows to Ban Term 'Artificial Intelligence', reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Trump Vows to Ban Term 'Artificial Intelligence', reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50272044",
       "title": "Meta launched an 'AI pet journal' app",
@@ -75,146 +129,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-603569762",
-      "title": "canyongbs/advisingapp",
+      "slug": "github-964395174",
+      "title": "dyad-sh/dyad",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/canyongbs/advisingapp",
+      "url": "https://github.com/dyad-sh/dyad",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and dri...",
-      "body": "Advising App® by Canyon GBS® is an AI-powered conversational assistant for staff, student success platform, and recruitment CRM designed specifically for colleges and universities to enhance student engagement and dri...",
+      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
       "tags": [
         "github",
         "open-source",
-        "340-stars"
+        "22103-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "187802-stars"
+        "28903-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-241095326",
-      "title": "flwrlabs/flower",
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/flwrlabs/flower",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "Flower: A Friendly Federated AI Framework",
-      "body": "Flower: A Friendly Federated AI Framework",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
       "tags": [
         "github",
         "open-source",
-        "7188-stars"
+        "114-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
+      "slug": "github-1283341037",
+      "title": "jaimasih05-commits/swarm-foraging-qlearn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "url": "https://github.com/jaimasih05-commits/swarm-foraging-qlearn",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "summary": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
+      "body": "Q-Learning Swarm Foraging 2026: Multi-Agent RL in Dynamic Grid Environments",
       "tags": [
         "github",
         "open-source",
-        "822-stars"
+        "118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-145693916",
+      "title": "kornia/kornia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/kornia/kornia",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
       "tags": [
         "github",
         "open-source",
-        "491-stars"
+        "11452-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1415935623",
-      "title": "Generated-Computers/Locals",
+      "slug": "github-1000945946",
+      "title": "caipe-io/ai-platform-engineering",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Generated-Computers/Locals",
+      "url": "https://github.com/caipe-io/ai-platform-engineering",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "Run many AI agents at once on your Mac, up to 3x faster.",
-      "body": "Run many AI agents at once on your Mac, up to 3x faster.",
+      "summary": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
+      "body": "CAIPE is an open-source AI platform for building, governing, and operating AI agents and agentic workflows for platform engineering and beyond.",
       "tags": [
         "github",
         "open-source",
-        "379-stars"
+        "435-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-72835816",
-      "title": "pegaltier/awesome-utils-dev",
+      "slug": "github-77383688",
+      "title": "polyaxon/polyaxon",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/pegaltier/awesome-utils-dev",
+      "url": "https://github.com/polyaxon/polyaxon",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
-      "body": "📔 📚 A curated list of awesome tools, utilities, resources, links, notes, tips, tricks, helpers made by a developer and for developers in order to improve dev journey and boost productivity...",
+      "summary": "AI Infra / AI Orchestration / AI Control Plane",
+      "body": "AI Infra / AI Orchestration / AI Control Plane",
       "tags": [
         "github",
         "open-source",
-        "306-stars"
+        "3746-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-660538103",
-      "title": "mehmetkahya0/AI-Catalog",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/mehmetkahya0/AI-Catalog",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-10-28",
       "readTime": "3 min",
-      "summary": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
-      "body": "Huge AI models catalog. A curated list of AI tools, platforms, and resources across various domains.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "498-stars"
+        "2376-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Trump says he will ban term artificial intelligence, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Trump says he will ban term artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50267321",
-      "title": "AI giants are [...] They could learn a lot from the nuclear industry",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.livescience.com/artificial-intelligence/human-evolution/ai-giants-are-one-big-mistake-away-from-catastrophe-they-could-learn-a-lot-from-the-nuclear-industry-opinion",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de AI giants are [...] They could learn a lot from the nuclear industry, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de AI giants are [...] They could learn a lot from the nuclear industry, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50264228",
-      "title": "US President says he will ban the term 'artificial intelligence'",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://thehill.com/homenews/administration/6175633-trump-bans-artificial-intelligence-term/",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de US President says he will ban the term 'artificial intelligence', reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de US President says he will ban the term 'artificial intelligence', reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50263699",
-      "title": "Trump says he will ban everyone from using the phrase 'artificial intelligence'",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-ban-artificial-intelligence-phrase-b3074397.html",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Trump says he will ban everyone from using the phrase 'artificial intelligence', reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Trump says he will ban everyone from using the phrase 'artificial intelligence', reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 563
+      "latencyMs": 497
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 606
+      "latencyMs": 518
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 212
+      "latencyMs": 181
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 473
+      "latencyMs": 183
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
