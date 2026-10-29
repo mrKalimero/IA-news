@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-10-29T05:48:19.825Z",
+  "generatedAt": "2026-10-29T13:01:07.186Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50288019",
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "date": "2026-10-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50288014",
+      "title": "Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+      "date": "2026-10-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50287359",
+      "title": "An Urgent Message on Artificial Intelligence from the Kogui People",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://sonidoselva.com/perspectiva-kogui",
+      "date": "2026-10-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de An Urgent Message on Artificial Intelligence from the Kogui People, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de An Urgent Message on Artificial Intelligence from the Kogui People, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50282786",
       "title": "Voters in Texas agree: They hate data centers",
@@ -21,146 +75,146 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1008304614",
-      "title": "semantica-agi/semantica",
+      "slug": "github-1332399543",
+      "title": "JiangNanGenius/floe-agent",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/semantica-agi/semantica",
+      "url": "https://github.com/JiangNanGenius/floe-agent",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "body": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "summary": "Open-source AI agent workspace for iOS/iPadOS and Android. On-device Linux, terminal, code, Git and local web previews; BYOK cloud AI. iOS adds Notes, Canvas, CAD/3D, voice, Skill Hub and supported local models. Andro...",
+      "body": "Open-source AI agent workspace for iOS/iPadOS and Android. On-device Linux, terminal, code, Git and local web previews; BYOK cloud AI. iOS adds Notes, Canvas, CAD/3D, voice, Skill Hub and supported local models. Andro...",
       "tags": [
         "github",
         "open-source",
-        "14298-stars"
+        "371-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1028210330",
-      "title": "MystenLabs/walrus-memory",
+      "slug": "github-1016255018",
+      "title": "theexperiencecompany/gaia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/MystenLabs/walrus-memory",
+      "url": "https://github.com/theexperiencecompany/gaia",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "A portable memory layer that makes AI agents reliable across apps and sessions. Persistent, verifiable, and fully under your control.",
-      "body": "A portable memory layer that makes AI agents reliable across apps and sessions. Persistent, verifiable, and fully under your control.",
+      "summary": "Your proactive personal AI assistant for daily life",
+      "body": "Your proactive personal AI assistant for daily life",
       "tags": [
         "github",
         "open-source",
-        "128-stars"
+        "321-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
         "github",
         "open-source",
-        "187807-stars"
+        "2378-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-620363420",
-      "title": "TimefoldAI/timefold-solver",
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/TimefoldAI/timefold-solver",
+      "url": "https://github.com/ls1intum/Artemis",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
-      "body": "The open source Solver AI for Java and Kotlin to optimize scheduling and routing. Solve the vehicle routing problem, employee rostering, task assignment, maintenance scheduling and other planning problems.",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
       "tags": [
         "github",
         "open-source",
-        "1843-stars"
+        "823-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1191114524",
-      "title": "daniel3303/Equibles",
+      "slug": "github-896173731",
+      "title": "viveknaskar/everything-ai-ml",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/daniel3303/Equibles",
+      "url": "https://github.com/viveknaskar/everything-ai-ml",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
-      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
       "tags": [
         "github",
         "open-source",
-        "240-stars"
+        "491-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-964395174",
-      "title": "dyad-sh/dyad",
+      "slug": "github-885931826",
+      "title": "felladrin/awesome-ai-web-search",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dyad-sh/dyad",
+      "url": "https://github.com/felladrin/awesome-ai-web-search",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
-      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
+      "summary": "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search",
+      "body": "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search",
       "tags": [
         "github",
         "open-source",
-        "22105-stars"
+        "1501-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-734174248",
-      "title": "lakehq/sail",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lakehq/sail",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
-      "body": "Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "3475-stars"
+        "92181-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-849383523",
-      "title": "minusxai/minusx-metabase",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/minusxai/minusx-metabase",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "MinusX is an AI Data Analyst that you can add to your Metabase. It helps you ask business questions to your dashboards and dig deeper through followups.",
-      "body": "MinusX is an AI Data Analyst that you can add to your Metabase. It helps you ask business questions to your dashboards and dig deeper through followups.",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "351-stars"
+        "3113-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Meta launched an 'AI pet journal' app, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Meta launched an 'AI pet journal' app, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50269651",
-      "title": "Artificial Analysis Intelligence Index v5.0",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://artificialanalysis.ai/methodology/intelligence-benchmarking",
-      "date": "2026-10-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Analysis Intelligence Index v5.0, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Analysis Intelligence Index v5.0, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50268879",
-      "title": "Show HN: How to Make AI UGC Ads in 2026 Using an AI Video Generator",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.aivideosugc.com/",
-      "date": "2026-10-28",
-      "readTime": "3 min",
-      "summary": "AI UGC (Artificial Intelligence User-Generated Content) is the automated creation of casual, creator-style review and unboxing videos using AI avatars, AI scriptwriters, and realistic voiceovers. It replaces tradition...",
-      "body": "AI UGC (Artificial Intelligence User-Generated Content) is the automated creation of casual, creator-style review and unboxing videos using AI avatars, AI scriptwriters, and realistic voiceovers. It replaces tradition...",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50268868",
-      "title": "Artificial Analysis Intelligence Index v5",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
-      "date": "2026-10-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -484,7 +484,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "81-downloads"
+        "80-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 352
+      "latencyMs": 3414
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 474
+      "latencyMs": 512
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 153
+      "latencyMs": 114
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 400
+      "latencyMs": 281
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
