@@ -1,7 +1,43 @@
 {
-  "generatedAt": "2026-10-30T12:56:34.233Z",
+  "generatedAt": "2026-10-30T22:20:13.410Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50310732",
+      "title": "The biggest feud in artificial intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The biggest feud in artificial intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The biggest feud in artificial intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50305184",
+      "title": "Altman sympathizes with mathematicians, but says OAI's math onslaught won't stop",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Altman sympathizes with mathematicians, but says OAI's math onslaught won't stop, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Altman sympathizes with mathematicians, but says OAI's math onslaught won't stop, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50302474",
       "title": "Artificial Intelligence, jobs and society: What we know so far",
@@ -39,6 +75,60 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "tags": [
+        "github",
+        "open-source",
+        "6604-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/felladrin/MiniSearch",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "tags": [
+        "github",
+        "open-source",
+        "605-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "tags": [
+        "github",
+        "open-source",
+        "27630-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "github-771302083",
       "title": "OpenHands/OpenHands",
       "category": "Open source",
@@ -52,279 +142,81 @@
       "tags": [
         "github",
         "open-source",
-        "92255-stars"
+        "92283-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
+      "slug": "github-1119405225",
+      "title": "Yigtwxx/awesome-rag-production",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
+      "url": "https://github.com/Yigtwxx/awesome-rag-production",
       "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "summary": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.",
+      "body": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.",
       "tags": [
         "github",
         "open-source",
-        "257-stars"
+        "287-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-108102826",
-      "title": "carla-simulator/carla",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/carla-simulator/carla",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "Open-source simulator for autonomous driving research.",
-      "body": "Open-source simulator for autonomous driving research.",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "14553-stars"
+        "28928-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-574523116",
-      "title": "f/prompts.chat",
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/f/prompts.chat",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
       "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
       "tags": [
         "github",
         "open-source",
-        "175184-stars"
+        "377-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-925674818",
-      "title": "wanaku-ai/wanaku",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wanaku-ai/wanaku",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "Wanaku Governed Action Proxy for AI Agents",
-      "body": "Wanaku Governed Action Proxy for AI Agents",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "134-stars"
+        "3118-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "tags": [
-        "github",
-        "open-source",
-        "491-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "tags": [
-        "github",
-        "open-source",
-        "11459-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1190778303",
-      "title": "alvinreal/awesome-opensource-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/alvinreal/awesome-opensource-ai",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
-      "body": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
-      "tags": [
-        "github",
-        "open-source",
-        "4954-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
-      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "wiwo.de",
-      "body": "wiwo.de",
-      "tags": [
-        "gdelt",
-        "media",
-        "wiwo.de"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
-      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "hnonline.sk",
-      "body": "hnonline.sk",
-      "tags": [
-        "gdelt",
-        "media",
-        "hnonline.sk"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
-      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "finanznachrichten.de",
-      "body": "finanznachrichten.de",
-      "tags": [
-        "gdelt",
-        "media",
-        "finanznachrichten.de"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260927-gejts-2120563236-html",
-      "title": "Гейтс : договориться о регулировании ИИ будет сложнее , чем об ограничении ЯО",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260927/gejts-2120563236.html",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-hani-co-kr-arti-economy-it-1282882-html",
-      "title": "10억불 피해 · 50명 사상 아니면 놔둬라 … 앤트로픽 , 미 AI 규제안 제안",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/economy/it/1282882.html",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
-      "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-garant-ru-ia-opinion-author-zueva-anna",
-      "title": "Зуева Анна | Авторы : ГАРАНТ . РУ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.garant.ru/ia/opinion/author/zueva-anna/",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "garant.ru",
-      "body": "garant.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "garant.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-expreso-com-mx-expresion-el-poder-de-las-ideas-el-poder-de-las-ideas-columna-de-marco-a-paz-pellat-262415",
-      "title": "El Poder de las Ideas : Columna de Marco A . Paz Pellat",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.expreso.com.mx/expresion/el-poder-de-las-ideas/el-poder-de-las-ideas-columna-de-marco-a-paz-pellat/262415",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "expreso.com.mx",
-      "body": "expreso.com.mx",
-      "tags": [
-        "gdelt",
-        "media",
-        "expreso.com.mx"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-1prime-ru-20260901-rossija-872846016-html",
-      "title": "В России с 1 сентября вступили в силу положения о регулировании ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://1prime.ru/20260901/rossija-872846016.html",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "1prime.ru",
-      "body": "1prime.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "1prime.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-50297601",
@@ -373,42 +265,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50287359",
-      "title": "Perspectiva Kogui: A message on artificial intelligence from the Kogui people",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://sonidoselva.com/perspectiva-kogui",
-      "date": "2026-10-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Perspectiva Kogui: A message on artificial intelligence from the Kogui people, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Perspectiva Kogui: A message on artificial intelligence from the Kogui people, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50282786",
-      "title": "Voters in Texas agree: They hate data centers",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "date": "2026-10-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Voters in Texas agree: They hate data centers, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Voters in Texas agree: They hate data centers, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -713,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 343
+      "latencyMs": 419
     },
     {
       "id": "github",
@@ -722,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 374
+      "latencyMs": 390
     },
     {
       "id": "hugging-face",
@@ -731,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 77
+      "latencyMs": 109
     },
     {
       "id": "semantic-scholar",
@@ -749,19 +605,20 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 267
+      "latencyMs": 132
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 13211
+      "ok": false,
+      "count": 0,
+      "error": "fetch failed"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: fetch failed"
   ]
 }
