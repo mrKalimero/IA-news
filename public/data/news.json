@@ -1,7 +1,187 @@
 {
-  "generatedAt": "2026-10-29T22:45:20.695Z",
+  "generatedAt": "2026-10-30T05:49:36.668Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "9024-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-925674818",
+      "title": "wanaku-ai/wanaku",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/wanaku-ai/wanaku",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Wanaku Governed Action Proxy for AI Agents",
+      "body": "Wanaku Governed Action Proxy for AI Agents",
+      "tags": [
+        "github",
+        "open-source",
+        "134-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-102692863",
+      "title": "onnx/onnx",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/onnx/onnx",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Open standard for machine learning interoperability",
+      "body": "Open standard for machine learning interoperability",
+      "tags": [
+        "github",
+        "open-source",
+        "21627-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-428130897",
+      "title": "GetStream/awesome-ai-news",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/GetStream/awesome-ai-news",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Keep track of what has happened in AI this month. Discover the best AI/LLM resources and news for this month",
+      "body": "Keep track of what has happened in AI this month. Discover the best AI/LLM resources and news for this month",
+      "tags": [
+        "github",
+        "open-source",
+        "102-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-128689753",
+      "title": "fegennari/3DWorld",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/fegennari/3DWorld",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "3D Procedural Game Engine Using OpenGL",
+      "body": "3D Procedural Game Engine Using OpenGL",
+      "tags": [
+        "github",
+        "open-source",
+        "1433-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "328-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "187827-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "tags": [
+        "github",
+        "open-source",
+        "31054-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "semantic-scholar-a9a654ea503386cbfd8bb119fc650cc3d08dc206",
+      "title": "Revised Surgical CAse REport (SCARE) guideline: An update for the age of Artificial Intelligence",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/a9a654ea503386cbfd8bb119fc650cc3d08dc206",
+      "date": "2026-10-30",
+      "readTime": "3 min",
+      "summary": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
+      "body": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "hacker-news-50297601",
+      "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
+      "date": "2026-10-29",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Man given first-of-its-kind religious exemption against mandatory AI use at work, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Man given first-of-its-kind religious exemption against mandatory AI use at work, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50288556",
       "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
@@ -31,24 +211,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50288014",
-      "title": "Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
-      "date": "2026-10-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Man Wins First-of-Its-Kind Religious Exemption from Mandatory AI Use at Work, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -93,148 +255,148 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-525592995",
-      "title": "invoke-ai/InvokeAI",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/invoke-ai/InvokeAI",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40654v1",
+      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40654v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
-      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets...",
+      "body": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets...",
       "tags": [
-        "github",
-        "open-source",
-        "28914-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-887435804",
-      "title": "Drix10/ai-resources",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Drix10/ai-resources",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40649v1",
+      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40649v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "100,000+ AI briefings in 41 categories: models, dev tools, agents, research, funding. New briefings are fact-checked against their source post and link to it. Plain Markdown, CC BY 4.0. MCP server + Agent Skill let Cl...",
-      "body": "100,000+ AI briefings in 41 categories: models, dev tools, agents, research, funding. New briefings are fact-checked against their source post and link to it. Plain Markdown, CC BY 4.0. MCP server + Agent Skill let Cl...",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gai...",
+      "body": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gai...",
       "tags": [
-        "github",
-        "open-source",
-        "122-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-894430000",
-      "title": "bodo-ai/Bodo",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/bodo-ai/Bodo",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40647v1",
+      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40647v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "High Performance Scalable Data Processing in Python and SQL",
-      "body": "High Performance Scalable Data Processing in Python and SQL",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not nece...",
+      "body": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not nece...",
       "tags": [
-        "github",
-        "open-source",
-        "384-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40644v1",
+      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40644v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realiz...",
+      "body": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realiz...",
       "tags": [
-        "github",
-        "open-source",
-        "31043-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1006104934",
-      "title": "CodeWithCJ/SparkyFitness",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CodeWithCJ/SparkyFitness",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40643v1",
+      "title": "Luggage re-identification: A study of strategies towards a real-world application",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40643v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
-      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recover...",
+      "body": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recover...",
       "tags": [
-        "github",
-        "open-source",
-        "6504-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1283346786",
-      "title": "aminekago-web/Paradigm-Survival-Arena",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/aminekago-web/Paradigm-Survival-Arena",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40641v1",
+      "title": "From extreme weather to agricultural consequences with agentic AI",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40641v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "Top 6 AI Paradigms Fighting for Survival in 2026",
-      "body": "Top 6 AI Paradigms Fighting for Survival in 2026",
+      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that...",
+      "body": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that...",
       "tags": [
-        "github",
-        "open-source",
-        "116-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40637v1",
+      "title": "world2vec: Mechanistic world models through latent dynamics learning",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40637v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduc...",
+      "body": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduc...",
       "tags": [
-        "github",
-        "open-source",
-        "27613-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
+      "slug": "arxiv-http-arxiv-org-abs-2610-40636v1",
+      "title": "Probing Spatial State Representations in Visual Foundation Models",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.40636v1",
       "date": "2026-10-29",
       "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent s...",
+      "body": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent s...",
       "tags": [
-        "github",
-        "open-source",
-        "9020-stars"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hacker-news-50274681",
@@ -271,168 +433,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50272819",
-      "title": "Trump Vows to Ban Term 'Artificial Intelligence'",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.forbes.com/sites/fionariley/2026/10/27/trump-vows-to-ban-term-artificial-intelligence/",
-      "date": "2026-10-28",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Trump Vows to Ban Term 'Artificial Intelligence', reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Trump Vows to Ban Term 'Artificial Intelligence', reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37668v1",
-      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37668v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: no...",
-      "body": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: no...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37666v1",
-      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37666v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human vide...",
-      "body": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human vide...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37658v1",
-      "title": "When Should We Intervene at Test Time?",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37658v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images...",
-      "body": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37657v1",
-      "title": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37657v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention be...",
-      "body": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention be...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37656v1",
-      "title": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37656v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a...",
-      "body": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37655v1",
-      "title": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37655v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks i...",
-      "body": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks i...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37652v1",
-      "title": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37652v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more...",
-      "body": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-37649v1",
-      "title": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.37649v1",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavie...",
-      "body": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavie...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
@@ -577,6 +577,132 @@
         "0-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "semantic-scholar-8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
+      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
+      "date": "2023-03-22",
+      "readTime": "3 min",
+      "summary": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
+      "body": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
+      "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
+      "date": "2019-10-28",
+      "readTime": "3 min",
+      "summary": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
+      "body": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-530a059cb48477ad1e3d4f8f4b153274c8997332",
+      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
+      "date": "2019-10-22",
+      "readTime": "3 min",
+      "summary": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
+      "body": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-6a132499ca1dc0d23cfe7d5db841b819df63b51b",
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/6a132499ca1dc0d23cfe7d5db841b819df63b51b",
+      "date": "2019-08-27",
+      "readTime": "3 min",
+      "summary": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reach...",
+      "body": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reach...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-f134abeaf9bfd41f29b97aec675ec31895bf541d",
+      "title": "High-performance medicine: the convergence of human and artificial intelligence",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/f134abeaf9bfd41f29b97aec675ec31895bf541d",
+      "date": "2019-01-01",
+      "readTime": "3 min",
+      "summary": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
+      "body": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-21dff47a4142445f83016da0819ffe6dd2947f66",
+      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/21dff47a4142445f83016da0819ffe6dd2947f66",
+      "date": "2018-09-17",
+      "readTime": "3 min",
+      "summary": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
+      "body": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
+      "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
+      "date": "2017-06-22",
+      "readTime": "3 min",
+      "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
+      "body": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     }
   ],
   "sources": [
@@ -587,7 +713,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 1736
+      "latencyMs": 285
     },
     {
       "id": "github",
@@ -596,7 +722,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 412
+      "latencyMs": 352
     },
     {
       "id": "hugging-face",
@@ -605,16 +731,16 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 117
+      "latencyMs": 61
     },
     {
       "id": "semantic-scholar",
       "name": "Semantic Scholar",
       "category": "Recherche",
       "docsUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "ok": false,
-      "count": 0,
-      "error": "Semantic Scholar returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 757
     },
     {
       "id": "arxiv",
@@ -623,7 +749,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 173
+      "latencyMs": 144
     },
     {
       "id": "gdelt",
@@ -632,11 +758,10 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
