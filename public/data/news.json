@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-10-31T12:30:05.416Z",
+  "generatedAt": "2026-10-31T21:34:37.505Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50317996",
+      "title": "Cheaper AI inference is making it harder to profit from renting out compute",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/firm-that-lets-you-rent-out-your-idle-mac-for-ai-inference-workloads-warns-of-plummeting-token-costs-darkbloom-network-sees-earnings-drop-to-usd1-23-a-day-as-anthropic-tokens-fall-77-percent",
+      "date": "2026-10-31",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Cheaper AI inference is making it harder to profit from renting out compute, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Cheaper AI inference is making it harder to profit from renting out compute, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50317896",
+      "title": "Jonathan Swift vs. AI",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.thedial.world/articles/news/schools-teachers-artificial-intelligence",
+      "date": "2026-10-31",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Jonathan Swift vs. AI, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Jonathan Swift vs. AI, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50316775",
+      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
+      "date": "2026-10-31",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50315987",
+      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
+      "date": "2026-10-31",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Anthropic's Claude AI blocks video game cloning and reverse-engineering, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic's Claude AI blocks video game cloning and reverse-engineering, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-99561213",
+      "title": "sonos/tract",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/sonos/tract",
+      "date": "2026-10-31",
+      "readTime": "3 min",
+      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "tags": [
+        "github",
+        "open-source",
+        "3108-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
+      "date": "2026-10-31",
+      "readTime": "3 min",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "tags": [
+        "github",
+        "open-source",
+        "6631-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "github-394089041",
       "title": "spiceai/spiceai",
@@ -16,79 +124,25 @@
       "tags": [
         "github",
         "open-source",
-        "3120-stars"
+        "3122-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-145693916",
-      "title": "kornia/kornia",
+      "slug": "github-525592995",
+      "title": "invoke-ai/InvokeAI",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kornia/kornia",
+      "url": "https://github.com/invoke-ai/InvokeAI",
       "date": "2026-10-31",
       "readTime": "3 min",
-      "summary": "🐍 Geometric Computer Vision Library for Spatial AI",
-      "body": "🐍 Geometric Computer Vision Library for Spatial AI",
+      "summary": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
+      "body": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an i...",
       "tags": [
         "github",
         "open-source",
-        "11476-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "date": "2026-10-31",
-      "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
-      "tags": [
-        "github",
-        "open-source",
-        "92327-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-828119367",
-      "title": "yamadashy/repomix",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yamadashy/repomix",
-      "date": "2026-10-31",
-      "readTime": "3 min",
-      "summary": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...",
-      "body": "📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT,...",
-      "tags": [
-        "github",
-        "open-source",
-        "29098-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-653496050",
-      "title": "xorbitsai/inference",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xorbitsai/inference",
-      "date": "2026-10-31",
-      "readTime": "3 min",
-      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "tags": [
-        "github",
-        "open-source",
-        "9636-stars"
+        "28941-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -111,38 +165,56 @@
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
+      "slug": "github-1136941035",
+      "title": "SyntheticAutonomicMind/CLIO",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
+      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
       "date": "2026-10-31",
       "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
+      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
       "tags": [
         "github",
         "open-source",
-        "491-stars"
+        "232-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-373897031",
-      "title": "yurijmikhalevich/rclip",
+      "slug": "github-1002593055",
+      "title": "PaulDuvall/ai-development-patterns",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yurijmikhalevich/rclip",
+      "url": "https://github.com/PaulDuvall/ai-development-patterns",
       "date": "2026-10-31",
       "readTime": "3 min",
-      "summary": "grep for images – local, offline image search for the terminal",
-      "body": "grep for images – local, offline image search for the terminal",
+      "summary": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
+      "body": "A comprehensive collection of AI development patterns for building software with AI assistance, organized by implementation maturity and development lifecycle phases. Includes Foundation, Development, and Operations p...",
       "tags": [
         "github",
         "open-source",
-        "1029-stars"
+        "672-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-639195966",
+      "title": "kyegomez/swarms",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kyegomez/swarms",
+      "date": "2026-10-31",
+      "readTime": "3 min",
+      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "tags": [
+        "github",
+        "open-source",
+        "7337-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -355,60 +427,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50297601",
-      "title": "Man given first-of-its-kind religious exemption against mandatory AI use at work",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/secular-humanist-gets-religious-exemption-from-using-ai-argues-that-offloading-his-thinking-to-llms-violates-his-beliefs-american-humanist-association-says-its-the-first-case-of-its-kind",
-      "date": "2026-10-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Man given first-of-its-kind religious exemption against mandatory AI use at work, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Man given first-of-its-kind religious exemption against mandatory AI use at work, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50288556",
-      "title": "How to Make Artificial Intelligence More Environmentally Sustainable",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.infoq.com/news/2026/10/AI-environmentally-sustainable/",
-      "date": "2026-10-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de How to Make Artificial Intelligence More Environmentally Sustainable, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de How to Make Artificial Intelligence More Environmentally Sustainable, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50288019",
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-      "date": "2026-10-29",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -713,7 +731,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 337
+      "latencyMs": 323
     },
     {
       "id": "github",
@@ -722,7 +740,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 406
+      "latencyMs": 328
     },
     {
       "id": "hugging-face",
@@ -731,7 +749,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 207
+      "latencyMs": 183
     },
     {
       "id": "semantic-scholar",
@@ -749,7 +767,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 260
+      "latencyMs": 217
     },
     {
       "id": "gdelt",
@@ -758,7 +776,7 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 12039
+      "latencyMs": 14253
     }
   ],
   "errors": [
