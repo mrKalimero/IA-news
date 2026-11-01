@@ -1,148 +1,202 @@
 {
-  "generatedAt": "2026-11-01T13:24:57.473Z",
+  "generatedAt": "2026-11-01T22:01:40.193Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
+      "slug": "hacker-news-50328464",
+      "title": "VisionQuest is what happens when AI goes rogue",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "date": "2026-11-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de VisionQuest is what happens when AI goes rogue, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de VisionQuest is what happens when AI goes rogue, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50326514",
+      "title": "Brazilian lawyers fined $16K for hiding a prompt injection in a court filing",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/brazilian-lawyers-busted-for-attempting-to-manipulate-courts-ai-with-prompt-injection-hidden-in-filing-courts-ai-flags-hidden-text-that-demanded-superficial-legal-scrutiny-lawyers-fined-usd16-000",
+      "date": "2026-11-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Brazilian lawyers fined $16K for hiding a prompt injection in a court filing, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Brazilian lawyers fined $16K for hiding a prompt injection in a court filing, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50325662",
+      "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+      "date": "2026-11-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-639195966",
+      "title": "kyegomez/swarms",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
+      "url": "https://github.com/kyegomez/swarms",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
       "tags": [
         "github",
         "open-source",
-        "2384-stars"
+        "7341-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "187854-stars"
+        "505-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-653496050",
-      "title": "xorbitsai/inference",
+      "slug": "github-574523116",
+      "title": "f/prompts.chat",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/xorbitsai/inference",
+      "url": "https://github.com/f/prompts.chat",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
-      "body": "Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.",
+      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "tags": [
         "github",
         "open-source",
-        "9635-stars"
+        "175521-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
+      "slug": "github-1016255018",
+      "title": "theexperiencecompany/gaia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
+      "url": "https://github.com/theexperiencecompany/gaia",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+      "summary": "Your proactive personal AI assistant for daily life",
+      "body": "Your proactive personal AI assistant for daily life",
       "tags": [
         "github",
         "open-source",
-        "3110-stars"
+        "324-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "27666-stars"
+        "92439-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-78485664",
+      "title": "roatienza/Deep-Learning-Experiments",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/roatienza/Deep-Learning-Experiments",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "Videos, notes and experiments to understand deep learning",
+      "body": "Videos, notes and experiments to understand deep learning",
       "tags": [
         "github",
         "open-source",
-        "3122-stars"
+        "1207-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-799690272",
-      "title": "albumentations-team/albucore",
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/albumentations-team/albucore",
+      "url": "https://github.com/0xPlaygrounds/rig",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
-      "body": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
       "tags": [
         "github",
         "open-source",
-        "124-stars"
+        "9039-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
       "date": "2026-11-01",
       "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "tags": [
         "github",
         "open-source",
-        "259-stars"
+        "31138-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -229,60 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de The biggest feud in artificial intelligence, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de The biggest feud in artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50305184",
-      "title": "Altman sympathizes with mathematicians, but says OAI's math onslaught won't stop",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Altman sympathizes with mathematicians, but says OAI's math onslaught won't stop, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Altman sympathizes with mathematicians, but says OAI's math onslaught won't stop, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50302474",
-      "title": "Artificial Intelligence, jobs and society: What we know so far",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://employment-social-affairs.ec.europa.eu/artificial-intelligence-jobs-and-society-what-we-know-so-far_en",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Artificial Intelligence, jobs and society: What we know so far, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Artificial Intelligence, jobs and society: What we know so far, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50302093",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "date": "2026-10-30",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 967
+      "latencyMs": 2953
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 417
+      "latencyMs": 482
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 151
+      "latencyMs": 189
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 194
+      "latencyMs": 410
     },
     {
       "id": "gdelt",
@@ -632,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
