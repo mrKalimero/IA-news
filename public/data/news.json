@@ -1,7 +1,169 @@
 {
-  "generatedAt": "2026-11-01T22:01:40.193Z",
+  "generatedAt": "2026-11-02T06:03:30.868Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "github-95879426",
+      "title": "Tencent/ncnn",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Tencent/ncnn",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "body": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+      "tags": [
+        "github",
+        "open-source",
+        "24018-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "tags": [
+        "github",
+        "open-source",
+        "109719-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-373897031",
+      "title": "yurijmikhalevich/rclip",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/yurijmikhalevich/rclip",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "grep for images – local, offline image search for the terminal",
+      "body": "grep for images – local, offline image search for the terminal",
+      "tags": [
+        "github",
+        "open-source",
+        "1033-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-799690272",
+      "title": "albumentations-team/albucore",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/albumentations-team/albucore",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
+      "body": "A high-performance image processing library designed to optimize and extend the Albumentations library with specialized functions for advanced image transformations. Perfect for developers working in computer vision w...",
+      "tags": [
+        "github",
+        "open-source",
+        "124-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-308444913",
+      "title": "kuberay-project/kuberay",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kuberay-project/kuberay",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "A toolkit to run Ray applications on Kubernetes",
+      "body": "A toolkit to run Ray applications on Kubernetes",
+      "tags": [
+        "github",
+        "open-source",
+        "2755-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1169735215",
+      "title": "l33tdawg/sage",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/l33tdawg/sage",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "tags": [
+        "github",
+        "open-source",
+        "259-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-53976910",
+      "title": "apache/texera",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/apache/texera",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "tags": [
+        "github",
+        "open-source",
+        "328-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-957217108",
+      "title": "joylarkin/Awesome-AI-Market-Maps",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/joylarkin/Awesome-AI-Market-Maps",
+      "date": "2026-11-02",
+      "readTime": "3 min",
+      "summary": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
+      "body": "An Awesome List of 500+ AI Market Maps from 2026 and 2025.",
+      "tags": [
+        "github",
+        "open-source",
+        "349-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hacker-news-50330753",
+      "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
+      "date": "2026-11-01",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Empires of AI – By Eric Schmidt and Niall Ferguson, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Empires of AI – By Eric Schmidt and Niall Ferguson, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50328464",
       "title": "VisionQuest is what happens when AI goes rogue",
@@ -55,150 +217,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-639195966",
-      "title": "kyegomez/swarms",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kyegomez/swarms",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-      "tags": [
-        "github",
-        "open-source",
-        "7341-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "tags": [
-        "github",
-        "open-source",
-        "505-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-574523116",
-      "title": "f/prompts.chat",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/f/prompts.chat",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "tags": [
-        "github",
-        "open-source",
-        "175521-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1016255018",
-      "title": "theexperiencecompany/gaia",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/theexperiencecompany/gaia",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "Your proactive personal AI assistant for daily life",
-      "body": "Your proactive personal AI assistant for daily life",
-      "tags": [
-        "github",
-        "open-source",
-        "324-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
-      "tags": [
-        "github",
-        "open-source",
-        "92439-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-78485664",
-      "title": "roatienza/Deep-Learning-Experiments",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/roatienza/Deep-Learning-Experiments",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "Videos, notes and experiments to understand deep learning",
-      "body": "Videos, notes and experiments to understand deep learning",
-      "tags": [
-        "github",
-        "open-source",
-        "1207-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "9039-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "tags": [
-        "github",
-        "open-source",
-        "31138-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-50317996",
@@ -273,34 +291,16 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-50310732",
-      "title": "The biggest feud in artificial intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.afr.com/technology/inside-the-biggest-feud-in-artificial-intelligence-20261026-p618lx",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42149v1",
+      "title": "Latent Reasoning in Continuous Space for Unified Multimodal Models",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2610.42149v1",
       "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de The biggest feud in artificial intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The biggest feud in artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40654v1",
-      "title": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40654v1",
-      "date": "2026-10-29",
-      "readTime": "3 min",
-      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets...",
-      "body": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single record, which lets...",
+      "summary": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image...",
+      "body": "Unified Multimodal Models (UMMs) achieve remarkable success on diverse multimodal understanding and generation tasks, yet they still struggle to effectively leverage language-based chain-of-thought reasoning for image...",
       "tags": [
         "arxiv",
         "paper",
@@ -309,16 +309,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40649v1",
-      "title": "Rethinking Neural Thickets Without Weight Perturbations",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42147v1",
+      "title": "Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40649v1",
-      "date": "2026-10-29",
+      "url": "http://arxiv.org/abs/2610.42147v1",
+      "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gai...",
-      "body": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gai...",
+      "summary": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attent...",
+      "body": "Agentic workflows are increasingly shifting towards long-horizon tasks, such as open-ended scientific work, where models benefit from long context windows. However, at ultra-long context (above 1M tokens), full attent...",
       "tags": [
         "arxiv",
         "paper",
@@ -327,16 +327,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40647v1",
-      "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42146v1",
+      "title": "Hierarchical World Models with Implicit Dynamics",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40647v1",
-      "date": "2026-10-29",
+      "url": "http://arxiv.org/abs/2610.42146v1",
+      "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not nece...",
-      "body": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer detail does not nece...",
+      "summary": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search co...",
+      "body": "Planning with world models enables test-time adaptation for embodied agents, offering superior generalization over direct policy learning. However, long-horizon tasks remain hindered by cumulative errors and search co...",
       "tags": [
         "arxiv",
         "paper",
@@ -345,16 +345,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40644v1",
-      "title": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42141v1",
+      "title": "RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40644v1",
-      "date": "2026-10-29",
+      "url": "http://arxiv.org/abs/2610.42141v1",
+      "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realiz...",
-      "body": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how they treat realiz...",
+      "summary": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harness...",
+      "body": "Recent work shows that a frozen robot policy performs far better inside an agent harness, where control code decides when to query the policy, consult vision tools, or command the arm directly. Yet today these harness...",
       "tags": [
         "arxiv",
         "paper",
@@ -363,16 +363,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40643v1",
-      "title": "Luggage re-identification: A study of strategies towards a real-world application",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42139v1",
+      "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40643v1",
-      "date": "2026-10-29",
+      "url": "http://arxiv.org/abs/2610.42139v1",
+      "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recover...",
-      "body": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (lost luggage recover...",
+      "summary": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplific...",
+      "body": "In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. Randomly sampling these batches allows for better privacy bounds via privacy amplific...",
       "tags": [
         "arxiv",
         "paper",
@@ -381,16 +381,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40641v1",
-      "title": "From extreme weather to agricultural consequences with agentic AI",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42135v1",
+      "title": "A Better Critic Matters for Distribution Matching Distillation",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40641v1",
-      "date": "2026-10-29",
+      "url": "http://arxiv.org/abs/2610.42135v1",
+      "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that...",
-      "body": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that...",
+      "summary": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic nee...",
+      "body": "Distribution Matching Distillation (DMD) trains a few-step student using the difference between a teacher's score and an online critic's estimate of the student distribution's score. We investigate what the critic nee...",
       "tags": [
         "arxiv",
         "paper",
@@ -399,16 +399,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40637v1",
-      "title": "world2vec: Mechanistic world models through latent dynamics learning",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42133v1",
+      "title": "Instance-dependent sequential limits as an exact information ledger",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40637v1",
-      "date": "2026-10-29",
+      "url": "http://arxiv.org/abs/2610.42133v1",
+      "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduc...",
-      "body": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. Here, we introduc...",
+      "summary": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a statis...",
+      "body": "Instance-dependent limits for bandit regret, sequential tests, best-arm identification and Markov decision processes are proved by one chain. It runs from a divergence decomposition through data processing to a statis...",
       "tags": [
         "arxiv",
         "paper",
@@ -417,16 +417,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2610-40636v1",
-      "title": "Probing Spatial State Representations in Visual Foundation Models",
+      "slug": "arxiv-http-arxiv-org-abs-2610-42126v1",
+      "title": "Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: Transportability Under Changing Measurement Conditions",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2610.40636v1",
-      "date": "2026-10-29",
+      "url": "http://arxiv.org/abs/2610.42126v1",
+      "date": "2026-10-30",
       "readTime": "3 min",
-      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent s...",
-      "body": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent s...",
+      "summary": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance ind...",
+      "body": "Objective: To distinguish the transferable predictive value of physiological trajectories from that of observation patterns in ICU mortality prediction, and to assess whether measurement timing affects performance ind...",
       "tags": [
         "arxiv",
         "paper",
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 2953
+      "latencyMs": 402
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 482
+      "latencyMs": 489
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 189
+      "latencyMs": 159
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 410
+      "latencyMs": 348
     },
     {
       "id": "gdelt",
