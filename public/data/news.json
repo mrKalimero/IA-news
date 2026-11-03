@@ -1,150 +1,42 @@
 {
-  "generatedAt": "2026-11-02T15:53:13.437Z",
+  "generatedAt": "2026-11-03T00:58:07.392Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-676157443",
-      "title": "RevEngAI/plugin-ghidra",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/RevEngAI/plugin-ghidra",
+      "slug": "hacker-news-50342547",
+      "title": "Evaluating Artificial Intelligence Use and Its Psychological Correlates",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40977447/",
       "date": "2026-11-02",
       "readTime": "3 min",
-      "summary": "RevEng.AI Ghidra Plugin",
-      "body": "RevEng.AI Ghidra Plugin",
+      "summary": "Discussion technique autour de Evaluating Artificial Intelligence Use and Its Psychological Correlates, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Evaluating Artificial Intelligence Use and Its Psychological Correlates, reperee dans la communaute Hacker News.",
       "tags": [
-        "github",
-        "open-source",
-        "202-stars"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
+      "slug": "hacker-news-50339956",
+      "title": "Anthropic confirms blocking reverse engineering requests",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
       "date": "2026-11-02",
       "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "summary": "Discussion technique autour de Anthropic confirms blocking reverse engineering requests, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Anthropic confirms blocking reverse engineering requests, reperee dans la communaute Hacker News.",
       "tags": [
-        "github",
-        "open-source",
-        "110396-stars"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-707764474",
-      "title": "tphakala/birdnet-go",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/tphakala/birdnet-go",
-      "date": "2026-11-02",
-      "readTime": "3 min",
-      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
-      "tags": [
-        "github",
-        "open-source",
-        "2389-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1191114524",
-      "title": "daniel3303/Equibles",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/daniel3303/Equibles",
-      "date": "2026-11-02",
-      "readTime": "3 min",
-      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
-      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
-      "tags": [
-        "github",
-        "open-source",
-        "240-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-854776745",
-      "title": "hexabot-ai/Hexabot",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/hexabot-ai/Hexabot",
-      "date": "2026-11-02",
-      "readTime": "3 min",
-      "summary": "Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime.",
-      "body": "Hexabot v3 is an AI workflow automation platform, combining workflows, actions, agents, and conversational channels in one runtime.",
-      "tags": [
-        "github",
-        "open-source",
-        "1152-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-639195966",
-      "title": "kyegomez/swarms",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kyegomez/swarms",
-      "date": "2026-11-02",
-      "readTime": "3 min",
-      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
-      "tags": [
-        "github",
-        "open-source",
-        "7342-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1017208970",
-      "title": "WordPress/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/WordPress/ai",
-      "date": "2026-11-02",
-      "readTime": "3 min",
-      "summary": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
-      "body": "AI features and experiments for WordPress. Modular framework for testing AI capabilities.",
-      "tags": [
-        "github",
-        "open-source",
-        "381-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
-      "date": "2026-11-02",
-      "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
-      "tags": [
-        "github",
-        "open-source",
-        "721-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "hacker-news-50330753",
@@ -247,42 +139,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Jonathan Swift vs. AI, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Jonathan Swift vs. AI, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50316775",
-      "title": "Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.npr.org/2026/10/30/nx-s1-6022278/ai-artificial-intelligence-teens-jed-common-sense-media",
-      "date": "2026-10-31",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Nearly 2 out of 3 teens and tweens use AI chatbots, new research shows, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50315987",
-      "title": "Anthropic's Claude AI blocks video game cloning and reverse-engineering",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-ai-model-is-now-blocking-attempts-at-video-game-recreation-and-cloning-users-also-claim-non-malicious-generic-reverse-engineering-tasks-are-blocked",
-      "date": "2026-10-31",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Anthropic's Claude AI blocks video game cloning and reverse-engineering, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Anthropic's Claude AI blocks video game cloning and reverse-engineering, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -587,16 +443,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 373
+      "latencyMs": 282
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 478
+      "ok": false,
+      "count": 0,
+      "error": "GitHub returned HTTP 403"
     },
     {
       "id": "hugging-face",
@@ -605,7 +461,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 122
+      "latencyMs": 64
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +479,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 405
+      "latencyMs": 281
     },
     {
       "id": "gdelt",
@@ -636,6 +492,7 @@
     }
   ],
   "errors": [
+    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: GDELT returned HTTP 429"
   ]
