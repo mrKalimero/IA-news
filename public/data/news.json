@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-11-04T06:22:33.298Z",
+  "generatedAt": "2026-11-04T19:45:18.674Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50370128",
+      "title": "From an Environment of Production to an Environment of Assembly",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/@smoking2man/from-an-environment-of-production-to-an-environment-of-assembly-artificial-intelligence-and-the-a1cbcd80e519",
+      "date": "2026-11-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de From an Environment of Production to an Environment of Assembly, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de From an Environment of Production to an Environment of Assembly, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50367709",
+      "title": "Powering Artificial Intelligence [pdf]",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://iea.blob.core.windows.net/assets/cd360a30-aaef-43cd-84e6-a125c3a0bc67/PoweringArtificialIntelligence.pdf",
+      "date": "2026-11-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Powering Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Powering Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50365458",
+      "title": "AI cannot be separated from the thought that is making it",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://openwisdom.substack.com/p/an-urgent-message-on-artificial-intelligence",
+      "date": "2026-11-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI cannot be separated from the thought that is making it, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI cannot be separated from the thought that is making it, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50363800",
+      "title": "Canadian publisher: Orelien used AI to write award-winning book; ends relation",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.msn.com/en-us/technology/artificial-intelligence/canadian-publisher-says-thelyson-orelien-used-ai-to-write-award-winning-book-ends-relationship/ar-AA2fL1nS",
+      "date": "2026-11-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Canadian publisher: Orelien used AI to write award-winning book; ends relation, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Canadian publisher: Orelien used AI to write award-winning book; ends relation, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50362742",
+      "title": "Roman Yampolskiy 2017 Publication",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.researchgate.net/publication/318721264_Guidelines_for_Artificial_Intelligence_Containment",
+      "date": "2026-11-04",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Roman Yampolskiy 2017 Publication, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Roman Yampolskiy 2017 Publication, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50360659",
       "title": "OpenAI is quietly renaming data centers 'compute campuses'",
@@ -39,38 +129,74 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-53976910",
-      "title": "apache/texera",
+      "slug": "github-1016255018",
+      "title": "theexperiencecompany/gaia",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/apache/texera",
+      "url": "https://github.com/theexperiencecompany/gaia",
       "date": "2026-11-04",
       "readTime": "3 min",
-      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "summary": "Your proactive personal AI assistant for daily life",
+      "body": "Your proactive personal AI assistant for daily life",
       "tags": [
         "github",
         "open-source",
-        "329-stars"
+        "324-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-308444913",
-      "title": "kuberay-project/kuberay",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/kuberay-project/kuberay",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-11-04",
       "readTime": "3 min",
-      "summary": "A toolkit to run Ray applications on Kubernetes",
-      "body": "A toolkit to run Ray applications on Kubernetes",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "2758-stars"
+        "27740-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1415935623",
+      "title": "Generated-Computers/Locals",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Generated-Computers/Locals",
+      "date": "2026-11-04",
+      "readTime": "3 min",
+      "summary": "Run many AI agents at once on your Mac, up to 3x faster.",
+      "body": "Run many AI agents at once on your Mac, up to 3x faster.",
+      "tags": [
+        "github",
+        "open-source",
+        "669-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-741100585",
+      "title": "langchain-ai/langgraphjs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/langchain-ai/langgraphjs",
+      "date": "2026-11-04",
+      "readTime": "3 min",
+      "summary": "Framework to build resilient language agents as graphs.",
+      "body": "Framework to build resilient language agents as graphs.",
+      "tags": [
+        "github",
+        "open-source",
+        "3401-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -88,99 +214,81 @@
       "tags": [
         "github",
         "open-source",
-        "112166-stars"
+        "112687-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-638156745",
-      "title": "zjunlp/EasyEdit",
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/zjunlp/EasyEdit",
+      "url": "https://github.com/spiceai/spiceai",
       "date": "2026-11-04",
       "readTime": "3 min",
-      "summary": "[ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.",
-      "body": "[ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
       "tags": [
         "github",
         "open-source",
-        "2933-stars"
+        "3127-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-11-04",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "31208-stars"
+        "6621-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
+      "slug": "github-1428808109",
+      "title": "drawthingsai/local-code-community",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/drawthingsai/local-code-community",
       "date": "2026-11-04",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.",
+      "body": "Source code of Local Code, a private AI agent for Mac, iPad and iPhone. Runs DeepSeek 4.1 on device, with Python, Node.js and a shell built into the app.",
       "tags": [
         "github",
         "open-source",
-        "187889-stars"
+        "114-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
+      "slug": "hugging-face-artificialfrontiers-brink-intelligence",
+      "title": "ArtificialFrontiers/Brink-Intelligence",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/ArtificialFrontiers/Brink-Intelligence",
       "date": "2026-11-04",
       "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
       "tags": [
-        "github",
-        "open-source",
-        "9062-stars"
+        "hugging-face",
+        "model",
+        "0-downloads"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-89959055",
-      "title": "stillwater-sc/universal",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/stillwater-sc/universal",
-      "date": "2026-11-04",
-      "readTime": "3 min",
-      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
-      "tags": [
-        "github",
-        "open-source",
-        "503-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
     {
       "slug": "hacker-news-50358422",
@@ -193,42 +301,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de US tech giants' hidden AI debt swells 90% to $3.2T in 6 months, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de US tech giants' hidden AI debt swells 90% to $3.2T in 6 months, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50352520",
-      "title": "New Claude Limits to Prevent Game Cloning and Reverse Engineering",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-confirms-new-claude-code-limits-to-prevent-game-cloning-users-report-opus-5-5-is-also-actively-blocking-reverse-engineering-tasks",
-      "date": "2026-11-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de New Claude Limits to Prevent Game Cloning and Reverse Engineering, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de New Claude Limits to Prevent Game Cloning and Reverse Engineering, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50351728",
-      "title": "Google's Gemini 4 Carbon edges Claude Opus 5.5, claims fewest hallucinations",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-reveals-new-gemini-4-carbon-ai-model-narrowly-beating-claude-opus-5-5-frontier-ai-model-is-also-the-least-likely-to-hallucinate-benchmarks-claim",
-      "date": "2026-11-03",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Google's Gemini 4 Carbon edges Claude Opus 5.5, claims fewest hallucinations, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Google's Gemini 4 Carbon edges Claude Opus 5.5, claims fewest hallucinations, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -381,42 +453,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-50342547",
-      "title": "Evaluating Artificial Intelligence Use and Its Psychological Correlates",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/40977447/",
-      "date": "2026-11-02",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Evaluating Artificial Intelligence Use and Its Psychological Correlates, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Evaluating Artificial Intelligence Use and Its Psychological Correlates, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50330753",
-      "title": "Empires of AI – By Eric Schmidt and Niall Ferguson",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-niall-ferguson-eric-schmidt",
-      "date": "2026-11-01",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Empires of AI – By Eric Schmidt and Niall Ferguson, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Empires of AI – By Eric Schmidt and Niall Ferguson, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
       "title": "Artificial-Intelligence-Files/artificial-intelligence-files",
       "category": "Modeles",
@@ -466,7 +502,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "83-downloads"
+        "82-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -541,24 +577,6 @@
         "0-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-groovy-123-marfo-artificial-intelligence-pro",
-      "title": "Groovy-123/marfo-artificial-intelligence-pro",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/Groovy-123/marfo-artificial-intelligence-pro",
-      "date": "2025-08-30",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
   ],
   "sources": [
@@ -569,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 323
+      "latencyMs": 975
     },
     {
       "id": "github",
@@ -578,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 524
+      "latencyMs": 575
     },
     {
       "id": "hugging-face",
@@ -587,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 119
+      "latencyMs": 120
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 203
+      "latencyMs": 225
     },
     {
       "id": "gdelt",
@@ -614,11 +632,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
