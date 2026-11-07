@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-11-07T13:01:06.126Z",
+  "generatedAt": "2026-11-07T21:51:30.595Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50406541",
+      "title": "US intelligence: Jensen Huang had affair with Chinese spy; linked to smuggling",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-intelligence-believes-jensen-huang-had-romantic-relationship-with-chinese-spy-in-honeypot-operation-spy-suspect-linked-to-company-accused-of-smuggling-usd2-billion-in-ai-chips",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de US intelligence: Jensen Huang had affair with Chinese spy; linked to smuggling, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de US intelligence: Jensen Huang had affair with Chinese spy; linked to smuggling, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50405976",
+      "title": "Artificial Intelligence and Organizational Transformation",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/@smoking2man/artificial-intelligence-and-organizational-transformation-the-formalization-of-knowledge-changes-6bffb92e2226",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence and Organizational Transformation, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence and Organizational Transformation, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50405793",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The US let Nvidia sell chips to an empty office in China, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The US let Nvidia sell chips to an empty office in China, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50403625",
       "title": "Google says there's no way to use Search without using artificial intelligence",
@@ -21,74 +75,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-834466950",
-      "title": "AleksNeStu/ai-real-estate-assistant",
+      "slug": "github-639195966",
+      "title": "kyegomez/swarms",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AleksNeStu/ai-real-estate-assistant",
+      "url": "https://github.com/kyegomez/swarms",
       "date": "2026-11-07",
       "readTime": "3 min",
-      "summary": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo.",
-      "body": "Open-source AI real estate search with RAG, vector search, multi-provider LLMs, FastAPI, Next.js, ChromaDB, and a live demo.",
+      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
       "tags": [
         "github",
         "open-source",
-        "321-stars"
+        "7363-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-409072882",
-      "title": "arxhr007/Aliens_eye",
+      "slug": "github-608227238",
+      "title": "AgileRL/AgileRL",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/arxhr007/Aliens_eye",
+      "url": "https://github.com/AgileRL/AgileRL",
       "date": "2026-11-07",
       "readTime": "3 min",
-      "summary": "AI powered OSINT engine to discover and map 840+ social media identities across the web",
-      "body": "AI powered OSINT engine to discover and map 840+ social media identities across the web",
+      "summary": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
+      "body": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
       "tags": [
         "github",
         "open-source",
-        "4772-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-574523116",
-      "title": "f/prompts.chat",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/f/prompts.chat",
-      "date": "2026-11-07",
-      "readTime": "3 min",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "tags": [
-        "github",
-        "open-source",
-        "176132-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-896173731",
-      "title": "viveknaskar/everything-ai-ml",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/viveknaskar/everything-ai-ml",
-      "date": "2026-11-07",
-      "readTime": "3 min",
-      "summary": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "body": "A curated collection of learning resources for Generative AI, Machine Learning, Agentic AI, LLMs, RAG, Fine-tuning, MLOps, and more.",
-      "tags": [
-        "github",
-        "open-source",
-        "496-stars"
+        "966-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -106,63 +124,243 @@
       "tags": [
         "github",
         "open-source",
-        "92868-stars"
+        "92892-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-688164459",
-      "title": "harvard-edge/cs249r_book",
+      "slug": "github-1402635154",
+      "title": "vahmoh/Veda",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/harvard-edge/cs249r_book",
+      "url": "https://github.com/vahmoh/Veda",
       "date": "2026-11-07",
       "readTime": "3 min",
-      "summary": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
-      "body": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "summary": "The Agentic-Native Operating System",
+      "body": "The Agentic-Native Operating System",
       "tags": [
         "github",
         "open-source",
-        "30006-stars"
+        "102-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1169735215",
-      "title": "l33tdawg/sage",
+      "slug": "github-1283362391",
+      "title": "okesipoke/manuscript-phoneme-decipher",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/l33tdawg/sage",
+      "url": "https://github.com/okesipoke/manuscript-phoneme-decipher",
       "date": "2026-11-07",
       "readTime": "3 min",
-      "summary": "(S)AGE - (Sovereign) Agent Governed Experience",
-      "body": "(S)AGE - (Sovereign) Agent Governed Experience",
+      "summary": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
+      "body": "Voynich Manuscript Decoded: Elu-Sinhala Phonetic Transcription & Vocabulary Toolkit 2026",
       "tags": [
         "github",
         "open-source",
-        "264-stars"
+        "117-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-168637974",
-      "title": "yasserfarouk/negmas",
+      "slug": "github-1119405225",
+      "title": "Yigtwxx/awesome-rag-production",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yasserfarouk/negmas",
+      "url": "https://github.com/Yigtwxx/awesome-rag-production",
       "date": "2026-11-07",
       "readTime": "3 min",
-      "summary": "Negotiation Multi-Agent System (A negotiation library designed for situated negotiations within business-like simulations)",
-      "body": "Negotiation Multi-Agent System (A negotiation library designed for situated negotiations within business-like simulations)",
+      "summary": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.",
+      "body": "A curated list of battle-tested tools, frameworks, and best practices for building scalable, production-grade Retrieval-Augmented Generation (RAG) systems.",
       "tags": [
         "github",
         "open-source",
-        "103-stars"
+        "292-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "9084-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-912559512",
+      "title": "simstudioai/sim",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/simstudioai/sim",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "tags": [
+        "github",
+        "open-source",
+        "30070-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
+      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "wiwo.de",
+      "body": "wiwo.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "wiwo.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "hnonline.sk",
+      "body": "hnonline.sk",
+      "tags": [
+        "gdelt",
+        "media",
+        "hnonline.sk"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
+      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "finanznachrichten.de",
+      "body": "finanznachrichten.de",
+      "tags": [
+        "gdelt",
+        "media",
+        "finanznachrichten.de"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-ria-ru-20260927-gejts-2120563236-html",
+      "title": "Гейтс : договориться о регулировании ИИ будет сложнее , чем об ограничении ЯО",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://ria.ru/20260927/gejts-2120563236.html",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "ria.ru",
+      "body": "ria.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "ria.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-hani-co-kr-arti-economy-it-1282882-html",
+      "title": "10억불 피해 · 50명 사상 아니면 놔둬라 … 앤트로픽 , 미 AI 규제안 제안",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.hani.co.kr/arti/economy/it/1282882.html",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "hani.co.kr",
+      "body": "hani.co.kr",
+      "tags": [
+        "gdelt",
+        "media",
+        "hani.co.kr"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-1prime-ru-20260901-rossija-872846016-html",
+      "title": "В России с 1 сентября вступили в силу положения о регулировании ИИ",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://1prime.ru/20260901/rossija-872846016.html",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "1prime.ru",
+      "body": "1prime.ru",
+      "tags": [
+        "gdelt",
+        "media",
+        "1prime.ru"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-www-hani-co-kr-arti-international-china-1282935-html",
+      "title": "시진핑 AI 인프라 강조한 날 … 중국 , AI 포함 40개 기술 수출통제 추진",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://www.hani.co.kr/arti/international/china/1282935.html",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "hani.co.kr",
+      "body": "hani.co.kr",
+      "tags": [
+        "gdelt",
+        "media",
+        "hani.co.kr"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+    },
+    {
+      "slug": "gdelt-https-sud-ua-uk-news-ukraine-370826-shtuchnyi-intelekt-u-derzhavnomu-upravlinni-oesr-opryliudnyla-rekomendatsii-dlia-ukrainy",
+      "title": "Штучний інтелект у державному управлінні : ОЕСР оприлюднила рекомендації для України",
+      "category": "Regulation",
+      "source": "GDELT",
+      "sourceUrl": "https://www.gdeltproject.org/data.html",
+      "url": "https://sud.ua/uk/news/ukraine/370826-shtuchnyi-intelekt-u-derzhavnomu-upravlinni-oesr-opryliudnyla-rekomendatsii-dlia-ukrainy",
+      "date": "2026-11-07",
+      "readTime": "3 min",
+      "summary": "sud.ua",
+      "body": "sud.ua",
+      "tags": [
+        "gdelt",
+        "media",
+        "sud.ua"
+      ],
+      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-50394294",
@@ -229,24 +427,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Japan contractor's AI-guided tunnel boring outperforms human operators, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Japan contractor's AI-guided tunnel boring outperforms human operators, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50378538",
-      "title": "Amazon tells engineers to stop 'tokenmaxxing' to look productive",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/amazon-tells-engineers-to-stop-tokenmaxxing-to-look-productive-says-ai-will-be-central-to-software-development-but-usage-is-not-the-goal-new-guidelines-claim",
-      "date": "2026-11-05",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Amazon tells engineers to stop 'tokenmaxxing' to look productive, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Amazon tells engineers to stop 'tokenmaxxing' to look productive, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -417,42 +597,6 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-50370128",
-      "title": "From an Environment of Production to an Environment of Assembly",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/@smoking2man/from-an-environment-of-production-to-an-environment-of-assembly-artificial-intelligence-and-the-a1cbcd80e519",
-      "date": "2026-11-04",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de From an Environment of Production to an Environment of Assembly, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de From an Environment of Production to an Environment of Assembly, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50367709",
-      "title": "Powering Artificial Intelligence [pdf]",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://iea.blob.core.windows.net/assets/cd360a30-aaef-43cd-84e6-a125c3a0bc67/PoweringArtificialIntelligence.pdf",
-      "date": "2026-11-04",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Powering Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Powering Artificial Intelligence [pdf], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
       "title": "Artificial-Intelligence-Files/artificial-intelligence-files",
       "category": "Modeles",
@@ -587,7 +731,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 4864
+      "latencyMs": 331
     },
     {
       "id": "github",
@@ -596,7 +740,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 309
+      "latencyMs": 376
     },
     {
       "id": "hugging-face",
@@ -605,7 +749,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 85
+      "latencyMs": 154
     },
     {
       "id": "semantic-scholar",
@@ -623,20 +767,19 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 80
+      "latencyMs": 320
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": false,
-      "count": 0,
-      "error": "fetch failed"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 17170
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429"
   ]
 }
