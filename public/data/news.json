@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-13T06:45:56.674Z",
+  "generatedAt": "2026-11-13T19:42:08.254Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "hacker-news-50477335",
-      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "slug": "hacker-news-50487126",
+      "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
       "category": "Outils",
       "source": "Hacker News",
       "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
       "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de No, AI agents did not discover a previously unknown Maya site, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de No, AI agents did not discover a previously unknown Maya site, reperee dans la communaute Hacker News.",
+      "summary": "Discussion technique autour de Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -21,58 +21,40 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "slug": "hacker-news-50485275",
+      "title": "Artificial Intelligence for the Z80",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.dfsantos.com/en/libro-ia-z80",
       "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "summary": "Discussion technique autour de Artificial Intelligence for the Z80, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence for the Z80, reperee dans la communaute Hacker News.",
       "tags": [
-        "github",
-        "open-source",
-        "188012-stars"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1442436968",
-      "title": "didilili/mianstack",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/didilili/mianstack",
+      "slug": "hacker-news-50482192",
+      "title": "AI agents did not discover a previously unknown Maya site",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
       "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
-      "body": "🚀 面栈 MianStack｜程序员面试题库天花板！Java、Python、数据库、算法、大模型、AI Agent、RAG 一栈备齐。真实面经关联高频考点，按公司、岗位定向备考；图文题解、精华专题、项目源码拆解，全系标配。面试官出题，面栈出招！免费开源，持续更新。",
+      "summary": "Discussion technique autour de AI agents did not discover a previously unknown Maya site, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI agents did not discover a previously unknown Maya site, reperee dans la communaute Hacker News.",
       "tags": [
-        "github",
-        "open-source",
-        "173-stars"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
-      "date": "2026-11-13",
-      "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "9136-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
       "slug": "github-644461337",
@@ -88,7 +70,79 @@
       "tags": [
         "github",
         "open-source",
-        "27906-stars"
+        "27920-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/marimo-team/marimo",
+      "date": "2026-11-13",
+      "readTime": "3 min",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "tags": [
+        "github",
+        "open-source",
+        "23538-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "date": "2026-11-13",
+      "readTime": "3 min",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "tags": [
+        "github",
+        "open-source",
+        "6644-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "date": "2026-11-13",
+      "readTime": "3 min",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
+      "tags": [
+        "github",
+        "open-source",
+        "93419-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-659402878",
+      "title": "spring-projects/spring-ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spring-projects/spring-ai",
+      "date": "2026-11-13",
+      "readTime": "3 min",
+      "summary": "An Application Framework for AI Engineering",
+      "body": "An Application Framework for AI Engineering",
+      "tags": [
+        "github",
+        "open-source",
+        "9641-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -111,38 +165,20 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-796089121",
-      "title": "SAILResearch/awesome-ai-leaderboard",
+      "slug": "github-511003180",
+      "title": "basetenlabs/truss",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SAILResearch/awesome-ai-leaderboard",
+      "url": "https://github.com/basetenlabs/truss",
       "date": "2026-11-12",
       "readTime": "3 min",
-      "summary": "A curated list of awesome leaderboard-oriented resources for AI domain",
-      "body": "A curated list of awesome leaderboard-oriented resources for AI domain",
+      "summary": "The simplest way to serve AI/ML models in production",
+      "body": "The simplest way to serve AI/ML models in production",
       "tags": [
         "github",
         "open-source",
-        "384-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1375922101",
-      "title": "wh000wh000/awesome-jev-live",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wh000wh000/awesome-jev-live",
-      "date": "2026-11-12",
-      "readTime": "3 min",
-      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "tags": [
-        "github",
-        "open-source",
-        "379-stars"
+        "1233-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -309,20 +345,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-319063032",
-      "title": "SeriousOldMan/Simulator-Controller",
+      "slug": "github-89959055",
+      "title": "stillwater-sc/universal",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SeriousOldMan/Simulator-Controller",
+      "url": "https://github.com/stillwater-sc/universal",
       "date": "2026-11-11",
       "readTime": "3 min",
-      "summary": "A virtual AI-based pit crew for Sim Racing. Use the latest GPT technology to create a real life like experience when out on the track.",
-      "body": "A virtual AI-based pit crew for Sim Racing. Use the latest GPT technology to create a real life like experience when out on the track.",
+      "summary": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
+      "body": "Large collection of number systems providing custom arithmetic for mixed-precision algorithm development and optimization for AI, Machine Learning, Computer Vision, Signal Processing, CAE, EDA, control, optimization,...",
       "tags": [
         "github",
         "open-source",
-        "457-stars"
+        "505-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-576438535",
+      "title": "runpod/runpod-python",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/runpod/runpod-python",
+      "date": "2026-11-11",
+      "readTime": "3 min",
+      "summary": "🐍 | Python library for Runpod API and serverless worker SDK.",
+      "body": "🐍 | Python library for Runpod API and serverless worker SDK.",
+      "tags": [
+        "github",
+        "open-source",
+        "319-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -343,78 +397,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50443165",
-      "title": "Keep the Why – Better Decisions for Your Agents",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.i-programmer.info/news/105-artificial-intelligence/19273-keep-the-why-better-decisions-for-your-agents.html",
-      "date": "2026-11-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Keep the Why – Better Decisions for Your Agents, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Keep the Why – Better Decisions for Your Agents, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50441913",
-      "title": "Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.insideprivacy.com/artificial-intelligence/pennsylvania-enacts-artificial-intelligence-deceptive-advertising-act/",
-      "date": "2026-11-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Pennsylvania Enacts Artificial Intelligence Deceptive Advertising Act, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50440684",
-      "title": "Perplexity launches its own take on AI agents for work",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "date": "2026-11-10",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Perplexity launches its own take on AI agents for work, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Perplexity launches its own take on AI agents for work, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-168637974",
-      "title": "yasserfarouk/negmas",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yasserfarouk/negmas",
-      "date": "2026-11-10",
-      "readTime": "3 min",
-      "summary": "Negotiation Multi-Agent System (A negotiation library designed for situated negotiations within business-like simulations)",
-      "body": "Negotiation Multi-Agent System (A negotiation library designed for situated negotiations within business-like simulations)",
-      "tags": [
-        "github",
-        "open-source",
-        "104-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hugging-face-artificialfrontiers-brink-intelligence",
@@ -484,7 +466,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "47-downloads"
+        "48-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -569,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 246
+      "latencyMs": 344
     },
     {
       "id": "github",
@@ -578,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 352
+      "latencyMs": 470
     },
     {
       "id": "hugging-face",
@@ -587,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 92
+      "latencyMs": 59
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 136
+      "latencyMs": 243
     },
     {
       "id": "gdelt",
