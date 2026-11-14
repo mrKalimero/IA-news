@@ -1,7 +1,25 @@
 {
-  "generatedAt": "2026-11-14T18:01:23.819Z",
+  "generatedAt": "2026-11-14T22:24:11.063Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50499448",
+      "title": "The Ontological Divergence of Artificial Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/@smoking2man/the-ontological-divergence-of-artificial-intelligence-from-personal-contextualization-to-the-cb7f96eef3c3",
+      "date": "2026-11-14",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de The Ontological Divergence of Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The Ontological Divergence of Artificial Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50499114",
       "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
@@ -39,24 +57,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-700760709",
-      "title": "taranis-ai/taranis-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/taranis-ai/taranis-ai",
-      "date": "2026-11-14",
-      "readTime": "3 min",
-      "summary": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
-      "body": "Taranis AI is an advanced Open-Source Intelligence (OSINT) tool, leveraging Artificial Intelligence to revolutionize information gathering and situational analysis.",
-      "tags": [
-        "github",
-        "open-source",
-        "1236-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
       "slug": "github-771302083",
       "title": "OpenHands/OpenHands",
       "category": "Open source",
@@ -70,43 +70,61 @@
       "tags": [
         "github",
         "open-source",
-        "93465-stars"
+        "93476-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-394089041",
-      "title": "spiceai/spiceai",
+      "slug": "github-17072697",
+      "title": "genielabs/HomeGenie",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/spiceai/spiceai",
+      "url": "https://github.com/genielabs/HomeGenie",
       "date": "2026-11-14",
       "readTime": "3 min",
-      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
-      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "summary": "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.",
+      "body": "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.",
       "tags": [
         "github",
         "open-source",
-        "3151-stars"
+        "460-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-688164459",
-      "title": "harvard-edge/cs249r_book",
+      "slug": "github-1308140379",
+      "title": "AgentSwarms-fyi/agentswarms",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/harvard-edge/cs249r_book",
+      "url": "https://github.com/AgentSwarms-fyi/agentswarms",
       "date": "2026-11-14",
       "readTime": "3 min",
-      "summary": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
-      "body": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
+      "summary": "Unified Agentic AI and Data Platform",
+      "body": "Unified Agentic AI and Data Platform",
       "tags": [
         "github",
         "open-source",
-        "30203-stars"
+        "302-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-639195966",
+      "title": "kyegomez/swarms",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/kyegomez/swarms",
+      "date": "2026-11-14",
+      "readTime": "3 min",
+      "summary": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "body": "The Enterprise-Grade Multi-Agent Orchestration Framework. Website: https://swarms.ai",
+      "tags": [
+        "github",
+        "open-source",
+        "7379-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -124,7 +142,7 @@
       "tags": [
         "github",
         "open-source",
-        "188023-stars"
+        "188027-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -183,56 +201,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-580387696",
+      "title": "aeon-toolkit/aeon",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/aeon-toolkit/aeon",
       "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "A toolkit for time series machine learning and deep learning",
+      "body": "A toolkit for time series machine learning and deep learning",
       "tags": [
         "github",
         "open-source",
-        "6643-stars"
+        "1479-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "hacker-news-50469823",
-      "title": "Algorithm in the Consulting Room",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/@smoking2man/algorithm-in-the-consulting-room-on-the-architectural-mismatch-between-artificial-intelligence-and-5c3941f3f4c5",
-      "date": "2026-11-12",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Algorithm in the Consulting Room, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Algorithm in the Consulting Room, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-1136941035",
-      "title": "SyntheticAutonomicMind/CLIO",
+      "slug": "github-887435804",
+      "title": "Drix10/ai-resources",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/SyntheticAutonomicMind/CLIO",
-      "date": "2026-11-12",
+      "url": "https://github.com/Drix10/ai-resources",
+      "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
-      "body": "An AI-assisted coding agent that runs in your terminal and supports many providers and models.",
+      "summary": "100,000+ AI briefings in 41 categories: models, dev tools, agents, research, funding. New briefings are fact-checked against their source post and link to it. Plain Markdown, CC BY 4.0. MCP server + Agent Skill let Cl...",
+      "body": "100,000+ AI briefings in 41 categories: models, dev tools, agents, research, funding. New briefings are fact-checked against their source post and link to it. Plain Markdown, CC BY 4.0. MCP server + Agent Skill let Cl...",
       "tags": [
         "github",
         "open-source",
-        "233-stars"
+        "131-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -551,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 3241
+      "latencyMs": 232
     },
     {
       "id": "github",
@@ -560,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 368
+      "latencyMs": 392
     },
     {
       "id": "hugging-face",
@@ -569,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 77
+      "latencyMs": 64
     },
     {
       "id": "semantic-scholar",
@@ -587,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 187
+      "latencyMs": 85
     },
     {
       "id": "gdelt",
@@ -596,11 +596,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
