@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-11-16T06:30:03.408Z",
+  "generatedAt": "2026-11-16T22:01:24.190Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50522967",
+      "title": "AWS: AI Gets Physical: The Global Startups Readiness Index [pdf]",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/ai-ml/artificial-intelligence/approved/documents/aws-readiness-v13-final.pdf",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AWS: AI Gets Physical: The Global Startups Readiness Index [pdf], reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AWS: AI Gets Physical: The Global Startups Readiness Index [pdf], reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50520989",
+      "title": "Fable 5.2 creates an underwater world in a browser in only 96 KB",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Fable 5.2 creates an underwater world in a browser in only 96 KB, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Fable 5.2 creates an underwater world in a browser in only 96 KB, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50518229",
+      "title": "Cute faces like Muse Charm are a Trojan horse for exploitative AI tech",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.latimes.com/opinion/story/2026-11-10/muse-charm-artificial-intelligence",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Cute faces like Muse Charm are a Trojan horse for exploitative AI tech, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Cute faces like Muse Charm are a Trojan horse for exploitative AI tech, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50516268",
+      "title": "Ablation",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://en.wikipedia.org/wiki/Ablation_(artificial_intelligence)",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Ablation, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Ablation, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50515780",
+      "title": "Generative Artificial Intelligence and the Limits of the Corpus",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/@smoking2man/generative-artificial-intelligence-and-the-limits-of-the-corpus-why-the-reconstruction-of-69f8748cf380",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Generative Artificial Intelligence and the Limits of the Corpus, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Generative Artificial Intelligence and the Limits of the Corpus, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50514009",
       "title": "Artificial Intelligence in Neuromuscular Diseases",
@@ -21,6 +111,168 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "tags": [
+        "github",
+        "open-source",
+        "6648-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/marimo-team/marimo",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "tags": [
+        "github",
+        "open-source",
+        "23571-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-69562331",
+      "title": "ls1intum/Artemis",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/ls1intum/Artemis",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Artemis - Interactive Learning with Automated Feedback",
+      "body": "Artemis - Interactive Learning with Automated Feedback",
+      "tags": [
+        "github",
+        "open-source",
+        "833-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-810861466",
+      "title": "0xPlaygrounds/rig",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/0xPlaygrounds/rig",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "tags": [
+        "github",
+        "open-source",
+        "9161-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "tags": [
+        "github",
+        "open-source",
+        "28013-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1006104934",
+      "title": "CodeWithCJ/SparkyFitness",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/CodeWithCJ/SparkyFitness",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "body": "SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together.",
+      "tags": [
+        "github",
+        "open-source",
+        "6803-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "tags": [
+        "github",
+        "open-source",
+        "380-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "tags": [
+        "github",
+        "open-source",
+        "117665-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "semantic-scholar-a9a654ea503386cbfd8bb119fc650cc3d08dc206",
+      "title": "Revised Surgical CAse REport (SCARE) guideline: An update for the age of Artificial Intelligence",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/a9a654ea503386cbfd8bb119fc650cc3d08dc206",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
+      "body": "Introduction: Artificial intelligence (AI) is rapidly transforming healthcare and scientific publishing. Reporting guidelines need to be updated to take into account this advance. The SCARE Guideline 2025 update adds...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
       "slug": "hacker-news-50511793",
       "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
       "category": "Outils",
@@ -31,114 +283,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de Congress wants to tighten export rules on AI chips after Nvidia spy scandal, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de Congress wants to tighten export rules on AI chips after Nvidia spy scandal, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50510273",
-      "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf], reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf], reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50505371",
-      "title": "Inkling 2 Small Scores 31 on AAII v5.0.1, best-in-class among \"US\" open weights",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://artificialanalysis.ai/evaluations/artificial-analysis-intelligence-index",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Inkling 2 Small Scores 31 on AAII v5.0.1, best-in-class among \"US\" open weights, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Inkling 2 Small Scores 31 on AAII v5.0.1, best-in-class among \"US\" open weights, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50504874",
-      "title": "Baltimore County schools phase out AI reading program",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.thebanner.com/education/k-12-schools/county-schools-artificial-intelligence-453DCFYJL5CDBAM4AY3NYY4ILU/",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Baltimore County schools phase out AI reading program, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Baltimore County schools phase out AI reading program, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50504473",
-      "title": "Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Lawyer upgrades eight-V100 private AI server to run 80% of DeepSeek v4.1 Flash, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50499448",
-      "title": "The Ontological Divergence of Artificial Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/@smoking2man/the-ontological-divergence-of-artificial-intelligence-from-personal-contextualization-to-the-cb7f96eef3c3",
-      "date": "2026-11-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The Ontological Divergence of Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The Ontological Divergence of Artificial Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50499114",
-      "title": "Claude asked to renumber pages deletes professor's syllabus, year of notes",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/rogue-claude-ai-tasked-with-renumbering-pages-accidentally-deletes-law-professors-entire-syllabus-one-year-of-lecture-notes-youre-right-to-be-angry-i-deleted-your-files-through-my-own-carelessness-humbled-agent-admits",
-      "date": "2026-11-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Claude asked to renumber pages deletes professor's syllabus, year of notes, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Claude asked to renumber pages deletes professor's syllabus, year of notes, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -358,7 +502,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "47-downloads"
+        "46-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -433,6 +577,132 @@
         "0-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "semantic-scholar-8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
+      "title": "Sparks of Artificial General Intelligence: Early experiments with GPT-4",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/8dbd57469bb32e6d57f23f5e765bf1c9ac8e080c",
+      "date": "2023-03-22",
+      "readTime": "3 min",
+      "summary": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
+      "body": "Artificial intelligence (AI) researchers have been developing and refining large language models (LLMs) that exhibit remarkable capabilities across a variety of domains and tasks, challenging our understanding of lear...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
+      "title": "Systematic review of research on artificial intelligence applications in higher education – where are the educators?",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/04de4d9eb0d53025c8ab6c99d1e743f4c1bc1eb6",
+      "date": "2019-10-28",
+      "readTime": "3 min",
+      "summary": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
+      "body": "According to various international reports, Artificial Intelligence in Education (AIEd) is one of the currently emerging fields in educational technology. Whilst it has been around for about 30 years, it is still uncl...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-530a059cb48477ad1e3d4f8f4b153274c8997332",
+      "title": "Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/530a059cb48477ad1e3d4f8f4b153274c8997332",
+      "date": "2019-10-22",
+      "readTime": "3 min",
+      "summary": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
+      "body": "In the last years, Artificial Intelligence (AI) has achieved a notable momentum that may deliver the best of expectations over many application sectors across the field. For this to occur, the entire community stands...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-6a132499ca1dc0d23cfe7d5db841b819df63b51b",
+      "title": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, opportunities, and agenda for research, practice and policy",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/6a132499ca1dc0d23cfe7d5db841b819df63b51b",
+      "date": "2019-08-27",
+      "readTime": "3 min",
+      "summary": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reach...",
+      "body": "As far back as the industrial revolution, significant development in technical innovation has succeeded in transforming numerous manual tasks and processes that had been in existence for decades where humans had reach...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-f134abeaf9bfd41f29b97aec675ec31895bf541d",
+      "title": "High-performance medicine: the convergence of human and artificial intelligence",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/f134abeaf9bfd41f29b97aec675ec31895bf541d",
+      "date": "2019-01-01",
+      "readTime": "3 min",
+      "summary": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
+      "body": "Publication academique liee a High-performance medicine: the convergence of human and artificial intelligence.",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-21dff47a4142445f83016da0819ffe6dd2947f66",
+      "title": "Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI)",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/21dff47a4142445f83016da0819ffe6dd2947f66",
+      "date": "2018-09-17",
+      "readTime": "3 min",
+      "summary": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
+      "body": "At the dawn of the fourth industrial revolution, we are witnessing a fast and widespread adoption of artificial intelligence (AI) in our daily life, which contributes to accelerating the shift towards a more algorithm...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
+    },
+    {
+      "slug": "semantic-scholar-e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
+      "title": "Explanation in Artificial Intelligence: Insights from the Social Sciences",
+      "category": "Recherche",
+      "source": "Semantic Scholar",
+      "sourceUrl": "https://api.semanticscholar.org/api-docs/graph",
+      "url": "https://www.semanticscholar.org/paper/e89dfa306723e8ef031765e9c44e5f6f94fd8fda",
+      "date": "2017-06-22",
+      "readTime": "3 min",
+      "summary": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
+      "body": "There has been a recent resurgence in the area of explainable artificial intelligence as researchers and practitioners seek to make their algorithms more understandable. Much of this research is focused on explicitly...",
+      "tags": [
+        "semantic-scholar",
+        "paper",
+        "recherche"
+      ],
+      "impact": "Bon signal pour suivre les publications citees et les tendances de recherche."
     }
   ],
   "sources": [
@@ -442,17 +712,17 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 8,
-      "latencyMs": 254
+      "count": 7,
+      "latencyMs": 5241
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": false,
-      "count": 0,
-      "error": "GitHub returned HTTP 403"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 445
     },
     {
       "id": "hugging-face",
@@ -461,16 +731,16 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 71
+      "latencyMs": 72
     },
     {
       "id": "semantic-scholar",
       "name": "Semantic Scholar",
       "category": "Recherche",
       "docsUrl": "https://api.semanticscholar.org/api-docs/graph",
-      "ok": false,
-      "count": 0,
-      "error": "Semantic Scholar returned HTTP 429"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 3127
     },
     {
       "id": "arxiv",
@@ -479,7 +749,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 132
+      "latencyMs": 162
     },
     {
       "id": "gdelt",
@@ -492,8 +762,6 @@
     }
   ],
   "errors": [
-    "GitHub: GitHub returned HTTP 403",
-    "Semantic Scholar: Semantic Scholar returned HTTP 429",
     "GDELT: fetch failed"
   ]
 }
