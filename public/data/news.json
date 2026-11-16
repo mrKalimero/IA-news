@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-11-15T18:51:25.057Z",
+  "generatedAt": "2026-11-16T06:30:03.408Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50514009",
+      "title": "Artificial Intelligence in Neuromuscular Diseases",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://link.springer.com/article/10.1007/s40120-026-01017-8",
+      "date": "2026-11-16",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial Intelligence in Neuromuscular Diseases, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence in Neuromuscular Diseases, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50511793",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "date": "2026-11-15",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Congress wants to tighten export rules on AI chips after Nvidia spy scandal, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Congress wants to tighten export rules on AI chips after Nvidia spy scandal, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50510273",
+      "title": "U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf]",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+      "date": "2026-11-15",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf], reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de U.S. Copyright Office: Copyright and AI Part 2: Copyrightability [pdf], reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50505371",
       "title": "Inkling 2 Small Scores 31 on AAII v5.0.1, best-in-class among \"US\" open weights",
@@ -57,132 +111,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1104665901",
-      "title": "taovietducofficial/OpenTechNotes",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/taovietducofficial/OpenTechNotes",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "OpenTechNotes là kho tài liệu IT miễn phí, tổng hợp kiến thức nền tảng và kinh nghiệm thực chiến. Nội dung được tóm gọn, dễ hiểu và cập nhật thường xuyên để hỗ trợ học nhanh – hiểu sâu",
-      "body": "OpenTechNotes là kho tài liệu IT miễn phí, tổng hợp kiến thức nền tảng và kinh nghiệm thực chiến. Nội dung được tóm gọn, dễ hiểu và cập nhật thường xuyên để hỗ trợ học nhanh – hiểu sâu",
-      "tags": [
-        "github",
-        "open-source",
-        "102-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "tags": [
-        "github",
-        "open-source",
-        "117318-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-635258975",
-      "title": "sindresorhus/awesome-chatgpt",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sindresorhus/awesome-chatgpt",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]",
-      "body": "🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI [SUBMISSIONS ARE TEMPORARILY PAUSED BECAUSE OF TOO MANY LOW QUALITY SUBMISSIONS]",
-      "tags": [
-        "github",
-        "open-source",
-        "6499-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
-      "tags": [
-        "github",
-        "open-source",
-        "6648-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-99561213",
-      "title": "sonos/tract",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/sonos/tract",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "body": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-      "tags": [
-        "github",
-        "open-source",
-        "3123-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
-        "github",
-        "open-source",
-        "188039-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1188521544",
-      "title": "holaboss-ai/holaOS",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/holaboss-ai/holaOS",
-      "date": "2026-11-15",
-      "readTime": "3 min",
-      "summary": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex),...",
-      "body": "Open-source agentic workspace enterprises can make their own. Connect the systems you already run — 100+ integrations, MCP, chat tools, apps, browser, local files — with shared memory. Any agent (Claude Code, Codex),...",
-      "tags": [
-        "github",
-        "open-source",
-        "11441-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
       "slug": "hacker-news-50499448",
       "title": "The Ontological Divergence of Artificial Intelligence",
       "category": "Outils",
@@ -219,70 +147,34 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-50498051",
-      "title": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/mass-smuggling-of-nvidia-ai-gpus-could-be-the-underlying-cause-of-jensen-huangs-departure-analysts-claim-more-than-1-5-gigawatts-of-banned-chips-tracked-to-china-despite-export-controls",
-      "date": "2026-11-14",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Smuggling of 1.5M AI GPUs could be the cause of Huang's departure, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Smuggling of 1.5M AI GPUs could be the cause of Huang's departure, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50487126",
-      "title": "Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://apnews.com/article/artificial-intelligence-ai-lawsuit-cyberattacks-anthropic-openai-03ece37b96979fe834f60976648504ba",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18563v1",
+      "title": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2611.18563v1",
       "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Advocacy groups sue AI giants to freeze new models, warning 'catastrophic' risks, reperee dans la communaute Hacker News.",
+      "summary": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identifi...",
+      "body": "Monitoring maritime activities is important for safety and security, particularly for detecting illegal activities, but remains challenging due to the size and complexity of the maritime domain. The Automatic Identifi...",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "arxiv",
+        "paper",
+        "recherche"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-69562331",
-      "title": "ls1intum/Artemis",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ls1intum/Artemis",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18561v1",
+      "title": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices",
+      "category": "Recherche",
+      "source": "arXiv",
+      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
+      "url": "http://arxiv.org/abs/2611.18561v1",
       "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Artemis - Interactive Learning with Automated Feedback",
-      "body": "Artemis - Interactive Learning with Automated Feedback",
-      "tags": [
-        "github",
-        "open-source",
-        "832-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17334v1",
-      "title": "Unbundling Multimodal Vision Encoding",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17334v1",
-      "date": "2026-11-12",
-      "readTime": "3 min",
-      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove...",
-      "body": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove...",
+      "summary": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during att...",
+      "body": "Recent advances in speech neuroprostheses have enabled new communication avenues for people who have lost the ability to speak due to neurological illness or injury. These systems can decode neural activity during att...",
       "tags": [
         "arxiv",
         "paper",
@@ -291,16 +183,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17332v1",
-      "title": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18562v1",
+      "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17332v1",
-      "date": "2026-11-12",
+      "url": "http://arxiv.org/abs/2611.18562v1",
+      "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kim...",
-      "body": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSeek, Qwen, and Kim...",
+      "summary": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fa...",
+      "body": "Robot-use agents (RUAs) have emerged as a promising approach to general-purpose robot control. However, strong performance has so far been achieved only by frontier proprietary models such as GPT-6 Astra and Claude Fa...",
       "tags": [
         "arxiv",
         "paper",
@@ -309,16 +201,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17329v1",
-      "title": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18559v1",
+      "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17329v1",
-      "date": "2026-11-12",
+      "url": "http://arxiv.org/abs/2611.18559v1",
+      "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize fin...",
-      "body": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been shown to optimize fin...",
+      "summary": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., i...",
+      "body": "Learning semantically meaningful human movement representations from 3D pose sequences is essential for human behavior modeling. Existing self-supervised methods derive supervision from artificial assumptions, e.g., i...",
       "tags": [
         "arxiv",
         "paper",
@@ -327,16 +219,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17323v1",
-      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18553v1",
+      "title": "WeightBench: Evaluating Language Models as Weight-Space Programmers",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17323v1",
-      "date": "2026-11-12",
+      "url": "http://arxiv.org/abs/2611.18553v1",
+      "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have b...",
-      "body": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline design, they have b...",
+      "summary": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks...",
+      "body": "Recent work shows that large language models (LLMs) can operate directly on the parameters of other neural networks. They can read what a network was trained to do, fix a network that fails, and write working networks...",
       "tags": [
         "arxiv",
         "paper",
@@ -345,16 +237,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17316v1",
-      "title": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18543v1",
+      "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17316v1",
-      "date": "2026-11-12",
+      "url": "http://arxiv.org/abs/2611.18543v1",
+      "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness ag...",
-      "body": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing future usefulness ag...",
+      "summary": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible f...",
+      "body": "Demonstrations are an effective way to accelerate single-agent reinforcement learning (RL), but extending this idea to multi-agent reinforcement learning (MARL) is non-trivial as it is difficult and often impossible f...",
       "tags": [
         "arxiv",
         "paper",
@@ -363,16 +255,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17314v1",
-      "title": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18542v1",
+      "title": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17314v1",
-      "date": "2026-11-12",
+      "url": "http://arxiv.org/abs/2611.18542v1",
+      "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study n...",
-      "body": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn rapidly. We study n...",
+      "summary": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probabi...",
+      "body": "Generative modeling based on stochastic interpolants requires specifying two key choices: an interpolant schedule bridging the initial and target distributions, and an efficient discretization of the resulting probabi...",
       "tags": [
         "arxiv",
         "paper",
@@ -381,34 +273,16 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17313v1",
-      "title": "Sketching Language Models for Context Attribution",
+      "slug": "arxiv-http-arxiv-org-abs-2611-18538v1",
+      "title": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory",
       "category": "Recherche",
       "source": "arXiv",
       "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17313v1",
-      "date": "2026-11-12",
+      "url": "http://arxiv.org/abs/2611.18538v1",
+      "date": "2026-11-13",
       "readTime": "3 min",
-      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values...",
-      "body": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computing all LOO values...",
-      "tags": [
-        "arxiv",
-        "paper",
-        "recherche"
-      ],
-      "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
-    },
-    {
-      "slug": "arxiv-http-arxiv-org-abs-2611-17309v1",
-      "title": "Classical Energies Learn to Reason 1,000x Faster than Looped Models",
-      "category": "Recherche",
-      "source": "arXiv",
-      "sourceUrl": "https://info.arxiv.org/help/api/user-manual.html",
-      "url": "http://arxiv.org/abs/2611.17309v1",
-      "date": "2026-11-12",
-      "readTime": "3 min",
-      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many p...",
-      "body": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to train, and use many p...",
+      "summary": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather...",
+      "body": "An information system often has to learn before it knows what it will be asked. A finite representation can succeed without recording an infinite environment in full when those asks share collective structure, rather...",
       "tags": [
         "arxiv",
         "paper",
@@ -568,17 +442,17 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 7,
-      "latencyMs": 380
+      "count": 8,
+      "latencyMs": 254
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 426
+      "ok": false,
+      "count": 0,
+      "error": "GitHub returned HTTP 403"
     },
     {
       "id": "hugging-face",
@@ -587,7 +461,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 102
+      "latencyMs": 71
     },
     {
       "id": "semantic-scholar",
@@ -605,7 +479,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 240
+      "latencyMs": 132
     },
     {
       "id": "gdelt",
@@ -614,11 +488,12 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
+    "GitHub: GitHub returned HTTP 403",
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
