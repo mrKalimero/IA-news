@@ -1,150 +1,186 @@
 {
-  "generatedAt": "2026-11-19T07:25:38.228Z",
+  "generatedAt": "2026-11-19T20:37:27.276Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "gdelt-https-www-wiwo-de-unternehmen-it-kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki-100250610-html",
-      "title": "Künstliche Intelligenz : Siemens - Chef warnt vor zu viel Regulierung bei KI",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.wiwo.de/unternehmen/it/kuenstliche-intelligenz-siemens-chef-warnt-vor-zu-viel-regulierung-bei-ki/100250610.html",
+      "slug": "hacker-news-50565496",
+      "title": "Artificial Intelligence and the Production of Scientific Knowledge",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://medium.com/@smoking2man/artificial-intelligence-and-the-production-of-scientific-knowledge-discovery-verification-and-7a3f780f9cca",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "wiwo.de",
-      "body": "wiwo.de",
+      "summary": "Discussion technique autour de Artificial Intelligence and the Production of Scientific Knowledge, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial Intelligence and the Production of Scientific Knowledge, reperee dans la communaute Hacker News.",
       "tags": [
-        "gdelt",
-        "media",
-        "wiwo.de"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "gdelt-https-hnonline-sk-finweb-zahranicna-ekonomika-96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
-      "title": "Nesmieme brzdiť tempo vývoja umelej inteligencie reguláciou . Neustále zaostávame , tvrdí šéf Siemensu",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://hnonline.sk/finweb/zahranicna-ekonomika/96299553-nesmieme-brzdit-tempo-vyvoja-umelej-inteligencie-regulaciou-neustale-zaostavame-tvrdi-sef-siemensu",
+      "slug": "hacker-news-50562020",
+      "title": "The nation's largest school districts consider ditching Google Search",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "hnonline.sk",
-      "body": "hnonline.sk",
+      "summary": "Discussion technique autour de The nation's largest school districts consider ditching Google Search, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de The nation's largest school districts consider ditching Google Search, reperee dans la communaute Hacker News.",
       "tags": [
-        "gdelt",
-        "media",
-        "hnonline.sk"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "gdelt-https-www-finanznachrichten-de-nachrichten-2026-08-69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088-htm",
-      "title": "Siemens fordert schnellere KI Zulassung : Siemens Aktie im Fokus CEO Roland Busch warnt vor überzogener KI Regulierung",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69444943-siemens-fordert-schnellere-ki-zulassung-siemens-aktie-im-fokus-ceo-roland-busch-warnt-vor-ueberzogener-ki-regulierung-088.htm",
+      "slug": "hacker-news-50559618",
+      "title": "Canva adds 'AI Off' button",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "finanznachrichten.de",
-      "body": "finanznachrichten.de",
+      "summary": "Discussion technique autour de Canva adds 'AI Off' button, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Canva adds 'AI Off' button, reperee dans la communaute Hacker News.",
       "tags": [
-        "gdelt",
-        "media",
-        "finanznachrichten.de"
+        "hacker-news",
+        "tech",
+        "discussion"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "gdelt-https-ria-ru-20260927-gejts-2120563236-html",
-      "title": "Гейтс : договориться о регулировании ИИ будет сложнее , чем об ограничении ЯО",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260927/gejts-2120563236.html",
+      "slug": "github-707764474",
+      "title": "tphakala/birdnet-go",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/tphakala/birdnet-go",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
+      "summary": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
+      "body": "Self-hosted realtime soundscape analyser for birds, bats and other wildlife. Multi-model local AI inference, runs 24/7 on a Raspberry Pi.",
       "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
+        "github",
+        "open-source",
+        "2468-stars"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "gdelt-https-www-hani-co-kr-arti-economy-it-1282882-html",
-      "title": "10억불 피해 · 50명 사상 아니면 놔둬라 … 앤트로픽 , 미 AI 규제안 제안",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/economy/it/1282882.html",
+      "slug": "github-912559512",
+      "title": "simstudioai/sim",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/simstudioai/sim",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
+      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
       "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
+        "github",
+        "open-source",
+        "30163-stars"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "gdelt-https-1prime-ru-20260901-rossija-872846016-html",
-      "title": "В России с 1 сентября вступили в силу положения о регулировании ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://1prime.ru/20260901/rossija-872846016.html",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "1prime.ru",
-      "body": "1prime.ru",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
-        "gdelt",
-        "media",
-        "1prime.ru"
+        "github",
+        "open-source",
+        "6657-stars"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "gdelt-https-www-hani-co-kr-arti-international-china-1282935-html",
-      "title": "시진핑 AI 인프라 강조한 날 … 중국 , AI 포함 40개 기술 수출통제 추진",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/international/china/1282935.html",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
+        "github",
+        "open-source",
+        "28091-stars"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "gdelt-https-sud-ua-uk-news-ukraine-370826-shtuchnyi-intelekt-u-derzhavnomu-upravlinni-oesr-opryliudnyla-rekomendatsii-dlia-ukrainy",
-      "title": "Штучний інтелект у державному управлінні : ОЕСР оприлюднила рекомендації для України",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://sud.ua/uk/news/ukraine/370826-shtuchnyi-intelekt-u-derzhavnomu-upravlinni-oesr-opryliudnyla-rekomendatsii-dlia-ukrainy",
+      "slug": "github-783516011",
+      "title": "swarmauri/swarmauri-sdk",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/swarmauri/swarmauri-sdk",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "sud.ua",
-      "body": "sud.ua",
+      "summary": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.",
+      "body": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.",
       "tags": [
-        "gdelt",
-        "media",
-        "sud.ua"
+        "github",
+        "open-source",
+        "105-stars"
       ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/usestrix/strix",
+      "date": "2026-11-19",
+      "readTime": "3 min",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "tags": [
+        "github",
+        "open-source",
+        "76680-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1158138383",
+      "title": "CyberStrikeus/CyberStrike",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/CyberStrikeus/CyberStrike",
+      "date": "2026-11-19",
+      "readTime": "3 min",
+      "summary": "Open-source AI-powered offensive security harness for automated penetration testing.",
+      "body": "Open-source AI-powered offensive security harness for automated penetration testing.",
+      "tags": [
+        "github",
+        "open-source",
+        "3656-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hacker-news-50545274",
@@ -381,58 +417,22 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-50520989",
-      "title": "Fable 5.2 creates an underwater world in a browser in only 96 KB",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/fable-5-2-creates-an-underwater-world-in-a-browser-in-only-96-kb-40-line-prompt-creates-impressive-demo-that-runs-at-180-fps",
-      "date": "2026-11-16",
+      "slug": "github-1191114524",
+      "title": "daniel3303/Equibles",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/daniel3303/Equibles",
+      "date": "2026-11-15",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Fable 5.2 creates an underwater world in a browser in only 96 KB, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Fable 5.2 creates an underwater world in a browser in only 96 KB, reperee dans la communaute Hacker News.",
+      "summary": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
+      "body": "Self-hosted, open-source financial data MCP server for AI agents — SEC filings, XBRL financials, 13F holdings, insider & congressional trades, short interest, FRED, CFTC/CBOE and daily prices across 64 MCP tools. Equi...",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "github",
+        "open-source",
+        "246-stars"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50518229",
-      "title": "Cute faces like Muse Charm are a Trojan horse for exploitative AI tech",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.latimes.com/opinion/story/2026-11-10/muse-charm-artificial-intelligence",
-      "date": "2026-11-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Cute faces like Muse Charm are a Trojan horse for exploitative AI tech, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Cute faces like Muse Charm are a Trojan horse for exploitative AI tech, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50516268",
-      "title": "Ablation",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://en.wikipedia.org/wiki/Ablation_(artificial_intelligence)",
-      "date": "2026-11-16",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Ablation, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Ablation, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hugging-face-artificialfrontiers-brink-intelligence",
@@ -587,16 +587,16 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 330
+      "latencyMs": 315
     },
     {
       "id": "github",
       "name": "GitHub",
       "category": "Open source",
       "docsUrl": "https://docs.github.com/en/rest/search/search",
-      "ok": false,
-      "count": 0,
-      "error": "GitHub returned HTTP 403"
+      "ok": true,
+      "count": 8,
+      "latencyMs": 424
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 158
+      "latencyMs": 115
     },
     {
       "id": "semantic-scholar",
@@ -623,20 +623,20 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 173
+      "latencyMs": 288
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 15401
+      "ok": false,
+      "count": 0,
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "GitHub: GitHub returned HTTP 403",
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
