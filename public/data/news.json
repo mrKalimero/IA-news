@@ -1,7 +1,97 @@
 {
-  "generatedAt": "2026-11-20T20:20:36.013Z",
+  "generatedAt": "2026-11-21T07:07:58.625Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50584410",
+      "title": "A push for a treaty to not allow AI total control over nukes",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
+      "date": "2026-11-21",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de A push for a treaty to not allow AI total control over nukes, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de A push for a treaty to not allow AI total control over nukes, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-234784442",
+      "title": "rodrigo-arenas/Sklearn-genetic-opt",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/rodrigo-arenas/Sklearn-genetic-opt",
+      "date": "2026-11-21",
+      "readTime": "3 min",
+      "summary": "Evolutionary hyperparameter search and feature selection for scikit-learn. A modern alternative to GridSearchCV and RandomizedSearchCV.",
+      "body": "Evolutionary hyperparameter search and feature selection for scikit-learn. A modern alternative to GridSearchCV and RandomizedSearchCV.",
+      "tags": [
+        "github",
+        "open-source",
+        "397-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-678526156",
+      "title": "marimo-team/marimo",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/marimo-team/marimo",
+      "date": "2026-11-21",
+      "readTime": "3 min",
+      "summary": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "body": "A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.",
+      "tags": [
+        "github",
+        "open-source",
+        "23660-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-394089041",
+      "title": "spiceai/spiceai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/spiceai/spiceai",
+      "date": "2026-11-21",
+      "readTime": "3 min",
+      "summary": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "body": "Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents.",
+      "tags": [
+        "github",
+        "open-source",
+        "3132-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-102692863",
+      "title": "onnx/onnx",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/onnx/onnx",
+      "date": "2026-11-21",
+      "readTime": "3 min",
+      "summary": "Open standard for machine learning interoperability",
+      "body": "Open standard for machine learning interoperability",
+      "tags": [
+        "github",
+        "open-source",
+        "21730-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "hacker-news-50578512",
       "title": "First Principles Thinking and a Skill to Use It",
@@ -111,96 +201,6 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
-      "date": "2026-11-20",
-      "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "9202-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-614765452",
-      "title": "Significant-Gravitas/AutoGPT",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "date": "2026-11-20",
-      "readTime": "3 min",
-      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "tags": [
-        "github",
-        "open-source",
-        "188116-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
-      "date": "2026-11-20",
-      "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
-      "tags": [
-        "github",
-        "open-source",
-        "725-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
-      "date": "2026-11-20",
-      "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
-      "tags": [
-        "github",
-        "open-source",
-        "6656-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-912559512",
-      "title": "simstudioai/sim",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/simstudioai/sim",
-      "date": "2026-11-20",
-      "readTime": "3 min",
-      "summary": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "body": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
-      "tags": [
-        "github",
-        "open-source",
-        "30168-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
       "slug": "hacker-news-50568188",
       "title": "EU targeted by cyber attack using AI: 'No one is immune'",
       "category": "Outils",
@@ -219,56 +219,56 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-50566373",
-      "title": "Glossary of words and concepts in artificial intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.nytimes.com/2026/11/18/science/ai-artificial-intelligence-terminology-glossary.html",
-      "date": "2026-11-19",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Glossary of words and concepts in artificial intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Glossary of words and concepts in artificial intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-608227238",
-      "title": "AgileRL/AgileRL",
+      "slug": "github-133444044",
+      "title": "fairlearn/fairlearn",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/AgileRL/AgileRL",
+      "url": "https://github.com/fairlearn/fairlearn",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
-      "body": "The complete post-training stack for LLMs, plus RL for any problem. SFT, DPO and multi-turn agentic RL, with evolutionary hyperparameter optimization built in.",
+      "summary": "A Python package to assess and improve fairness of machine learning models.",
+      "body": "A Python package to assess and improve fairness of machine learning models.",
       "tags": [
         "github",
         "open-source",
-        "970-stars"
+        "2309-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1378970965",
-      "title": "Irsyadmr354/KESTREL",
+      "slug": "github-885931826",
+      "title": "felladrin/awesome-ai-web-search",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Irsyadmr354/KESTREL",
+      "url": "https://github.com/felladrin/awesome-ai-web-search",
       "date": "2026-11-19",
       "readTime": "3 min",
-      "summary": "Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider.",
-      "body": "Jailbreak system prompt. One file, one speaker, no second-guessing. Paste it as the system prompt on any provider.",
+      "summary": "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search",
+      "body": "List of software that allows searching the web with the assistance of AI: https://hf.co/spaces/felladrin/awesome-ai-web-search",
       "tags": [
         "github",
         "open-source",
-        "106-stars"
+        "1521-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-412151953",
+      "title": "BoltzmannEntropy/interviews.ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/BoltzmannEntropy/interviews.ai",
+      "date": "2026-11-19",
+      "readTime": "3 min",
+      "summary": "It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fas...",
+      "body": "It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fas...",
+      "tags": [
+        "github",
+        "open-source",
+        "4900-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -417,20 +417,20 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "github-1375922101",
-      "title": "wh000wh000/awesome-jev-live",
+      "slug": "github-1283352003",
+      "title": "onlyoneshakibul/magic-eraser-studio",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/wh000wh000/awesome-jev-live",
-      "date": "2026-11-16",
+      "url": "https://github.com/onlyoneshakibul/magic-eraser-studio",
+      "date": "2026-11-12",
       "readTime": "3 min",
-      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
-      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "summary": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
+      "body": "AI Object Remover 2026 – Erase Distractions & Keep HD Quality",
       "tags": [
         "github",
         "open-source",
-        "380-stars"
+        "114-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -587,7 +587,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 555
+      "latencyMs": 370
     },
     {
       "id": "github",
@@ -596,7 +596,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 633
+      "latencyMs": 339
     },
     {
       "id": "hugging-face",
@@ -605,7 +605,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 175
+      "latencyMs": 140
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +623,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 152
+      "latencyMs": 230
     },
     {
       "id": "gdelt",
