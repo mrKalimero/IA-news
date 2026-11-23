@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-11-23T07:39:06.518Z",
+  "generatedAt": "2026-11-23T23:53:48.681Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50619883",
+      "title": "Mathematics, artificial intelligence and the opportunities ahead",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/",
+      "date": "2026-11-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Mathematics, artificial intelligence and the opportunities ahead, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Mathematics, artificial intelligence and the opportunities ahead, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50614197",
+      "title": "First Claim of Artificial Super Intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://asi.anahata.uno/whitepaper.html",
+      "date": "2026-11-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de First Claim of Artificial Super Intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de First Claim of Artificial Super Intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50610830",
+      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "date": "2026-11-23",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Amodei reportedly suggested games could pacify masses after AI took their jobs (2015), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Amodei reportedly suggested games could pacify masses after AI took their jobs (2015), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50607180",
       "title": "An A.I. Editor's Essential Tool: The Typewriter",
@@ -21,22 +75,40 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "hacker-news-50606447",
-      "title": "Dario Amodei suggests video games could pacify the masses after AI takes jobs",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/felladrin/MiniSearch",
       "date": "2026-11-23",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Dario Amodei suggests video games could pacify the masses after AI takes jobs, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Dario Amodei suggests video games could pacify the masses after AI takes jobs, reperee dans la communaute Hacker News.",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "github",
+        "open-source",
+        "611-stars"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "date": "2026-11-23",
+      "readTime": "3 min",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "tags": [
+        "github",
+        "open-source",
+        "6665-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "github-614765452",
@@ -52,243 +124,63 @@
       "tags": [
         "github",
         "open-source",
-        "188145-stars"
+        "188156-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1415935623",
-      "title": "Generated-Computers/Locals",
+      "slug": "github-1140843380",
+      "title": "mvanhorn/last30days-skill",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Generated-Computers/Locals",
+      "url": "https://github.com/mvanhorn/last30days-skill",
       "date": "2026-11-23",
       "readTime": "3 min",
-      "summary": "Run many AI agents at once on your Mac, up to 3x faster.",
-      "body": "Run many AI agents at once on your Mac, up to 3x faster.",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "body": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "tags": [
         "github",
         "open-source",
-        "760-stars"
+        "73423-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-574523116",
-      "title": "f/prompts.chat",
+      "slug": "github-1048065319",
+      "title": "thedotmack/claude-mem",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/f/prompts.chat",
+      "url": "https://github.com/thedotmack/claude-mem",
       "date": "2026-11-23",
       "readTime": "3 min",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
       "tags": [
         "github",
         "open-source",
-        "178304-stars"
+        "119323-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
+      "slug": "github-178626720",
+      "title": "Lightning-AI/pytorch-lightning",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
+      "url": "https://github.com/Lightning-AI/pytorch-lightning",
       "date": "2026-11-23",
       "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
+      "summary": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+      "body": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
       "tags": [
         "github",
         "open-source",
-        "9232-stars"
+        "31463-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-964395174",
-      "title": "dyad-sh/dyad",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/dyad-sh/dyad",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
-      "body": "Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!",
-      "tags": [
-        "github",
-        "open-source",
-        "22393-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-771302083",
-      "title": "OpenHands/OpenHands",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "🙌 OpenHands: AI-Driven Development",
-      "body": "🙌 OpenHands: AI-Driven Development",
-      "tags": [
-        "github",
-        "open-source",
-        "94116-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260927-gejts-2120563236-html",
-      "title": "Гейтс : договориться о регулировании ИИ будет сложнее , чем об ограничении ЯО",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260927/gejts-2120563236.html",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-hani-co-kr-arti-economy-it-1282882-html",
-      "title": "10억불 피해 · 50명 사상 아니면 놔둬라 … 앤트로픽 , 미 AI 규제안 제안",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/economy/it/1282882.html",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
-      "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-1prime-ru-20260901-rossija-872846016-html",
-      "title": "В России с 1 сентября вступили в силу положения о регулировании ИИ",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://1prime.ru/20260901/rossija-872846016.html",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "1prime.ru",
-      "body": "1prime.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "1prime.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-hani-co-kr-arti-international-china-1282935-html",
-      "title": "시진핑 AI 인프라 강조한 날 … 중국 , AI 포함 40개 기술 수출통제 추진",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.hani.co.kr/arti/international/china/1282935.html",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "hani.co.kr",
-      "body": "hani.co.kr",
-      "tags": [
-        "gdelt",
-        "media",
-        "hani.co.kr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-sud-ua-uk-news-ukraine-370826-shtuchnyi-intelekt-u-derzhavnomu-upravlinni-oesr-opryliudnyla-rekomendatsii-dlia-ukrainy",
-      "title": "Штучний інтелект у державному управлінні : ОЕСР оприлюднила рекомендації для України",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://sud.ua/uk/news/ukraine/370826-shtuchnyi-intelekt-u-derzhavnomu-upravlinni-oesr-opryliudnyla-rekomendatsii-dlia-ukrainy",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "sud.ua",
-      "body": "sud.ua",
-      "tags": [
-        "gdelt",
-        "media",
-        "sud.ua"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-pnp-ru-economics-rossiya-i-kitay-dogovorilis-obmenivatsya-opytom-regulirovaniya-iskusstvennogo-intellekta-html",
-      "title": "Россия и Китай договорились обмениваться опытом регулирования искусственного интеллекта",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.pnp.ru/economics/rossiya-i-kitay-dogovorilis-obmenivatsya-opytom-regulirovaniya-iskusstvennogo-intellekta.html",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "pnp.ru",
-      "body": "pnp.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "pnp.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-www-aa-com-tr-tr-bilim-teknoloji-bill-gates-yapay-zeka-duzenlemelerinde-kuresel-uzlasinin-nukleer-gorusmelerden-zor-olacagini-soyledi-4070928",
-      "title": "Bill Gates yapay zeka düzenlemelerinde küresel uzlaşının , nükleer görüşmelerden zor olacağını söyledi",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://www.aa.com.tr/tr/bilim-teknoloji/bill-gates-yapay-zeka-duzenlemelerinde-kuresel-uzlasinin-nukleer-gorusmelerden-zor-olacagini-soyledi/4070928",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "aa.com.tr",
-      "body": "aa.com.tr",
-      "tags": [
-        "gdelt",
-        "media",
-        "aa.com.tr"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
-    },
-    {
-      "slug": "gdelt-https-ria-ru-20260927-tramp-2120591406-html",
-      "title": "Трамп встретится с гендиректором Anthropic , пишет Bloomberg",
-      "category": "Regulation",
-      "source": "GDELT",
-      "sourceUrl": "https://www.gdeltproject.org/data.html",
-      "url": "https://ria.ru/20260927/tramp-2120591406.html",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "ria.ru",
-      "body": "ria.ru",
-      "tags": [
-        "gdelt",
-        "media",
-        "ria.ru"
-      ],
-      "impact": "Aide a suivre les signaux media et politiques autour de la regulation IA."
     },
     {
       "slug": "hacker-news-50589344",
@@ -301,78 +193,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de 'Positive review only': Researchers hide AI prompts in papers Asia, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de 'Positive review only': Researchers hide AI prompts in papers Asia, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50584410",
-      "title": "A push for a treaty to not allow AI total control over nukes",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://theelders.org/news/humanity-threshold-declaration-artificial-intelligence-and-nuclear-weapons",
-      "date": "2026-11-21",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de A push for a treaty to not allow AI total control over nukes, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de A push for a treaty to not allow AI total control over nukes, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-1237178624",
-      "title": "chefroger/smart-trade-ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/chefroger/smart-trade-ai",
-      "date": "2026-11-21",
-      "readTime": "3 min",
-      "summary": "AI assistant for international trade — 45 B2B skills (lead gen, OSINT, email, docs, compliance). End-to-end customer development pipeline. Runs locally. 外贸业务员 AI 助手。",
-      "body": "AI assistant for international trade — 45 B2B skills (lead gen, OSINT, email, docs, compliance). End-to-end customer development pipeline. Runs locally. 外贸业务员 AI 助手。",
-      "tags": [
-        "github",
-        "open-source",
-        "112-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "hacker-news-50578512",
-      "title": "First Principles Thinking and a Skill to Use It",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/towards-artificial-intelligence/first-principles-thinking-and-a-skill-to-use-it-d535eb85476e",
-      "date": "2026-11-20",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de First Principles Thinking and a Skill to Use It, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de First Principles Thinking and a Skill to Use It, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50576113",
-      "title": "EU confirms AI-assisted cyberattack on European Commission",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://apnews.com/article/cyberattack-european-union-artificial-intelligence-ai-79705095e8141cd650196dbff1cf3c70",
-      "date": "2026-11-20",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de EU confirms AI-assisted cyberattack on European Commission, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de EU confirms AI-assisted cyberattack on European Commission, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -525,6 +345,24 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
+      "slug": "github-17072697",
+      "title": "genielabs/HomeGenie",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/genielabs/HomeGenie",
+      "date": "2026-11-19",
+      "readTime": "3 min",
+      "summary": "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.",
+      "body": "HomeGenie: The Programmable Intelligence with 100% Local Agentic AI.",
+      "tags": [
+        "github",
+        "open-source",
+        "459-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "github-1119072163",
       "title": "billy-enrizky/openbrowser-ai",
       "category": "Open source",
@@ -610,7 +448,7 @@
       "tags": [
         "hugging-face",
         "sentence-similarity",
-        "29-downloads"
+        "28-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
@@ -695,7 +533,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 274
+      "latencyMs": 477
     },
     {
       "id": "github",
@@ -704,7 +542,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 525
+      "latencyMs": 379
     },
     {
       "id": "hugging-face",
@@ -713,7 +551,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 119
+      "latencyMs": 176
     },
     {
       "id": "semantic-scholar",
@@ -731,19 +569,20 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 135
+      "latencyMs": 187
     },
     {
       "id": "gdelt",
       "name": "GDELT",
       "category": "Regulation",
       "docsUrl": "https://www.gdeltproject.org/data.html",
-      "ok": true,
-      "count": 8,
-      "latencyMs": 13719
+      "ok": false,
+      "count": 0,
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
-    "Semantic Scholar: Semantic Scholar returned HTTP 429"
+    "Semantic Scholar: Semantic Scholar returned HTTP 429",
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
