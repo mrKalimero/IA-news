@@ -1,7 +1,61 @@
 {
-  "generatedAt": "2026-11-25T08:34:23.643Z",
+  "generatedAt": "2026-11-25T21:41:51.201Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50644778",
+      "title": "List of mathematical discoveries made with artificial intelligence",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://en.wikipedia.org/wiki/List_of_mathematical_discoveries_made_with_artificial_intelligence",
+      "date": "2026-11-25",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de List of mathematical discoveries made with artificial intelligence, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de List of mathematical discoveries made with artificial intelligence, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50642210",
+      "title": "An AI Dark Age Looms. But There's Another Path",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.thefp.com/p/artificial-intelligence-dark-age-broken-institutions",
+      "date": "2026-11-25",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de An AI Dark Age Looms. But There's Another Path, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de An AI Dark Age Looms. But There's Another Path, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50642177",
+      "title": "New York Times warns photographers not to update Photoshop over AI features",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "date": "2026-11-25",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de New York Times warns photographers not to update Photoshop over AI features, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de New York Times warns photographers not to update Photoshop over AI features, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
     {
       "slug": "hacker-news-50636772",
       "title": "We're racing towards dangers, Yoshua Bengio says",
@@ -21,92 +75,92 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-574523116",
-      "title": "f/prompts.chat",
+      "slug": "github-1416442720",
+      "title": "microsoft/TokenEconomizer",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/f/prompts.chat",
+      "url": "https://github.com/microsoft/TokenEconomizer",
       "date": "2026-11-25",
       "readTime": "3 min",
-      "summary": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
-      "body": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+      "summary": "Experience-Driven Black-Box Cost Control for Coding Agents",
+      "body": "Experience-Driven Black-Box Cost Control for Coding Agents",
       "tags": [
         "github",
         "open-source",
-        "178479-stars"
+        "8113-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-53976910",
-      "title": "apache/texera",
+      "slug": "github-855492641",
+      "title": "speedyapply/2027-AI-College-Jobs",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/apache/texera",
+      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
       "date": "2026-11-25",
       "readTime": "3 min",
-      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
+      "summary": "2027 AI/ML internship & new graduate job list updated daily",
+      "body": "2027 AI/ML internship & new graduate job list updated daily",
       "tags": [
         "github",
         "open-source",
-        "342-stars"
+        "6669-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-1330474301",
-      "title": "lobehub/awesome-rsi",
+      "slug": "github-644461337",
+      "title": "vercel/ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/lobehub/awesome-rsi",
+      "url": "https://github.com/vercel/ai",
       "date": "2026-11-25",
       "readTime": "3 min",
-      "summary": "A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety.",
-      "body": "A curated research map of Recursive Self-Improvement (RSI): models, agents, harnesses, embodied systems, automated AI R&D, benchmarks, and safety.",
+      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
       "tags": [
         "github",
         "open-source",
-        "1105-stars"
+        "28207-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-125381318",
-      "title": "Trusted-AI/adversarial-robustness-toolbox",
+      "slug": "github-704892113",
+      "title": "felladrin/MiniSearch",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/Trusted-AI/adversarial-robustness-toolbox",
+      "url": "https://github.com/felladrin/MiniSearch",
       "date": "2026-11-25",
       "readTime": "3 min",
-      "summary": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
-      "body": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
       "tags": [
         "github",
         "open-source",
-        "6329-stars"
+        "613-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-138552196",
-      "title": "nautechsystems/nautilus_trader",
+      "slug": "github-1032808806",
+      "title": "usestrix/strix",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "url": "https://github.com/usestrix/strix",
       "date": "2026-11-25",
       "readTime": "3 min",
-      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "summary": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "body": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "tags": [
         "github",
         "open-source",
-        "31800-stars"
+        "77575-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -124,45 +178,63 @@
       "tags": [
         "github",
         "open-source",
-        "23734-stars"
+        "23745-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-108102826",
-      "title": "carla-simulator/carla",
+      "slug": "github-771302083",
+      "title": "OpenHands/OpenHands",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/carla-simulator/carla",
+      "url": "https://github.com/OpenHands/OpenHands",
       "date": "2026-11-25",
       "readTime": "3 min",
-      "summary": "Open-source simulator for autonomous driving research.",
-      "body": "Open-source simulator for autonomous driving research.",
+      "summary": "🙌 OpenHands: AI-Driven Development",
+      "body": "🙌 OpenHands: AI-Driven Development",
       "tags": [
         "github",
         "open-source",
-        "14707-stars"
+        "94335-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-848777553",
-      "title": "yakupzengin/fitness-trainer-pose-estimation",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/yakupzengin/fitness-trainer-pose-estimation",
+      "slug": "hugging-face-applied-artificial-intelligence-eurecat-impetus-climate-bge-small",
+      "title": "Applied-Artificial-Intelligence-Eurecat/IMPETUS-Climate-bge-small",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/Applied-Artificial-Intelligence-Eurecat/IMPETUS-Climate-bge-small",
       "date": "2026-11-25",
       "readTime": "3 min",
-      "summary": "An AI-powered fitness tracker that uses real-time pose estimation to count reps, monitor form, and provide instant feedback for exercises like squats, push-ups, and bicep curls. Designed for accuracy, motivation, and...",
-      "body": "An AI-powered fitness tracker that uses real-time pose estimation to count reps, monitor form, and provide instant feedback for exercises like squats, push-ups, and bicep curls. Designed for accuracy, motivation, and...",
+      "summary": "Modele publie sur Hugging Face pour sentence-similarity.",
+      "body": "Modele publie sur Hugging Face pour sentence-similarity.",
       "tags": [
-        "github",
-        "open-source",
-        "115-stars"
+        "hugging-face",
+        "sentence-similarity",
+        "38-downloads"
       ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
+    },
+    {
+      "slug": "hugging-face-applied-artificial-intelligence-eurecat-water-governance-bge-m3",
+      "title": "Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
+      "date": "2026-11-25",
+      "readTime": "3 min",
+      "summary": "Modele publie sur Hugging Face pour sentence-similarity.",
+      "body": "Modele publie sur Hugging Face pour sentence-similarity.",
+      "tags": [
+        "hugging-face",
+        "sentence-similarity",
+        "12-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
     {
       "slug": "hacker-news-50633174",
@@ -193,42 +265,6 @@
       "readTime": "3 min",
       "summary": "Discussion technique autour de What Artificial Intelligence Can and Cannot Do Today, reperee dans la communaute Hacker News.",
       "body": "Discussion technique autour de What Artificial Intelligence Can and Cannot Do Today, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50632517",
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "date": "2026-11-24",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de The New York Times warns photographers not to update Photoshop over AI features, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de The New York Times warns photographers not to update Photoshop over AI features, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50624331",
-      "title": "Export of Machine Thinking: How Artificial Intelligence a Standard of Language",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://medium.com/@smoking2man/the-export-of-machine-thinking-how-artificial-intelligence-shapes-a-global-standard-of-language-57ee0303075e",
-      "date": "2026-11-24",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Export of Machine Thinking: How Artificial Intelligence a Standard of Language, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Export of Machine Thinking: How Artificial Intelligence a Standard of Language, reperee dans la communaute Hacker News.",
       "tags": [
         "hacker-news",
         "tech",
@@ -381,58 +417,22 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
-      "slug": "hacker-news-50619883",
-      "title": "Mathematics, artificial intelligence and the opportunities ahead",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.acadmathsci.org.uk/perspectives-on-ai/mathematics-artificial-intelligence-and-the-opportunities-ahead/",
-      "date": "2026-11-23",
+      "slug": "github-1119072163",
+      "title": "billy-enrizky/openbrowser-ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/billy-enrizky/openbrowser-ai",
+      "date": "2026-11-14",
       "readTime": "3 min",
-      "summary": "Discussion technique autour de Mathematics, artificial intelligence and the opportunities ahead, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Mathematics, artificial intelligence and the opportunities ahead, reperee dans la communaute Hacker News.",
+      "summary": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, inte...",
+      "body": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, inte...",
       "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
+        "github",
+        "open-source",
+        "279-stars"
       ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50614197",
-      "title": "First Claim of Artificial Super Intelligence",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://asi.anahata.uno/whitepaper.html",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de First Claim of Artificial Super Intelligence, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de First Claim of Artificial Super Intelligence, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50610830",
-      "title": "Amodei reportedly suggested games could pacify masses after AI took their jobs (2015)",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1039745/dario-amodei-video-games-ai-joblessness",
-      "date": "2026-11-23",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de Amodei reportedly suggested games could pacify masses after AI took their jobs (2015), reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de Amodei reportedly suggested games could pacify masses after AI took their jobs (2015), reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hugging-face-artificialfrontiers-brink-intelligence",
@@ -489,24 +489,6 @@
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
     {
-      "slug": "hugging-face-applied-artificial-intelligence-eurecat-water-governance-bge-m3",
-      "title": "Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/Applied-Artificial-Intelligence-Eurecat/water-governance-bge-m3",
-      "date": "2026-05-11",
-      "readTime": "3 min",
-      "summary": "Modele publie sur Hugging Face pour sentence-similarity.",
-      "body": "Modele publie sur Hugging Face pour sentence-similarity.",
-      "tags": [
-        "hugging-face",
-        "sentence-similarity",
-        "12-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
       "slug": "hugging-face-hasansuhail-hyper-plus-artificialintelligence-ai",
       "title": "hasansuhail/Hyper.Plus.ArtificialIntelligence.ai",
       "category": "Modeles",
@@ -559,24 +541,6 @@
         "0-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-tintindo-chat-box-artificial-intelligence",
-      "title": "TinTinDo/Chat-Box-Artificial-Intelligence",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/TinTinDo/Chat-Box-Artificial-Intelligence",
-      "date": "2025-11-16",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
   ],
   "sources": [
@@ -586,8 +550,8 @@
       "category": "Outils",
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
-      "count": 8,
-      "latencyMs": 365
+      "count": 7,
+      "latencyMs": 287
     },
     {
       "id": "github",
@@ -596,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 516
+      "latencyMs": 369
     },
     {
       "id": "hugging-face",
@@ -605,7 +569,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 91
+      "latencyMs": 111
     },
     {
       "id": "semantic-scholar",
@@ -623,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 287
+      "latencyMs": 103
     },
     {
       "id": "gdelt",
@@ -632,11 +596,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "GDELT returned HTTP 429"
+      "error": "fetch failed"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: GDELT returned HTTP 429"
+    "GDELT: fetch failed"
   ]
 }
