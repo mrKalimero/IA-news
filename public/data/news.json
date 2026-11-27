@@ -1,24 +1,114 @@
 {
-  "generatedAt": "2026-11-26T21:31:36.378Z",
+  "generatedAt": "2026-11-27T08:33:50.994Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
     {
-      "slug": "github-1140843380",
-      "title": "mvanhorn/last30days-skill",
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "date": "2026-11-26",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-11-27",
       "readTime": "3 min",
-      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "body": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "tags": [
         "github",
         "open-source",
-        "75674-stars"
+        "188204-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-854337508",
+      "title": "alibaba/spring-ai-alibaba",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/alibaba/spring-ai-alibaba",
+      "date": "2026-11-27",
+      "readTime": "3 min",
+      "summary": "Agentic AI Framework for Java Developers",
+      "body": "Agentic AI Framework for Java Developers",
+      "tags": [
+        "github",
+        "open-source",
+        "11184-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-653496050",
+      "title": "xorbitsai/inference",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/xorbitsai/inference",
+      "date": "2026-11-27",
+      "readTime": "3 min",
+      "summary": "Open-source inference platform for language, vision, embedding, reranking, image, audio, and video models. Deploy with multiple engines across heterogeneous hardware, from a laptop to a distributed cluster. Serve mode...",
+      "body": "Open-source inference platform for language, vision, embedding, reranking, image, audio, and video models. Deploy with multiple engines across heterogeneous hardware, from a laptop to a distributed cluster. Serve mode...",
+      "tags": [
+        "github",
+        "open-source",
+        "9676-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "date": "2026-11-27",
+      "readTime": "3 min",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "tags": [
+        "github",
+        "open-source",
+        "31851-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-895367054",
+      "title": "greatfrontend/black-friday-cyber-monday-deals",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/greatfrontend/black-friday-cyber-monday-deals",
+      "date": "2026-11-27",
+      "readTime": "3 min",
+      "summary": "Black Friday deals for developers and designers – templates, devtools, courses, books",
+      "body": "Black Friday deals for developers and designers – templates, devtools, courses, books",
+      "tags": [
+        "github",
+        "open-source",
+        "219-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "hugging-face-aliai1225-udemy-artificialintelligencemasterclass",
+      "title": "aliai1225/Udemy_ArtificialIntelligenceMasterclass",
+      "category": "Modeles",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/hub/api",
+      "url": "https://huggingface.co/aliai1225/Udemy_ArtificialIntelligenceMasterclass",
+      "date": "2026-11-27",
+      "readTime": "3 min",
+      "summary": "Modele repere dans le Hub Hugging Face.",
+      "body": "Modele repere dans le Hub Hugging Face.",
+      "tags": [
+        "hugging-face",
+        "model",
+        "0-downloads"
+      ],
+      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
     {
       "slug": "github-394089041",
@@ -34,79 +124,25 @@
       "tags": [
         "github",
         "open-source",
-        "3129-stars"
+        "3130-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-704892113",
-      "title": "felladrin/MiniSearch",
+      "slug": "github-224908244",
+      "title": "WasmEdge/WasmEdge",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/felladrin/MiniSearch",
+      "url": "https://github.com/WasmEdge/WasmEdge",
       "date": "2026-11-26",
       "readTime": "3 min",
-      "summary": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
-      "body": "Minimalist web-searching platform with an AI assistant that runs directly from your browser. Demo: https://felladrin-minisearch.hf.space",
+      "summary": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
+      "body": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, an...",
       "tags": [
         "github",
         "open-source",
-        "613-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-810861466",
-      "title": "0xPlaygrounds/rig",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/0xPlaygrounds/rig",
-      "date": "2026-11-26",
-      "readTime": "3 min",
-      "summary": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "body": "⚙️🦀 Build modular and scalable LLM Applications in Rust",
-      "tags": [
-        "github",
-        "open-source",
-        "9280-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
-      "date": "2026-11-26",
-      "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
-      "tags": [
-        "github",
-        "open-source",
-        "6672-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "date": "2026-11-26",
-      "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "tags": [
-        "github",
-        "open-source",
-        "119961-stars"
+        "10871-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -199,42 +235,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-1016255018",
-      "title": "theexperiencecompany/gaia",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/theexperiencecompany/gaia",
-      "date": "2026-11-25",
-      "readTime": "3 min",
-      "summary": "Your proactive personal AI assistant for daily life",
-      "body": "Your proactive personal AI assistant for daily life",
-      "tags": [
-        "github",
-        "open-source",
-        "331-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-53976910",
-      "title": "apache/texera",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/apache/texera",
-      "date": "2026-11-25",
-      "readTime": "3 min",
-      "summary": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "body": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "tags": [
-        "github",
-        "open-source",
-        "343-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hugging-face-applied-artificial-intelligence-eurecat-impetus-climate-bge-small",
@@ -435,6 +435,24 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
+      "slug": "github-1119072163",
+      "title": "billy-enrizky/openbrowser-ai",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/billy-enrizky/openbrowser-ai",
+      "date": "2026-11-14",
+      "readTime": "3 min",
+      "summary": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, inte...",
+      "body": "OpenBrowser is a framework for intelligent browser automation. It combines direct CDP communication with a CodeAgent architecture, where the LLM writes Python code executed in a persistent namespace, to navigate, inte...",
+      "tags": [
+        "github",
+        "open-source",
+        "279-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "hugging-face-artificialfrontiers-brink-intelligence",
       "title": "ArtificialFrontiers/Brink-Intelligence",
       "category": "Modeles",
@@ -523,24 +541,6 @@
         "0-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "hugging-face-tintindo-artificial-intelligence",
-      "title": "TinTinDo/Artificial-Intelligence",
-      "category": "Modeles",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/docs/hub/api",
-      "url": "https://huggingface.co/TinTinDo/Artificial-Intelligence",
-      "date": "2025-11-19",
-      "readTime": "3 min",
-      "summary": "Modele repere dans le Hub Hugging Face.",
-      "body": "Modele repere dans le Hub Hugging Face.",
-      "tags": [
-        "hugging-face",
-        "model",
-        "0-downloads"
-      ],
-      "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     }
   ],
   "sources": [
@@ -551,7 +551,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 3121
+      "latencyMs": 464
     },
     {
       "id": "github",
@@ -560,7 +560,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 349
+      "latencyMs": 406
     },
     {
       "id": "hugging-face",
@@ -587,7 +587,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 274
+      "latencyMs": 111
     },
     {
       "id": "gdelt",
@@ -596,11 +596,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
