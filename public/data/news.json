@@ -1,7 +1,115 @@
 {
-  "generatedAt": "2026-11-27T21:17:08.917Z",
+  "generatedAt": "2026-11-28T07:49:09.594Z",
   "sourceMode": "scheduled-static-json",
   "articles": [
+    {
+      "slug": "hacker-news-50675303",
+      "title": "AI labs sitting on 'bombshell' revelations, experts warn",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://www.theguardian.com/technology/2026/nov/28/ai-artificial-intelligence-encryption-global-chaos",
+      "date": "2026-11-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de AI labs sitting on 'bombshell' revelations, experts warn, reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de AI labs sitting on 'bombshell' revelations, experts warn, reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "hacker-news-50673560",
+      "title": "Artificial intelligence meets natural stupidity (1976)",
+      "category": "Outils",
+      "source": "Hacker News",
+      "sourceUrl": "https://hn.algolia.com/",
+      "url": "https://dl.acm.org/doi/10.1145/1045339.1045340",
+      "date": "2026-11-28",
+      "readTime": "3 min",
+      "summary": "Discussion technique autour de Artificial intelligence meets natural stupidity (1976), reperee dans la communaute Hacker News.",
+      "body": "Discussion technique autour de Artificial intelligence meets natural stupidity (1976), reperee dans la communaute Hacker News.",
+      "tags": [
+        "hacker-news",
+        "tech",
+        "discussion"
+      ],
+      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
+    },
+    {
+      "slug": "github-1378970965",
+      "title": "Irsyadmr354/KESTREL",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Irsyadmr354/KESTREL",
+      "date": "2026-11-28",
+      "readTime": "3 min",
+      "summary": "KESTREL: 60-line system prompt for every model. Two exclusions, zero hedging, complete builds",
+      "body": "KESTREL: 60-line system prompt for every model. Two exclusions, zero hedging, complete builds",
+      "tags": [
+        "github",
+        "open-source",
+        "113-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-1140843380",
+      "title": "mvanhorn/last30days-skill",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "date": "2026-11-28",
+      "readTime": "3 min",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "body": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "tags": [
+        "github",
+        "open-source",
+        "76492-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-138552196",
+      "title": "nautechsystems/nautilus_trader",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "date": "2026-11-28",
+      "readTime": "3 min",
+      "summary": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "body": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "tags": [
+        "github",
+        "open-source",
+        "31874-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
+      "slug": "github-614765452",
+      "title": "Significant-Gravitas/AutoGPT",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "date": "2026-11-28",
+      "readTime": "3 min",
+      "summary": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "body": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "tags": [
+        "github",
+        "open-source",
+        "188217-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
     {
       "slug": "hacker-news-50670226",
       "title": "Sandboxed AI models talk via GPU rounding errors on shared vLLM servers",
@@ -39,92 +147,38 @@
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
     },
     {
-      "slug": "github-1048065319",
-      "title": "thedotmack/claude-mem",
+      "slug": "github-1213401441",
+      "title": "jegly/Box",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/thedotmack/claude-mem",
+      "url": "https://github.com/jegly/Box",
       "date": "2026-11-27",
       "readTime": "3 min",
-      "summary": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
-      "body": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw...",
+      "summary": "The most advanced, fully offline client-side AI suite on Android today.",
+      "body": "The most advanced, fully offline client-side AI suite on Android today.",
       "tags": [
         "github",
         "open-source",
-        "120188-stars"
+        "1053-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
-      "slug": "github-855492641",
-      "title": "speedyapply/2027-AI-College-Jobs",
+      "slug": "github-1190778303",
+      "title": "alvinreal/awesome-opensource-ai",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/speedyapply/2027-AI-College-Jobs",
+      "url": "https://github.com/alvinreal/awesome-opensource-ai",
       "date": "2026-11-27",
       "readTime": "3 min",
-      "summary": "2027 AI/ML internship & new graduate job list updated daily",
-      "body": "2027 AI/ML internship & new graduate job list updated daily",
+      "summary": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
+      "body": "Curated list of the best truly open-source AI projects, models, tools, and infrastructure. Daily updated.",
       "tags": [
         "github",
         "open-source",
-        "6673-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-644461337",
-      "title": "vercel/ai",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/vercel/ai",
-      "date": "2026-11-27",
-      "readTime": "3 min",
-      "summary": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "body": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
-      "tags": [
-        "github",
-        "open-source",
-        "28257-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-895367054",
-      "title": "greatfrontend/black-friday-cyber-monday-deals",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/greatfrontend/black-friday-cyber-monday-deals",
-      "date": "2026-11-27",
-      "readTime": "3 min",
-      "summary": "Ctrl Friday – Black Friday deals for developers and designers. Courses, books, apps, devtools, and more!",
-      "body": "Ctrl Friday – Black Friday deals for developers and designers. Courses, books, apps, devtools, and more!",
-      "tags": [
-        "github",
-        "open-source",
-        "230-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
-    },
-    {
-      "slug": "github-1158138383",
-      "title": "CyberStrikeus/CyberStrike",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/CyberStrikeus/CyberStrike",
-      "date": "2026-11-27",
-      "readTime": "3 min",
-      "summary": "Open-source AI-powered offensive security harness for automated penetration testing.",
-      "body": "Open-source AI-powered offensive security harness for automated penetration testing.",
-      "tags": [
-        "github",
-        "open-source",
-        "3765-stars"
+        "5076-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -147,20 +201,20 @@
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
     },
     {
-      "slug": "github-1066256303",
-      "title": "frontman-ai/frontman",
+      "slug": "github-1375922101",
+      "title": "wh000wh000/awesome-jev-live",
       "category": "Open source",
       "source": "GitHub",
       "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/frontman-ai/frontman",
+      "url": "https://github.com/wh000wh000/awesome-jev-live",
       "date": "2026-11-26",
       "readTime": "3 min",
-      "summary": "The AI agent that lives in your framework/browser",
-      "body": "The AI agent that lives in your framework/browser",
+      "summary": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
+      "body": "Awesome Jev — evidence-graded index of TypeSafe System One: SDKs, MCP tools, agents, apps and open models. 20 languages, rebuilt every 2 hours.",
       "tags": [
         "github",
         "open-source",
-        "744-stars"
+        "379-stars"
       ],
       "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
@@ -217,42 +271,6 @@
         "discussion"
       ],
       "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "hacker-news-50642210",
-      "title": "An AI Dark Age Looms. But There's Another Path",
-      "category": "Outils",
-      "source": "Hacker News",
-      "sourceUrl": "https://hn.algolia.com/",
-      "url": "https://www.thefp.com/p/artificial-intelligence-dark-age-broken-institutions",
-      "date": "2026-11-25",
-      "readTime": "3 min",
-      "summary": "Discussion technique autour de An AI Dark Age Looms. But There's Another Path, reperee dans la communaute Hacker News.",
-      "body": "Discussion technique autour de An AI Dark Age Looms. But There's Another Path, reperee dans la communaute Hacker News.",
-      "tags": [
-        "hacker-news",
-        "tech",
-        "discussion"
-      ],
-      "impact": "Signal utile pour reperer les sujets IA qui interessent les developpeurs et fondateurs."
-    },
-    {
-      "slug": "github-1016255018",
-      "title": "theexperiencecompany/gaia",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/theexperiencecompany/gaia",
-      "date": "2026-11-25",
-      "readTime": "3 min",
-      "summary": "Your proactive personal AI assistant for daily life",
-      "body": "Your proactive personal AI assistant for daily life",
-      "tags": [
-        "github",
-        "open-source",
-        "331-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hugging-face-applied-artificial-intelligence-eurecat-impetus-climate-bge-small",
@@ -435,6 +453,24 @@
       "impact": "Reference utile pour suivre les avancees de recherche avant leur diffusion produit."
     },
     {
+      "slug": "github-783516011",
+      "title": "swarmauri/swarmauri-sdk",
+      "category": "Open source",
+      "source": "GitHub",
+      "sourceUrl": "https://docs.github.com/en/rest/search/search",
+      "url": "https://github.com/swarmauri/swarmauri-sdk",
+      "date": "2026-11-24",
+      "readTime": "3 min",
+      "summary": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.",
+      "body": "Modular Python SDK and monorepo for AI agents, LLM integrations, tools, parsers, embeddings, vector stores, and extensible application workflows.",
+      "tags": [
+        "github",
+        "open-source",
+        "107-stars"
+      ],
+      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
+    },
+    {
       "slug": "hugging-face-artificialfrontiers-brink-intelligence",
       "title": "ArtificialFrontiers/Brink-Intelligence",
       "category": "Modeles",
@@ -451,24 +487,6 @@
         "0-downloads"
       ],
       "impact": "Utile pour suivre les modeles qui bougent vite dans l ecosysteme open source."
-    },
-    {
-      "slug": "github-1006216723",
-      "title": "ClickHouse/ai-sdk-cpp",
-      "category": "Open source",
-      "source": "GitHub",
-      "sourceUrl": "https://docs.github.com/en/rest/search/search",
-      "url": "https://github.com/ClickHouse/ai-sdk-cpp",
-      "date": "2026-10-27",
-      "readTime": "3 min",
-      "summary": "The AI Toolkit for Modern C++. From the engineers at ClickHouse, ai-sdk-cpp is a free, open‑source library for building AI‑powered applications and agents.",
-      "body": "The AI Toolkit for Modern C++. From the engineers at ClickHouse, ai-sdk-cpp is a free, open‑source library for building AI‑powered applications and agents.",
-      "tags": [
-        "github",
-        "open-source",
-        "190-stars"
-      ],
-      "impact": "A surveiller pour identifier les bibliotheques, frameworks et outils IA qui gagnent en traction."
     },
     {
       "slug": "hugging-face-artificial-intelligence-files-artificial-intelligence-files",
@@ -551,7 +569,7 @@
       "docsUrl": "https://hn.algolia.com/api",
       "ok": true,
       "count": 7,
-      "latencyMs": 320
+      "latencyMs": 265
     },
     {
       "id": "github",
@@ -560,7 +578,7 @@
       "docsUrl": "https://docs.github.com/en/rest/search/search",
       "ok": true,
       "count": 8,
-      "latencyMs": 518
+      "latencyMs": 304
     },
     {
       "id": "hugging-face",
@@ -569,7 +587,7 @@
       "docsUrl": "https://huggingface.co/docs/hub/api",
       "ok": true,
       "count": 8,
-      "latencyMs": 120
+      "latencyMs": 59
     },
     {
       "id": "semantic-scholar",
@@ -587,7 +605,7 @@
       "docsUrl": "https://info.arxiv.org/help/api/user-manual.html",
       "ok": true,
       "count": 8,
-      "latencyMs": 157
+      "latencyMs": 236
     },
     {
       "id": "gdelt",
@@ -596,11 +614,11 @@
       "docsUrl": "https://www.gdeltproject.org/data.html",
       "ok": false,
       "count": 0,
-      "error": "fetch failed"
+      "error": "GDELT returned HTTP 429"
     }
   ],
   "errors": [
     "Semantic Scholar: Semantic Scholar returned HTTP 429",
-    "GDELT: fetch failed"
+    "GDELT: GDELT returned HTTP 429"
   ]
 }
